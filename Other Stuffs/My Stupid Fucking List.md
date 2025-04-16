@@ -38,6 +38,7 @@
 - [ ] Don't Look Up
 - [ ] Life Of Brian
 - [ ] Free Guy
+- [ ] Pixels
 - [ ] 
 
 # Animated Movies
