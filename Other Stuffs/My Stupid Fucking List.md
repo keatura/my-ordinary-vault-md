@@ -63,6 +63,9 @@
 - [ ] Severance
 - [ ] The Walking Dead
 - [ ] Scooby Doo: Mystery Incorporated
+- [ ] Owl House
+- [ ] Gravity Falls
+- [ ] Samurai Jack
 - [ ] 
 
 # Anime
@@ -96,6 +99,7 @@
 - [ ] Brand New Animal
 - [ ] Cyberpunk: Edgerunners
 - [ ] Dungeon Meshi
+- [ ] 
 
 # Other
 - [ ] Hunter the Parenting
