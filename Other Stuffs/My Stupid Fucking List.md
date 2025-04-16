@@ -100,7 +100,8 @@
 - [ ] Brand New Animal
 - [ ] Cyberpunk: Edgerunners
 - [ ] Dungeon Meshi
-- [ ] 
+- [ ] Frieren
+- [ ] JoJo's Bizarre Adventure
 
 # Other
 - [ ] Hunter the Parenting
