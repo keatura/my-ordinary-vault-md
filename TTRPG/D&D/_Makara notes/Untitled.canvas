@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"7f86f9bbfc084a85","type":"file","file":"shared/TTRPG/D&D/_Makara notes/makara list thingy.md","x":-222,"y":-194,"width":400,"height":400},
-		{"id":"14867c9734a7830e","type":"file","file":"shared/TTRPG/D&D/_Makara notes/notable noble houses.md","x":320,"y":-194,"width":400,"height":400},
-		{"id":"36c9ef9b3286a558","type":"file","file":"shared/TTRPG/D&D/notes/Notes (Makara).md","x":-222,"y":280,"width":400,"height":400},
-		{"id":"39b1a42e2c3a8280","type":"file","file":"shared/TTRPG/D&D/_Makara notes/sword notes.md","x":320,"y":280,"width":400,"height":400}
+		{"id":"7f86f9bbfc084a85","type":"file","file":"Something/TTRPG/D&D/_Makara notes/makara list thingy.md","x":-222,"y":-194,"width":400,"height":400},
+		{"id":"14867c9734a7830e","type":"file","file":"Something/TTRPG/D&D/_Makara notes/notable noble houses.md","x":320,"y":-194,"width":400,"height":400},
+		{"id":"36c9ef9b3286a558","type":"file","file":"Something/TTRPG/D&D/notes/Notes (Makara).md","x":-222,"y":280,"width":400,"height":400},
+		{"id":"39b1a42e2c3a8280","type":"file","file":"Something/TTRPG/D&D/_Makara notes/sword notes.md","x":320,"y":280,"width":400,"height":400}
 	],
 	"edges":[]
 }

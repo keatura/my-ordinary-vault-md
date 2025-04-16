@@ -50,6 +50,7 @@
 - [ ] End of Evangelion
 - [ ] Cloudy With a Chance of Meatballs
 - [ ] Who Framed Roger Rabbit
+- [ ] Ponyo
 - [ ] 
 
 # TV Shows
@@ -58,7 +59,7 @@
 - [ ] Invincible S4
 - [ ] Avatar: the Last Airbender
 - [ ] The Legend of Korra
-- [ ] Severence
+- [ ] Severance
 - [ ] The Walking Dead
 - [ ] Scooby Doo: Mystery Incorporated
 - [ ] 

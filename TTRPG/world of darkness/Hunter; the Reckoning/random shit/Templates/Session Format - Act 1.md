@@ -1,4 +1,4 @@
-**Go to [[Home]], Go to [[Act 1 - Darkness in Detroit]]**
+**Go to [[Jukebox/publish/home]], Go to [[Act 1 - Darkness in Detroit]]**
 Characters in the session:
 [[Jessie Park]]
 [[Wolfie]]

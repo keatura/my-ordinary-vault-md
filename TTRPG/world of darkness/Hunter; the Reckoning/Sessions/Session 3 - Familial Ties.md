@@ -1,4 +1,4 @@
-**Go to [[Home]], Go to [[Prologue - Into the Darkness]]**
+**Go to [[Jukebox/publish/home]], Go to [[Prologue - Into the Darkness]]**
 Characters in the session:
 [[Jessie Park]]
 [[Wolfie]]
