@@ -11,7 +11,7 @@
 #### [[Wolfie]]
 
 ## Sessions
-[[Session Format]]
+[[Session Format - Prologue]]
 [[Act Format]]
 
 [[_One Shot - Eclipse]]

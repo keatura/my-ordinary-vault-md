@@ -1,4 +1,4 @@
-**Go to [[shared/000_publish/Home]], Go to [[Prologue - Into the Darkness]]**
+**Go to [[Home]], Go to [[Act 1 - Darkness in Detroit]]**
 Characters in the session:
 [[Jessie Park]]
 [[Wolfie]]
