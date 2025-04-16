@@ -1,4 +1,4 @@
-**Go to [[shared/publish/home]], Go to [[Prologue - Into the Darkness]]**
+**Go to [[shared/TTRPG/world of darkness/Hunter; the Reckoning/Home]], Go to [[Prologue - Into the Darkness]]**
 Characters in the session:
 [[Jessie Park]]
 [[Wolfie]]
