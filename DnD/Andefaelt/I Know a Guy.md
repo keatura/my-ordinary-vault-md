@@ -1,0 +1,1 @@
+once per campaign, per player, they get to "know a guy". This allows them to create an NPC they know to give them advice or help on moving forwards.

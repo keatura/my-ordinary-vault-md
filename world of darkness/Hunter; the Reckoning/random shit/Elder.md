@@ -1,0 +1,7 @@
+While there is no strict definition, one normally must be at least two centuries old, with appreciable claims to domain or a variety of other assets and far removed from their mortal past to qualify.
+
+The choices and sacrifices they have made in order to survive so long instills a degree of amorality and slow caution; it is not unusual for elders to design plans that take decades or centuries before coming to fruition. Such beings are often cold, if not monstrous, and focused completely on their own interests and well-being, though a rare few struggle to maintain their human sentiments.
+
+There is a long-standing cycle of jealousy, contempt and resentment between elder and younger vampires, being especially pronounced between **sires** and their **childer**. Elders often use their greater power and influence to oppress those younger than them out of fear of being outnumbered and because most vampires of such age believe they know what's best in the same way that mortal elders feel that theirs is the better way. Younger vampires naturally chafe under such treatment and grow jealous and resentful of the elders' positions and power. It was this cauldron of emotions that gave rise to the [[Anarch Revolt]] and all things thereafter.
+
+Typically, elders of Europe and the Old World are much older than those across the Atlantic Ocean. Most of the time Elders are the oldest active vampires in undead society.

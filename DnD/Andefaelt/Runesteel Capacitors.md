@@ -1,0 +1,1 @@
+One of Runesteels many purposes is to act as magical batteries and capacitors for power. 

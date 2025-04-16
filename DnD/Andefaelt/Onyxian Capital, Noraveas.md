@@ -1,0 +1,1 @@
+The Onyxian capital is a massive city-school, Noraveas (nor-a-vase). Noraveas is the most prestigious school of mechanical arts, in the world. 

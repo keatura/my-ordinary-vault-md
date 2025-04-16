@@ -1,0 +1,4 @@
+- powered armor
+- varying classes of different sizes
+- light class is like a set of plate armor that is powered
+- heavy class is a proper 12ft tall about mech

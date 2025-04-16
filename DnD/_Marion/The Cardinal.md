@@ -1,0 +1,6 @@
+1. Bad fella. He's clearly got power in the church but that does not seem to be his entire focus.
+2. Has control or, at the very least, influence over the Fiend.
+3. Despite (seemingly) not having too much influence over the church as a whole, he definitely has a small and loyal following within Lightkeep.
+4. Speaking of Lightkeep, this seems to be his base of operations. He had a prison under his big cathedral where, according to Astana, he kept the Fiend. However, he has clearly not been spending a lot of time there given his time in Vagron (as Jarnathan) and Vinewood (hiring Tramsa)
+5. Vital info. The Cardinal is one of the several people with the glowing eyes. He's referred to them as the Anointed, so I'll refer to them that way. The Anointed all seem to have different goals but are frequently opposed to the other Anointed (such as Baldwin claiming it to be a curse he needed to completely eradicate). The Cardinal has killed a few Anointed so far, claiming that he will grow in power as he does this. Whether this is direct or indirect from killing, it's not certain.
+6. 

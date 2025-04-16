@@ -1,0 +1,1 @@
+**Perseus Mire** is a [[Elder]] Prince in the [[Sabbat]] who is currently leading an assault on the city of [[Detroit]]. His Brother is [[Xavier Mire]], Who is the Prince of the [[Camarilla]] in [[Detroit]]. 

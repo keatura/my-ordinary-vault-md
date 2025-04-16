@@ -1,0 +1,1 @@
+Benneli is a firearms company, who mainly specializes is shotguns. Secretly, Benneli is aware of the supernatural and produces shotguns crafted with steel blessed by Michael, giving it holy properties and allowing ammo fired through the weapon to affect a vampire as if they were mortal.

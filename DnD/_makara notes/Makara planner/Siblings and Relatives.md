@@ -1,0 +1,7 @@
+Makara has 3 siblings, 1 sister and 2 brothers. She has one sister who is the same age as her, and on brother who is older than her, the other 2 are both younger than her. Makara has varied relationships with her siblings. 
+
+Her older brother, Tuldan, she has almost no relationship with, as they almost never see each other. Tuldan is busy with more high political needs of her parents. He is the only other child to develop magical ability, albeit weaker than Makara. Tuldan is also the next in line to take over the House. (49)
+
+Her younger brother, Chantou, is the sibling she is closest with. They get along well because of their similar standing with their parents. When they were growing up, both Chantou and Makara were trained to take care of the dirty work for the Lord and Lady. Chantou generally was treated worse than Makara due to never manifesting magical ability, but Makara would help him with his studies and they respected each other. (42)
+
+Makara's younger sister, Kiri, is the worst relationship she has in her family. Makara has no personal grudges against Kiri, but Kiri has always been jealous and resented Makara, through the stress and demands of growing up under their parents, Makara had one thing Kiri didn't - attention. This caused Kiri to suffer from neglect as she basically relied on the servants for anything she needed, and while not always negative, she never had much positive attention from her parents. (39)

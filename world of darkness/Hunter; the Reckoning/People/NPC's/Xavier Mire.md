@@ -1,0 +1,1 @@
+**Xavier Mire** is the [[Elder]] Prince of the [[Camarilla]] in [[Detroit]], and is related to [[Perseus Mire]]. He has Ghouled the Chief of Police in [[Detroit]], [[Isaiah McKinnon]].

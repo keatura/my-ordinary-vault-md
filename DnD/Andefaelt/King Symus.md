@@ -1,0 +1,15 @@
+dead king of Zevka, was killed during the battle while defending his family and tried to cast a spell of invulnerability on himself, but worded the spell wrongly and petrified himself, turning to stone for hundreds of years.
+
+- doesnt remember anything of his previous life
+- nihilistic
+- former king of Zevka before the battle
+- wife and child slain during the battle of Thrysta
+- unrecognizable due to his body of iron and cloth
+ - immortal? have him realize this and have to come to terms with it
+
+
+Symus was the youngest of two siblings, eldest sister and middle brother. He was not in line for the throne until his sister was killed in bombing and his brother died shortly after, suffering serious burns. He never really had a relationship with his father, king Silvain. He often neglected him, favoring his daughter, the hair, and his first son. But once they died his father tried to rush Symus into learning everything about Kingship. He was strict and unloving, only because he did not know how to love a child he never knew. During this time, an assassin was sent to kill Symus. This assassin was a women named Kal’eve, and instead of killing him, Symus convinced her to instead, have tea with him.
+
+They grew a sort of friendship, but since Kal’eve failed her assignment she couldn’t go back or else she herself would be killed. So Symus hid her around the castle, hoping to keep her there long enough to convince her employers that she was dead. Their bond became more romantic, and they secretly married inside a temple of Kaine. Eventually king Silvain died and Symus became king. At first, the Houses despised him. He was the youngest, married to (as far as they know) a commoner, trying to pass laws for peace with the other kingdoms instead of gearing for war. However, it is because of this that the common folk of the kingdom loved him. Eventually, Symus and Kal’eve had a child, a son named Osmar. They were loving parents, and Osmar was destined to one day be a noble king like his father. Once the war begun, Symus and Kal’eve would both fight along side their soldiers, gaining much respect from their armies, especially low ranked soldiers who looked up to them. However, during the end of the was Kal’eve was killed in battle, and Osmar (who at the time was 17) ran out to battle to try to defend her, and was killed along side her. Devastated and loosing the war, Symus turned to magic for the answer. He found a scroll that would make him unkillable, and you knooow the rest :)
+
+ I want Symus to have had the Title “the Hallowed One” which means he’s blessed n allat. The sword would be named “The Hallow” or I can find another name for the sword but for now we can just call it “Hallow”. I was thinking maybe it has EPIC SMITE POWERS or it could summon a HOLY SPIRIT INTO BATTLE !!!!

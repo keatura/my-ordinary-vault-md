@@ -1,0 +1,1 @@
+ A Vampire's **Thrall** is a Vampire, who most often is of higher generation and also their **Childe**. 

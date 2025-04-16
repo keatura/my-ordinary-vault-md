@@ -1,0 +1,1 @@
+**New York City** is a city in the [[United States of America]]. It is Located on the [[East Coast]], in the state of [[New York]].

@@ -1,0 +1,3 @@
+- accepted a eldritch pact while being burned at the stake for being falsely accused of being a witch, becoming a witch to save herself from being burned for being a witch
+- like literally just copy paste transistor??? ? hex blade or something
+- 

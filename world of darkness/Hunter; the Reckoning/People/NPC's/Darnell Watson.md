@@ -1,0 +1,3 @@
+Darnell is a 9th generation Gangrel, who was born in LA but Embraced in Detroit by a superior on a work trip, as he was an electrician. He has since rebelled against the Camarilla after his best friend was killed by the Camarilla in LA as a punishment for him breaking the Masquerade, even though he had not been informed of the rules yet. He returned to Detroit afterwards to seek revenge on his Sire, and was pulled into the Sabbat after a stroke of luck allowed him to Diablerize his Sire, turning him to a 9th generation.
+
+stalker for Nikita like Goro Majima.

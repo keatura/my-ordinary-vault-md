@@ -1,0 +1,3 @@
+The **Sabbat** is a loose organization of [Cainites](https://whitewolf.fandom.com/wiki/Cainites "Cainites") who reject the [Traditions](https://whitewolf.fandom.com/wiki/Traditions_(VTM) "Traditions (VTM)"). Unlike the [Camarilla](https://whitewolf.fandom.com/wiki/Camarilla_(VTM) "Camarilla (VTM)"), the Sabbat believes in the [Antediluvians](https://whitewolf.fandom.com/wiki/Antediluvians "Antediluvians") and [Caine](https://whitewolf.fandom.com/wiki/Caine "Caine"). Also known as the _Sword of Caine_, as they believe they will be the army Caine will use to destroy the Antediluvians once [Gehenna](https://whitewolf.fandom.com/wiki/Gehenna_(event) "Gehenna (event)") arrives.
+
+https://whitewolf.fandom.com/wiki/Sabbat

@@ -1,0 +1,1 @@
+The World pillars are gigantic stone pillars, about 1000 feet in diameter. 

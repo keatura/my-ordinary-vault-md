@@ -1,0 +1,1 @@
+Airships in Andefaelt are used for almost everything related to inter-island travel. Whether it be shipping, 

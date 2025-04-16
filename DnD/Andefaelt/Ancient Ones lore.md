@@ -1,0 +1,5 @@
+- created nanomachines that caused the end of their civilizations
+- commanded by spoken words in their language (common isn't English)
+- after the storm was created to stop the destruction of the nanites the world was upturned and quickly distorted and changed by the storm
+- the nanites went dormant and fell into the soil of the earth 
+- "magic" is actually just controlling the nanites into doing ones bidding
