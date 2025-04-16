@@ -1,0 +1,148 @@
+# Live Action
+- [ ] Battle L.A.
+- [ ] Bill & Ted
+- [ ] Bill & Ted 2
+- [ ] I Saw The TV Glow
+- [ ] Harold and Kumar Go To Whitecastle (while high)
+- [ ] John Wick
+- [ ] John Wick 2
+- [ ] John Wick 3
+- [ ] John Wick 4
+- [ ] Inglorious Bastards
+- [ ] V is for Vendetta
+- [ ] The Gentle Men
+- [ ] Mad Max: Furiosa
+- [ ] Mad Max: Fury Road
+- [ ] Godzilla (2014)
+- [ ] Godzilla: King of the Monsters
+- [ ] Godzilla: Minus One
+- [ ] Puss in Boots (the good one)
+- [ ] Princess Bride
+- [ ] Hot Shots
+- [ ] Apocalypse Now
+- [ ] Good Morning Vietnam
+- [ ] Zoolander
+- [ ] Forest Gump
+- [ ] Tropic Thunder
+- [ ] Saving Private Ryan
+- [ ] Civil War (new one)
+- [ ] 1917
+- [ ] All is Quiet on the Western Front
+- [ ] 28 Days Later
+- [ ] 28 Weeks Later
+- [ ] 28 Years Later
+- [ ] World War Z
+- [ ] Heat
+- [ ] Cloverfield
+- [ ] Don't Look Up
+- [ ] Life Of Brian
+- [ ] Free Guy
+- [ ] 
+
+# Animated Movies
+- [ ] A Silent Voice
+- [ ] Made in Abyss
+- [ ] Made in Abyss 2
+- [ ] Made in Abyss 3
+- [ ] Akira
+- [ ] Ghost in the Shell
+- [ ] End of Evangelion
+- [ ] Cloudy With a Chance of Meatballs
+- [ ] Who Framed Roger Rabbit
+- [ ] 
+
+# TV Shows
+- [x] Atom Eve Special
+- [ ] Adventure Time
+- [ ] Invincible S4
+- [ ] Avatar: the Last Airbender
+- [ ] The Legend of Korra
+- [ ] Severence
+- [ ] The Walking Dead
+- [ ] Scooby Doo: Mystery Incorporated
+- [ ] 
+
+# Anime
+- [ ] Dandadan (8/12)
+- [ ] MSG: Witch from Mercury
+- [ ] Bloom Into You
+- [ ] Knights & Magic
+- [ ] Gurren Lagann
+- [ ] Whisper Me a Love Song
+- [ ] Girls und Panzer
+- [ ] Call of the Night
+- [ ] MSG: Iron Blooded Orphans
+- [ ] Akiba Maid War
+- [ ] Madoka Magica
+- [ ] Horimiya
+- [ ] Neon Genesis Evangelion
+- [ ] Bunny Girl Senpai
+- [ ] Revolutionary Girl Utena
+- [ ] Aggretsuko
+- [ ] Code Geass
+- [ ] Code Geass R2
+- [ ] Fate: Zero
+- [ ] Lucky Star
+- [ ] ToraDora
+- [ ] Made in Abyss S2
+- [ ] Jujutsu Kaisen
+- [ ] Castlevania
+- [ ] Castlevania: Nocturne
+- [ ] Full Metal Alchemist
+- [ ] Attack On Titan S4
+- [ ] Brand New Animal
+- [ ] Cyberpunk: Edgerunners
+- [ ] 
+
+# Other
+- [ ] Hunter the Parenting
+- [ ] Murder Robots
+- [ ] Digital Circus
+- [ ] [Space or Nothing - First Student Rocket to Space](https://www.youtube.com/watch?v=72VkAoYt8mk)
+- [ ] 
+
+# Games
+- [x] War Thunder
+- [ ] Guilty Gear: Strive
+- [ ] Halo: Master Chief Collection
+- [ ] Undertale
+- [ ] The Last of Us 2
+- [ ] Devil May Cry
+- [ ] Devil May Cry 2
+- [ ] Devil May Cry 3
+- [ ] Devil May Cry 4
+- [ ] Devil May Cry 5
+- [ ] Slay the Princess
+- [ ] Hades
+- [ ] Hades 2
+- [ ] Transistor
+- [ ] Resident Evil
+- [ ] Resident Evil 2
+- [ ] Resident Evil 3
+- [ ] Resident Evil 4
+- [ ] Resident Evil 5
+- [ ] Resident Evil 6
+- [ ] Resident Evil 7
+- [ ] Resident Evil 8
+- [ ] Armored Core: For Answer
+- [ ] Elden Ring
+- [ ] Little Nightmares
+- [ ] Little Nightmares 2
+- [ ] A Hat in Time
+- [ ] Pathfinder: Wrath of the Righteous
+- [ ] Darkwood
+- [ ] SCP: 5k
+- [ ] Castle Crashers
+- [ ] GTA V
+- [ ] Stanley Parable 2
+- [ ] Underdogs
+- [ ] Dead Space
+- [ ] Silent Hill 2
+- [ ] Red Dead Redemption 2
+- [ ] Ghost of Tsushima
+- [ ] Cult of the Lamb
+- [ ] The Isle
+- [ ] Warhammer 40,000: Rogue Trader
+- [ ] RainWorld
+- [ ] Dark Souls 3
+- [ ] 
