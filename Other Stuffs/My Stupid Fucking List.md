@@ -93,7 +93,7 @@
 - [ ] Attack On Titan S4
 - [ ] Brand New Animal
 - [ ] Cyberpunk: Edgerunners
-- [ ] 
+- [ ] Dungeon Meshi
 
 # Other
 - [ ] Hunter the Parenting
