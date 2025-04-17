@@ -70,7 +70,7 @@
 - [ ] 
 
 # Anime
-- [ ] Dandadan (8/12)
+- [x] Dandadan
 - [ ] MSG: Witch from Mercury
 - [ ] Bloom Into You
 - [ ] Knights & Magic
@@ -102,6 +102,8 @@
 - [ ] Dungeon Meshi
 - [ ] Frieren
 - [ ] JoJo's Bizarre Adventure
+- [ ] MSG: GQuuuuuuX
+- [ ] 
 
 # Other
 - [ ] Hunter the Parenting
