@@ -67,6 +67,7 @@
 - [ ] Owl House
 - [ ] Gravity Falls
 - [ ] Samurai Jack
+- [ ] Breaking Bad
 - [ ] 
 
 # Anime
