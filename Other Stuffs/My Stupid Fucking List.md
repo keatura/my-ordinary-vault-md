@@ -104,7 +104,7 @@
 - [ ] Dungeon Meshi
 - [ ] Frieren
 - [ ] JoJo's Bizarre Adventure
-- [ ] MSG: GQuuuuuuX
+- [ ] MSG: GQuuuuuX
 - [ ] Violet Evergarden
 - [ ] 
 
