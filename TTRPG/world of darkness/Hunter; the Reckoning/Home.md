@@ -1,4 +1,4 @@
-**Current Danger level: 0**
+	**Current Danger level: 0**
 **Current Desperation level: 0**
 
 **Spitballing --->** [[Thoughts]]
