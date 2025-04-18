@@ -105,6 +105,7 @@
 - [ ] Frieren
 - [ ] JoJo's Bizarre Adventure
 - [ ] MSG: GQuuuuuuX
+- [ ] Violet Evergarden
 - [ ] 
 
 # Other
