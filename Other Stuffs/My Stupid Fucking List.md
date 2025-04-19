@@ -1,6 +1,6 @@
 :3 :3 :3
 # Live Action
-- [ ] Battle L.A.
+- [x] Battle L.A.
 - [ ] Bill & Ted
 - [ ] Bill & Ted 2
 - [ ] I Saw The TV Glow
