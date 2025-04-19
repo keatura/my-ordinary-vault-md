@@ -40,6 +40,7 @@
 - [ ] Free Guy
 - [ ] Pixels
 - [ ] Starship Troopers
+- [ ]  War of the Worlds (tom cruise one)
 - [ ] 
 
 # Animated Movies
