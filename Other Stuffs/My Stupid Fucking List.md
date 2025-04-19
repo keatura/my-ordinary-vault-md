@@ -106,6 +106,7 @@
 - [ ] JoJo's Bizarre Adventure
 - [ ] MSG: GQuuuuuX
 - [ ] Violet Evergarden
+- [ ] Ranma 1/2
 - [ ] 
 
 # Other
