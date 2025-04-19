@@ -15,7 +15,10 @@ this is just bias lol.
 - Gurren Lagann (dont dig too deep to avoid spoilers if you havent seen it, this show is genuinely unhinged)
 - Knightmare Frames (Code Geass)
 - Lancelot (Code Geass)
-- 
+- Patrol Labors (Patlabor)
+- White Glint (Armored Core)
+- VF-1 Valkyrie (Macross)
+- YF-19 Excalibur (Macross)
 
 ###### Gundam
 - the Grandaddy Gundam (original 0079 Gundam)
@@ -24,19 +27,32 @@ this is just bias lol.
 - Gundam Unicorn
 - Nu Gundam
 - NZ-666 Kshatriya (literally one of my favorite mecha ever, Unicorn my GOAT)
-- the Zaku/ Zaku II family
+- the Zaku/Zaku II family
 - the DOM Trooper family
 - RX-75 Guntank
 - RGM-79 Family
 - MSN-04 Sazabi (Unicorn has to stop cooking its actually crazy not a single miss)
+- Gundam Barbatos
 
 
 ### West
 
 - Marauder (Battletech)
 - Atlas (Battletech)
-- Madcat/Timberwolf (Battletech)
-- 
+- Timberwolf (Battletech)
+- Warhammer (Battletech)
+- Adder (Battletech)
+- King Crab (Battletech)
+- BT 7274 (Titanfall)
+- Legion (Titanfall)
+- Behemoth (Iron Kingdoms)
+- Spriggan/Decimator (Iron Kingdoms, both are the same chassis but different weapons)
+- Blackbeard (Lancer)
+- Raleigh (Lancer, Big Iron Mech Big Iron Mech)
+- Black Witch (Lancer)
+- Saladin (Lancer)
+- Dusk Wing (Lancer)
+- just like, every lancer mech tbh. all of them are coolm [here's](https://lancer.wiki.gg/) the wiki.
 
 # Real Robot
 
@@ -50,7 +66,7 @@ this is just bias lol.
 - Armored Core (except 4 + For Answer)
 - Patlabor
 - Macross / Robotech
-- Mobile Suit Gundam: Unicorn (everything else)
+- Mobile Suit Gundam: Unicorn (non psycho-frames)
 - Mobile Suit Gundam: The Witch from Mercury Part 1
 - Steel Battalion
 - Mobile Suit Gundam: Thunderbolt
@@ -98,7 +114,7 @@ this is just bias lol.
 - Neon Genesis Evangelion
 - Armored Core 4 + For Answer
 - Turn A Gundam
-- Mobile Suit Gundam: Unicorn (just the Unicorn Gundam Though)
+- Mobile Suit Gundam: Unicorn (the psycho-frames)
 - Mobile Suit Gundam: The Witch from Mercury Part 2 (Mainly Calibarn + the Aerial shenanigans)
 - Power Rangers Megazord
 - Super Robot Wars
