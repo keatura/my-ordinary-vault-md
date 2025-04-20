@@ -42,6 +42,9 @@
 - [ ] Starship Troopers
 - [ ] War of the Worlds (tom cruise one)
 - [ ] Bayverse Transformers
+- [ ] FNAF Movie
+- [ ] FNAF 2 Movie
+- [ ] 
 
 # Animated Movies
 - [ ] A Silent Voice
