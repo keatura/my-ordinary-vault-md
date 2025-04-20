@@ -76,6 +76,7 @@
 # Anime
 - [x] Dandadan
 - [ ] MSG: Witch from Mercury
+- [ ] Jujutsu Kaisen
 - [ ] Bloom Into You
 - [ ] Knights & Magic
 - [ ] Gurren Lagann
@@ -96,7 +97,6 @@
 - [ ] Lucky Star
 - [ ] ToraDora
 - [ ] Made in Abyss S2
-- [ ] Jujutsu Kaisen
 - [ ] Castlevania
 - [ ] Castlevania: Nocturne
 - [ ] Full Metal Alchemist
