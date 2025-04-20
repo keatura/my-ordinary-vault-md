@@ -42,13 +42,18 @@ Armide is a extremely frail average height (~~ 5'8") woman, literally skin and b
 ###### Voice
 Armide's voice is raspy and quiet, and generally she sounds sickly at all times. She coughs fairly frequently, sometimes even coughing up blood and casting more powerful magic makes her short of breath, Though she can ignore this via the adrenaline rush of combat.
 
-# Questline
+# The Quest for Archdruidship
 
-#### Step 1
+#### Step 1: Research
+- [ ] Investigate into the powerful spellcasters of Velen. Faridoon could be of use.
+- [ ] Figure out where the Druid Circles are. Ideally the Circle of the Stars, but that will most definitely prove to be extremely difficult.
+- [ ] Convince said Circle(s) to help me through any means possible. Threats and blackmail is NOT ideal but anything to make it work.
 
 #### Step 2
+- [ ] 
 
 #### Step 3
+
 
 # Backstory
 
