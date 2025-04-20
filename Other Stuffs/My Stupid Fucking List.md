@@ -109,6 +109,7 @@
 - [ ] MSG: GQuuuuuX
 - [ ] Violet Evergarden
 - [ ] Ranma 1/2
+- [ ] BNA: Brand New Animal
 - [ ] 
 
 # Other
