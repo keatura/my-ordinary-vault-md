@@ -40,8 +40,8 @@
 - [ ] Free Guy
 - [ ] Pixels
 - [ ] Starship Troopers
-- [ ]  War of the Worlds (tom cruise one)
-- [ ] 
+- [ ] War of the Worlds (tom cruise one)
+- [ ] Bayverse Transformers
 
 # Animated Movies
 - [ ] A Silent Voice
