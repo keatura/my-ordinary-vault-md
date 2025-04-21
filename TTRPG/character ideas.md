@@ -1,6 +1,6 @@
 - accepted a eldritch pact while being burned at the stake for being falsely accused of being a witch, becoming a witch to save herself from being burned for being a witch
 - ~~like literally just copy paste transistor??? ? hex blade or something~~
-- draconic sorcerer aarackokra/other furry or feather-ey species with cool spiky draconic scale fur
+- draconic sorcerer aarackokra/other furry or feather-ey species with cool spiky draconic scale fur/feathers
 - Talia and Aldrir
 - dragonborn barbarian beast subclass whos literally just like a Normal Dragonborn
 - fire based or phoenix themed sorcadin, takes inspo from karlach
