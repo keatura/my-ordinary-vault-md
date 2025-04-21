@@ -44,6 +44,7 @@
 - [ ] Bayverse Transformers
 - [ ] FNAF Movie
 - [ ] FNAF 2 Movie
+- [ ] Minecraft Movie
 - [ ] 
 
 # Animated Movies
