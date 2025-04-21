@@ -3,4 +3,5 @@
 - draconic sorcerer aarackokra/other furry or feather-ey species with cool spiky draconic scale fur
 - Talia and Aldrir
 - dragonborn barbarian beast subclass whos literally just like a Normal Dragonborn
+- fire based or phoenix themed sorcadin, takes inspo from karlach
 - 
