@@ -37,7 +37,7 @@ Armide, at her core, is a conflicted person. She both wants nothing more than th
 Getting too close to someone and loosing sight of her goals.
 
 ###### Physical Appearance
-Armide is a extremely frail average height (~~ 5'8") woman, literally skin and bones. 
+Armide is a extremely frail average height (~~ 5'8") woman, literally skin and bones. She is pale skinned and carries herself fairly heavily 
 
 ###### Voice
 Armide's voice is raspy and quiet, and generally she sounds sickly at all times. She coughs fairly frequently, sometimes even coughing up blood and casting more powerful magic makes her short of breath, Though she can ignore this via the adrenaline rush of combat.
