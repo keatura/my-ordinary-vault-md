@@ -11,7 +11,7 @@
 | 5     | +3                | Extra Attack                                     | 4   | 2   | -   | -   | -   |
 | 6     | +3                | Divine Oath Feature, Second Judgement            | 4   | 2   | -   | -   | -   |
 | 7     | +3                | Discern Lies                                     | 4   | 3   | -   | -   | -   |
-| 8     | +3                | Ability Score Improvement, Divine Oath Feature 4 | 4   | 3   | -   | -   | -   |
+| 8     | +3                | Ability Score Improvement, Divine Oath Feature   | 4   | 3   | -   | -   | -   |
 | 9     | +4                | Bane                                             | 4   | 3   | 2   | -   | -   |
 | 10    | +4                | Expertise                                        | 4   | 3   | 2   | -   | -   |
 | 11    | +4                | Third Judgement, Stalwart                        | 4   | 3   | 3   | -   | -   |
@@ -158,7 +158,6 @@ At 7th level, you have become an expert at reading the way people around you spe
 
 At 11th level, an Inquisitor can use their mental and physical resiliency to avoid certain attacks. When they make a Dexterity or Wisdom saving throw, they may choose to use their reaction to instead half damage on a failed save, and no damage on a successful one. 
 
-  
 
 ### Sacred Huntsmaster 
 

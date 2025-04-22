@@ -125,7 +125,8 @@
 - [ ] 
 
 # Games
-- [x] War Thunder
+- [x] War Thunder arc
+- [x] League of Legends arc
 - [ ] Guilty Gear: Strive
 - [ ] Halo: Master Chief Collection
 - [ ] Undertale
@@ -148,6 +149,7 @@
 - [ ] Resident Evil 7
 - [ ] Resident Evil 8
 - [ ] Armored Core: For Answer
+- [ ] Replay Armored Core 6
 - [ ] Elden Ring
 - [ ] Little Nightmares
 - [ ] Little Nightmares 2
