@@ -31,4 +31,3 @@ so if you allocate 2 dice to move but only use 1 for some reason you just lose t
 allow mechs with hands to pull trees out of the ground and whack a mf with it
 
 Missiles should be a sort of zoning tool that force enemy pilots to reserve dice for evasion. Can be auto-dodged with evasion dice but also deal a lot of damage.
-
