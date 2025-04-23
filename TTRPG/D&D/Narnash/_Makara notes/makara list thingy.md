@@ -5,7 +5,7 @@ how to be an ASSHOLE PRICK NOBLE notes
 - If food isn't fancy, literally just like. Don't.
 - Exaggerate problems and have high standards, expect to be treated well
 - Swearing doesn't make you cool
-- "I WOULDN'T EVEN KEEP YOU AS A SLAVE IN MY EMPIRE!!1!11!" or something
+- "I WOULDN'T EVEN KEEP YOU AS A SERVANT IN MY MANSION!!1!11!" or something idfk
 - Act like she is above her party members (except Dilys she chill)
 - Nepotism
 - do NOT apologize. Olivia should've answered my question (it's never my fault)
