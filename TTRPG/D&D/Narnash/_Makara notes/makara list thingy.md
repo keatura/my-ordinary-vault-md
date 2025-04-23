@@ -1,3 +1,16 @@
+
+how to be an ASSHOLE PRICK NOBLE notes
+- "Do you know who I am?!?!"
+- People (especially soldiers) should do as they are told. I am above them.
+- If food isn't fancy, literally just like. Don't.
+- Exaggerate problems and have high standards, expect to be treated well
+- Swearing doesn't make you cool
+- "I WOULDN'T EVEN KEEP YOU AS A SLAVE IN MY EMPIRE!!1!11!" or something
+- Act like she is above her party members (except Dilys she chill)
+- Nepotism
+- do NOT apologize. Olivia should've answered my question (it's never my fault)
+- 
+
 1. **Why do they do what they do**
 
 Makara follows her family biddings out of both a desire to not disappoint those who raised her, and a subconscious need to be useful to those she deems worthy of her company. She also does it out of a more selfish want to keep her status. Makara is comfortable in her life and despite the downs of noble life, she likes the money, the power, and- until recently- the safety.
