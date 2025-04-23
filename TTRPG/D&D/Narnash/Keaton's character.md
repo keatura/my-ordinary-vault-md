@@ -1,13 +1,24 @@
 :3
 # Character Concept
 
+###### Out of Character Inspirations
+- 
+
+###### General Ideas
+
 
 # Character Traits
+
+###### Loves
+- 
 
 ###### Likes
 - 
 
 ###### Dislikes
+- 
+
+###### Hates
 - 
 
 ###### Motivation
@@ -28,10 +39,19 @@
 ###### Greatest Fear
 - 
 
+###### Faith
+- 
+
+###### Inspirations
+- 
+
 ###### Physical Appearance
 - 
 
 ###### Voice
+- 
+
+###### Important Items and Trinkets
 - 
 
 # People
@@ -48,6 +68,10 @@
 #### Enemies
 - 
 
-# Backstory
+# Backstory (the trauma zone)
 
 bla bla bla
+
+# Important Lore
+
+### Event 1
