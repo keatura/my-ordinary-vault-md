@@ -2,7 +2,7 @@ Hi! I'm just making sure your commissions are still open.
 
 ----
 
-I have commissioned you previously (on artists & clients), and would like to commission some more art + a slight redesign of my character.
+I would like to commission some more art + a slight redesign of my character.
 
 She is 5'3" and an elf, her ears are quite long and stick out to the side. Her eyes are hazel. the sword is 4 feet in length
 
