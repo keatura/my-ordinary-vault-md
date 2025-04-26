@@ -84,4 +84,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - its So Passive Aggressive
 - we got INTERUPTED by PIRATES
 - CAPTAIN!!!! LOOOOOKK!!!!!
+- The driver of the biggest ship gets sniped from 600 feet
+- the skiffs roll crazy damage
+- dream longbow rotation
+- Asphodel absolutely obliterates some poor fool
+- the Reef Spreader gets rammed 
+- Olivia drops down and starts aura farming
 - 
