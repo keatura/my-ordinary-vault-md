@@ -98,4 +98,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Olivia and Damian are shredding mfs
 - we get some reinforcements
 - Makara jumps down onto the pirate ship, and kills 3 more people
+- Olivia keeps killing people with a random pirate she grabbed, still hasnt drawn her sword
+- Makara gets crit lmfao
 - 
