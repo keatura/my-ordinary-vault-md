@@ -100,4 +100,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Makara jumps down onto the pirate ship, and kills 3 more people
 - Olivia keeps killing people with a random pirate she grabbed, still hasnt drawn her sword
 - Makara gets crit lmfao
+- the kill count rises to 7, Makara is still bloodthirsty
+- Asphodel is still dealing with the birds
+- the skiffs turn around and shoot some more
 - 
