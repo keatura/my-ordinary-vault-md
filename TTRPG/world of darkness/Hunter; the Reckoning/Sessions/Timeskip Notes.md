@@ -8,7 +8,7 @@
 -Wolfie starts to "hang out" with Nikita more after she gets out of the Hospital, eventually starts to stay at Nikita's house
 -they all watch starship troopers
 -Wolfie learns how to use a gun
--Jessie becomes a devout Christain
+-Jessie becomes a devout Christian
 -Does more art for the Church
 -Tries to find friends within the Church, especially the pastor he made holy water in front of
 -Jessie has cat
