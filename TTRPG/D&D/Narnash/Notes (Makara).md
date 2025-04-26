@@ -82,4 +82,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- holy moly
 	- eternal damnation
 - its So Passive Aggressive
+- we got INTERUPTED by PIRATES
+- CAPTAIN!!!! LOOOOOKK!!!!!
 - 
