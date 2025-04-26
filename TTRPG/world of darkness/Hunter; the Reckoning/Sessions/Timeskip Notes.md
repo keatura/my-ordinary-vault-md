@@ -2,7 +2,8 @@
 -the party got a new sponsor - Bennelli
 -trapped in Detroit
 -the Camarilla is using the Police Force to wage a war subtly
-
+-Wolfie stays at Allen's house on the couch for a bit
+-Jessie 
 
 #### Nikita
 -got the 1014
