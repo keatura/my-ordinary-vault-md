@@ -90,4 +90,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Asphodel absolutely obliterates some poor fool
 - the Reef Spreader gets rammed 
 - Olivia drops down and starts aura farming
-- Makara starts 
+- Makara starts freaking out, gets calmed down by Dilys
+- promptly points her sword at somebody and uses ancient magic to explode his brain
+- 
