@@ -11,12 +11,19 @@
 -Jessie becomes a devout Christain
 -Does more art for the Church
 -Tries to find friends within the Church, especially the pastor he made holy water in front of
--Jessie has a bird outside his window
+-Jessie has cat
+-after about 3 months, the crime starts to get REALLY bad
+-lots of anemia, missing people who dont get found
 -
 
 #### Nikita
 -got the 1014
+-Nikita is looking into her coworker
 #### Jessie
 -gets a note from the Aitvara
+-Jessie is keeping an eye open for weird stuff
 #### Wolfie
 -read through ECLIPSE notes
+-looking into the anemia cases and other weird shit
+
+grew up on the west side of Detroit

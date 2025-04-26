@@ -39,7 +39,7 @@ brown box: nightstand/dresser
 green: couch
 blue: tables
 purple: tv
-
+![[Pasted image 20250426000414.png]]
 ## Nikita's MCC
 exists
 
