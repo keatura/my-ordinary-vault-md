@@ -76,11 +76,12 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 
 # 4/26/25
 - Dilys goes apologizing to everyone
-- Makara tells Dilys to be more confident in her status
+- Makara tells Dilys to be more confident in her status because she is nobility
 - Everyone has lunch together
 - This is the most awkward conversation ever
 	- holy moly
 	- eternal damnation
+- Makara tells Damian his "palette is basic"
 - its So Passive Aggressive
 - we got INTERUPTED by PIRATES
 - CAPTAIN!!!! LOOOOOKK!!!!!
@@ -91,8 +92,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - the Reef Spreader gets rammed 
 - Olivia drops down and starts aura farming
 - Makara starts freaking out, gets calmed down by Dilys
+- Damian uses his blood magic shit to give her a little adrenaline boost and some bloodthirst
 - promptly points her sword at somebody and uses ancient magic to explode his brain
 - the pirates get some reinforcements
 - Olivia and Damian are shredding mfs
 - we get some reinforcements
+- Makara jumps down onto the pirate ship, and kills 3 more people
 - 
