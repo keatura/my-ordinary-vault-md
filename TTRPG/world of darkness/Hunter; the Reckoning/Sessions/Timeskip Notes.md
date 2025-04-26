@@ -11,6 +11,7 @@
 -Jessie becomes a devout Christain
 -Does more art for the Church
 -Tries to find friends within the Church, especially the pastor he made holy water in front of
+-Jessie has a bird outside his window
 -
 
 #### Nikita
