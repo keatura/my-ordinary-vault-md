@@ -92,4 +92,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Olivia drops down and starts aura farming
 - Makara starts freaking out, gets calmed down by Dilys
 - promptly points her sword at somebody and uses ancient magic to explode his brain
+- the pirates get some reinforcements
+- Olivia and Damian are shredding mfs
+- we get some reinforcements
 - 
