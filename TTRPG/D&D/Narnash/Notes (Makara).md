@@ -75,4 +75,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Leviathan Fucking Kills A Boat
 
 # 4/26/25
+- Dilys goes apologizing to everyone
+- Makara tells Dilys to be more confident in her status
 - 
