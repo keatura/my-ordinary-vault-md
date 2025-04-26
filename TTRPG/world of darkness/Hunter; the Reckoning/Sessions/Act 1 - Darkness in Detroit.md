@@ -1,5 +1,6 @@
 > Example
 
+[[Timeskip Notes]]
 ## Session Notes
 [[Session 7]]
 
