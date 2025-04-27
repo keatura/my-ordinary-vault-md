@@ -110,4 +110,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Olivia is trying to rip Namic's jaw off
 - he runs away like a bitch!
 - 14
+- Another pirate ship starts boarding the Reef Spreader
+- 15
+- the shenanigan stays losing
 - 
