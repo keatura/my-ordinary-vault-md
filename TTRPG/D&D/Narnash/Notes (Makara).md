@@ -103,4 +103,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - the kill count rises to 7, Makara is still bloodthirsty
 - Asphodel is still dealing with the birds
 - the skiffs turn around and shoot some more
+- Olivia crits and double smites Namic for 98 damage
 - 
