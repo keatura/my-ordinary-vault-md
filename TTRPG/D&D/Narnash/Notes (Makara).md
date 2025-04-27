@@ -105,4 +105,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - the skiffs turn around and shoot some more
 - Olivia crits and double smites Namic for 98 damage
 - Damian is using more fucked up blood magic
+- kill count is 12 now
+- Olivia and Damian are having a Great Duel rn
+- Olivia is trying to rip Namic's jaw off
 - 
