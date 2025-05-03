@@ -356,4 +356,5 @@
 - its the wall of flesh
 - Nilryna gets consumed by the flesh
 - eventually she gets out
+- we banish it and run away
 - 
