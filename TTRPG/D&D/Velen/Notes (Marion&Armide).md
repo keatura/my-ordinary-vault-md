@@ -337,4 +337,7 @@
 - misty steps to the top of a tree to pray and reconnect to the stars
 - she is spoken to
 - its good to be back
+- Jeeves talks to Morsus about maybe having human bits inside him
+- Morsus cuts him open a lil and finds nothing
+- Nilryna is talking to Morsus about Artix' blood
 - 
