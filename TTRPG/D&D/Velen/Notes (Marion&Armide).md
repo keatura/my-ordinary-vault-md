@@ -340,4 +340,10 @@
 - Jeeves talks to Morsus about maybe having human bits inside him
 - Morsus cuts him open a lil and finds nothing
 - Nilryna is talking to Morsus about Artix' blood
+- we head out to get to the Cardinal
+- Artix is reading Yaoi
+- A guy covered in wounds jumps out from the side of the trail
+- he says there is a creature in the woods that attacked him
+- Armide is scouting with Kheda
+- theres a creature peeking out from behind the tree
 - 
