@@ -354,4 +354,6 @@
 - evil beast attacks us in the woods
 - its stormy... it's time
 - its the wall of flesh
+- Nilryna gets consumed by the flesh
+- eventually she gets out
 - 
