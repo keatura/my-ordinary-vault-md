@@ -349,4 +349,6 @@
 - its a troll
 - Nilryna is gonna try to speak to it
 - The troll attacks
-- Artix pre
+- Artix prevents Nilryna from getting hit
+- He cuts the head of the troll off
+- 
