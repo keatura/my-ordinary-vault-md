@@ -353,4 +353,5 @@
 - He cuts the head of the troll off
 - evil beast attacks us in the woods
 - its stormy... it's time
+- its the wall of flesh
 - 
