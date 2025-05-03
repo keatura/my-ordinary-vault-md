@@ -364,4 +364,7 @@
 - He was forced to accept the pact
 - and forced to strike her down
 - "I'll see you when you're dead."
+- we are getting bribed to participate in Vrazda's Trial
+	- not really but money!
+	- like we *can* say no but also like The Guy is telling us to do it
 - 
