@@ -328,4 +328,9 @@
 - Armide is getting jumped by a genuine tweaker :Sob:
 
 # 5/3/25
+- The tv head guy in very wiry 
+- made of copper wire and tubes and stuff, some of the wires are colour coded
+- no clear end to the wires, but most of the plug into the head]
+- looks like metal veins from a body with no skin
+- Armide keeps a mental note of where the body of this thing is
 - 
