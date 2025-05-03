@@ -333,4 +333,8 @@
 - no clear end to the wires, but most of the plug into the head]
 - looks like metal veins from a body with no skin
 - Armide keeps a mental note of where the body of this thing is
+- She summons a cougar to bury it
+- misty steps to the top of a tree to pray and reconnect to the stars
+- she is spoken to
+- its good to be back
 - 
