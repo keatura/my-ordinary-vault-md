@@ -7,7 +7,7 @@
 - Control.
 
 ###### Dislikes
-- Vrazda.
+- Vrazda. (sorta)
 - The Feywild.
 - Being by herself.
 - Having to put trust in other people.
