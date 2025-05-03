@@ -360,4 +360,6 @@
 - we get to Vrazda's Chateau
 - the soldiers outside are acting weirdly casual
 - Kalathoth made a deal with Vrazda for his soul to break Armide out
+- Vrazda "watched the deal happen"
+- He was forced to accept the pact
 - 
