@@ -346,4 +346,7 @@
 - he says there is a creature in the woods that attacked him
 - Armide is scouting with Kheda
 - theres a creature peeking out from behind the tree
-- 
+- its a troll
+- Nilryna is gonna try to speak to it
+- The troll attacks
+- Artix pre
