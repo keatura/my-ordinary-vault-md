@@ -362,4 +362,6 @@
 - Kalathoth made a deal with Vrazda for his soul to break Armide out
 - Vrazda "watched the deal happen"
 - He was forced to accept the pact
+- and forced to strike her down
+- "I'll see you when you're dead."
 - 
