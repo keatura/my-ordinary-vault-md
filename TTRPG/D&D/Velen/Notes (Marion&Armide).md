@@ -357,4 +357,6 @@
 - Nilryna gets consumed by the flesh
 - eventually she gets out
 - we banish it and run away
+- we get to Vrazda's Chateau
+- the soldiers outside are acting weirdly casual
 - 
