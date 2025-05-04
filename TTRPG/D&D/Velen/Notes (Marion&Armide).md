@@ -367,4 +367,7 @@
 - we are getting bribed to participate in Vrazda's Trial
 	- not really but money!
 	- like we *can* say no but also like The Guy is telling us to do it
+- Armide tells Nilryna everything about the Star Druids
+- Nilryna brings her to a clearing to talk about the stars stuffs
+- "I am Lyncis, architect of the Stars. And I have a favor to ask of you."
 - 
