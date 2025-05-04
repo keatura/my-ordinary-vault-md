@@ -374,4 +374,5 @@
 - "What do cats taste like" Anesidora to Armide
 - Armide tells a really bad joke and coughs up so much blood she passes out
 - we get into Solustar with a super cool gate opening sequence
+- Vrazda gets put in The Room:tm:
 - 
