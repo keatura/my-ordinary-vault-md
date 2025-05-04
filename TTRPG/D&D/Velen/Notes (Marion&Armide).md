@@ -372,4 +372,6 @@
 - "I am Lyncis, architect of the Stars. And I have a favor to ask of you."
 - Nilryna gets NO ANSWERS!!!!!
 - "What do cats taste like" Anesidora to Armide
+- Armide tells a really bad joke and coughs up so much blood she passes out
+- we get into Solustar with a super cool gate opening sequence
 - 
