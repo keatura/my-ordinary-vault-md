@@ -371,4 +371,5 @@
 - Nilryna brings her to a clearing to talk about the stars stuffs
 - "I am Lyncis, architect of the Stars. And I have a favor to ask of you."
 - Nilryna gets NO ANSWERS!!!!!
+- "What do cats taste like" Anesidora to Armide
 - 
