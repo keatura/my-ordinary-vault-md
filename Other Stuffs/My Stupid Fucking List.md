@@ -81,8 +81,9 @@
 - [x] Dandadan
 - [x] MSG: Witch from Mercury Prologue
 - [x] MSG: Witch from Mercury Part 1
-- [ ] MSG: Witch from Mercury Part 2
+- [x] MSG: Witch from Mercury Part 2
 - [ ] Jujutsu Kaisen
+- [ ] MSG: GQuuuuuX
 - [ ] Bloom Into You
 - [ ] Knights & Magic
 - [ ] Gurren Lagann
@@ -112,10 +113,12 @@
 - [ ] Dungeon Meshi
 - [ ] Frieren
 - [ ] JoJo's Bizarre Adventure
-- [ ] MSG: GQuuuuuX
 - [ ] Violet Evergarden
 - [ ] Ranma 1/2
 - [ ] BNA: Brand New Animal
+- [ ] Ghost Stories Dub
+- [ ] Panty & Stocking
+- [ ] Gundam
 - [ ] 
 
 # Other

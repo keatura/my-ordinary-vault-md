@@ -14,16 +14,23 @@
 -Jessie has cat
 -after about 3 months, the crime starts to get REALLY bad
 -lots of anemia, missing people who dont get found
--
+-we are resuming right on the group getting the sponsorship
 
 #### Nikita
 -got the 1014
 -Nikita is looking into her coworker
+-Has a house
+-Living with Wolfie
+-Nikita killed (one) vampire
 #### Jessie
 -gets a note from the Aitvara
 -Jessie is keeping an eye open for weird stuff
+-got kicked out
+-living on the streets
 #### Wolfie
 -read through ECLIPSE notes
 -looking into the anemia cases and other weird shit
+-gets back into small crime and stuff to make money
+-gains some influence
 
 grew up on the west side of Detroit

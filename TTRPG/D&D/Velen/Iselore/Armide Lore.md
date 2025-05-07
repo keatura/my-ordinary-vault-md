@@ -92,11 +92,11 @@ Soon after this, the Fey kidnappers are killed by a weird monster, and Armide br
 
 Vrazda is a Lietenant of Arduras, and became Anointed soon after entering the Feywild. He was on an expedition, and there was a weird accident that caused him to end up in the Feywild, which lead to his Anointment and gaining of sorcerous powers. While shocked and confused, Vrazda survived and woke up in a battleground between two Fey Lords. Pretending to be a member of one of the armies, he started to learn the gist of Fey society and find a place. Eventually, people started to suspect he wasn't from the Feywild, and was taken prisoner, though through smooth talking he was able to convince the Fey to let him go. He eventually made his way to a small town, where, strangely enough, there was a population of genuine humans. He lied low in this town, concealing his true identity and learning more about the Feywild. After saving Armide, learning that she was the only other person from Velen he had met so far, he claims he was able to agitate the monster to attack Armide's captors. They both share the desire to leave the Feywild, and Vrazda teaches Armide to blend in and gain information.
 
-One of the many things they shared during their time in the Feywild, was the effects of the Anointment. Armide seeing it as the stars above her seeming to talk to her- speaking in a heavenly voice providing guidance and hope, and gifting upon her her Familiar, who she named Kheda, meaning "Guidance" in Druidic. Vrazda had a similar situation, but he visualized it as a thin thread of light when he closed his eyes.
+One of the many things they shared during their time in the Feywild, was the effects of the Anointment. Armide seeing it as the stars above her seeming to talk to her- speaking in a heavenly voice providing guidance and hope, and gifting upon her, her Familiar, who she named Kheda, meaning "Guidance" in Druidic. Vrazda had a similar situation, but he visualized it as a thin thread of light when he closed his eyes.
 
-Eventually, Vrazda grew tired of lying low, and made a ballsy move. He got attention from the human residents of the town and started preaching about his visions of the light, and claimed that it had to do with Selestis' pact with the Fey. Vrazda claimed that the light was trying to guide all of them home - to Velen or Selestia. He gained some followers, but not enough and was promptly locked away. Unsure what to do about this, and missing her only ground in the Feywild, Armide grew lost and hid away for a period of time, and woke up one night to a revolt in an attempt to get Vrazda out of jail.
+Eventually, Vrazda grew tired of lying low, and made a ballsy move. He got attention from the human residents of the town and started preaching about his visions of the light, and claimed that it had to do with Selestis' pact with the Fey. Vrazda claimed that the light was trying to guide all of them home - to Velen or Selestia. He gained some followers, but not enough and was promptly locked away. Unsure what to do about this, and missing her only ground in the Feywild, Armide grew lost and hid away for a period of time, where she started to plan a revolt within the town. One night after a few months, she started the revolt. With the small mass of followers they had gained in the initial attempt to cement themselves, Armide led a semi-violent, but ultimately non-lethal revolt in an attempt to have Vrazda released, which resulted in not only an increase in support and Vrazda's release, but a path to work their way into a leadership position of the town.
 
-After the revolt, Vrazda was released and cemented his place in the ecosystem of the town. He started a "Church" of sorts, and allowed Armide into a high ranking position so they could work on plans to escape the Feywild. Over this period of time working together, not only did Vrazda change and accept Armide and her druidic nature, and respecting her worship of the stars, they worked together to design a method to get home. This lead into a romantic relationship between the two, that lasting until they managed to escape the Feywild.
+After the revolt, Vrazda was released and cemented his place in the ecosystem of the town. He started a "Church" of sorts, and allowed Armide into a high ranking position so they could work on plans to escape the Feywild. Over this period of time working together, not only did Vrazda change and accept Armide and her druidic nature, and respecting her worship of the stars, they worked together to design a method to get home. This lead into a romantic relationship between the two, that lasted until the Final Battle.
 
 This "Church of the Light" Vrazda started worked well until it grew too much, and was noticed by the Fey, and was attacked. The battle was vicious, but due to Armide and Vrazda's strength they managed to push the Fey back and Vrazda took some of the more elite members of the attacking force hostage. Vrazda used these captured fey and interrogated them ruthlessly for information onto how to get out of the Feywild.
 
@@ -185,7 +185,39 @@ Demonic and Galvonian in nature, and most likely summon in Velen or Selestia, Se
 - Seems to be offset by her Anointment- this means that killing other Anointed can stave of the disease by offsetting the effects
 - 
 
-# Allies and Enemies
+# Allies and Enemies (and Vrazda)
+
+## Vrazda
+Its Complicated.
+- see previous, also now making cyborgs to kill me?
+
+Iselore and Vrazda's relationship is complicated, and Iselore still holds her love for him within her- the time they spent together was real and they genuinely wanted to escape the Feywild together.
+
+#### The Beginning
+
+Vrazda at first was genuinely a good person. Despite being a soldier of Arduras and the intolerance from King Adam II's reforms, He was very accepting of Iselore and showed more curiosity about the Star Druids than anything. They grew close quite quickly due to their shared bond;
+- Their Familiars
+- Magical Inclination
+- The Fact that both of them were the only two Anointed on the Feywild to their knowledge
+They both grew close over this short time period, until Vrazda was found out and arrested for hiding as a member of the army of a Fey Lord. After he was arrested and put into prison, Iselore became very worried and scared, immediately began to figure out how to get him out. But why? She most likely needed him to get out but why was she so worried?
+
+Eventually Iselore worked up the strength, and managed to successfully lead a revolt in the town, leading to not only Vrazda being broken out of prison, but the two being cemented as well-like leaders of the town. This left Vrazda extremely grateful to Iselore, and their bond grew deeper. It also served as a mutual catalyst for their relationship. As they cemented their positions within the town, they both realized they had mutual feelings, and began to use their relationship as a further example of unity within their followers.
+
+#### Escalation of Power
+
+After cementing themselves within the town, they both came to an agreement that they needed more power and followers to properly escape the Feywild. The two began to introduce other neighboring towns to their religion - and promised protection and unity under powerful spellcaster if they became loyal followers. After they grew to expand and cover a few towns, other powerful people started to take notice of them. 
+
+These people included some of the big figures, such as Kotos and Apharia. These people joined the cause for their own reasons and became sub-leaders, helping expand this "Church of the Light" out to even more towns. While this significantly expanded their power and control, it alerted several Fey Lords who were Not Happy. 
+
+Though the battle was difficult, the two and their army of loyal followers managed to win the battle against the Fey Lords, and routing their armies. This lead to an open period, where Vrazda and Iselore quickly grabbed the open seats of power through assassination and targeted attacks, securing themselves a significant foothold within the Feywild. After the fighting, some important Fey figures were captured, and interrogated by Vrazda and Iselore. They learned some major things to aid in their escape, and then the Fey were summarily executed.
+
+This battle led to Vrazda's biggest idea of how to escape yet- Take complete control of the Feywild, rebuild the destroyed temples, and reforge the gateway between the planes. Maybe even have enough power to cure Iselore's wound on her back. Throughout this process though, with all the violence, one thing started to emerge in Vrazda. He started to become obsessed with "healing" Iselore. That is how they met Molgast, but every attempt just didn't seem to work. Neither Vrazda nor Iselore knew anything about it, and Molgast couldn't figure it out.
+
+#### Conquest (WHAT YOU DID WAS NOT NICE!!!)
+
+The Conquest of the Feywild created lots of turmoil. The two used their military might and the devotion of their followers to effectively force other disorganized Fey Lords into submitting and joining their regime, being welcomed with open arms, or resisting and being crushed. While this proved to be effective, and growing in effectiveness exponentially as their influence grew, it started to weigh down on the leaders, especially Vrazda and Iselore, stuck with the difficulty of managing the people under their rule and knowing that to an extent - the unwanted persecution they both suffered under had to be used to accomplish their goals. Especially Vrazda began to show signs of degradation on his psyche.
+
+One day, after about 2 years of the conquest, Vrazda confided in Iselore that the longer they spent in the Feywild and the more they had to fight and conquer, the more he began to feel inhuman.
 
 ## Allies
 
@@ -195,7 +227,6 @@ Demonic and Galvonian in nature, and most likely summon in Velen or Selestia, Se
 
 ## Enemies
 
-- **Vrazda** - see previous, also now making cyborgs to kill me?
 - **Hastur** - The current demonic ruler of the Feywild.
 - **The Bloodstar** - The man who put her into her current condition, she wants a cure and revenge, maybe even obliteration of the Sanguine Creed.
 - **Scary TV Head guy** - Uh. What. The. Fuck.
