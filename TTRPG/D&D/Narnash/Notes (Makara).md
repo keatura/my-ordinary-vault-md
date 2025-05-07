@@ -74,3 +74,42 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - 2 more characters left, then four more on the other side.
 - Leviathan Fucking Kills A Boat
 
+# 4/26/25
+- Dilys goes apologizing to everyone
+- Makara tells Dilys to be more confident in her status because she is nobility
+- Everyone has lunch together
+- This is the most awkward conversation ever
+	- holy moly
+	- eternal damnation
+- Makara tells Damian his "palette is basic"
+- its So Passive Aggressive
+- we got INTERUPTED by PIRATES
+- CAPTAIN!!!! LOOOOOKK!!!!!
+- The driver of the biggest ship gets sniped from 600 feet
+- the skiffs roll crazy damage
+- dream longbow rotation
+- Asphodel absolutely obliterates some poor fool
+- the Reef Spreader gets rammed 
+- Olivia drops down and starts aura farming
+- Makara starts freaking out, gets calmed down by Dilys
+- Damian uses his blood magic shit to give her a little adrenaline boost and some bloodthirst
+- promptly points her sword at somebody and uses ancient magic to explode his brain
+- the pirates get some reinforcements
+- Olivia and Damian are shredding mfs
+- we get some reinforcements
+- Makara jumps down onto the pirate ship, and kills 3 more people
+- Olivia keeps killing people with a random pirate she grabbed, still hasnt drawn her sword
+- Makara gets crit lmfao
+- the kill count rises to 7, Makara is still bloodthirsty
+- Asphodel is still dealing with the birds
+- the skiffs turn around and shoot some more
+- Olivia crits and double smites Namic for 98 damage
+- Damian is using more fucked up blood magic
+- kill count is 12 now
+- Olivia and Damian are having a Great Duel rn
+- Olivia is trying to rip Namic's jaw off
+- he runs away like a bitch!
+- 14
+- Another pirate ship starts boarding the Reef Spreader
+- 15
+- the shenanigan stays losing

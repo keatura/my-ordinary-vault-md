@@ -1,4 +1,5 @@
-Asphodel - morning dove aaracokra (Sylvia)
+
+## Asphodel - morning dove aaracokra (Sylvia)
 - blind
 - has a monkey named Vasha
 - is a monk, but is part of the Druids
@@ -6,7 +7,7 @@ Asphodel - morning dove aaracokra (Sylvia)
 - clawed her own eyes out
 - worships Getscha and Singfig
 - very short (second shortest) and small
-Damian - FIEND!!!!! (also a human) (Alex)
+## Damian - FIEND!!!!! (also a human) (Alex)
 - blood hunter barb
 - does FUCKED UP blood MAGIC
 - is also like literally Rasputin
@@ -14,7 +15,7 @@ Damian - FIEND!!!!! (also a human) (Alex)
 - somehow related to the dragons (Sarro mainly)
 - Certified Freakazoid
 - BIGGEST MAN!!
-Dilys - catgirl (tabaxi) princess from Frozen Place (Phoenix)
+## Dilys - catgirl (tabaxi) princess from Frozen Place (Phoenix)
 - fey wanderer ranger
 - autistic as Fuck
 - likes maps A LOT
@@ -22,7 +23,7 @@ Dilys - catgirl (tabaxi) princess from Frozen Place (Phoenix)
 - "your secrets safe with me" - :333
 - very innocent and adorable
 - is basically on a journey of self-discovery
-Makara - ~~human~~ Elf noble (dickhead prick) and a leasbiasbng (meeee :3333)
+## Makara - ~~human~~ Elf noble (dickhead prick) and a leasbiasbng (meeee :3333)
 - EVIL SWORD (she loves it very much and like literally could not exist without it)
 - the sword is sentient and probably like Really Fucking Old
 - basically a piano kid with rich parents
@@ -33,7 +34,7 @@ Makara - ~~human~~ Elf noble (dickhead prick) and a leasbiasbng (meeee :3333)
 - good at the violin ig.,.
 - also likes the catgirl but wont admit it to herself
 - (swords bard)
-Olivia - half-elf old tweaker paladin general (Math Tuah)
+## Olivia - half-elf old tweaker paladin general (Math Tuah)
 - Was a general in the Military for the Godsent
 - has weird fucked up armor with eyes on it that look at shit
 - very religious for Aliolos and Kaha
