@@ -81,7 +81,7 @@
 - [x] Dandadan
 - [x] MSG: Witch from Mercury Prologue
 - [x] MSG: Witch from Mercury Part 1
-- [ ] MSG: Witch from Mercury Part 2
+- [x] MSG: Witch from Mercury Part 2
 - [ ] Jujutsu Kaisen
 - [ ] Bloom Into You
 - [ ] Knights & Magic

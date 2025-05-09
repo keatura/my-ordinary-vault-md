@@ -375,4 +375,10 @@
 - Armide tells a really bad joke and coughs up so much blood she passes out
 - we get into Solustar with a super cool gate opening sequence
 - Vrazda gets put in The Room:tm:
-- 
+- Anesidora accuses Armide of murder?????
+- The trial goes smoothly so far
+- sentence will be announced shortly in the public square
+- Vrazda gets sentenced to execution, announced by Leonitus
+- then Leonitus GETS KILLED????
+- "Citizens of Arduras... I am Commander Xeros, of the Blasphemer Army. I am here to deliver an important announcement. The age of Blasphemy is here once again."
+- Blasphemers are throwing fire bombs and destroying the city and killing people
