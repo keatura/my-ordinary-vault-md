@@ -34,10 +34,9 @@ Opening summary of the state of things:
 > 
 > **Nikita**, what you always thought were just suspicious teens doing some petty crime in the night, or gang members disputing over territory, you are now starting to realize may be subject to something darker, and more sinister.
 >  
-> **Wolfie**, while luckily you had never been in a confrontation during your delinquent years, you are starting to realize that maybe there was more to the fights some of the people you knew never came back from, and that there is *Definitely* more to the massacre of your family.
+> **Wolfie**, while luckily you had never been in a direct confrontation with the supernatural during your delinquent years, you are starting to realize that there was more to some of the goings on, and there is *definitely* more to the massacre of your family.
 > 
-> **Jessie**, after the attack by and subsequent death of your sister, 
-
+> **Jessie**, after the attack by and subsequent death of your sister, and all that led up to that and followed afterwards has forcefully opened your eyes the the raw cruelty of the world around you,
 #### Jessie
 Scene description.
 
