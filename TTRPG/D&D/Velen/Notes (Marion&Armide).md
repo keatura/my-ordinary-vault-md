@@ -329,6 +329,59 @@
 
 # 5/3/25
 - The tv head guy in very wiry 
+- made of copper wire and tubes and stuff, some of the wires are colour coded 
+- no clear end to the wires, but most of the plug into the head] 
+- looks like metal veins from a body with no skin 
+- Armide keeps a mental note of where the body of this thing is 
+- She summons a cougar to bury it 
+- misty steps to the top of a tree to pray and reconnect to the stars 
+- she is spoken to 
+- its good to be back 
+- Jeeves talks to Morsus about maybe having human bits inside him 
+- Morsus cuts him open a lil and finds nothing 
+- Nilryna is talking to Morsus about Artix' blood 
+- we head out to get to the Cardinal 
+- Artix is reading Yaoi 
+- A guy covered in wounds jumps out from the side of the trail 
+- he says there is a creature in the woods that attacked him 
+- Armide is scouting with Kheda 
+- theres a creature peeking out from behind the tree 
+- its a troll 
+- Nilryna is gonna try to speak to it 
+- The troll attacks 
+- Artix prevents Nilryna from getting hit 
+- He cuts the head of the troll off 
+- evil beast attacks us in the woods 
+- its stormy... it's time 
+- its the wall of flesh 
+- Nilryna gets consumed by the flesh 
+- eventually she gets out 
+- we banish it and run away
+- we get to Vrazda's Chateau 
+- the soldiers outside are acting weirdly casual 
+- Kalathoth made a deal with Vrazda for his soul to break Armide out 
+- Vrazda "watched the deal happen" 
+- He was forced to accept the pact 
+- and forced to strike her down 
+- "I'll see you when you're dead." 
+- we are getting bribed to participate in Vrazda's Trial 
+	- not really but money! 
+	- like we can say no but also like The Guy is telling us to do it 
+- Armide tells Nilryna everything about the Star Druids 
+- Nilryna brings her to a clearing to talk about the stars stuffs 
+- "I am Lyncis, architect of the Stars. And I have a favor to ask of you." 
+- Nilryna gets NO ANSWERS!!!!! 
+- "What do cats taste like" Anesidora to Armide 
+- Armide tells a really bad joke and coughs up so much blood she passes out 
+- we get into Solustar with a super cool gate opening sequence 
+- Vrazda gets put in The Room:tm: 
+- Anesidora accuses Armide of murder????? 
+- The trial goes smoothly so far 
+- sentence will be announced shortly in the public square 
+- Vrazda gets sentenced to execution, announced by Leonitus 
+- then Leonitus GETS KILLED???? 
+- "Citizens of Arduras... I am Commander Xeros, of the Blasphemer Army. I am here to deliver an important announcement. The age of Blasphemy is here once again." 
+- Blasphemers are throwing fire bombs and destroying the city and killing people
 - made of copper wire and tubes and stuff, some of the wires are colour coded
 - no clear end to the wires, but most of the plug into the head]
 - looks like metal veins from a body with no skin
@@ -375,6 +428,7 @@
 - Armide tells a really bad joke and coughs up so much blood she passes out
 - we get into Solustar with a super cool gate opening sequence
 - Vrazda gets put in The Room:tm:
+<<<<<<< HEAD
 - Anesidora accuses Armide of murder?????
 - The trial goes smoothly so far
 - sentence will be announced shortly in the public square
@@ -382,3 +436,12 @@
 - then Leonitus GETS KILLED????
 - "Citizens of Arduras... I am Commander Xeros, of the Blasphemer Army. I am here to deliver an important announcement. The age of Blasphemy is here once again."
 - Blasphemers are throwing fire bombs and destroying the city and killing people
+=======
+- Anesidora accuses Armide of murder????? 
+- The trial goes smoothly so far 
+- sentence will be announced shortly in the public square 
+- Vrazda gets sentenced to execution, announced by Leonitus 
+- then Leonitus GETS KILLED???? 
+- "Citizens of Arduras... I am Commander Xeros, of the Blasphemer Army. I am here to deliver an important announcement. The age of Blasphemy is here once again." 
+- Blasphemers are throwing fire bombs and destroying the city and killing people
+>>>>>>> origin/main

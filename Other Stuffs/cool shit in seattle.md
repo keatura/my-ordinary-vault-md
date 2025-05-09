@@ -1,0 +1,13 @@
+- [ ] ferris wheel
+- [ ] aquarium
+- [ ] big twoer. ..
+- [ ] millennial coffee shops
+- [ ] pikes place market
+- [ ] boardwalk
+- [ ] sushi
+- [ ] burbger
+- [ ] bainbridge island
+- [ ] seattle art museum
+- [ ] pop culture museum
+- [ ] the big rei
+- [ ] nature
