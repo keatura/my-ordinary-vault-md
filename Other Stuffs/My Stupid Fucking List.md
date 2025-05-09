@@ -82,7 +82,9 @@
 - [x] MSG: Witch from Mercury Prologue
 - [x] MSG: Witch from Mercury Part 1
 - [x] MSG: Witch from Mercury Part 2
-- [ ] Jujutsu Kaisen
+- [ ] Jujutsu Kaisen Season 1
+- [ ] JJK Movie
+- [ ] JJK Season 2
 - [ ] MSG: GQuuuuuX
 - [ ] Bloom Into You
 - [ ] Knights & Magic
