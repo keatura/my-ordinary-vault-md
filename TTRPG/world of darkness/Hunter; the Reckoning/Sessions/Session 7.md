@@ -32,11 +32,11 @@ Opening summary of the state of things:
 > [!note]
 > It has been roughly a year since the attack by Jessie's sister and her horrific amalgamation. In this time, you all have successfully managed to lie low while continuing your life as "normal", or as normal as it can be anymore. Though it may provide some insight into why the city is the way it is.
 > 
-> **Nikita**, what you always thought were just suspicious teens doing some petty crime in the night, you are now starting to realize may be subject to something darker, and more sinister.
+> **Nikita**, what you always thought were just suspicious teens doing some petty crime in the night, or gang members disputing over territory, you are now starting to realize may be subject to something darker, and more sinister.
 >  
 > **Wolfie**, while luckily you had never been in a confrontation during your delinquent years, you are starting to realize that maybe there was more to the fights some of the people you knew never came back from, and that there is *Definitely* more to the massacre of your family.
 > 
-> **Jessie**, 
+> **Jessie**, after the attack by and subsequent death of your sister, 
 
 #### Jessie
 Scene description.
