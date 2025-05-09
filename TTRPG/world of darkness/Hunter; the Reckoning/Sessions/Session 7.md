@@ -22,18 +22,25 @@ Get everyone situated, and a quick brief on the State of the City.
 -The Police Department has become completely useless, due to it being extremely dangerous to patrol areas of high activity, though for some reasons nothing like the national guard has been called.
 -People have started forming militia groups to protect themselves and their communities
 -The City is basically closed off to the outside world - people are checked on the way out and basically no one can or wants to go in or out
--The Yellow Gang is 
+-The Yellow Gang is doing Something
 
-## Chapter
+## The Letters
+The Party in a moment of silence gets some letters from a mysterious exterior faction...
+
+Opening summary of the state of things:
+
+> [!note]
+> It has been roughly a year since the attack by Jessie's sister and her horrific amalgamation. In this time, you all have successfully managed to lie low while continuing your life as "normal", or as normal as it can be anymore. Though it may provide some insight into why the city is the way it is. 
+> **Nikita**, what you always thought were just suspicious teens doing some petty crime in the night, you are now starting to realize may be subject to something darker, and more sinister... 
+> **Wolfie**, while luckily you had never been in a confrontation during your delinquent years, 
+
+#### Jessie
 Scene description.
 
-#### Scene
+#### Wolfie
 Scene description.
 
-#### Scene
-Scene description.
-
-#### Scene
+#### Nikita
 Scene description.
 
 #### Scene

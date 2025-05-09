@@ -1,3 +1,5 @@
 - make a supernatural creature or weird vampire based off of [The Dragon](https://slay-the-princess.fandom.com/wiki/The_Princess/Princess_and_the_Dragon)
 - Xavier Mire has a Mage bloodbonded to him
 - chaos in the streets, make angels come into play
+- each player gets a letter
+- make a timeline dumbass

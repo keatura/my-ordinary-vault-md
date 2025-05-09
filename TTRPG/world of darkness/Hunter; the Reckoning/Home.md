@@ -2,6 +2,7 @@
 **Current Desperation level: 0**
 
 **Spitballing --->** [[Thoughts]]
+[[Timeline]]
 ## Player Characters
 
 #### [[Jessie Park]]
