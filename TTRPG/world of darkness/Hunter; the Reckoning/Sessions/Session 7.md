@@ -36,7 +36,10 @@ Opening summary of the state of things:
 >  
 > **Wolfie**, while luckily you had never been in a direct confrontation with the supernatural during your delinquent years, you are starting to realize that there was more to some of the goings on, and there is *definitely* more to the massacre of your family.
 > 
-> **Jessie**, after the attack by and subsequent death of your sister, and all that led up to that and followed afterwards has forcefully opened your eyes the the raw cruelty of the world around you,
+> **Jessie**, after the attack by and subsequent death of your sister, and all that led up to that and followed afterwards has forcefully opened your eyes the the raw cruelty of the world around you, though it may have brought some closure.
+> 
+> You each find yourselves in a place of your own comfort, with a letter that had just arrived in the mail. Odd - considering the state of the city means that even the mail companies are avoiding entering. 
+
 #### Jessie
 Scene description.
 
