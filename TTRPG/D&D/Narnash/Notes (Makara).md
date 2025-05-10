@@ -128,4 +128,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Renata is dead though :(
 - Damian drops the anchor on one of the pirate ships
 - Makara gets rizzed by up a wild magic surge
+- Makara is fucking invincible
+- the pirates are slowly starting to run away
+- we learn that the gays are evil
 - 
