@@ -121,4 +121,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - we finally K.O.ed Namic
 - THE SHENAGAIN IS SO BACK!!!!
 	- they finally doing something useful wow
+- good damage is going out to all our enemies
+- most of the Big Fellas are pretty hurt at this point
 - 
