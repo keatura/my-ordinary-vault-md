@@ -123,4 +123,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- they finally doing something useful wow
 - good damage is going out to all our enemies
 - most of the Big Fellas are pretty hurt at this point
+- 20
+- combat is going pretty fast, the turnaround is crazy
+- Renata is dead though :(
+- Damian drops the anchor on one of the pirate ships
 - 
