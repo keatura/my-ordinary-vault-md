@@ -132,4 +132,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - the pirates are slowly starting to run away
 - we learn that the gays are evil
 - 23
+- Namic is all tied up
 - 
