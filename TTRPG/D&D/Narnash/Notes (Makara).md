@@ -127,3 +127,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - combat is going pretty fast, the turnaround is crazy
 - Renata is dead though :(
 - Damian drops the anchor on one of the pirate ships
+- Makara gets rizzed by up a wild magic surge
+- 
