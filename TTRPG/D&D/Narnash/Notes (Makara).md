@@ -118,4 +118,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - DO YOU KNOW WHAT A CALLBACK JOKE IS?
 - 17
 - Asphodel has almost killed this lady
+- we finally K.O.ed Namic
+- THE SHENAGAIN IS SO BACK!!!!
+	- they finally doing something useful wow
 - 
