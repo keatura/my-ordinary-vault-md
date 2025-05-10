@@ -140,4 +140,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Olivia wants *More*
 - 24 :3
 - Asphodel is talking to the other funny monkey
+- Dilys sweeps Makara off of her feet
 - 
