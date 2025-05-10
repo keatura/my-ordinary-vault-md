@@ -133,4 +133,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - we learn that the gays are evil
 - 23
 - Namic is all tied up
+- Olivia is investigating
+- found a vase
+- patterns are from Aristolia
+- it pours out ashes, the ashes turn into a peacock
 - 
