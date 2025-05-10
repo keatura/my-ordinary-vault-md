@@ -138,4 +138,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - patterns are from Aristolia
 - it pours out ashes, the ashes turn into a peacock
 - Olivia wants *More*
+- 24 :3
+- Asphodel is talking to the other funny monkey
 - 
