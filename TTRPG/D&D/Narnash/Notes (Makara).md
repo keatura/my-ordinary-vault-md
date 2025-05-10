@@ -115,4 +115,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - the shenanigan stays losing
 
 # 5/10/25
+- DO YOU KNOW WHAT A CALLBACK JOKE IS?
 - 
