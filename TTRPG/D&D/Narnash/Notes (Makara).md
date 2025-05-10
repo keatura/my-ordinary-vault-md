@@ -131,4 +131,3 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Makara is fucking invincible
 - the pirates are slowly starting to run away
 - we learn that the gays are evil
-- 
