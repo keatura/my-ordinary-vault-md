@@ -157,4 +157,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Damian walks in with loads of rum
 - "suffering builds character" typa campaign
 - Dilys cleaned the captains quarters
+- Dilys experiments with the ring
+- gets sucker punched by Olivia and then has the ring taken off
 - 
