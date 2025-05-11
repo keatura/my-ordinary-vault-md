@@ -149,4 +149,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Asphodel finds a FUNNY KNIFE
 - Olivia starts recruiting
 - its working
+- a lot of the members of the crew have weird cuts on their hands
 - 
