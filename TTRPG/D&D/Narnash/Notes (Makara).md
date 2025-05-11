@@ -145,4 +145,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Olivia is still tweaking from the illusions
 - seeing her childhood
 - worrying about order and perfection and unity
-- 5
+- makara ptsd episode
+- Asphodel finds a FUNNY KNIFE
+- 
