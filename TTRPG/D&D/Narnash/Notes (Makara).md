@@ -150,4 +150,11 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Olivia starts recruiting
 - its working
 - a lot of the members of the crew have weird cuts on their hands
+- TRAUMA DUMPING!!!
+- Makara gets Fucked Up Bruh 
+	- ugly crying while high as fuck and giggling at the same time
+- Makara calls Dilys her guardian angel
+- Damian walks in with loads of rum
+- "suffering builds character" typa campaign
+- Dilys cleaned the captains quarters
 - 
