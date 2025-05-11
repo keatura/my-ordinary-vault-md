@@ -160,4 +160,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Dilys experiments with the ring
 - gets sucker punched by Olivia and then has the ring taken off
 - Damian is being wholesome and awesome
+- Olivia Speech!
+- its really good
 - 
