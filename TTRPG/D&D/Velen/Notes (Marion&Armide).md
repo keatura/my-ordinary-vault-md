@@ -472,4 +472,7 @@
 - they actually help us this time lmfao
 - We manage to avoid the creature and find the room
 - we finally get a pendant
+- head to the basement
+- Nhilryna drops that she also has a disease of some kind and needs the anointed power
+	- sigh
 - 
