@@ -447,4 +447,7 @@
 # 5/17/25
 - Combat starts off with a big slow spell from Jeeves
 - Artix is getting ganged up on
+- Combat is going smoothly with some reinforcements, kiting the blasphemers
+- The Big Guy Blasphemer is rolling pretty bad luckily
+- More reinforcements on both sides
 - 
