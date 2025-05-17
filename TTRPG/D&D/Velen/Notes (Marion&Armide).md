@@ -459,3 +459,6 @@
 - but fr though this prison is fucked up bruh
 - find some young-ish guards holed up in a break room
 - They give us a list of directions to get to Vrazda
+- we go through some stone gates as the screaming gets louder
+- we find a note
+- 
