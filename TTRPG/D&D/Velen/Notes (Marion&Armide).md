@@ -461,4 +461,7 @@
 - They give us a list of directions to get to Vrazda
 - we go through some stone gates as the screaming gets louder
 - we find a note
+- the directions they gave us were wrong lmao
+- they locked us in a room with a redemptor
+- Nhilryna blinks through the door and opens it after scaring off the guards with illusion
 - 
