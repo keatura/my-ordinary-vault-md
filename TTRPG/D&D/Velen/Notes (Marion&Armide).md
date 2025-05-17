@@ -436,7 +436,6 @@
 - then Leonitus GETS KILLED????
 - "Citizens of Arduras... I am Commander Xeros, of the Blasphemer Army. I am here to deliver an important announcement. The age of Blasphemy is here once again."
 - Blasphemers are throwing fire bombs and destroying the city and killing people
-=======
 - Anesidora accuses Armide of murder????? 
 - The trial goes smoothly so far 
 - sentence will be announced shortly in the public square 
@@ -444,4 +443,6 @@
 - then Leonitus GETS KILLED???? 
 - "Citizens of Arduras... I am Commander Xeros, of the Blasphemer Army. I am here to deliver an important announcement. The age of Blasphemy is here once again." 
 - Blasphemers are throwing fire bombs and destroying the city and killing people
->>>>>>> origin/main
+
+# 5/17/25
+- 
