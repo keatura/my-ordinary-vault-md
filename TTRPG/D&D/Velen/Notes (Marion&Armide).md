@@ -445,4 +445,6 @@
 - Blasphemers are throwing fire bombs and destroying the city and killing people
 
 # 5/17/25
+- Combat starts off with a big slow spell from Jeeves
+- Artix is getting ganged up on
 - 
