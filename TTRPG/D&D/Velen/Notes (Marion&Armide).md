@@ -450,4 +450,5 @@
 - Combat is going smoothly with some reinforcements, kiting the blasphemers
 - The Big Guy Blasphemer is rolling pretty bad luckily
 - More reinforcements on both sides
+- Anesidora casts darkness on herself
 - 
