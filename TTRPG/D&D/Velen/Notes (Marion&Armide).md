@@ -452,4 +452,7 @@
 - More reinforcements on both sides
 - Anesidora casts darkness on herself
 - Legionnaires show up and we clean up the rest of the Blasphemers
+- We get loads of healing potions
+- head towards the prison
+- Enter, everyone is screaming, begging to be let out
 - 
