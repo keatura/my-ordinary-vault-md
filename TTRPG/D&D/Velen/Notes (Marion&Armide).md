@@ -464,5 +464,8 @@
 - the directions they gave us were wrong lmao
 - they locked us in a room with a redemptor
 - Nhilryna blinks through the door and opens it after scaring off the guards with illusion
-- The redemptor attacks Artix
+- The redemptor gets lured away with an illusion
+- we manage to get through the door before anything bad happens
+- let an old guy out of prison for instructions
+- go back and try to find the gore room
 - 
