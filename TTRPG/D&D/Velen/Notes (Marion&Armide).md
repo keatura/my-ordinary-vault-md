@@ -468,4 +468,8 @@
 - we manage to get through the door before anything bad happens
 - let an old guy out of prison for instructions
 - go back and try to find the gore room
+- we find the guards again
+- they actually help us this time lmfao
+- We manage to avoid the creature and find the room
+- we finally get a pendant
 - 
