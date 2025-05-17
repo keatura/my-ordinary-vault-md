@@ -455,4 +455,7 @@
 - We get loads of healing potions
 - head towards the prison
 - Enter, everyone is screaming, begging to be let out
-- 
+- THERES A LEFT, A RIGHT, AND A CENTER
+- but fr though this prison is fucked up bruh
+- find some young-ish guards holed up in a break room
+- They give us a list of directions to get to Vrazda
