@@ -465,3 +465,4 @@
 - they locked us in a room with a redemptor
 - Nhilryna blinks through the door and opens it after scaring off the guards with illusion
 - The redemptor attacks Artix
+- 
