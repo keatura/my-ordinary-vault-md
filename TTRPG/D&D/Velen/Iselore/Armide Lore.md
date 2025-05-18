@@ -188,7 +188,7 @@ Demonic and Galvonian in nature, and most likely summon in Velen or Selestia, Se
 # Allies and Enemies (and Vrazda)
 
 - Vrazda's Aura (1/Day) Once per long rest, you can channel some of Vrazda's latent energy into your words. For 10 minutes, you can add your proficiency bonus to any charisma checks and saving throws you make. Furthermore, while active, you gain advantage on checks made to impersonate yourself as someone else - whether through voice or appearance.
-
+	
 ## Vrazda
 Its Complicated.
 - see previous, also now making cyborgs to kill me?
