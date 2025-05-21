@@ -41,7 +41,7 @@ Opening summary of the state of things:
 > You each find yourselves in a place of your own comfort, with a letter that had just arrived in the mail. Odd - considering the state of the city means that even the mail companies are avoiding entering. 
 
 #### Opening Scene
-Open with all three of the people sitting in a fast food place, 
+Open with all three of the people sitting in a fast food place. It's quiet, only a couple employees behind the counter and one guy who had just picked up his food by the time they entered. 
 
 #### Jessie
 Scene description.
