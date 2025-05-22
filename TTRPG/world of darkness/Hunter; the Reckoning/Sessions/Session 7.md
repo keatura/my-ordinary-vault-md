@@ -61,6 +61,8 @@ The Fight ensues
 #### Things they can investigate
 The defending Coterie of the Camarilla is hanging out by the Church in a small red Ford Focus. It has three vampires inside all are in their 20's and are nervous.
 
+
+
 #### Scene
 Scene description.
 
