@@ -45,22 +45,21 @@ Open with all three of the people sitting in a fast food place. It's quiet, only
 The letter states:
 "You three are valuable assets, and some of the last Hunters in the City. 
 
-At 12pm tonight, there will be 'gang violence' "
+At 12pm tonight, there will be 'incidental gang warfare' on 18th street, the one by the river.
 
-#### Jessie
-Scene description.
+Intervene and remove all of the Blanks on both sides and we will reward you with more information, and a sponsorship.
 
-#### Wolfie
-Scene description.
+We will be watching."
 
-#### Nikita
-Scene description.
+- it's currently evening (like 7pm) and around December.
+- it's below freezing outside and there is fresh snow falling, about an inch or two on the ground.
+- Any driving done is done slowly or you must make a check to not crash.
 
-## Chapter
-Scene description.
+## 18th Street
+The Fight ensues
 
-#### Scene
-Scene description.
+#### Things they can investigate
+The defending Coterie of the Camarilla is hanging out by the Church in a small sedan. It is three vampires inside 
 
 #### Scene
 Scene description.
