@@ -40,7 +40,10 @@ Opening summary of the state of things:
 > 
 
 #### Opening Scene
-Open with all three of the people sitting in a fast food place. It's quiet, only a couple employees behind the counter and one guy who had just picked up his food by the time they entered. 
+Open with all three of the people sitting in a fast food place. It's quiet, only a couple employees behind the counter and one guy who had just picked up his food by the time they entered. He is wearing dark clothing that looks like it could use a wash, with a baseball cap on his head and a hood pulled over. After a while, this guy stands up to leave, and bumps by you along the way, and a letter falls onto the table in front of you.
+
+The letter states:
+4
 
 #### Jessie
 Scene description.
