@@ -58,8 +58,10 @@ We will be watching."
 ## 18th Street
 The Fight ensues
 
+The neighborhood surrounding 18th Street looks almost abandoned, maybe a few houses have cars that *might* work out front, the rest do not look inhabited. 
+
 #### Things they can investigate
-The defending Coterie of the Camarilla is hanging out by the Church in a small red Ford Focus. It has three vampires inside all are in their 20's and are nervous.
+The defending Coterie of the Camarilla is hanging out in an abandoned building nearby the church, lying in wait. They may see the party if they are walking out in the open.
 
 
 
