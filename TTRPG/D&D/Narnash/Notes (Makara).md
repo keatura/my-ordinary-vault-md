@@ -192,4 +192,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - searching through his piles of clothes looking for something, saw something shiny
 - nothing in the pile of coats
 - fails the second check sob
+- gets grabbed and picked up by Namic, still invisible though
+- Nem is not a very good thief
 - 
