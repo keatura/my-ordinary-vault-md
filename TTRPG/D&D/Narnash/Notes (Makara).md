@@ -181,4 +181,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Dilys and Makara are very awkwardly enjoying each others company
 - Asphodel is informing Latoya of us claiming the Viper
 - He thinks the boat is his to turn in along with Namic
+- Not Right!
+- we all finally are introduced to each other 
 - 
