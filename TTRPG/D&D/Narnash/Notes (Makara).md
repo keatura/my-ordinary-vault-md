@@ -164,4 +164,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - its really good
 
 # 5/24/25
+- Makara is dreaming
+- Shes all alone, first in Vibols apartment, then in her house.
+- It starts raining and thundering outside and then she finds herself in the Arena, the White Wolf in front of her, it's head down almost with gratitude
+- The sword is covered in blood, and it seems to absorb the blood as she picks it up, before falling back asleep and waking up in the morning
+- Dilys stays up all night navigating and journaling
+- Namic wants his maps back
 - 
