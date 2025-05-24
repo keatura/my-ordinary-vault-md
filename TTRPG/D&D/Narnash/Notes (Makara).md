@@ -174,4 +174,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - funny monkey :3
 - lil bro is really hungry after the big battle
 - Olivia asks Asphodel to fly to the Reef Spreader to tell them about our funny new acquisition
+- Nem shows up
+- fails 2 stealth checks in a row 
 - 
