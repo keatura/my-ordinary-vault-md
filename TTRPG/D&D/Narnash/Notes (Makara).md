@@ -176,4 +176,9 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Olivia asks Asphodel to fly to the Reef Spreader to tell them about our funny new acquisition
 - Nem shows up
 - fails 2 stealth checks in a row 
+- gets found out
+- one of the crew members that heard them go and find Olivia
+- Dilys and Makara are very awkwardly enjoying each others company
+- Asphodel is informing Latoya of us claiming the Viper
+- He thinks the boat is his to turn in along with Namic
 - 
