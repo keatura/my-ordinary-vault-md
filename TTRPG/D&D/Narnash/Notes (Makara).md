@@ -194,4 +194,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - fails the second check sob
 - gets grabbed and picked up by Namic, still invisible though
 - Nem is not a very good thief
+- Namic has a big ancient coin that made Nem forget what they were doing and be compelled to follow Namic's orders
 - 
