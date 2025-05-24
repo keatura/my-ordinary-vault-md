@@ -186,4 +186,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - preparing for the talk with Latoya
 - Dilys is looking at the artifact again, it's still pointing towards Saze
 - The Discussions begin
+- Nem casts mislead and spies on Namic
+- Namic is just polishing his armor and has his swords out
+- trying to lure Namic somewhere
 - 
