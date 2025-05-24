@@ -189,4 +189,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Nem casts mislead and spies on Namic
 - Namic is just polishing his armor and has his swords out
 - trying to lure Namic somewhere
+- searching through his piles of clothes looking for something, saw something shiny
+- nothing in the pile of coats
+- fails the second check sob
 - 
