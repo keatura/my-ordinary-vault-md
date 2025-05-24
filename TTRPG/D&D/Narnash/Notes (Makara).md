@@ -185,4 +185,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - we all finally are introduced to each other 
 - preparing for the talk with Latoya
 - Dilys is looking at the artifact again, it's still pointing towards Saze
+- The Discussions begin
 - 
