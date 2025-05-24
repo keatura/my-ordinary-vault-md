@@ -173,4 +173,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Asphodel is walking around the ship and runs into Rodney again
 - funny monkey :3
 - lil bro is really hungry after the big battle
+- Olivia asks Asphodel to fly to the Reef Spreader to tell them about our funny new acquisition
 - 
