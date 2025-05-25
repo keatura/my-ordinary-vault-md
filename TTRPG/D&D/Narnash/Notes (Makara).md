@@ -200,4 +200,13 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - the Modify Memory doesnt work, but he hands himself over peacefully
 - We have a LOTR esque travel timeline to the village to meet Turathil while Olivia and Makara have a chat about armor
 - We get to this small windy village on the coast, and finally take a bath then head to the tavern to speak with Turathil
+- there was a group of elves called The Lancers on the coast
+- The Lancers were basically precursors to the Druids of Pern
+- It composed of almost entirely Elves, and had the same general goal as the Druids now take on
+- "K-Title" artifacts exist, probably something to do with my sword
+- an Elf in The Lancers had a "K-Title" artifact
+- apparently some dragons have these K-Title artifacts
+- The Lancers were basically a resistance group and were ancestors of the werewolf killers of old, their weapons were called "lances"
+- They eventually devolved and joined with the Druids, most likely longer exist
+- Supposedly had libraries hidden underground around Narnash
 - 
