@@ -209,4 +209,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - The Lancers were basically a resistance group and were ancestors of the werewolf killers of old, their weapons were called "lances"
 - They eventually devolved and joined with the Druids, most likely longer exist
 - Supposedly had libraries hidden underground around Narnash
+- Most K-Titles are owned by dragons
+- Dyami keeps track of the K-Titles
+- During the war a lot of the first attacks were done on dragons' keeps
+	- The higher-ups in Dyami were probably looking for these K-Titles
 - 
