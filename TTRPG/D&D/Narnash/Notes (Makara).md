@@ -214,4 +214,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - During the war a lot of the first attacks were done on dragons' keeps
 	- The higher-ups in Dyami were probably looking for these K-Titles
 - Another K-Title was named "The Exchange"
+- Olivia gets high with Turathil in the woods
+- she is NOT beating the allegations
 - 
