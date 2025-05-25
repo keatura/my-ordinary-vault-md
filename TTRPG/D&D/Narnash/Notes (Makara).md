@@ -198,4 +198,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Namic got the ship from Sharp Bay
 - He doesnt know where it was created or what the cuts are
 - the Modify Memory doesnt work, but he hands himself over peacefully
+- We have a LOTR esque travel timeline to the village to meet Turathil while Olivia and Makara have a chat about armor
+- We get to this small windy village on the coast, and finally take a bath then head to the tavern to speak with Turathil
 - 
