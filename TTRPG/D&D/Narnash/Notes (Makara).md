@@ -216,4 +216,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Another K-Title was named "The Exchange"
 - Olivia gets high with Turathil in the woods
 - she is NOT beating the allegations
+- Nemm gets a comically large blunt and gets super high
+- Makara buys everyone a drink and then tries to start conversation
 - 
