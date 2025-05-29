@@ -10,16 +10,15 @@ There are many races of Andaefelt, which will be listed here in no particular or
 8. Runesteel Men (warforged)
 9. Goblins
 10. Orcs and Half-Orcs
-11. 
 
 Languages
-11. Common
-12. Zevkan
-13. Iyamarian
-14. Dwarven
-15. Asyrian
-16. Draconic
-17. Celestial
-18. Undercommon
-19. Thieves Cant
-20. Druidic
+1. Common
+2. Zevkan
+3. Iyamarian
+4. Dwarven
+5. Asyrian
+6. Draconic
+7. Celestial
+8. Undercommon
+9. Thieves Cant
+10. Druidic

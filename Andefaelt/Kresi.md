@@ -44,5 +44,5 @@ While Kresi has the dagger drawn, he can use a bonus action to activate one of t
 - Cause a blue gem set into the dagger's pommel to shed bright light in a 20-foot radius and dim light for an additional 20 feet, or make the gem go dark.
 - Turn the dagger into a compass that, while resting on your palm, points north.
 - Cast [Dimension Door](http://dnd5e.wikidot.com/spell:dimension-door) from the dagger. Once this property is used, it can't be used again until the next dawn.
-- Cast [Compulsion](http://dnd5e.wikidot.com/spell:compulsion) (save DC 15) from the dagger. The range of the spell increases to 90 feet, but it targets only spiders that are beasts. Once this property is used, it can't be used again until the next dawn.
+- Cast [Compulsion](http://dnd5e.wikidot.com/spell:compulsion) (save DC 15) from the dagger. The range of the spell increases to 90 feet. Once this property is used, it can't be used again until the next dawn.
 
