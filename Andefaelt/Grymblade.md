@@ -2,7 +2,7 @@
 
 ###### Weapon (Halberd), Legendary (Requires attunement)
 
-The Grymblade is a 6 foot tall scythe with a massive curved blade on the top. despite the visual misbalance, the weapon is balanced perfectly for any user who is attuned to it. It was originally the weapon the of the first Iyamarian King, Tyris, who used it to bring a central government to Iyamari and conquer any who stood against him. The weapon then was lost during the Battle of Thrysta, where the King was slain, and the weapon was thought to have been lost to the ruins of Thrysta, forgotten to everyone but Elven history. Unknown to public knowledge, Julia Umberlain has recovered the weapon and keeps it as her personal defense weapon.
+The Grymblade is a 6 foot tall scythe with a massive curved blade on the top. despite the visual misbalance, the weapon is balanced perfectly for any user who is attuned to it. It was originally the weapon the of the first Iyamarian King, Tyris, who used it to bring a central government to Iyamari and conquer any who stood against him. The weapon then was lost during the Battle of Thrysta, where the King was slain, and the weapon was thought to have been lost to the ruins of Thrysta, forgotten to everyone but Elven history. Unknown to public knowledge, Julia Umberlain has recovered the weapon and keeps it as a tool to extend her lifespan, and thereby her rule of Voxis.
 
 While attuned to the Grymblade, you gain the following features:
 
