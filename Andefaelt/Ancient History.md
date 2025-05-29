@@ -1,4 +1,4 @@
- The first bits of recorded history in Andefaelt is that of the Taeki Monastery. These include recorded accounts of battles, civilizations, and most important- the historical use of Relentium. The current calendar starts on the first year recorded by this monastery, and continues to the current day. The current year as of the start of the campaign is Year 1865.
+ The first bits of recorded history in Andefaelt is that of the Taeki Monastery. These include recorded accounts of battles, civilizations, and most important- the historical use of Relentium. The current calendar starts on the first year recorded by this monastery, and continues to the current day. The current year as of the start of the campaign is Year 1265.
 
 -The first inter-island travel (Year 11)
 The first occurrence of people splitting out onto other islands happened only 11 years after the first known recording of history. A Human by the name of Ulta Ceran, the first sorcerer, created a form of glider to carry himself on winds with the assistance of magic and Relentium to explore outwards.
