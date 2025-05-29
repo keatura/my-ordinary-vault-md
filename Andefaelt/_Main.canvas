@@ -17,7 +17,6 @@
 		{"id":"ff88802c3f378db4","type":"file","file":"git/Andefaelt/Andefaelt Intro.md","x":-240,"y":1400,"width":880,"height":900},
 		{"id":"5b3768404f814832","type":"file","file":"git/TTRPG/D&D/Homebrew/Reworked War Cleric.md","x":-2480,"y":2581,"width":400,"height":424},
 		{"id":"d904b60d73930b80","type":"file","file":"git/Andefaelt/I Know a Guy.md","x":-2000,"y":2581,"width":400,"height":424},
-		{"id":"84fe01b6112aca82","type":"file","file":"git/Andefaelt/Sword of Temporal Justice.md","x":-800,"y":2595,"width":400,"height":400},
 		{"id":"ae8fae89d1e8170a","type":"file","file":"git/Andefaelt/Firearm Expert.md","x":-2000,"y":3075,"width":400,"height":396},
 		{"id":"32fef7d2c2459276","type":"file","file":"git/Andefaelt/TES.md","x":-2480,"y":3075,"width":400,"height":396},
 		{"id":"37a161936c10324b","type":"file","file":"git/Andefaelt/Automatons.md","x":-1260,"y":520,"width":880,"height":400,"color":"4"},
@@ -85,7 +84,8 @@
 		{"id":"99aeca5bdbf616ab","type":"file","file":"git/Andefaelt/Kaine (truth, and knowledge).md","x":793,"y":3380,"width":400,"height":400,"color":"#ffffff"},
 		{"id":"833d77dd9b6bd194","type":"file","file":"git/Andefaelt/Kadis ( the god of endings).md","x":1974,"y":2320,"width":666,"height":720,"color":"#ffffff"},
 		{"id":"49a80e5fbe8cecde","type":"file","file":"The Extinction of Dragons.md","x":1360,"y":-2380,"width":400,"height":400,"color":"2"},
-		{"id":"52b90bbefffa4560","type":"file","file":"The Mythos of the Afterlife.md","x":860,"y":-1900,"width":400,"height":400,"color":"2"}
+		{"id":"52b90bbefffa4560","type":"file","file":"The Mythos of the Afterlife.md","x":860,"y":-1900,"width":400,"height":400,"color":"2"},
+		{"id":"84fe01b6112aca82","type":"file","file":"git/Andefaelt/Sword of Temporal Justice.md","x":-800,"y":2595,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"5667b2d80f5d2aee","fromNode":"79134e09a30b8d4c","fromSide":"bottom","toNode":"29483aee89a77157","toSide":"top","color":"5"},
