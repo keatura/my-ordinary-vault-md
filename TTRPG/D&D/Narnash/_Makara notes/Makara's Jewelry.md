@@ -1,1 +1,1 @@
-She has a 
+She has a solid gold banded bracelet, as well as an individual cloth silver and black braided bracelets all around her right wrist, and around her left wrist she has a golden hand chain bracelet that wraps around her finger, and then comes back and wraps around her wrist a couple times almost like wrapping a necklace around your wrist, that dangles down into a pendant of a flying falcon clutching the sun in it's talons
