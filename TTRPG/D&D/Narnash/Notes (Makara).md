@@ -227,4 +227,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - As they are walking to the captains quarters they see two women who are very dressed up, one in red is Ivory, the one in green and blue is Iris. They have makeup and eyeshadow and dresses, etc
 - Damian walks out behind them
 - :sob:
+- One of them has a silly bird
 - 
