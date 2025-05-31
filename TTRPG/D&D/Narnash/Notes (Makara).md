@@ -236,4 +236,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - sails for 600g but i only gave her 500gp in gems :sunglasses:
 - Makara has Zero Rizz
 - Makara recognizes some random person, they hide their face and scuttle away
+- Makara encounters **Blake**, a random merchant she put out of business after beating in a duel 20 years ago
+- they have an embarassing argument on the street
+- Asphodel and Dilys see Makara looking like her human self
 - 
