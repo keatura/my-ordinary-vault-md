@@ -232,4 +232,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Olivia and Nemm go to look at sand for fun
 - It materializes as a small peacock head and starts speaking to Nemm
 - He wants to know why he is still here and what to do next, confused because he survived something he shouldn't of
+- We buy the boat repairs for 1000g 
+- sails for 600g but i only gave her 500gp in gems :sunglasses:
 - 
