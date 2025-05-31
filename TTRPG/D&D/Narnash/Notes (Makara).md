@@ -234,4 +234,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - He wants to know why he is still here and what to do next, confused because he survived something he shouldn't of
 - We buy the boat repairs for 1000g 
 - sails for 600g but i only gave her 500gp in gems :sunglasses:
+- Makara has Zero Rizz
+- Makara recognizes some random person, they hide their face and scuttle away
 - 
