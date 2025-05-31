@@ -218,4 +218,4 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - she is NOT beating the allegations
 - Nemm gets a comically large blunt and gets super high
 - Makara buys everyone a drink and then tries to start conversation
-- 
+- We head back to Penshaw and Makara buys half-plate and orders a custom helmet
