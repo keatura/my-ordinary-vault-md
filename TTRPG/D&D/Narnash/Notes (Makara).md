@@ -221,4 +221,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - We head back to Penshaw and Makara buys half-plate and orders a custom helmet
 
 # 5/31/25
+- We start fast travelling to Saze FINALLY
+- Nemm is finally getting to see the artifact
+- Olivia obliges
+- As they are walking to the captains quarters they see two women who are very dressed up, one in red is Ivory, the one in green and blue is Iris. They have makeup and eyeshadow and dresses, etc
 - 
