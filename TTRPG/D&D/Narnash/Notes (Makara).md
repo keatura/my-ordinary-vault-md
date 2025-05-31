@@ -228,4 +228,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Damian walks out behind them
 - :sob:
 - One of them has a silly bird
+- Damian aura farms away
+- Olivia and Nemm go to look at sand for fun
+- It materializes as a small peacock head and starts speaking to Nemm
+- He wants to know why he is still here and what to do next, confused because he survived something he shouldn't of
 - 
