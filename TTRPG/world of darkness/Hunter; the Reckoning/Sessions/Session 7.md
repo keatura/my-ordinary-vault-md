@@ -65,7 +65,7 @@ The neighborhood surrounding 18th Street looks almost abandoned, maybe a few hou
 
 The defending Coterie of the Camarilla is hanging out in an abandoned building nearby the church, lying in wait. They may see the party if they are walking out in the open. at around midnight, the opposing group of 5 sabbat shovelheads starts heading into the area, looking to find a warehouse that is used as storage for Detroit's Elysium.
 
-
+Elysium is being hosted soon, so the warehouse is full of vampire goodies like kidnapped victims and 
 
 #### Scene
 Scene description.
