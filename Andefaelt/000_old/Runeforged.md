@@ -13,7 +13,7 @@ Runeforged are naturally inclined to be Neutral, but may take up personality tra
 A Runeforged is generally between five and a half feet and 7 feet tall, depending on the manufacturer and year of creation. Your size is medium.
 
 **Speed**
-Your base walking speed is 25 feet.
+Your base walking speed is 30 feet.
 
 **Constructed Resilience**
 You were created to have remarkable fortitude, represented by the following benefits:
@@ -23,10 +23,10 @@ You were created to have remarkable fortitude, represented by the following bene
 - You don't need to sleep, and magic can't put you to sleep.
 
 **Fuel Dependent**
-As a mechanical being, you do not need to sleep. Although, you start to run out of fuel after roughly 7 days. You can refill by fueling yourself with 1gp worth of diesel, which can be bought in cans and carried. When you run out of fuel, you gain 1 level of exhaustion per hour, until you reach 5 levels where you shut off and become dormant until someone refills your tank. After you are refilled, you return back to normal with no levels of exhaustion.
+As a mechanical being, you do not need to eat or sleep. Although, you start to run out of fuel after roughly 7 days. You can refill by fueling yourself with 1gp worth of diesel, which can be bought in cans and carried. When you run out of fuel, you gain 1 level of exhaustion per hour, until you reach 5 levels where you shut off and become dormant until someone refills your tank. After you are refilled, you return back to normal with no levels of exhaustion.
 
 **Idle**
-When a Runeforged has the opportunity to long rest, instead of staying awake they may choose to enter a low-function state of idling. During this period, they regain 1/2 of a day's worth of fuel, and count as having taken a long rest.
+When a Runeforged has the opportunity to long rest, instead of staying awake they may choose to enter a low-function state of idling. During this period, they regain 1 day's worth of fuel, but count as a completely inert object during this time, only woken up earlier if a companion forces them to for any reason. 
 
 **Integrated Protection**
 Your body has built-in defensive layers, which can be enhanced with armor.
@@ -35,7 +35,10 @@ Your body has built-in defensive layers, which can be enhanced with armor.
 - While you live, your armor can't be removed from your body against your will.
 
 **Powerful Build**
-You count as one size larger when determining carrying capacity.
+Your carry weight capacity is doubled.
 
 **Languages**
 You can read and write Common, and one other language of your choice.
+
+- Runeforged can "breathe" underwater due to a air tank buffer incase they are submerged.
+- They ingest fuel by drinking it
