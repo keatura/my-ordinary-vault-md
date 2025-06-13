@@ -35,19 +35,27 @@ You can read and write Common.
 **Size**
 A Light Runeforged is generally between three and 5 and a half feet tall, depending on the manufacturer and year of creation. Your size is medium or small.
 
+**Weight.** A Light Runeforged is generally between 150 and 300lbs.
+
+**Ability Score Improvement.** One ability score increases by 2 and your Strength decreases by 1.
+
 ##### Medium Build
 
 **Size**
 A Medium Runeforged is generally between five and a half feet and 6 and a half feet tall, depending on the manufacturer and year of creation. Your size is medium.
+
+**Weight.** A Medium Runeforged is generally between 300 and 600lbs.
+
+**Ability Score Improvement.** One ability score increases by two and another decreases by 1.
 
 ##### Heavy Build
 
 **Size**
 A Heavy Runeforged is generally between 6 and a half feet and 8 feet tall, depending on the manufacturer and year of creation. Your size is medium.
 
-**Ability Score Improvement.** Your Strength increases by 2 and your Dexterity decreases by 1.
-
 **Weight.** A Heavy Runeforged is generally between 600 and 900lbs.
+
+**Ability Score Improvement.** Your Strength increases by 2 and your Dexterity decreases by 1.
 
 **Integrated Protection.** Your body has built-in defensive layers. You gain a +1 bonus to Armor Class.
 
