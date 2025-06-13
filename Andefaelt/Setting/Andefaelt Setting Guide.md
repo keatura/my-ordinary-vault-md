@@ -48,11 +48,11 @@
 --- 
 # Resources
 
-## [[Flaxite]]
+## [[Moxite]]
 
-##### [[Flaxite Crystal Formation]]
+##### [[Moxite Crystal Formation]]
 
-##### [[Flaxite Uses other than Runesteel]]
+##### [[Moxite Uses other than Runesteel]]
 ## [[Metals]]
 
 ## [[Natural Resources]]
