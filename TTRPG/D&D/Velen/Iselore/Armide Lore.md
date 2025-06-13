@@ -47,6 +47,7 @@ Armide's voice is raspy and quiet, and generally she sounds sickly at all times.
 #### Step 1: Research
 - [ ] Investigate into the powerful spellcasters of Velen. Faridoon could be of use.
 - [ ] Figure out where the Druid Circles are. Ideally the Circle of the Stars, but that will most definitely prove to be extremely difficult.
+	- There is a Druid in Lightkeep named Aurosiph. She is both a wizard and a druid, related to Ceres but was also very well esteemed in Alar. She is a very old Elf, and she Might know about the Star Druids. 
 - [ ] Convince said Circle(s) to help me through any means possible. Threats and blackmail is NOT ideal but anything to make it work.
 
 #### Step 2
@@ -142,16 +143,17 @@ After the betrayal, Armide was left injured and in immense depths of pain on the
 # Lore
 
 ## The lore and history of Velen
-**Current Year: 803.**
+**Current Year: 1606.**
 
 **After Arrival 000.**
 After Humans settled on Velen, three Empires were formed; The Empires of Duskite, loyal to Galvis. and Alar, who were exceptionally advanced at magic and polytheistic.
 
+(**~~ 500 AA**)
 During the first period of settlement, Duskite controlled a majority of the land. Though this changed with King Adam I. He started the Godline lineage and was blessed by Selestis. After his blessing, King Adam I approached Solustar, the capital of Duskite, and took it, forming the city-state of Arduras. After this, Arduras grew in power and formed a rivalry with Duskite, starting a sort of "cold war".
 
 During this period of centuries where Duskite and Arduras were rivals, Alar steadily expanded and grew in power. Though, seeing what happened with Solustar, and the rampant militarization of Arduras under the guidance of Selestis, Alar grew more creative with their magic. Tension started to grow between brew between Arduras and Alar.
 
-Around the late 600's AA, Emperor Damianos is in power, and a very talented wizard. He does not submit to Arduras, and stands up against them, insulting them and moving his nation to action. Finally, after years of prep, Damianos claims that Selestis is a poor choice of god, did not create magic, and transforms himself into raw magical energy. This action both angers and scares Arduras, who then declare a full crusade against Alar. Damianos, realizing they were using religion to push the war, evaporates the main Church of Selestis in Arduras, blowing it to pieces. This causes a full war between Alar and Arduras. 
+Around the late 1300's AA, Emperor Damianos is in power, and a very talented wizard. He does not submit to Arduras, and stands up against them, insulting them and moving his nation to action. Finally, after years of prep, Damianos claims that Selestis is a poor choice of god, did not create magic, and transforms himself into raw magical energy. This action both angers and scares Arduras, who then declare a full crusade against Alar. Damianos, realizing they were using religion to push the war, evaporates the main Church of Selestis in Arduras, blowing it to pieces. This causes a full war between Alar and Arduras. 
 
 After years of war, and Selestis pushing far into Alarian territory, the Arduran Army makes it to the capital of Alar, Hali. When they are about to reach the Silver Palace and end the war, a large amount of fog pours over the landscape, and the Silver Palace disappears as if it was never there, and disappeared with no trace.
 
