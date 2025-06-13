@@ -4,15 +4,22 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 # Andefaelt
 
 ## [[Geography]]
-## Countries
+### [[Ederna]]
+#### [[The World Pillars]]
+## [[Nations]]
 
 ### [[Zevka]]
 
+##### [[Zevkan Capital]]
 ### [[The Asyrian Empire]]
 
+##### [[Asyrian Capital]]
 ### [[Onyxia]]
 
+##### [[Onyxian Capital, Noraveas]]
 ### [[Iyamari]]
+
+##### [[Iyamari' Capital]]
 
 --- 
 
