@@ -1,6 +1,6 @@
 ### Overview
 
-Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live on islands in the sky surrounding a great eternal hurricane-like storm, Ederna. 
+Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live on islands in the sky surrounding a great eternal hurricane-like storm, Ederna. Accompanying this, there are 4 Great World Pillars, and while little is know about them to the people of the 
 # Andefaelt
 
 ## [[Geography]]
