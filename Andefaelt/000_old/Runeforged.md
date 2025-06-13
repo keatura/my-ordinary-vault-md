@@ -59,7 +59,7 @@ You can read and write Common.
 
 **Mechanical Strength.** Your powerful build allows for you to handle heavy weights with ease.
 - You count as one size larger when determining your carry weight.
-	- A number of times per day equal to your proficiency bonus, you may attempt to grapple a creature as an action (or a willing creature), then throw them. The distance you may throw them is equal to twice your strength score (rounded up to the nearest square), after they are thrown, they have to make a DC 15 Acrobatics check or fall prone.
+	- A number of times per day equal to your proficiency bonus, you may attempt to grapple a creature of the same size or smaller than you, as an action (or a willing creature), then throw them. The distance you may throw them is equal to twice your strength score (rounded up to the nearest square), after they are thrown, they have to make a DC 15 Acrobatics check or fall prone.
 
 ##### Manufacturers
 
