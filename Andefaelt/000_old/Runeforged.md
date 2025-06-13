@@ -13,7 +13,7 @@ Runeforged are naturally inclined to be Neutral, but may take up personality tra
 A Runeforged is generally between five and a half feet and 7 feet tall, depending on the manufacturer and year of creation. Your size is medium.
 
 **Speed**
-Your base walking speed is 30 feet.
+Your base walking speed is 25 feet.
 
 **Constructed Resilience**
 You were created to have remarkable fortitude, represented by the following benefits:

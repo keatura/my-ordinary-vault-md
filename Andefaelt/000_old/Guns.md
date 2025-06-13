@@ -23,7 +23,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Rifle, bolt action         | 75gp             | 2d8 +dex                  | 7lbs   | Reload (4), Range (200/600), Two Handed                                                    |
 | Rifle, military            | 100gp            | 2d8 +dex                  | 6lbs   | Reload (6), Range (200/600), Two Handed                                                    |
 | Shotgun, tube fed          | 150gp            | 1d12 +dex                 | 5lbs   | Reload(4), Range (40/120), Buckshot, Two Handed                                            |
-| Rifle, anti-materiel       | 500gp            | 4d10 +dex                 | 20lbs  | Str 15, Reload (1), Range (200/600), Two Handed, Heavy, Anti-Materiel                      |
+| Rifle, anti-materiel       | 500gp            | 4d10 +dex                 | 20lbs  | Str 13, Reload (1), Range (200/600), Two Handed, Heavy, Anti-Materiel                      |
 | **Exotic Ranged Weapons**  |                  |                           |        |                                                                                            |
 | Rifle, supercharged        | -                | 2d8 (4d8+64 Force) +dex   | 20lbs  | Reload(1), Range (600), Two Handed, Heavy, Special                                         |
 | Pistol, supercharged       | -                | 2d4 (4d4 + 32 force) +dex | 5lbs   | Reload(3), Range (60/180), Two Handed, Special                                             |
