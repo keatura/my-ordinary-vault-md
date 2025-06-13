@@ -46,8 +46,8 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 
 ##### [[Runeforged]]
 
-###### [[Laborjacks]]
-##### [[Warjacks]]
+###### [['Laborjacks]]
+##### [['Warjacks]]
 ## [[Airships and Planes]]
 
 ##### [[Airships]]
