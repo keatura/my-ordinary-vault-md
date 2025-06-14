@@ -489,4 +489,7 @@
 - We get to Lightkeep to fix Artix and Anesidora
 - weird old doctor guy staples Anesidoras arm on and she gets a strength buff
 - Artix gets put under but before he passes out the old man is greeted by Kalathoth and referred to as Molgast
+- somehow he got out of the Feywild
+- before me
+	- Sob
 - 
