@@ -39,12 +39,12 @@
 - [ ] Life Of Brian
 - [ ] Free Guy
 - [ ] Pixels
-- [ ] Starship Troopers
+- [x] Starship Troopers
 - [ ] War of the Worlds (tom cruise one)
 - [ ] Bayverse Transformers
 - [ ] FNAF Movie
 - [ ] FNAF 2 Movie
-- [ ] Minecraft Movie
+- [x] Minecraft Movie
 - [ ] 
 
 # Animated Movies
@@ -82,7 +82,7 @@
 - [x] MSG: Witch from Mercury Prologue
 - [x] MSG: Witch from Mercury Part 1
 - [x] MSG: Witch from Mercury Part 2
-- [ ] Jujutsu Kaisen Season 1
+- [x] Jujutsu Kaisen Season 1
 - [ ] JJK Movie
 - [ ] JJK Season 2
 - [ ] MSG: GQuuuuuX
@@ -112,8 +112,8 @@
 - [ ] Attack On Titan S4
 - [ ] Brand New Animal
 - [ ] Cyberpunk: Edgerunners
-- [ ] Dungeon Meshi
-- [ ] Frieren
+- [x] Dungeon Meshi
+- [x] Frieren
 - [ ] JoJo's Bizarre Adventure
 - [ ] Violet Evergarden
 - [ ] Ranma 1/2
