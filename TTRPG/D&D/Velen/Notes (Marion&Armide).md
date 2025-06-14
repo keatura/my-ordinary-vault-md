@@ -483,4 +483,6 @@
 - after a while she stops and sees a path in front of her
 - as she walks along it she sees a meteor with a fancy wooden chair on it
 - in the chair she sees the Bloodstar
+- he isn't anointed but wants to kill the anointed
+- his research of blood is fueled by this desire
 - 
