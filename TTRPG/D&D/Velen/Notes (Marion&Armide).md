@@ -486,4 +486,7 @@
 - he isn't anointed but wants to kill the anointed
 - his research of blood is fueled by this desire
 - Armide is getting caught up to the events of last session
+- We get to Lightkeep to fix Artix and Anesidora
+- weird old doctor guy staples Anesidoras arm on and she gets a strength buff
+- Artix gets put under but before he passes out the old man is greeted by Kalathoth and referred to as Molgast
 - 
