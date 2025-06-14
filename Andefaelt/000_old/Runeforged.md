@@ -12,7 +12,7 @@ Your base walking speed is 25 feet.
 **Constructed Resilience**
 You were created to have remarkable fortitude, represented by the following benefits:
 - You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
-- You don’t need to eat, or drink.
+- You don’t need to eat or drink.
 - You are immune to disease.
 - You don't need to sleep, and magic can't put you to sleep.
 
@@ -48,6 +48,10 @@ You can read and write Common.
 **Ability Score Improvement.** All your ability scores increase by 1.
 
 **Speed.** your speed increases by 5 feet, up to 30ft.
+
+**Machined Ingenuity.** Designed to make even the worst situations work, you are incredibly adaptable. When you long rest, select a skill you currently do not have proficiency in. You gain proficiency in that skill, and you may switch what skill you have chosen on a long rest.
+
+
 
 ##### Heavy Build
 
