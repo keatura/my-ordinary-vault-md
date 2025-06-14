@@ -229,6 +229,8 @@ One day, after about 2 years of the conquest, Vrazda confided in Iselore that th
 - **The Circle of Stars**(?) - No clue where any of them are.
 - **Artix** - bonded over their shared feelings of loss. Armide is searching for connection through her deluded self-centeredness and may try and find that in him.
 - **Mason** - possible star druid in Civotnair
+- **Vorogast** - like maybe???????
+- 
 
 ## Enemies
 
