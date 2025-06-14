@@ -477,4 +477,10 @@
 	- sigh
 
 # 6/14/25
+- Armide is in a forest destroyed by blackflame
+- she looks up and sees a red star- Galuvs
+- she starts levitating upwards towards it
+- after a while she stops and sees a path in front of her
+- as she walks along it she sees a meteor with a fancy wooden chair on it
+- in the chair she sees the Bloodstar
 - 
