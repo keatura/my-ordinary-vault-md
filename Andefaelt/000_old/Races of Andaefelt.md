@@ -2,14 +2,13 @@ There are many races of Andaefelt, which will be listed here in no particular or
 
 1. Humans
 2. Dragonborn
-3. Half-orcs
-4. Ukucha (Tabaxi)
-5. Elves and Half-Elves
-6. Dwarves
-7. Kobolds
-8. Runesteel Men (warforged)
-9. Goblins
-10. Orcs and Half-Orcs
+3. Ukucha (Tabaxi)
+4. Elves and Half-Elves
+5. Dwarves
+6. Kobolds
+7. Runesteel Men (warforged)
+8. Goblins
+9. Orcs and Half-Orcs
 
 Languages
 1. Common
