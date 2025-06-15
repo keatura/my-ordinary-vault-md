@@ -5,7 +5,7 @@ Their nature means that Runeforged do not have a concept of "gender" the same wa
 - It/Its
 Though, they do accept traditional gendered pronouns as a form of closer bond to people they are close to, whether friends or coworkers.
 
-Some Runeforged choose to not work in physical labor, finding other means of fulfillment, 
+Some Runeforged choose to not work in physical labor, finding other means of fulfillment, whether that be music, dancing, or other art forms. 
 
 **Age**
 A Runeforged' body typically lasts around 20 years before needing major repairs. due to real sentience in Runeforged' cortexes only being a more recent development, it is unsure how long a cortex lasts before its ability to retain memories and emotions fades, though regular maintenance can extend this. It is impossible to transfer memories from one cortex to another, so if a cortex is to fade, it is permanent death.
@@ -35,6 +35,7 @@ You can read and write Common.
 **Subspecies.**
 
 ##### Light Build
+**"Light Build" Runeforged **
 
 **Size.** A Light Runeforged is generally between three and 5 and a half feet tall, depending on the manufacturer and year of creation. Your size is medium or small.
 
