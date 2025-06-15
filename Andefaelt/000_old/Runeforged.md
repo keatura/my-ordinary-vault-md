@@ -38,7 +38,7 @@ You can read and write Common.
 
 **Size.** A Light Runeforged is generally between three and 5 and a half feet tall, depending on the manufacturer and year of creation. Your size is medium or small.
 
-**Weight.** A Light Runeforged is generally between 150 and 300lbs.
+**Weight.** A Light Runeforged is generally between 100 and 200lbs.
 
 **Ability Score Improvement.** One ability score increases by 2 and your Dexterity score increases by 1.
 
@@ -46,7 +46,7 @@ You can read and write Common.
 
 **Light Step.** When you are travelling alone, you may move stealthily at a normal pace. you may also attempt to hide as a bonus action.
 
-**Extra Limbs.**
+**Extra Limbs.** Due to their small size and weight, Light Runeforged 
 
 ##### Medium Build
 **"Medium Build" Runeforged are versatile, and the most humanoid of all of the builds. Engineered to take on any job, they will have tools built into their bodies to assist them in the day-to-day. These Runeforged are often found in jobs such as bars and restaurants, because they are consistent and quick, and often do not suffer the same margin of error that the biological species do. These Runeforged stand a similar height, tall and straight, with recognizable proportions, taking after the humanoid species.**
