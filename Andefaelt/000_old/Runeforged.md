@@ -42,9 +42,9 @@ You can read and write Common.
 
 **Speed.** Your speed increases by 10 feet, up to 35 feet. 
 
-**Built for Exploration.**
-- You gain Proficiency in the Survival skill. If you already have Proficiency in this skill, you gain Expertise.
-- 
+**Light Step.** When you are travelling alone, you may move stealthily at a normal pace. you may also attempt to hide as a bonus action.
+
+**Extra Limbs.** Light Warforged 
 
 ##### Medium Build
 **"Medium Build" Runeforged are versatile, and the most humanoid of all of the builds. Engineered to take on any job, they will have tools built into their bodies to assist them in the day-to-day. These Runeforged are often found in jobs such as bars and restaurants, because they are consistent and quick, and often do not suffer the same margin of error that the biological species do. These Runeforged stand a similar height, tall and straight, with recognizable proportions, taking after the humanoid species.**
