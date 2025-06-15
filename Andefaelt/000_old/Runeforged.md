@@ -44,7 +44,7 @@ You can read and write Common.
 
 **Speed.** Your speed increases by 10 feet, up to 35 feet. 
 
-**Light Step.** When you are travelling alone, you may move stealthily at a normal pace. you may also attempt to hide as a bonus action.
+**Light Step.** You have special padding in your feet to play off your light weight. When you are travelling alone, you may move stealthily at a normal pace. you may also attempt to hide as a bonus action.
 
 **Gliding Wings.**  Due to their small size and weight, Light Runeforged have a unique capability. You have a retractable pair of wings capable of gliding. When you are falling, you can control your falling speed, to a minimum of 10 feet per round. While you are falling, you can move up to your speed per turn.
 - **Overclock.** You gain a fly speed equal to your speed for 1 hour.
