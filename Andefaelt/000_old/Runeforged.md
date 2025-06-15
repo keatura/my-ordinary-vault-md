@@ -46,7 +46,10 @@ You can read and write Common.
 
 **Light Step.** When you are travelling alone, you may move stealthily at a normal pace. you may also attempt to hide as a bonus action.
 
-**Extra Limbs.** Due to their small size and weight, Light Runeforged 
+**Gliding Wings.**  Due to their small size and weight, Light Runeforged have a unique capability. You have a retractable pair of wings capable of gliding. When you are falling, you can control your falling speed, to a minimum of 10 feet per round. While you are falling, you can move up to your speed per turn.
+- **Overclock.** You gain a fly speed equal to your speed for 1 hour.
+
+**Extra Limbs.** On the ends of your wings, you have an extra set of hands that  can manipulate an object, open or close a door or container, pick up or set down a Tiny object, or wield a weapon that has the light property. 
 
 ##### Medium Build
 **"Medium Build" Runeforged are versatile, and the most humanoid of all of the builds. Engineered to take on any job, they will have tools built into their bodies to assist them in the day-to-day. These Runeforged are often found in jobs such as bars and restaurants, because they are consistent and quick, and often do not suffer the same margin of error that the biological species do. These Runeforged stand a similar height, tall and straight, with recognizable proportions, taking after the humanoid species.**
