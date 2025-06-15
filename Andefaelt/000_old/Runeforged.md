@@ -49,9 +49,9 @@ You can read and write Common.
 
 **Speed.** your speed increases by 5 feet, up to 30ft.
 
-**Machined Ingenuity.** Designed to make even the worst situations work, you are incredibly adaptable. When you long rest, select a skill you currently do not have proficiency in. You gain proficiency in that skill, and you may switch what skill you have chosen on a long rest.
-
-
+**Machined Ingenuity.** Designed to make even the worst situations work, you are incredibly adaptable. 
+- When you long rest, select a skill you currently do not have proficiency in. You gain proficiency in that skill, and you may switch what skill you have chosen on a long rest.
+- When you fail a roll, you can use your reaction to give yourself advantage on that roll. You can use this feature once, and it recharges on a Short Rest. When you reach level 11, you can use it twice per Short Rest. 
 
 ##### Heavy Build
 
@@ -65,7 +65,7 @@ You can read and write Common.
 
 **Mechanical Strength.** Your powerful build allows for you to handle heavy weights with ease.
 - You count as one size larger when determining your carry weight.
-	- A number of times per day equal to your proficiency bonus, you may attempt to grapple a creature of the same size or smaller than you, as an action (or a willing creature), then throw them. The distance you may throw them is equal to twice your strength score (rounded up to the nearest square), after they are thrown, they have to make a DC 15 Acrobatics check or fall prone.
+- A number of times per day equal to your proficiency bonus, you may attempt to grapple a creature of the same size or smaller than you, as an action (or a willing creature), then throw them. The distance you may throw them is equal to twice your strength score (rounded up to the nearest square), after they are thrown, they have to make a DC 15 Acrobatics check or fall prone.
 
 ##### Manufacturers
 
