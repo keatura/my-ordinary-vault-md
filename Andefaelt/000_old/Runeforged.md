@@ -69,6 +69,7 @@ You can read and write Common.
 
 ##### Manufacturers
 
+- General Motors
 - 
 ##### Notes
 
