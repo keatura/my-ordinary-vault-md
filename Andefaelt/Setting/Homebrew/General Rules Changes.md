@@ -1,0 +1,2 @@
+## The Removal of Opportunity Attacks.
+Opportunity attacks are not able to be made by regular NPC's or Player Characters in Andefaelt. Instead, you may only make an Opportunity Attack if you have a Class Feature or Feat that states it requires one.
