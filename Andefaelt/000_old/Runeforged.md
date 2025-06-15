@@ -46,7 +46,7 @@ You can read and write Common.
 
 **Light Step.** When you are travelling alone, you may move stealthily at a normal pace. you may also attempt to hide as a bonus action.
 
-**Extra Limbs.** Light Warforged 
+**Extra Limbs.**
 
 ##### Medium Build
 **"Medium Build" Runeforged are versatile, and the most humanoid of all of the builds. Engineered to take on any job, they will have tools built into their bodies to assist them in the day-to-day. These Runeforged are often found in jobs such as bars and restaurants, because they are consistent and quick, and often do not suffer the same margin of error that the biological species do. These Runeforged stand a similar height, tall and straight, with recognizable proportions, taking after the humanoid species.**
@@ -59,7 +59,7 @@ You can read and write Common.
 
 **Speed.** your speed increases by 5 feet, up to 30ft.
 
-**Machined Ingenuity.** Designed to make even the worst situations work, you are incredibly adaptable. When you long rest, select a skill you currently do not have proficiency in. You gain proficiency in that skill, and you may switch what skill you have chosen on a long rest.
+**Engineered Ingenuity.** Designed to make even the worst situations work, you are incredibly adaptable. When you long rest, select a skill you currently do not have proficiency in. You gain proficiency in that skill, and you may switch what skill you have chosen on a long rest.
 
 **Overclock.** When you fail a roll, you can expend one days' worth of fuel to give yourself advantage on that roll. You can use this feature once, and it recharges on a Short Rest. When you reach level 5, you can use it twice per Short Rest, then 3 times at 11th level and 4 times at 17th level. 
 
