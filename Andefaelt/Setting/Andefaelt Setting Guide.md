@@ -86,7 +86,7 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 ##### [[Dwarven History]]
 
-##### [[Humans History]]
+##### [[Human History]]
 
 ##### [[Ukuchan History]]
 
@@ -104,6 +104,7 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 --- 
 # Homebrew
+## [[General Rules Changes]]
 
 ## Species
 
