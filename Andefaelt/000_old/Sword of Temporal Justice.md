@@ -1,4 +1,4 @@
-The Sword of Temporal Justice is an artifact created by Kaine's followers thousands of years ago. It was created with the guidance of Kaine himself, as a gift for his angel, Sidriel. This blade was used throughout the years to defeat those who sought to destroy Kaine's church and punish powerful evils.
+*The Sword of Temporal Justice is an artifact created by Kaine's followers thousands of years ago. It was created with the guidance of Kaine himself, as a gift for his angel, Sidriel. This blade was used throughout the years to defeat those who sought to destroy Kaine's church and punish powerful evils.*
 
 ###### Weapon (Longsword), Artifact (requires attunement)
 
