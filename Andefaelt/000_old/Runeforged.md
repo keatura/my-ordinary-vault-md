@@ -1,10 +1,10 @@
-Runeforged are a race of sentient automatons created to intelligently serve a master who orders one to be made for them. Through many different means, a Runeforged may gain their freedom and live normally among society. Devised by Dwarven engineers in the year 1453, Runeforged traditionally were powered by steam boilers and were basically just smaller version of what we now recognize as Laborjacks. As the invention of diesel power and advances in cortex technology has advanced, increased the intellectual capacity of a Runeforged, they began to start declaring themselves as an independent race to the other humanoid species living. After a revolution in the years 1823 - 1842, Runeforged agreed to terms to be paid for their servitude and willingly quit providing their services to a master, and also allowing them to start making their way into other trades, like working ports (which they are very renowned in for their stamina due to being automatons), and also are very popular to be hired into ship crews. 
+Runeforged are a race of sentient automatons created to intelligently serve a master who orders one to be made for them. Through many different means, a Runeforged may gain their freedom and live normally among society. Devised by Dwarven engineers in the year 1453, Runeforged traditionally were powered by steam boilers and were basically just smaller version of what we now recognize as Laborjacks. As the invention of diesel power and advances in cortex technology has advanced, increased the intellectual capacity of a Runeforged, they began to start declaring themselves as an independent race to the other humanoid species living. After a revolution in the years 1823 - 1842, Runeforged succeeded in cementing their independence, being recognized as a species and earning their places in society. This allowed them to start making their way into trades, like working ports (which they are very renowned in for their stamina due to being automatons), and also are very popular to be hired into ship crews. Though not all Runeforged work heavy labor trades, many, especially of the lighter models, find themselves working in bars, restaurants, and other work that allows them to showcase their incredible stamina.
 
 **Age**
-A Runeforged' body typically lasts around 60 years before needing major repairs. due to real sentience in Runeforged' cortexes only being a more recent development, it is unsure how long a cortex lasts before its ability to retain memories and emotions fades.
+A Runeforged' body typically lasts around 20 years before needing major repairs. due to real sentience in Runeforged' cortexes only being a more recent development, it is unsure how long a cortex lasts before its ability to retain memories and emotions fades, though regular maintenance can extend this. It is impossible to transfer memories from one cortex to another, so if a cortex is to fade, it is permanent death.
 
 **Alignment**
-Runeforged are naturally inclined to be Neutral, but may take up personality traits of those around them as they age.
+Runeforged are naturally inclined to be Lawful, but may take up personality traits of those around them as they age.
 
 **Speed**
 Your base walking speed is 25 feet.
@@ -55,6 +55,8 @@ You can read and write Common.
 
 ##### Heavy Build
 
+**"Heavy Build" Runeforged are large and heavy, basically younger cousins to full-on 'Jacks. **
+
 **Size.** A Heavy Runeforged is generally between 6 and a half feet and 8 feet tall, depending on the manufacturer and year of creation. Your size is medium.
 
 **Weight.** A Heavy Runeforged is generally between 600 and 900lbs.
@@ -77,3 +79,5 @@ You can read and write Common.
 - Runeforged can "breathe" underwater due to a air tank buffer incase they are submerged, thus following the normal 5e rules for holding your breath.
 - They ingest fuel by drinking it.
 - "Hygiene" for a Runeforged consists of gently scraping off surface rust and making sure their joints are well greased. Every Runeforged carries a basic care kit with things such as high grit sandpaper and steel brushes, and grease is readily available.
+- Runeforged have a magical converter as a part of their damage control system, which can convert the source energy from healing magic into power for the built-in repair system on a Runeforged, speeding up the process.
+- Due to their advanced nature, acquiring a new body or repairing a severely damaged one in **incredibly expensive**.  
