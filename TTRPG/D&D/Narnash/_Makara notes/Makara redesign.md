@@ -17,6 +17,6 @@ I would like to commission two things: a fully-body and an item (a helmet)
 
 She is 5'3" and an elf, her ears are quite long and stick out to the side. Her eyes are hazel. the sword is 4 feet in length.
 
-She is standing, relaxed, like in the pose ref with the sword out and a round shield, facing away from her. The underside is a medium brown wood like oak, and leather straps to hold it. The Crystalline blade is a dark blue, with the runes etched into it (the left set of four on the ref) faintly glowing a lighter sky blue. the scabbard for it in on her left hip, held at the same position as the reference for the belt.
+She is standing, relaxed, like in the pose ref with the sword out and a round shield, facing away from her. The underside is a medium brown wood like oak, and dark leather straps to hold it. The crystalline blade is a dark blue, with the runes etched into it (the left set of four on the ref) faintly glowing a lighter sky blue. the scabbard for it in on her left hip, held at the same position as the reference for the belt.
 
-Her armor is a mix of plate and brigandine. with the breastplate, pauldrons and gauntlets being polished steel plate with a black brigandine skirt below, and regular leather boots with black pants underneath. Underneath the plate, along the joints and 
+Her armor is a mix of plate and brigandine. with the breastplate, pauldrons and gauntlets being polished steel plate with a black brigandine skirt below, and regular leather boots with black pants underneath. Underneath the plate, along her joints and the area between the pauldrons and the gauntlets she has a lavender coat. 
