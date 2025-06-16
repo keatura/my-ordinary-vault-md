@@ -1,13 +1,4 @@
 
-> **Hexblade’s Curse.** You can cast Hex without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest. When you cast Hex, a spectral weapon resembling your patron orbits the cursed target. 
-
-> >**Hexblade’s Maneuvers.** Once per turn, when you hit a target cursed by your Hex with an attack roll, you can cause one of these additional effects: 
-> **Draining Slash**. The target makes a Constitution saving throw against your spell save DC. On a failed save, the target can’t make Opportunity Attacks and its Speed is halved until the start of your next turn. 
-> **Harrowing Blade.** The target makes a Wisdom saving throw against your spell save DC. On a failed save, the next time the target makes an attack roll against a creature other than you before the start of your next turn, the target takes Necrotic damage equal to your Charisma modifier. 
-> **Stymying Mark.** The target has Disadvantage on the next saving throw it makes before the start of your next turn. 
-
-> **Hungering Hex.** Whenever the target cursed by your Hex drops to 0 Hit Points, you regain Hit Points equal to 1d8 plus your Charisma modifier. 
-> **Inevitable Blade.** Once per turn, if you make an attack roll against the target cursed by your Hex and miss, you can deal Necrotic damage to that creature equal to your Charisma modifier.
 
 how to be an ASSHOLE PRICK NOBLE notes
 - "Do you know who I am?!?!"
