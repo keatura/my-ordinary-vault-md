@@ -35,7 +35,7 @@ You can read and write Common.
 **Subspecies.**
 
 ##### Light Build
-**"Light Build" Runeforged **
+**"Light Build" Runeforged are purpose-built for exploration. The least common of the variants because they were only produced by **
 
 **Size.** A Light Runeforged is generally between three and 5 and a half feet tall, depending on the manufacturer and year of creation. Your size is medium or small.
 
@@ -81,7 +81,8 @@ You can read and write Common.
 **Mechanical Strength.** Your powerful build allows for you to handle heavy weights with ease.
 - You count as one size larger when determining your carry and lifting weight.
 - A number of times per day equal to your proficiency bonus, you may attempt to grapple a creature of the same size or smaller than you, as an action (or a willing creature), then throw them. The distance you may throw them is equal to twice your strength score (rounded up to the nearest square), after they are thrown, they have to make a DC 15 Acrobatics check or fall prone.
-	- **Overclock.** When you attempt to throw a creature, you may expend a days' worth of fuel to throw them a number of feet equal to triple your Strength Modifier, instead of double.
+	- **Overclock.** When you attempt to throw a creature, you may expend a days' worth of fuel to throw them a number of feet equal to Triple your Strength Modifier, instead of double.
+	- Alternatively, you may choose to **Overclock** when trying to lift something particularly heavy. When you choose to **Overclock**, you may expend 1 day's worth of fuel to count as a Huge creature when determining your carry weight and lifting weight instead of Large.
 
 ##### Manufacturers
 
