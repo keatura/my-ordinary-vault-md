@@ -41,14 +41,14 @@ Opening summary of the state of things:
 
 #### Opening Scene
 Open with all three of the people sitting in a fast food place. It's quiet, only a couple employees behind the counter and some other people silently eating their food. There's a newspaper on the table from before they sat down. On the front headline, it reads:
-**MAN LOST HIS EYE IN FIGHT ON WEST SIDE**
-
+**MAN LOST HIS EYE IN ATTACK ON WEST SIDE**
+It reads about how a man named Christian Gomez was attacked by some unidentified person while walking home late at night. 
 
 - it's currently evening (like 7pm) and around December.
 - it's below freezing outside and there is fresh snow falling, about an inch or two on the ground.
 - Any driving done is done slowly or you must make a check to not crash.
 
-## 18th Street
+## Investimigation
 
 
 #### Things they can investigate
@@ -62,21 +62,6 @@ Scene description.
 
 #### Scene
 Scene description.
-
-## Chapter
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
+ 
 ## Scratch Notes
 - Example
