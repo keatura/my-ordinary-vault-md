@@ -42,12 +42,12 @@ Opening summary of the state of things:
 #### Opening Scene
 Open with all three of the people sitting in a fast food place. It's quiet, only a couple employees behind the counter and one guy who had just picked up his food by the time they entered. There's a newspaper that had been left on the table reading: 
 
-He is wearing dark clothing that looks like it could use a wash, with a baseball cap on his head and a hood pulled over. After a while, this guy stands up to leave, and bumps by you along the way, and a letter falls onto the table in front of you.
+The one other person in the building is wearing dark clothing that looks like it could use a wash, with a baseball cap on his head and a hood pulled over. After a while, this guy stands up to leave, and bumps by you along the way, and a letter falls onto the table in front of you.
 
 The letter states:
-"You three are valuable assets, and some of the last Hunters in the City. 
+"You three are very intriguing, we saw what happened with ECLIPSE. 
 
-At 12pm tonight, there will be 'gang warfare' on 18th street, the one by the river.
+At around 12pm tonight, there will be 'gang warfare' on 18th street, the one by the river.
 
 Intervene and remove all of the 'blanks' on both sides and there will be more information, and a sponsorship.
 
