@@ -82,17 +82,34 @@ You can read and write Common.
 - You count as one size larger when determining your carry and lifting weight.
 - A number of times per day equal to your proficiency bonus, you may attempt to grapple a creature of the same size or smaller than you, as an action (or a willing creature), then throw them. The distance you may throw them is equal to twice your strength score (rounded up to the nearest square), after they are thrown, they have to make a DC 15 Acrobatics check or fall prone.
 	- **Overclock.** When you attempt to throw a creature, you may expend a days' worth of fuel to throw them a number of feet equal to Triple your Strength Modifier, instead of double.
-	- Alternatively, you may choose to **Overclock** when trying to lift something particularly heavy. When you choose to **Overclock**, you may expend 1 day's worth of fuel to count as a Huge creature when determining your carry weight and lifting weight instead of Large.
+	- Alternatively, you may choose to **Overclock** when trying to lift something particularly heavy. When you choose to **Overclock**, you may expend 1 day's worth of fuel to count as a Huge creature when determining your carry weight and lifting weight instead of Large for 10 minutes.
 
-##### Manufacturers
+### Manufacturers
+If you are playing a Runeforged you come from a production plant. This influences the way that you look, your weight, your personality, and your Batch-kin, those who come from the same production batch as you. Most companies still produce machines other than Runeforged, while the Runeforged themselves control the factories 
 
-- General Motors
-- Cogsworth Exploration Co.
-- Rollins Motor Group
-- International Freight-haulers
-- Datsuna
-- 
-##### Notes
+#### General Motors
+Creator: [[Holden DeVander]]
+Current CEO: [[James DeVander]]
+
+Big, Boxy, and Utilitarian, General Motors products are often seen working tough trades and /
+
+#### Cogsworth Exploration Co.
+
+
+
+#### Rollins Motor Group
+
+
+
+#### International Freight-haulers
+
+
+
+#### Datsuna
+
+
+
+### Notes
 
 - Runeforged can "breathe" underwater due to a air tank buffer incase they are submerged, thus following the normal 5e rules for holding your breath.
 - They ingest fuel by drinking it.
