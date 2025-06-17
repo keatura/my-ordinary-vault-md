@@ -40,16 +40,9 @@ Opening summary of the state of things:
 > 
 
 #### Opening Scene
-Open with all three of the people sitting in a fast food place. It's quiet, only a couple employees behind the counter and one guy who had just picked up his food by the time they entered. He's wearing dark clothing that looks like it could use a wash, with a baseball cap on his head and a hood pulled over. While all of you are in the middle of eating, this guy stands up to leave, and bumps by you along the way, and a letter falls onto the table in front of you.
+Open with all three of the people sitting in a fast food place. It's quiet, only a couple employees behind the counter and some other people silently eating their food. There's a newspaper on the table from before they sat down. On the front headline, it reads:
+**MAN LOST HIS EYE IN FIGHT ON WEST SIDE**
 
-The letter states:
-"You three are very intriguing, we saw what happened with ECLIPSE. 
-
-At around 12pm tonight, there will be 'gang warfare' on 18th street, the one by the river.
-
-Intervene and remove all of the 'blanks' on both sides and there will be more information, and a sponsorship.
-
-We will be watching."
 
 - it's currently evening (like 7pm) and around December.
 - it's below freezing outside and there is fresh snow falling, about an inch or two on the ground.
@@ -57,16 +50,9 @@ We will be watching."
 
 ## 18th Street
 
-The Fight ensues
 
-The neighborhood surrounding 18th Street looks almost abandoned, maybe a few houses have cars that *might* work out front, the rest do not look inhabited. 
-
-most of the vamps have like 3 or 4 dice in stuff, 
 #### Things they can investigate
 
-The defending Coterie of the Camarilla is hanging out in an abandoned building nearby the church, lying in wait. They may see the party if they are walking out in the open. at around midnight, the opposing group of 5 sabbat shovelheads starts heading into the area, looking to find a warehouse that is used as storage for Detroit's Elysium.
-
-Elysium is being hosted soon, so the warehouse is full of vampire goodies like kidnapped victims and 
 
 #### If they don't
 Scene description.
