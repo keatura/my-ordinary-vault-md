@@ -90,6 +90,7 @@ You can read and write Common.
 - Cogsworth Exploration Co.
 - Rollins Motor Group
 - International Freight-haulers
+- Datsuna
 - 
 ##### Notes
 
@@ -98,3 +99,4 @@ You can read and write Common.
 - "Hygiene" for a Runeforged consists of gently scraping off surface rust and making sure their joints are well greased. Every Runeforged carries a basic care kit with things such as high grit sandpaper and steel brushes, and grease is readily available.
 - Runeforged have a magical converter as a part of their damage control system, which can convert the source energy from healing magic into power for the built-in repair system on a Runeforged, speeding up the process.
 - Due to their advanced nature, acquiring a new body or repairing a severely damaged one in **incredibly expensive**.  
+- Runeforged can vary from one to another due to personal modification and 
