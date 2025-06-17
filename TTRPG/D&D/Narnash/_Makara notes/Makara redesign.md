@@ -17,6 +17,10 @@ I would like to commission two things: a fully-body and an item (a helmet)
 
 She is 5'3" and an elf, her ears are quite long and stick out to the side. Her eyes are hazel. the sword is 4 feet in length.
 
-She is standing, relaxed, like in the pose ref with the sword out and a round shield, facing away from her. The underside is a medium brown wood like oak, and dark leather straps to hold it. The crystalline blade is a dark blue, with the runes etched into it (the left set of four on the ref) faintly glowing a lighter sky blue. the scabbard for it in on her left hip, held at the same position as the reference for the belt.
+She is standing, relaxed, like in the pose ref with the sword out and a round shield, facing away from her. The underside is a medium brown wood like oak, and dark leather straps to hold it. The crystalline blade is a dark blue, with the runes etched into it (the left set of four on the ref) faintly glowing a lighter sky blue. the scabbard for it in on her left hip, held at the same position as the reference for the belt. 
 
-Her armor is a mix of plate and brigandine. with the breastplate, pauldrons and gauntlets being polished steel plate with a black brigandine skirt below, and regular leather boots with black pants underneath. Underneath the plate, along her joints and the area between the pauldrons and the gauntlets she has a lavender coat. Going up around her neck, the collar of her coat peeks out above the breastplate and 
+Her armor is a mix of plate and brigandine. with the breastplate, pauldrons and gauntlets being polished steel plate with a black brigandine skirt below, and regular leather boots with black pants underneath. Underneath the plate, along her joints and the area between the pauldrons and the gauntlets she has a lavender coat. Going up around her neck from under the breastplate, she has plate metal gorget with lavender padded cloth armor underneath going up around her neck to the base of her head. She has no helmet on. Over her coat around her forearm on the left arm, she has a fairly thick golden chain wrapped around tightly 3 times that dangles a few inches down into a symbol of a hawk holding the sun.
+
+Her expression is flat and distant, with her maroon hair tied up tightly into a bun.
+
+The item I would like to commission is her helmet, which can be seen in the two references, although it is the same polished steel as the armor. 
