@@ -69,7 +69,7 @@ The defending Coterie of the Camarilla is hanging out in an abandoned building n
 
 Elysium is being hosted soon, so the warehouse is full of vampire goodies like kidnapped victims and 
 
-#### Scene
+#### If they don't
 Scene description.
 
 #### Scene
