@@ -6,40 +6,40 @@ Ranged weapons use DEX, and larger weapons will require minimum strength scores 
 
 Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That ammo only works for that weapon, or other weapons that are the exact same. (common revolver ammo works with other common revolver ammo, etc)
 
-| **Simple Ranged Weapons**  | Price            | Damage (all piercing)     | Weight | Properties                                                                                 |
-| -------------------------- | ---------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------ |
-| Revolver, common           | 15gp             | 1d8 +dex                  | 2lbs   | Reload (5), Range (50/150)                                                                 |
-| Revolver, fine             | 50gp             | 1d10 +dex                 | 2lbs   | Reload (6), Range (60/180), light                                                          |
-| Pistol, black powder       | N/A              | 2d8 +dex                  | 3lbs   | Reload (1), Range (30/60), Slow Shooting                                                   |
-| Shotgun, break action      | 25gp             | 2d8 +dex                  | 5lbs   | Reload (1), Range (100/300), Buckshot, Two Handed                                          |
-| Shotgun, double barrel     | 40gp             | 2d8 +dex                  | 5lbs   | Reload (2), Range (100/300), Buckshot, Two Handed                                          |
-| Rifle, Breech loaded       | 20gp             | 2d6 +dex                  | 5lbs   | Reload(1), Range (100/300), Two Handed                                                     |
-| **Martial Ranged Weapons** |                  |                           |        |                                                                                            |
-| Revolver, heavy            | 30gp             | 2d6 +dex                  | 5lbs   | Reload (3), Range (60/180)                                                                 |
-| Revolver, military         | 50gp             | 2d4 +dex                  | 2lbs   | Reload (5), Range (50/150), light                                                          |
-| Pistol, automatic          | 150gp            | 1d8 +dex                  | 3lbs   | Reload (8), Range (30/90), Versatile (Rapid Fire)                                          |
-| Rifle, Hunting             | 40gp             | 3d4 +dex                  | 5lbs   | Reload (1), Range (300/1200), Two Handed                                                   |
-| Rifle, Sniper              | 250gp            | 4d6 +dex                  | 6lbs   | Reload (3), Range (500/1500), Two Handed                                                   |
-| Musket                     | 50gp             | 3d8 +dex                  | 6lbs   | Reload (1), Range (50/100), Two Handed, Slow Shooting                                      |
-| Rifle, bolt action         | 75gp             | 2d8 +dex                  | 7lbs   | Reload (4), Range (200/600), Two Handed                                                    |
-| Rifle, military            | 100gp            | 2d8 +dex                  | 6lbs   | Reload (6), Range (200/600), Two Handed, Bayonet                                           |
-| Shotgun, tube fed          | 150gp            | 2d8 +dex                  | 5lbs   | Reload(4), Range (100/300), Buckshot, Two Handed                                           |
-| Rifle, anti-materiel       | 500gp            | 4d10 +dex                 | 20lbs  | Str 13, Reload (1), Range (500/1500), Two Handed, Heavy, Anti-Materiel                     |
-| **Exotic Ranged Weapons**  |                  |                           |        |                                                                                            |
-| Rifle, supercharged        | -                | 2d8 (4d8+64 Force) +dex   | 20lbs  | Reload(1), Range (600), Two Handed, Heavy, Special                                         |
-| Pistol, supercharged       | -                | 2d4 (4d4 + 32 force) +dex | 5lbs   | Reload(3), Range (60/180), Two Handed, Special                                             |
-| Machine Gun                | 750gp            | 2d6 +dex                  | 120lbs | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special                               |
-| Runesteel Revolver         | -                | 2d4 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel                                                      |
-| Runesteel Shotgun          | -                | 2d6 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel                                           |
-| **Special Ammo**           |                  |                           |        |                                                                                            |
-| Incendiary                 | 4gp/5            | +1d4 fire                 | N/A    |                                                                                            |
-| Armor Piercing             | 4gp/5            | N/A                       | N/A    | Makes weapon attacks magical for the purposes of overcoming resistance to piercing damage. |
-|                            |                  |                           |        |                                                                                            |
-|                            |                  |                           |        |                                                                                            |
-|                            |                  |                           |        |                                                                                            |
-| Supercharger Capacitor     | 100gp/per        | N/A                       | 2lbs   |                                                                                            |
-| Runesteel bullet           | 5gp materials /5 | N/A                       | 1lbs   |                                                                                            |
-|                            |                  |                           |        |                                                                                            |
+| **Simple Ranged Weapons**  | Price            | Damage (all piercing)     | Weight | Properties                                                                                 | Weapon Mastery |
+| -------------------------- | ---------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------ | -------------- |
+| Revolver, common           | 15gp             | 1d8 +dex                  | 2lbs   | Reload (5), Range (50/150)                                                                 | Vex            |
+| Revolver, fine             | 50gp             | 1d10 +dex                 | 2lbs   | Reload (6), Range (60/180), light                                                          | Vex            |
+| Pistol, black powder       | N/A              | 2d8 +dex                  | 3lbs   | Reload (1), Range (30/60), Slow Shooting                                                   | Push           |
+| Shotgun, break action      | 25gp             | 2d8 +dex                  | 5lbs   | Reload (1), Range (100/300), Buckshot, Two Handed                                          | Graze          |
+| Shotgun, double barrel     | 40gp             | 2d8 +dex                  | 5lbs   | Reload (2), Range (100/300), Buckshot, Two Handed                                          | Graze          |
+| Rifle, Breech loaded       | 20gp             | 2d6 +dex                  | 5lbs   | Reload(1), Range (100/300), Two Handed, Bayonet                                            | Vex            |
+| **Martial Ranged Weapons** |                  |                           |        |                                                                                            |                |
+| Revolver, heavy            | 30gp             | 2d6 +dex                  | 5lbs   | Reload (3), Range (60/180)                                                                 | Vex            |
+| Revolver, military         | 50gp             | 2d4 +dex                  | 2lbs   | Reload (5), Range (50/150), light                                                          | Vex            |
+| Pistol, automatic          | 150gp            | 1d8 +dex                  | 3lbs   | Reload (8), Range (30/90), Versatile (Rapid Fire)                                          | Graze          |
+| Rifle, Hunting             | 40gp             | 3d4 +dex                  | 5lbs   | Reload (1), Range (300/1200), Two Handed                                                   | Slow           |
+| Rifle, Sniper              | 250gp            | 4d6 +dex                  | 6lbs   | Reload (3), Range (500/1500), Two Handed                                                   | Graze          |
+| Musket                     | 50gp             | 3d8 +dex                  | 6lbs   | Reload (1), Range (50/100), Two Handed, Slow Shooting                                      | Push           |
+| Rifle, bolt action         | 75gp             | 2d8 +dex                  | 7lbs   | Reload (4), Range (200/600), Two Handed, Bayonet                                           | Vex            |
+| Rifle, military            | 100gp            | 2d8 +dex                  | 6lbs   | Reload (6), Range (200/600), Two Handed, Bayonet                                           | Vex            |
+| Shotgun, tube fed          | 150gp            | 2d8 +dex                  | 5lbs   | Reload(4), Range (100/300), Buckshot, Two Handed                                           | Graze          |
+| Rifle, anti-materiel       | 500gp            | 4d10 +dex                 | 20lbs  | Str 13, Reload (1), Range (500/1500), Two Handed, Heavy, Anti-Materiel                     | Topple         |
+| **Exotic Ranged Weapons**  |                  |                           |        |                                                                                            |                |
+| Rifle, supercharged        | -                | 2d8 (4d8+64 Force) +dex   | 20lbs  | Reload(1), Range (600), Two Handed, Heavy, Special                                         | Slow           |
+| Pistol, supercharged       | -                | 2d4 (4d4 + 32 force) +dex | 5lbs   | Reload(3), Range (60/180), Two Handed, Special                                             | Slow           |
+| Machine Gun                | 750gp            | 2d6 +dex                  | 120lbs | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special                               | Vex            |
+| Runesteel Revolver         | -                | 2d4 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel                                                      | Vex            |
+| Runesteel Shotgun          | -                | 2d6 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel                                           | Graze          |
+| **Special Ammo**           |                  |                           |        |                                                                                            |                |
+| Incendiary                 | 4gp/5            | +1d4 fire                 | N/A    |                                                                                            |                |
+| Armor Piercing             | 4gp/5            | N/A                       | N/A    | Makes weapon attacks magical for the purposes of overcoming resistance to piercing damage. |                |
+|                            |                  |                           |        |                                                                                            |                |
+|                            |                  |                           |        |                                                                                            |                |
+|                            |                  |                           |        |                                                                                            |                |
+| Supercharger Capacitor     | 100gp/per        | N/A                       | 2lbs   |                                                                                            |                |
+| Runesteel bullet           | 5gp materials /5 | N/A                       | 1lbs   |                                                                                            |                |
+|                            |                  |                           |        |                                                                                            |                |
 
 ### Special Rules
 
@@ -51,7 +51,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 
 **Rapid Fire.** A rapid fire weapon has an exceptional ability to make follow up shots. When a user makes a weapon attack on their turn, they make one extra attack. If the user has the Extra Attack feature, they make a second extra attack as a bonus action, up to 4 attacks per turn. Any extra bonus attacks gained by class features do increase this as well. The second attack made afterwards is at disadvantage.
 
-**Anti-Materiel.** The large caliber of this weapon allows for it to punch through walls and armor. When making an attack with an Anti-Materiel weapon, it ignores all 1/2 and 3/4 cover, and 
+**Anti-Materiel.** The large caliber of this weapon allows for it to punch through walls and armor. When making an attack with an Anti-Materiel weapon, it ignores all 1/2 and 3/4 cover, and when targeting a Construct, it automatically critically hits.
 
 **Bayonet.** When this weapon is mounted on the end of a two-handed rifle, the user may forfeit their ranged attack to make a melee weapon attack against a creature, that deals 1d6 piercing damage. This damage is increased by 1d6 for every 10 feet the creature has moved this turn, up to a maximum 5d6.
 
