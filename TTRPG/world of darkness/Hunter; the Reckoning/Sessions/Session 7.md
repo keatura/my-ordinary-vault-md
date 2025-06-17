@@ -40,9 +40,7 @@ Opening summary of the state of things:
 > 
 
 #### Opening Scene
-Open with all three of the people sitting in a fast food place. It's quiet, only a couple employees behind the counter and one guy who had just picked up his food by the time they entered. There's a newspaper that had been left on the table reading: 
-
-The one other person in the building is wearing dark clothing that looks like it could use a wash, with a baseball cap on his head and a hood pulled over. After a while, this guy stands up to leave, and bumps by you along the way, and a letter falls onto the table in front of you.
+Open with all three of the people sitting in a fast food place. It's quiet, only a couple employees behind the counter and one guy who had just picked up his food by the time they entered. He's wearing dark clothing that looks like it could use a wash, with a baseball cap on his head and a hood pulled over. While all of you are in the middle of eating, this guy stands up to leave, and bumps by you along the way, and a letter falls onto the table in front of you.
 
 The letter states:
 "You three are very intriguing, we saw what happened with ECLIPSE. 
