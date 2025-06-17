@@ -11,6 +11,7 @@ She is sitting on a plain white naval hammock hanging from the mast of a sailing
 As she is playing, her sword is sat between her legs, and cradled in her right arm as she plays. the left 4 runes of the 2 columns display on the scabbard (in the same spots as the animals on the scabbard reference)
 
 https://danielleeswitch.carrd.co/
+
 ----
 
 I would like to commission two things: a fully-body and an item (a helmet)
