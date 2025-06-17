@@ -88,6 +88,9 @@ You can read and write Common.
 
 - General Motors
 - Cogsworth Exploration Co.
+- Rollins Motor Group
+- International Freight-haulers
+- 
 ##### Notes
 
 - Runeforged can "breathe" underwater due to a air tank buffer incase they are submerged, thus following the normal 5e rules for holding your breath.
