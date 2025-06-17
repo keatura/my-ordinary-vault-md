@@ -35,7 +35,7 @@ You can read and write Common.
 **Subspecies.**
 
 ##### Light Build
-**"Light Build" Runeforged are purpose-built for exploration. The least common of the variants because they were only produced by **
+**"Light Build" Runeforged are purpose-built for exploration. The least common of the variants because they were only produced by Cogsworth Exploration Co. The smallest of the Runeforged, they came in models that ranged from tiny, for maneuvering through ruins and small cracks where humanoids can't go, to larger, Medium sized variants to better help a small or skeleton crew.**
 
 **Size.** A Light Runeforged is generally between three and 5 and a half feet tall, depending on the manufacturer and year of creation. Your size is medium or small.
 
@@ -87,7 +87,7 @@ You can read and write Common.
 ##### Manufacturers
 
 - General Motors
-- 
+- Cogsworth Exploration Co.
 ##### Notes
 
 - Runeforged can "breathe" underwater due to a air tank buffer incase they are submerged, thus following the normal 5e rules for holding your breath.
