@@ -43,13 +43,15 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 ##### [[Powered Armors]]
 
-##### [[Mecha]]
+##### [['Mechs]]
+
 ## [['Jacks]]
 
 ##### [[Runeforged]]
 
-###### [['Laborjacks]]
+##### [['Laborjacks]]
 ##### [['Warjacks]]
+
 ## [[Airships and Planes]]
 
 ##### [[Airships]]
