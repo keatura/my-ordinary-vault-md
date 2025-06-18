@@ -1,1 +1,1 @@
-is using his dead sister to manipulate priests into bringing about an apocalypse so that he may raise an undead army and conquer the other gods, claiming the throne of Kadis.
+he/him

@@ -1,1 +1,1 @@
-killed by Gutur and puppeted by Gutur, her brother to manipulate priests into allowing him into the physical plane
+she/her
