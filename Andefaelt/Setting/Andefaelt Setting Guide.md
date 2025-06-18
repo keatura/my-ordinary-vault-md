@@ -102,6 +102,22 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 --- 
 # Gods
 
+## [[Kadis (The God of Endings)]]
+
+### [[Diorythis (creation)]]
+
+##### [[Kaine (truth, and knowledge)]]
+##### [[Hemepha (nature and chaos)]]
+##### [[Yorinth (order and law)]]
+
+### [[Cihena (destruction)]]
+
+##### [[Ares (war and ferality)]]
+##### [[Ateus (life)]]
+##### [[Azphin (death)]]
+###### [[Gutur (undeath)]]
+###### [[Iodrosni (rebirth)]]
+
 --- 
 # Homebrew
 ## [[General Rules Changes]]
