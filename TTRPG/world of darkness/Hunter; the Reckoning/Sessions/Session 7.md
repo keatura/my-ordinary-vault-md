@@ -55,7 +55,9 @@ It reads about how a man named Christian Gomez was attacked by some unidentified
 	- 
 - Christian Gomez
 	- was attacked
-	- attacker was wearing a trench coat and a large brimmed hat, couldn't make out the face but swears it had more eyes than necessary.
+	- attacker was wearing a trench coat and a large brimmed hat, couldn't make out the face but swears it had more than two eyes.
+	- didn't feel much pain beyond being knocked out and waking up with a headache and a missing eye.
+	- attacker seemed very fast.
 #### If they don't
 Scene description.
 
