@@ -42,7 +42,7 @@ Opening summary of the state of things:
 #### Opening Scene
 Open with all three of the people sitting in a fast food place. It's quiet, only a couple employees behind the counter and some other people silently eating their food. There's a newspaper on the table from before they sat down. On the front headline, it reads:
 **MAN LOST HIS EYE IN ATTACK ON WEST SIDE**
-It reads about how a man named Christian Gomez was attacked by some unidentified person at Lapeer Park while walking home late at night. Though in the scuffle, he only lost his eye, as in it was completely removed from the socket. Just Gone. He doesnt have any other injuries. He reports that he was "attacked, and knocked out quickly, and he woke up missing the eye and in pain."
+It reads about how a man named Christian Gomez was attacked by some unidentified person at Lapeer Park while walking home late at night. Though in the scuffle, he only lost his eye, as in it was completely removed from the socket. Just Gone. He doesn't have any other injuries. He reports that he was "attacked, and knocked out quickly, and he woke up missing the eye and in pain."
 
 - it's currently evening (like 7pm) and around December.
 - it's below freezing outside and there is fresh snow falling, about an inch or two on the ground.
@@ -52,11 +52,12 @@ It reads about how a man named Christian Gomez was attacked by some unidentified
 #### Things they can investigate
 
 - Lapeer Park
-	- 
+	- Footsteps in the snow
+	- very high investigation check they find a completely deflated eye in the grass sticking out above the snow
 - Christian Gomez
 	- was attacked
 	- attacker was wearing a trench coat and a large brimmed hat, couldn't make out the face but swears it had more than two eyes.
-	- didn't feel much pain beyond being knocked out and waking up with a headache and a missing eye.
+	- doesnt remember much/ beyond being knocked out and waking up with a headache and a missing eye.
 	- attacker seemed very fast.
 #### If they don't
 Scene description.
