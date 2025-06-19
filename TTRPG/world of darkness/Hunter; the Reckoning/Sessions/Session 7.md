@@ -54,11 +54,13 @@ It reads about how a man named Christian Gomez was attacked by some unidentified
 - Lapeer Park
 	- Footsteps in the snow
 	- very high investigation check they find a completely deflated eye in the grass sticking out above the snow
+
 - Christian Gomez
 	- was attacked
 	- attacker was wearing a trench coat and a large brimmed hat, couldn't make out the face but swears it had more than two eyes.
 	- doesnt remember much/ beyond being knocked out and waking up with a headache and a missing eye.
 	- attacker seemed very fast.
+
 #### If they don't
 Scene description.
 
