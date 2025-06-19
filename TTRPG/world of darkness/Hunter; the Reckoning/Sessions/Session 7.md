@@ -52,7 +52,10 @@ It reads about how a man named Christian Gomez was attacked by some unidentified
 #### Things they can investigate
 
 - Lapeer Park
+	- 
 - Christian Gomez
+	- was attacked
+	- attacker was wearing a trench coat and a large brimmed hat, couldn't make out the face but swears it had more eyes than necessary.
 #### If they don't
 Scene description.
 
