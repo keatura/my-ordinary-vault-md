@@ -1,0 +1,1 @@
+This mini-campaign takes place on a small island in southern Zevka, close to the border with Asyria.
