@@ -106,6 +106,7 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 # Gods
 
 ## [[Kadis (The God of Endings)]]
+## other one
 
 ### [[Diorythis (creation)]]
 
@@ -132,7 +133,7 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 ##### [[Runeforged]]
 
 ##### [[Stormkin (Drow)]]
-
+	
 ## Classes
 
 ##### [[Inquisitor]]
