@@ -62,9 +62,9 @@ It reads about how a man named Christian Gomez was attacked by some unidentified
 	- attacker seemed very fast.
 
 #### If they don't
-Scene description.
+fuckin idk
 
-#### Scene
+#### the Eyestealers lair 
 Scene description.
 
 #### Scene
