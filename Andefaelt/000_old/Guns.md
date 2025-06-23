@@ -15,7 +15,6 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Shotgun, double barrel    | 40gp             | 2d8 +dex                  | 5lbs   | Reload (2), Range (100/300), Buckshot, Two Handed                                          | Graze          |
 | Rifle, Breech loaded      | 20gp             | 2d6 +dex                  | 5lbs   | Reload(1), Range (100/300), Two Handed, Bayonet                                            | Vex            |
 
-
 | **Martial Ranged Weapons** | Price | Damage    | Weight | Properties                                                                            | Weapon Mastery |
 | -------------------------- | ----- | --------- | ------ | ------------------------------------------------------------------------------------- | -------------- |
 | Revolver, heavy            | 30gp  | 2d6 +dex  | 5lbs   | Reload (3), Range (60/180)                                                            | Vex            |
@@ -29,7 +28,6 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Shotgun, tube fed          | 150gp | 2d8 +dex  | 5lbs   | Reload (4), Range (100/300). Buckshot, Two Handed                                     | Graze          |
 | Rifle, anti-materiel       | 500gp | 4d10 +dex | 20lbs  | Str 13, Reload (1), Range (500/1500), Two Handed, Heavy, Anti-Materiel, Slow Shooting | Topple         |
 
-
 | **Exotic Ranged Weapons** | Price | Damage                    | Weight | Properties                                                   | Weapon Mastery |
 | ------------------------- | ----- | ------------------------- | ------ | ------------------------------------------------------------ | -------------- |
 | Rifle, supercharged       | -     | 2d8 (4d8+64 Force) +dex   | 20lbs  | Reload(1), Range (600), Two Handed, Heavy, Special           | Slow           |
@@ -37,12 +35,11 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Machine Gun               | 750gp | 2d6 +dex                  | 120lbs | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex            |
 | Runesteel Revolver        | -     | 2d4 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel                        | Vex            |
 | Runesteel Shotgun         | -     | 2d6 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel             | Graze          |
-|                           |       |                           |        |                                                              |                |
 
-| Powered Armor Weapons   | Price | Damage                                 | Weight | Properties                               |
-| ----------------------- | ----- | -------------------------------------- | ------ | ---------------------------------------- |
-| Paladins' Halberd-rifle | 500gp | 3d10+str Slashing<br>4d6 +dex Piercing | 35lbs  | Reload (1), Range (60/180), Two Handed,  |
-|                         |       |                                        |        |                                          |
+| Heavy Weapons           | Price | Damage                                  | Weight | Properties                                                   |                       |
+| ----------------------- | ----- | --------------------------------------- | ------ | ------------------------------------------------------------ | --------------------- |
+| Paladins' Halberd-rifle | 500gp | 3d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (1), Range (60/180), Two Handed                       | Cleave/<br><br>Topple |
+| Machine Gun             | 750gp | 2d6 +dex                                | 80lbs  | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex                   |
 
 | **Special Ammo**       |                  |           |      |                                                                                            |
 | ---------------------- | ---------------- | --------- | ---- | ------------------------------------------------------------------------------------------ |
@@ -73,15 +70,19 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 
 **Supercharged Weapons.** The Runesteel Supercharger present on this weapon allows for the expenditure of a capacitor charge to boost the muzzle velocity of the large caliber round fired by this weapon, boosting the damage significantly. Reloading the weapon after firing it supercharged requires replacing the capacitor and changing out the barrel of the rifle too, which takes 1 minute when performed by someone proficient with the weapon. When this rifle makes its supercharged attack against a construct, such as a building or 'Jack, the attack automatically critical hits. This attack also counts as a 5-foot-wide line equal to the weapons range, ignoring all cover, instead of a targeted attack, and everything in the line takes full damage.
 
+**Runesteel.** A runesteel firearm is an experimental piece of tech, and unreliable. When loaded with a runesteel capacitor, they may make attacks affected by runesteel effects, but every attack made using a charge from the runesteel capacitor heats up the barrel and internals of the gun, giving you a a level of **overheat**, giving you a -1 per stack for 1 hour each, decreasing by 1 per hour. When your to-hit modifier reaches -5 or lower, the gun overheats and you have to spend at least 1 hour and 50gp (100gp for two handed) of work and materials to repair the gun, before it can be used again.
+
+### Heavy Weapons
+These weapons are intended for use in emplacements, people in power armor and small warjacks. Due to their large size and huge weight, they are completely impractical for use by those not in powered armor. Someone may equip one of these weapons, but every weapon counts as having the Two-Handed property, and they may not use it to make an attack without receiving the Help action from someone else under the specific purpose of using the weapon. This Help action does not provide Advantage.
+
+The Ammo costs for all Heavy Weapons are doubled.
+
 **Machine Gun.** 
 - This Weapon cannot be fired unless it is being held by a Creature that:
 	- Is Large
 	- Has the Powerful Build Feature
 	- Is Prone
 	- Is in half-cover
-- When the attack action is made with a Machine Gun by a creature that is proficient with this weapon, they may forfeit their action, bonus action, and movement that turn to make 8 attacks, with each attack being at -5 to hit. If the character has the weapon securely mounted or is prone, the attacks do not suffer this penalty. A character may perform this action a number of times equal to their proficiency bonus per short rest.
-
-**Runesteel.** A runesteel firearm is an experimental piece of tech, and unreliable. When loaded with a runesteel capacitor, they may make attacks affected by runesteel effects, but every attack made using a charge from the runesteel capacitor heats up the barrel and internals of the gun, giving you a a level of **overheat**, giving you a -1 per stack for 1 hour each, decreasing by 1 per hour. When your to-hit modifier reaches -5 or lower, the gun overheats and you have to spend at least 1 hour and 50gp (100gp for two handed) of work and materials to repair the gun, before it can be used again.
-
-### Powered Armor Weapons
-These weapons are intended for use by people in power armor and small warjacks. Due to their large size and huge weight, they are completely impractical for use by those not in powered armor. Someone may equip one of these weapons, but may not use it to make an attack without receiving the Help action from someone else.
+	- Is wearing powered armor
+- **Sweeping Fire.** When the attack action is made with a Machine Gun by a creature that is proficient with this weapon, they may forfeit their action, bonus action, and movement that turn to make an attack roll with advantage. This attack roll is then applied against every creature of their choosing in a 60-foot cone. The amount of creatures targeted may not exceed the current remaining ammo in the Machine Guns magazine.
+	- For example, if there was 8 creatures in this cone, and the user rolled a 17 to hit, every creature with an AC of 17 or lower would have damage rolled against them.

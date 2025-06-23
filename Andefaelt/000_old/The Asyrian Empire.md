@@ -16,4 +16,4 @@ The Asyrian Empire is the most military power of the four nations. They control 
 - halberd guns
 - "The Right Arm of the Church"
 - VERY religious, fairly isolated from the outside world
-- 
+- Their armor is basically extremely heavy and thick runesteel plate with the edge of tomorrow exoskeleton and a gas mask built into the helmet
