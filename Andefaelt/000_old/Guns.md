@@ -30,13 +30,19 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Rifle, anti-materiel       | 500gp | 4d10 +dex | 20lbs  | Str 13, Reload (1), Range (500/1500), Two Handed, Heavy, Anti-Materiel, Slow Shooting | Topple         |
 
 
-| **Exotic Ranged Weapons** |       |                           |        |                                                              |       |
-| ------------------------- | ----- | ------------------------- | ------ | ------------------------------------------------------------ | ----- |
-| Rifle, supercharged       | -     | 2d8 (4d8+64 Force) +dex   | 20lbs  | Reload(1), Range (600), Two Handed, Heavy, Special           | Slow  |
-| Pistol, supercharged      | -     | 2d4 (4d4 + 32 force) +dex | 5lbs   | Reload(3), Range (60/180), Two Handed, Special               | Slow  |
-| Machine Gun               | 750gp | 2d6 +dex                  | 120lbs | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex   |
-| Runesteel Revolver        | -     | 2d4 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel                        | Vex   |
-| Runesteel Shotgun         | -     | 2d6 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel             | Graze |
+| **Exotic Ranged Weapons** | Price | Damage                    | Weight | Properties                                                   | Weapon Mastery |
+| ------------------------- | ----- | ------------------------- | ------ | ------------------------------------------------------------ | -------------- |
+| Rifle, supercharged       | -     | 2d8 (4d8+64 Force) +dex   | 20lbs  | Reload(1), Range (600), Two Handed, Heavy, Special           | Slow           |
+| Pistol, supercharged      | -     | 2d4 (4d4 + 32 force) +dex | 5lbs   | Reload(3), Range (60/180), Two Handed, Special               | Slow           |
+| Machine Gun               | 750gp | 2d6 +dex                  | 120lbs | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex            |
+| Runesteel Revolver        | -     | 2d4 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel                        | Vex            |
+| Runesteel Shotgun         | -     | 2d6 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel             | Graze          |
+|                           |       |                           |        |                                                              |                |
+
+| Powered Armor Weapons   | Price | Damage                                 | Weight | Properties                               |
+| ----------------------- | ----- | -------------------------------------- | ------ | ---------------------------------------- |
+| Paladins' Halberd-rifle | 500gp | 3d10+str Slashing<br>4d6 +dex Piercing | 35lbs  | Reload (1), Range (60/180), Two Handed,  |
+|                         |       |                                        |        |                                          |
 
 | **Special Ammo**       |                  |           |      |                                                                                            |
 | ---------------------- | ---------------- | --------- | ---- | ------------------------------------------------------------------------------------------ |
@@ -76,3 +82,6 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 - When the attack action is made with a Machine Gun by a creature that is proficient with this weapon, they may forfeit their action, bonus action, and movement that turn to make 8 attacks, with each attack being at -5 to hit. If the character has the weapon securely mounted or is prone, the attacks do not suffer this penalty. A character may perform this action a number of times equal to their proficiency bonus per short rest.
 
 **Runesteel.** A runesteel firearm is an experimental piece of tech, and unreliable. When loaded with a runesteel capacitor, they may make attacks affected by runesteel effects, but every attack made using a charge from the runesteel capacitor heats up the barrel and internals of the gun, giving you a a level of **overheat**, giving you a -1 per stack for 1 hour each, decreasing by 1 per hour. When your to-hit modifier reaches -5 or lower, the gun overheats and you have to spend at least 1 hour and 50gp (100gp for two handed) of work and materials to repair the gun, before it can be used again.
+
+### Powered Armor Weapons
+These weapons are intended for use by people in power armor and small warjacks. Due to their large size and huge weight, they are completely impractical for use by those not in powered armor. Someone may equip one of these weapons, but may not use it to make an attack without receiving the Help action from someone else.
