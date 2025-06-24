@@ -137,7 +137,7 @@ CR 1 PB +2
 
 **Actions**
 
-| Longsword | +4  | 1d8+2 |
+| Longsword | +5  | 1d8+3 |
 | --------- | --- | ----- |
 **Divine Smite. (recharge 5-6)**
 When this creature makes a weapon attack, it may choose to make that attack deal an extra 2d8 radiant damage.
