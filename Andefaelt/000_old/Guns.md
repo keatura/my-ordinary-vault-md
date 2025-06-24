@@ -38,7 +38,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 
 | Heavy Weapons           | Price | Damage                                  | Weight | Properties                                                   |                       |
 | ----------------------- | ----- | --------------------------------------- | ------ | ------------------------------------------------------------ | --------------------- |
-| Paladins' Halberd-rifle | 500gp | 3d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (1), Range (60/180), Two Handed                       | Cleave/<br><br>Topple |
+| Templar's Halberd-rifle | 500gp | 3d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (1), Range (60/180), Two Handed, Reach (10ft)         | Cleave/<br><br>Topple |
 | Machine Gun             | 750gp | 2d6 +dex                                | 80lbs  | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex                   |
 |                         |       |                                         |        |                                                              |                       |
 
