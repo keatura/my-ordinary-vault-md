@@ -14,17 +14,17 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 ## [[Nations]]
 
 ### [[Zevka]]
-
 ##### [[Zevkan Capital]]
+
 ### [[The Asyrian Empire]]
-
 ##### [[Asyrian Capital]]
+
 ### [[Onyxia]]
-
 ##### [[Onyxian Capital, Noraveas]]
-### [[Iyamari]]
 
+### [[Iyamari]]
 ##### [[Iyamari' Capital]]
+
 
 --- 
 
