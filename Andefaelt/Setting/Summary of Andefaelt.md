@@ -4,11 +4,15 @@ The Geography of Andefaelt is split into four major regions.
 
 #### The Highlands
 
-Located at a much higher elevation than the rest of the islands, the northern area of Andefaelt is comprised of lots of tundra and evergreen forests. The summer months are short and wet, then everything freezes over from fall to spring.
+Located at a much higher elevation than the rest of the islands, the northern area of Andefaelt is comprised of lots of tundra surrounded by hills and evergreen forests. The summer months are short and wet, then everything freezes over from fall to spring.
 
-The climate is very dry year-round, with little water being added to the area, but little lost. snow caps melt into rain in the short and hot summer months, and then repeat.
+The climate is very dry year-round, with little water being added to the area, but little lost. Snow caps melt into rain in the short and hot summer months, and then repeat.
 
 #### The Rainforest
+
+Surrounding Ederna and spreading out a bit to the west, most of the center of Andefaelt is a temperate rainforest. The mountains are 
+
+The winter months are still harsh, but the worst of it is relatively short. Most of the year is cool and humid. 
 
 #### The Plains
 
