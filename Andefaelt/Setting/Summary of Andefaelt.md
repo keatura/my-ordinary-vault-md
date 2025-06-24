@@ -1,3 +1,7 @@
+# General Geography and Climate
+
+The Geography of Andefaelt is 
+
 # The Asyrian Empire
 Colors I think of: light gold, white, red.
 Things that give off dominance, authority, and outward appearance
@@ -8,15 +12,13 @@ The Asyrian Empire is a highly religious theocratic empire, ruled by a God-king 
 Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra
 Things that give off tradition, community, and resilience
 
-Iyamari resides mostly within the plains of Andefaelt, 
+Iyamari resides mostly within the plains of Andefaelt, spreading slightly into the Highlands in the North. 
 
 # Onyxia
 
 # Voxis
 
 # Zevka
-
-# General Geography and Climate
 
 # Water Troubles
 
