@@ -10,7 +10,7 @@ The climate is very dry year-round, with little water being added to the area, b
 
 #### The Rainforest
 
-Surrounding Ederna and spreading out a bit to the west, most of the center of Andefaelt is a temperate rainforest. The mountains are 
+Surrounding Ederna and spreading out a bit to the west, most of the center of Andefaelt is a temperate rainforest. The mountains can get up to several thousand feet tall, but the biggest feature is the area surrounding the Western Pillar. Covered in moss and vines, and surrounded by ancient trees. 
 
 The winter months are still harsh, but the worst of it is relatively short. Most of the year is cool and humid. 
 
