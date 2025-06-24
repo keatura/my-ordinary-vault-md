@@ -6,9 +6,9 @@ The Asyrian Empire is a highly religious theocratic empire, ruled by a God-king 
 
 # Iyamari
 Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra
-Things that give off tradition, community, and strength
+Things that give off tradition, community, and resilience
 
-
+Iyamari resides mostly within the plains of Andefaelt, 
 
 # Onyxia
 
