@@ -1,0 +1,1 @@
+Mechanized Suits, Mechanized Armor, also commonly abbreviated to Mech' or Mecha, are powered suits of varying sizes. The distinct feature of Mechs are that they feature a human "Pilot" controlling the suit, instead of an autonomous "Cortex". 
