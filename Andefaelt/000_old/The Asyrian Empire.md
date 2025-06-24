@@ -18,8 +18,9 @@ Separate from the Asyrian Military,
 
 - sub-chapters with different types
 - healers
-- fighters
+- priests
 - envoys
+- While they all fulfill different purposes, and aren't primarily combatants like the Templars 
 
 ### The Templars
 
