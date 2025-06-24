@@ -4,6 +4,8 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 
 Archbishop Cadriel is one of the only people aware of the truly ancient history, and is trying to assemble the Ancient Weapons to grant himself the One True Wish, and reset time back to before Andefaelt was created, restoring the ancient civilization. 
 
+**[[Summary of Andefaelt]]**
+
 # Andefaelt
 
 ## [[Geography]]
