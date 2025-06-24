@@ -22,7 +22,7 @@ The winter months are still harsh, but the worst of it is relatively short. Most
 Colors I think of: light gold, white, red.
 Things that give off dominance, authority, and outward appearance
 
-The Asyrian Empire is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah 
+The Asyrian Empire is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Rainwatcher, the current king of the period
 
 # Iyamari
 Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra
