@@ -1,6 +1,6 @@
 # General Geography and Climate
 
-The Geography of Andefaelt is 
+The Geography of Andefaelt is split into four major regions
 
 # The Asyrian Empire
 Colors I think of: light gold, white, red.
