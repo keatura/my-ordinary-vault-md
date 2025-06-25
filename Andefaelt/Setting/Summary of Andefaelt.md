@@ -30,9 +30,9 @@ The climate of the mountains varies on how far you go in. The outer ring is temp
 Colors I think of: light gold, white, red, and the saturated greens of rainforest
 Things that give off dominance, authority, and outward appearance
 
-The Asyrian Empire is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Camillus, the serving king of the period.
+The Asyrian Empire resides in the western rainforest, and is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Camillus, the serving king of the period.
 
-Due to their history and nature, Asyria has many conflicts with other nations 
+Asyria very strictly follows Kadis and their worship, and follows his tenets. 
 
 # Iyamari
 Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra
