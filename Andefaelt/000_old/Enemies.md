@@ -177,7 +177,7 @@ Runesteel Battleaxe
 ##### Julia Umberlain
 Medium humanoid
 AC: 19 (mage armor)
-HP: 75
+HP: 115
 Speed: 40ft
 **STR: 20(13)(+5), DEX: 18(+4), CON: 15(+2), INT: 13(+1), WIS: 18(+4), CHA: 19(+4)**
 Saves: Wisdom +7, Charisma +7
