@@ -35,15 +35,16 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Pistol, supercharged      | -     | 2d4 (4d4 + 32 force) +dex | 5lbs   | Reload(3), Range (60/180), Two Handed, Special               | Slow           |
 | Machine Gun               | 750gp | 2d6 +dex                  | 120lbs | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex            |
 | Pistol, Suppressed        | 75gp  | 2d4 +dex                  | 4lbs   | Reload (8), Range (20/60), Special                           | Vex            |
+| Grenade Launcher          | 80gp  | ----                      | 7lbs   | Reload (1), Special                                          | ----           |
 | Runesteel Revolver        | -     | 1d8 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel                        | Vex            |
 | Runesteel Shotgun         | -     | 2d8 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel             | Graze          |
 
-| Heavy Weapons           | Price | Damage                                  | Weight | Properties                                                   |                       |
-| ----------------------- | ----- | --------------------------------------- | ------ | ------------------------------------------------------------ | --------------------- |
-| Templar's Halberd-rifle | 500gp | 3d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (1), Range (60/180), Two Handed, Reach (10ft)         | Cleave/<br><br>Topple |
-| Machine Gun             | 750gp | 2d6 +dex                                | 80lbs  | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex                   |
-| Hand Cannon             | 50gp  | 4d6 +dex                                | 15lbs  | Reload (3), Range (100/300), Special                         | Topple                |
-|                         |       |                                         |        |                                                              |                       |
+| Heavy Weapons           | Price | Damage                                  | Weight | Properties                                                   |                     |
+| ----------------------- | ----- | --------------------------------------- | ------ | ------------------------------------------------------------ | ------------------- |
+| Templar's Halberd-rifle | 500gp | 3d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (1), Range (60/180), Two Handed, Reach (10ft)         | Cleave/<br><br>Push |
+| Machine Gun             | 750gp | 2d6 +dex                                | 80lbs  | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex                 |
+| Hand Cannon             | 50gp  | 4d6 +dex                                | 15lbs  | Reload (3), Range (100/300), Special                         | Topple              |
+|                         |       |                                         |        |                                                              |                     |
 
 | **Special Ammo**       |                  |           |      |                                                                                            |
 | ---------------------- | ---------------- | --------- | ---- | ------------------------------------------------------------------------------------------ |
@@ -79,6 +80,8 @@ Exotic Weapons are very unique weaponry that are very rare. These weapons requir
 
 **Suppressed Pistol.** This weapon is an integrally suppressed pistol, firing subsonic ammunition. Due to this, it's ammo is rare and costs twice as much as regular ammo. As well, when this weapon is fired, it is as silent as a bow, meaning it cannot be heard outside of 15ft.
 
+**Grenade Launcher.** This weapon fires large, low velocity explosive projectiles. Due to this, it's ammo is rare and costs 3x as much as normal. When this weapon can be aimed at a specific square, instead of a targeted Creature. It's range is a flat 60 feet, and every creature within 20 feet of the point of impact must make a DC 15 Dexterity saving throw, taking 2d6 damage, or half as much on a failed save.
+
 ### Heavy Weapons
 These weapons are intended for use in emplacements, people in power armor and small warjacks. Due to their large size and huge weight, they are completely impractical for use by those not in powered armor. Someone may equip one of these weapons, but every weapon counts as having the Two-Handed property, and they may not use it to make an attack without receiving the Help action from someone else under the specific purpose of using the weapon. This Help action does not provide Advantage.
 
@@ -97,7 +100,7 @@ The Ammo costs for all Heavy Weapons are doubled.
 **Hand Cannon.**
 - This weapon's ammo costs 3x as much as normal, instead of 2x.
 	- **Effects.**
-		- **High Explosive.** This ammunition type deals an additional 1d6 damage to the target and every Creature in a 10ft radius surrounding them.
+		- **High Explosive.** This ammunition type deals an additional 1d6 Piercing damage to the target and every Creature in a 10ft radius surrounding them.
 		- **Armor Piercing.** This ammunition type counts as magical for the purpose of ignoring resistance to Piercing damage.
 		- **Incendiary.** This ammunition type causes the target to take 1d6 fire damage for the next minute, or until it uses an Action to put itself out. Future hits with this ammunition type only reset the timer, they do not apply more damage.
-		- **Grenade.** This ammunition type can be aimed at a specific square, instead of a targeted Creature. It changes the weapon's range to a flat 60 feet, and every creature within the point of impact must make a DC 15 Dexterity saving throw, taking 2d6 damage, or half as much on a failed save.
+		- **Grenade.** This ammunition type can be aimed at a specific square, instead of a targeted Creature. It changes the weapon's range to a flat 60 feet, and every creature within 20 feet of the point of impact must make a DC 15 Dexterity saving throw, taking 2d6 damage, or half as much on a failed save.

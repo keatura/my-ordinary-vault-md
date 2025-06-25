@@ -27,7 +27,7 @@ To the south are the Mountains, the most extreme of all of the land formations i
 The climate of the mountains varies on how far you go in. The outer ring is temperate, similar to the other regions its adjacent to, but as you go in it turns into dry plains and even desert. There is also exponentially less rain as you pass the first spans of mountains. Due to the area between islands, you may find inner islands with a mix of both plains and forested area.
 
 # The Asyrian Empire
-Colors I think of: light gold, white, red, and the saturated greens of rainforest
+Colors I think of: light gold, white, red, silver, and the saturated greens of rainforest
 Things that give off dominance, authority, and outward appearance
 
 The Asyrian Empire resides in the western rainforest, and is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Camillus, the serving king of the period.
@@ -35,13 +35,14 @@ The Asyrian Empire resides in the western rainforest, and is a highly religious 
 Asyria very strictly follows Kadis and their worship, and follows his tenets. 
 
 # Iyamari
-Colors I think of: earth tones and smoky colors, the neons of magic 
-Things that give off tradition, inner peace, 
+Colors I think of: grassy earth tones and smoky colors, the neons of magic 
+Things that give off tradition, strict training and muscle memory, 
 
 Iyamari resides mostly within the eastern plains of Andefaelt, spreading slightly into the Highlands in the North. 
 
 # Onyxia
-Colors I think of:
+Colors I think of: all earth tones, brass and bronze, the seafoam green of Runesteel
+Things that give off advanced technology, sophistication, and education
 
 # Voxis
 Colors I think of:
