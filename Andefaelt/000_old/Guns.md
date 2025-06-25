@@ -30,7 +30,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 
 | **Exotic Ranged Weapons** | Price | Damage                    | Weight | Properties                                          | Weapon Mastery |
 | ------------------------- | ----- | ------------------------- | ------ | --------------------------------------------------- | -------------- |
-| Revolver, fine            | 50gp  | 1d10 +dex                 | 2lbs   | Reload (6), Range (60/180), Light                   | Vex            |
+| Revolver, fine            | 50gp  | 2d4 +dex                  | 2lbs   | Reload (8), Range (60/180), Light                   | Vex            |
 | Rifle, supercharged       | -     | 2d8 (4d8+64 Force) +dex   | 20lbs  | Reload(1), Range (600), Two Handed, Heavy, Special  | Slow           |
 | Pistol, supercharged      | -     | 2d4 (4d4 + 32 force) +dex | 5lbs   | Reload(3), Range (60/180), Two Handed, Special      | Slow           |
 | Military Automatic Rifle  | 670gp | 2d6 +dex                  | 20lbs  | Reload(16), Range (200/600), Two Handed, Rapid Fire | Slow           |
