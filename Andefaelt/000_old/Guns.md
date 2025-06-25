@@ -6,20 +6,22 @@ Ranged weapons use DEX, and larger weapons will require minimum strength scores 
 
 Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That ammo only works for that weapon, or other weapons that are the exact same. (common revolver ammo works with other common revolver ammo, etc)
 
-| **Simple Ranged Weapons** | Price            | Damage (all piercing)     | Weight | Properties                                                                                 | Weapon Mastery |
-| ------------------------- | ---------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------ | -------------- |
-| Revolver, common          | 15gp             | 1d8 +dex                  | 2lbs   | Reload (5), Range (50/150)                                                                 | Vex            |
-| Revolver, fine            | 50gp             | 1d10 +dex                 | 2lbs   | Reload (6), Range (60/180), light                                                          | Vex            |
-| Pistol, black powder      | N/A              | 2d8 +dex                  | 3lbs   | Reload (1), Range (30/60), Slow Shooting                                                   | Push           |
-| Shotgun, break action     | 25gp             | 2d8 +dex                  | 5lbs   | Reload (1), Range (100/300), Buckshot, Two Handed                                          | Graze          |
-| Shotgun, double barrel    | 40gp             | 2d8 +dex                  | 5lbs   | Reload (2), Range (100/300), Buckshot, Two Handed                                          | Graze          |
-| Rifle, Breech loaded      | 20gp             | 2d6 +dex                  | 5lbs   | Reload(1), Range (100/300), Two Handed, Bayonet                                            | Vex            |
+| **Simple Ranged Weapons** | Price | Damage (all piercing) | Weight | Properties                                        | Weapon Mastery |
+| ------------------------- | ----- | --------------------- | ------ | ------------------------------------------------- | -------------- |
+| Revolver, common          | 15gp  | 1d8 +dex              | 2lbs   | Reload (5), Range (50/150)                        | Vex            |
+| Revolver, military        | 25gp  | 2d4 +dex              | 2lbs   | Reload (6), Range (50/150), Light                 | Vex            |
+| Revolver, fine            | 50gp  | 1d10 +dex             | 2lbs   | Reload (6), Range (60/180), Light                 | Vex            |
+| Pistol, black powder      | N/A   | 2d8 +dex              | 3lbs   | Reload (1), Range (30/60), Slow Shooting          | Push           |
+| Shotgun, break action     | 25gp  | 2d8 +dex              | 5lbs   | Reload (1), Range (100/300), Buckshot, Two Handed | Graze          |
+| Shotgun, double barrel    | 40gp  | 2d8 +dex              | 5lbs   | Reload (2), Range (100/300), Buckshot, Two Handed | Graze          |
+| Rifle, Breech loaded      | 20gp  | 2d6 +dex              | 5lbs   | Reload(1), Range (100/300), Two Handed, Bayonet   | Vex            |
 
 | **Martial Ranged Weapons** | Price | Damage    | Weight | Properties                                                                            | Weapon Mastery |
 | -------------------------- | ----- | --------- | ------ | ------------------------------------------------------------------------------------- | -------------- |
 | Revolver, heavy            | 30gp  | 2d6 +dex  | 5lbs   | Reload (3), Range (60/180)                                                            | Vex            |
 | Revolver, military         | 50gp  | 2d4 +dex  | 2lbs   | Reload (5), Range (50/150), Light                                                     | Vex            |
 | Pistol, automatic          | 150gp | 1d8 +dex  | 3lbs   | Reload (8), Range (30/90), Versatile (Rapid Fire)                                     | Graze          |
+| Submachine Gun             | 70gp  | 1d10 +dex | 6lbs   | Reload (20), Range (60/180), Two Handed, Rapid Fire                                   |                |
 | Rifle, hunting             | 40gp  | 3d4 +dex  | 5lbs   | Reload (1), Range (300/1200), Two Handed                                              | Slow           |
 | Rifle, sniper              | 250gp | 4d6 +dex  | 6lbs   | Reload (3), Range (500/1500), Two Handed                                              | Graze          |
 | Musket                     | 50gp  | 3d8 +dex  | 6lbs   | Reload (1), Range (50/100), Two Handed, Slow Shooting                                 | Push           |
