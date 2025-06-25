@@ -18,9 +18,13 @@ The winter months are still harsh, but the worst of it is relatively short. Most
 
 The Plains are large, sweeping swaths of landing covered in tall grass and small rock formations that cause the wind to howl. The plains lack any extreme terrain formations, and have the most vast swaths of land in Andefaelt. The one downside is the lack of the major resource deposits of the mountains, and the depths of the Highlands. The Eastern Pillar is almost like a flute, with pipes going through it that make whistles and chimes as the high winds surrounding it blow across the plains.
 
-#### The Mountains
+The climate in the plains is evenly mixed, the strong winds beating back the smaller rainclouds from Ederna. When it is dry, its dry for a while, and when it rains, it generally rains for a few days before it dies down. The plains do get snow but due to their lower precipitations they dont experience crazy amounts. It gets hot in the summers and has the second-warmest winters.
 
-To the south are the Mountains, the most extreme of all of the land 
+#### The Southern Mountains
+
+To the south are the Mountains, the most extreme of all of the land formations in Andefaelt, it is a broad scheme from green forested mountains around the outside, with it getting drier and more desert-like as you head inwards. There is three "regions" of the Southern Mountains. The outer mountains are tall with sheer cliffs and forests everywhere. The middle mountains fade into grassy valleys similar to the plains with layered orange rocky mountains shooting violently up, and at the very furthest, sandy formations of vibrant colors, reds and oranges and blue and browns. The Southern Pillar is made out of these same oxidized rocks and comes out of the top of the tallest mountain in Andefaelt, making it the only Pillar that is connected to land.
+
+The climate of the mountains varies on how far you go in. The outer ring is temperate, similar to the other regions its adjacent to, but as you go in it turns into dry plains and even desert. There is also exponentially less rain as you pass the first spans of mountains. Due to the area between islands, you may find inner islands with a mix of both plains and forested area.
 
 # The Asyrian Empire
 Colors I think of: light gold, white, red, and the saturated greens of rainforest
