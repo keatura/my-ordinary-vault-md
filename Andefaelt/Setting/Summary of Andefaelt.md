@@ -4,25 +4,29 @@ The Geography of Andefaelt is split into four major regions.
 
 #### The Highlands
 
-Located at a much higher elevation than the rest of the islands, the northern area of Andefaelt is comprised of lots of tundra surrounded by hills and evergreen forests. The summer months are short and wet, then everything freezes over from fall to spring. The Northern Pillar quite contrarily billows flame out from it's sides, like a second sun. It can be seen from nearly anywhere in the Highlands, and 
+Located at a much higher elevation than the rest of the islands, the northern area of Andefaelt is comprised of lots of tundra surrounded by hills and evergreen forests. The summer months are short and wet, then everything freezes over from fall to spring. The Northern Pillar quite contrarily billows flame out from it's sides, like a second sun.
 
 The climate is very dry year-round, with little water being added to the area, but little lost. Snow caps melt into rain in the short and hot summer months, and then repeat.
 
 #### The Rainforest
 
-Surrounding Ederna and spreading out a bit to the west, most of the center of Andefaelt is a temperate rainforest. The mountains can get up to several thousand feet tall, but the biggest feature is the area surrounding the Western Pillar, covered in moss and vines.
+Surrounding Ederna and spreading out a bit to the west, most of the center of Andefaelt is a temperate rainforest. The mountains can get up to several thousand feet tall, but the biggest feature is the area surrounding the Western Pillar, covered in moss and vines and surrounded by rainclouds and mists.
 
 The winter months are still harsh, but the worst of it is relatively short. Most of the year is cool and humid. 
 
 #### The Plains
 
+The Plains are large, sweeping swaths of landing covered in tall grass and small rock formations that cause the wind to howl 
+
 #### The Mountains
 
 # The Asyrian Empire
-Colors I think of: light gold, white, red.
+Colors I think of: light gold, white, red, and the saturated greens of rainforest
 Things that give off dominance, authority, and outward appearance
 
-The Asyrian Empire is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Rainwatcher, the current king of the period
+The Asyrian Empire is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Camillus, the serving king of the period.
+
+Due to their history and nature, Asyria has many conflicts with other nations 
 
 # Iyamari
 Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra

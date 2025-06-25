@@ -2,9 +2,9 @@ The Asyrian Empire is the most military power of the four nations. They control 
 
 # Asyrian Politics
 
-## The God-Kings, the Rainwatchers
+## The God-Kings, the Camillus
 
-- Fariah 
+- Fariah Camillus 
 
 # The Asyrian Armed Forces
 
