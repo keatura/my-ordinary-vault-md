@@ -39,12 +39,12 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Runesteel Revolver        | -     | 1d8 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel               | Vex            |
 | Runesteel Shotgun         | -     | 2d8 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel    | Graze          |
 
-| Heavy Weapons           | Price | Damage                                  | Weight | Properties                                                   |                     |
-| ----------------------- | ----- | --------------------------------------- | ------ | ------------------------------------------------------------ | ------------------- |
-| Templar's Halberd-rifle | 500gp | 3d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (1), Range (60/180), Two Handed, Reach (10ft)         | Cleave/<br><br>Push |
-| Machine Gun             | 750gp | 2d6 +dex                                | 80lbs  | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex                 |
-| Hand Cannon             | 50gp  | 4d6 +dex                                | 15lbs  | Reload (3), Range (100/300), Special                         | Topple              |
-|                         |       |                                         |        |                                                              |                     |
+| Heavy Weapons           | Price  | Damage                                  | Weight | Properties                                                   |                     |
+| ----------------------- | ------ | --------------------------------------- | ------ | ------------------------------------------------------------ | ------------------- |
+| Templar's Halberd-rifle | 500gp  | 3d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (1), Range (60/180), Two Handed, Reach (10ft)         | Cleave/<br><br>Push |
+| Machine Gun             | 750gp  | 2d6 +dex                                | 80lbs  | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex                 |
+| Hand Cannon             | 50gp   | 4d6 +dex                                | 25lbs  | Reload (3), Range (100/300), Large Caliber                   | Topple              |
+| Autocannon              | 1000gp | 4d6 +dex                                | 100lbs | Reload (6), Range (300/900), Large Caliber                   | Topple              |
 
 | **Special Ammo**       |                  |           |      |                                                                                            |
 | ---------------------- | ---------------- | --------- | ---- | ------------------------------------------------------------------------------------------ |
@@ -97,7 +97,7 @@ The Ammo costs for all Heavy Weapons are doubled.
 		- **Sweeping Fire.** When the attack action is made with a Machine Gun by a creature that is proficient with this weapon, they may forfeit their action, bonus action, and movement that turn to make an attack roll with advantage. This attack roll is then applied against every creature of their choosing in a 60-foot cone. The amount of creatures targeted may not exceed the current remaining ammo in the Machine Guns magazine.
 			- For example, if there was 8 creatures in this cone, and the user rolled a 17 to hit, every creature with an AC of 17 or lower would have damage rolled against them.
 
-**Hand Cannon.**
+**Large Caliber.**
 - This weapon's ammo costs 3x as much as normal, instead of 2x.
 	- **Effects.**
 		- **High Explosive.** This ammunition type deals an additional 1d6 Piercing damage to the target and every Creature in a 10ft radius surrounding them.
