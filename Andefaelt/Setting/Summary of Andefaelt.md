@@ -4,7 +4,7 @@ The Geography of Andefaelt is split into four major regions.
 
 #### The Highlands
 
-Located at a much higher elevation than the rest of the islands, the northern area of Andefaelt is comprised of lots of tundra surrounded by hills and evergreen forests. The summer months are short and wet, then everything freezes over from fall to spring. The Northern Pillar quite contrarily billows flame out from it's sides, like a second sun.
+Located at a much higher elevation than the rest of the islands, the northern area of Andefaelt is comprised of lots of tundra surrounded by hills and evergreen forests. The summer months are short and wet, then everything freezes over from fall to spring. The Highlands are also much deeper islands than other places, which contributes to the altitude. Most islands have extremely noticeable sidewall, making them look almost like floating pillars. The Northern Pillar quite contrarily billows flame out from it's sides, like a second sun.
 
 The climate is very dry year-round, with little water being added to the area, but little lost. Snow caps melt into rain in the short and hot summer months, and then repeat.
 
@@ -16,9 +16,11 @@ The winter months are still harsh, but the worst of it is relatively short. Most
 
 #### The Plains
 
-The Plains are large, sweeping swaths of landing covered in tall grass and small rock formations that cause the wind to howl 
+The Plains are large, sweeping swaths of landing covered in tall grass and small rock formations that cause the wind to howl. The plains lack any extreme terrain formations, and have the most vast swaths of land in Andefaelt. The one downside is the lack of the major resource deposits of the mountains, and the depths of the Highlands. The Eastern Pillar is almost like a flute, with pipes going through it that make whistles and chimes as the high winds surrounding it blow across the plains.
 
 #### The Mountains
+
+To the south are the Mountains, the most extreme of all of the land 
 
 # The Asyrian Empire
 Colors I think of: light gold, white, red, and the saturated greens of rainforest
