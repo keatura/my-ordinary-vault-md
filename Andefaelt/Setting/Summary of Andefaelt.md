@@ -35,16 +35,20 @@ The Asyrian Empire resides in the western rainforest, and is a highly religious 
 Asyria very strictly follows Kadis and their worship, and follows his tenets. 
 
 # Iyamari
-Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra
-Things that give off tradition, community, and resilience
+Colors I think of: earth tones and smoky colors, the neons of magic 
+Things that give off tradition, inner peace, 
 
-Iyamari resides mostly within the plains of Andefaelt, spreading slightly into the Highlands in the North. 
+Iyamari resides mostly within the eastern plains of Andefaelt, spreading slightly into the Highlands in the North. 
 
 # Onyxia
+Colors I think of:
 
 # Voxis
+Colors I think of:
 
 # Zevka
+Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra
+Things that give off tradition, community, and resilience
 
 # Water Troubles
 
