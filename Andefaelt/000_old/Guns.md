@@ -29,15 +29,15 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Shotgun, tube fed          | 150gp | 2d8 +dex  | 5lbs   | Reload (4), Range (100/300). Buckshot, Two Handed                                     | Graze          |
 | Rifle, anti-materiel       | 500gp | 4d10 +dex | 20lbs  | Str 13, Reload (1), Range (500/1500), Two Handed, Heavy, Anti-Materiel, Slow Shooting | Topple         |
 
-| **Exotic Ranged Weapons** | Price | Damage                    | Weight | Properties                                                   | Weapon Mastery |
-| ------------------------- | ----- | ------------------------- | ------ | ------------------------------------------------------------ | -------------- |
-| Rifle, supercharged       | -     | 2d8 (4d8+64 Force) +dex   | 20lbs  | Reload(1), Range (600), Two Handed, Heavy, Special           | Slow           |
-| Pistol, supercharged      | -     | 2d4 (4d4 + 32 force) +dex | 5lbs   | Reload(3), Range (60/180), Two Handed, Special               | Slow           |
-| Machine Gun               | 750gp | 2d6 +dex                  | 120lbs | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex            |
-| Pistol, Suppressed        | 75gp  | 2d4 +dex                  | 4lbs   | Reload (8), Range (20/60), Special                           | Vex            |
-| Grenade Launcher          | 80gp  | ----                      | 7lbs   | Reload (1), Special                                          | ----           |
-| Runesteel Revolver        | -     | 1d8 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel                        | Vex            |
-| Runesteel Shotgun         | -     | 2d8 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel             | Graze          |
+| **Exotic Ranged Weapons** | Price | Damage                    | Weight | Properties                                          | Weapon Mastery |
+| ------------------------- | ----- | ------------------------- | ------ | --------------------------------------------------- | -------------- |
+| Rifle, supercharged       | -     | 2d8 (4d8+64 Force) +dex   | 20lbs  | Reload(1), Range (600), Two Handed, Heavy, Special  | Slow           |
+| Pistol, supercharged      | -     | 2d4 (4d4 + 32 force) +dex | 5lbs   | Reload(3), Range (60/180), Two Handed, Special      | Slow           |
+| Military Automatic Rifle  | 670gp | 2d6 +dex                  | 20lbs  | Reload(16), Range (200/600), Two Handed, Rapid Fire | Slow           |
+| Pistol, Suppressed        | 75gp  | 2d4 +dex                  | 4lbs   | Reload (8), Range (20/60), Special                  | Vex            |
+| Grenade Launcher          | 80gp  | ----                      | 7lbs   | Reload (1), Special                                 | ----           |
+| Runesteel Revolver        | -     | 1d8 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel               | Vex            |
+| Runesteel Shotgun         | -     | 2d8 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel    | Graze          |
 
 | Heavy Weapons           | Price | Damage                                  | Weight | Properties                                                   |                     |
 | ----------------------- | ----- | --------------------------------------- | ------ | ------------------------------------------------------------ | ------------------- |
