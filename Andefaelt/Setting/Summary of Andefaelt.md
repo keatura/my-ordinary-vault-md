@@ -34,6 +34,10 @@ The Asyrian Empire resides in the western rainforest, and is a highly religious 
 
 Asyria Follows Kadis primarily in their worship, though they do worship the entire pantheon, as they are all descended from Kadis. So while everyone does give prayers to Kadis, there are smaller churches and sub-chapters of religious organizations dedicated to the other gods as well.
 
+Main Species:
+Humans
+
+
 # Iyamari
 Colors I think of: grassy earth tones and smoky colors, the neons of magic 
 Things that give off tradition, strict training and muscle memory, 
