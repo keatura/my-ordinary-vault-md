@@ -19,7 +19,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | -------------------------- | ----- | --------- | ------ | ------------------------------------------------------------------------------------- | -------------- |
 | Revolver, heavy            | 30gp  | 2d6 +dex  | 5lbs   | Reload (3), Range (60/180)                                                            | Vex            |
 | Pistol, automatic          | 150gp | 1d8 +dex  | 3lbs   | Reload (8), Range (30/90), Versatile (Rapid Fire)                                     | Graze          |
-| Submachine Gun             | 70gp  | 1d10 +dex | 6lbs   | Reload (24), Range (60/180), Two Handed, Rapid Fire                                   | Graze          |
+| Submachine Gun             | 70gp  | 1d8 +dex  | 6lbs   | Reload (24), Range (60/180), Two Handed, Rapid Fire                                   | Graze          |
 | Rifle, hunting             | 40gp  | 3d4 +dex  | 5lbs   | Reload (1), Range (300/1200), Two Handed                                              | Slow           |
 | Rifle, sniper              | 250gp | 4d6 +dex  | 6lbs   | Reload (3), Range (500/1500), Two Handed                                              | Graze          |
 | Musket                     | 50gp  | 3d8 +dex  | 6lbs   | Reload (1), Range (50/100), Two Handed, Slow Shooting                                 | Push           |
