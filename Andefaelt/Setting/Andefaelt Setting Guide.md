@@ -107,9 +107,9 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 ##### [[Aasimar Lore]]
 
-##### [[Tieflings]]
+##### [[Tieflings History]]
 
-##### [[Lizardfolk]]
+##### [[Lizardfolk History]]
 
 --- 
 # Gods
