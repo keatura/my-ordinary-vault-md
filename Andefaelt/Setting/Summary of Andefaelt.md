@@ -32,7 +32,7 @@ Things that give off dominance, authority, and outward appearance
 
 The Asyrian Empire resides in the western rainforest, and is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Camillus, the serving king of the period.
 
-Asyria very strictly follows Kadis and their worship, and follows his tenets. 
+Asyria Follows Kadis primarily in their worship, though they do worship the entire pantheon, as they are all descended from Kadis. So while everyone does give prayers to Kadis, there are smaller churches and sub-chapters of religious organizations dedicated to the other gods as well.
 
 # Iyamari
 Colors I think of: grassy earth tones and smoky colors, the neons of magic 
