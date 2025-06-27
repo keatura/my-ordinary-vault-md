@@ -41,10 +41,12 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 
 | Heavy Weapons           | Price  | Damage                                  | Weight | Properties                                                   |                     |
 | ----------------------- | ------ | --------------------------------------- | ------ | ------------------------------------------------------------ | ------------------- |
-| Templar's Halberd-rifle | 500gp  | 3d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (1), Range (60/180), Two Handed, Reach (15ft)         | Cleave/<br><br>Push |
+| Templar's Halberd-rifle | 500gp  | 3d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (3), Range (60/180), Two Handed, Reach (15ft)         | Cleave/<br><br>Push |
 | Machine Gun             | 750gp  | 2d6 +dex                                | 80lbs  | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex                 |
-| Hand Cannon             | 50gp   | 4d6 +dex                                | 25lbs  | Reload (3), Range (100/300), Large Caliber                   | Topple              |
-| Autocannon              | 1000gp | 4d6 +dex                                | 100lbs | Reload (6), Range (300/900), Large Caliber                   | Topple              |
+| Hand Cannon             | 30gp   | 4d6 +dex                                | 8lbs   | Reload (3), Range (100/300), Large Caliber                   | Topple              |
+| Anti-Armor Rifle        | 1200gp | 4d10 +dex                               | 100lbs | Reload (6), Range (500/1500), Two Handed, Large Caliber      | Topple              |
+| Autorifle               | 1000gp | 2d8 +dex                                | 30lbs  | Reload (15), Range (300/900), Rapid Fire, Bayonet            | Vex                 |
+| Submachine Gun          | 75gp   | 1d8 +dex                                | 6lbs   | Reload (24), Range (60/180), Light, Rapid Fire               | Vex                 |
 
 | **Special Ammo**       |                  |           |      |                                                                                            |
 | ---------------------- | ---------------- | --------- | ---- | ------------------------------------------------------------------------------------------ |
@@ -100,7 +102,7 @@ The Ammo costs for all Heavy Weapons are doubled.
 **Large Caliber.**
 - This weapon's ammo costs 3x as much as normal, instead of 2x.
 	- **Effects.**
-		- **High Explosive.** This ammunition type deals an additional 1d6 Piercing damage to the target and every Creature in a 10ft radius surrounding them.
-		- **Armor Piercing.** This ammunition type counts as magical for the purpose of ignoring resistance to Piercing damage.
-		- **Incendiary.** This ammunition type causes the target to take 1d6 fire damage for the next minute, or until it uses an Action to put itself out. Future hits with this ammunition type only reset the timer, they do not apply more damage.
+		- **High Explosive.** This ammunition type deals an additional 1d10 Piercing damage to the target and every Creature in a 10ft radius surrounding them.
+		- **Armor Piercing.** This ammunition type counts as magical for the purpose of ignoring resistance to Piercing damage. The raw power of this ammo allows for it to punch through walls and armor. When making an attack with Armor Piercing Ammo, it ignores all 1/2 and 3/4 cover, and when targeting a Construct, it automatically critically hits.
+		- **Incendiary.** This ammunition type causes the target to take 1d10 fire damage for the next minute, or until it uses an Action to put itself out. Future hits with this ammunition type only reset the timer, they do not apply more damage.
 		- **Grenade.** This ammunition type can be aimed at a specific square, instead of a targeted Creature. It changes the weapon's range to a flat 60 feet, and every creature within 20 feet of the point of impact must make a DC 15 Dexterity saving throw, taking 2d6 damage, or half as much on a failed save.
