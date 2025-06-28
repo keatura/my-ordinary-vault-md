@@ -1,6 +1,6 @@
-1. It's possible that Iyamari doesn't know about what he did. So he could work with them still, unless somehow his betrayal is revealed. Speaking of which.,
-2. The possibility that White Rose survived and got off the ship could be interesting. Possible NPC who would have complex relationship with Black Mamba. On one hand, they have experience doing missions together and he did spare her life when she tried to kill him. On the other hand, they had a bit of a rivalry and he _did_ betray the mission. If she gets back to Iyamari, very good chance she'll snitch on him.,
-3. Yeah, heat will be high.
+- rogue
+- 
+
 
 
 ## Short story - Superweapon Heist
@@ -87,3 +87,7 @@ There was the sound of a door opening. The templar knew where he was. He couldn'
 And with this, Black Mamba leaped off the ship toward the closest bit of land he could see. Worst case scenario, it was an Asyrian military base. Best case, it was a fringe town. He had to gamble.
 
 And with that, after his glide, he tumbled to the ground. And he ends up on the island we'll be starting at.
+# Other Notes
+1. It's possible that Iyamari doesn't know about what he did. So he could work with them still, unless somehow his betrayal is revealed. Speaking of which.,
+2. The possibility that White Rose survived and got off the ship could be interesting. Possible NPC who would have complex relationship with Black Mamba. On one hand, they have experience doing missions together and he did spare her life when she tried to kill him. On the other hand, they had a bit of a rivalry and he _did_ betray the mission. If she gets back to Iyamari, very good chance she'll snitch on him.,
+3. Yeah, heat will be high.
