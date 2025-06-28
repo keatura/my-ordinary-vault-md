@@ -1,3 +1,5 @@
 - quirks about growing up in zevka
 - quirks about being a follower of hemepha
+- eco terrorist for hemepha????
+- nightlights as an eco terrorist
 - 
