@@ -1,3 +1,4 @@
 she/her
-- nature outlasts all
-- 
+# Tenets
+- Nature Outlasts All
+- Preserve the Natural Order
