@@ -8,7 +8,7 @@ Ukucha are quick on their feet and surprisingly intelligent, they live shorter l
 
 **Alignment.** Ukucha are chaotic aligned, and tend to lean towards good. Ukucha are never evil.
 
-**Size.** Ukucha are between three and a half feet and four and a half feet tall. Your size is Medium.
+**Size.** Ukucha are between three and a half feet and four and a half feet tall. Your size is Medium or Small.
 
 **Speed.** You have a walking speed of 30 feet.
 
