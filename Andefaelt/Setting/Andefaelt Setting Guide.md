@@ -115,7 +115,7 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 # Gods
 
 ## [[Kadis (The God of Endings)]]
-## [[Abyss (The God of Nothing)]]
+## [[Abyss (The God the Void)]]
 
 ### [[Diorythis (creation)]]
 
