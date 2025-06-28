@@ -1,4 +1,4 @@
- The first bits of recorded history in Andefaelt is that of the Taeki Monastery. These include recorded accounts of battles, civilizations, and most important- the historical use of Relentium. The current calendar starts on the first year recorded by this monastery, and continues to the current day. The current year as of the start of the campaign is Year 1265.
+ The first bits of recorded history in Andefaelt is that of the Taeki Monastery. These include recorded accounts of battles, civilizations, and most important- the historical use of Relentium. The current calendar starts on the first year recorded by this monastery, and continues to the current day. The current year as of the start of the campaign is Year 1890.
 
 -The first inter-island travel (Year 11)
 The first occurrence of people splitting out onto other islands happened only 11 years after the first known recording of history. A Human by the name of Ulta Ceran, the first sorcerer, created a form of glider to carry himself on winds with the assistance of magic and Relentium to explore outwards.
@@ -15,5 +15,5 @@ After hundreds of years, settlers came and built the start of a city on top of t
 -The Voxis War for Independence (Year 1693 - 1699)
 After they declare their sovereignty in 1693, Zevka objects as Thrysta is on their land, and Voxis fights for their independence with support from Asyria, causing a Zevkan withdrawal in 1699, and later recognition in 1701
 
--The Runeforged Revolutions (Year 1840-1842)
+-The Runeforged Revolutions (Year 1823-1842)
 After the increased levels of sentience were achieved in Runeforged in the early 1800's, The Runeforged began to see themselves as a people deserving of the same freedoms of other humanoids. In 1840, the Runeforged decided to band together and start protesting their enslavement, wishing for the ability to gain freedom and a wage equivalent to that of any other worker. This continued on for 2 years, resulting is several violent riots and deaths among city guard, civilians, and Runeforged. In the summer of 1842, all four governments in Andefaelt held a conference in the Asyrian Capital, where it was declared that Runeforged were equal to that of any other sentient being and that they deserved equivalent rights.

@@ -40,6 +40,8 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 ##### [[Runesteel Armor]]
 
+##### [[Runesteel Prosthetics]]
+
 ## [[Automatons]]
 
 ## [['Mechs]]
@@ -83,9 +85,11 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 ## [[The Extinction of Dragons]]
 
-## [[The Mythos of the Afterlife]]'
+## [[The Mythos of the Afterlife]]
 
 ## The Species
+
+##### [[Runeforged]]
 
 ##### [[Elven History]]
 
