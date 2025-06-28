@@ -38,6 +38,7 @@ Main Species:
 Humans
 
 
+
 # Iyamari
 Colors I think of: grassy earth tones and smoky colors, the neons of magic 
 Things that give off tradition, strict training and muscle memory, 
