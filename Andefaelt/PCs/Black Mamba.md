@@ -1,4 +1,4 @@
-- rogue
+- Human rogue
 - iyamari military lore
 - white rose is very important, still alive
 - 
