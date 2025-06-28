@@ -34,7 +34,8 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Rifle, supercharged       | -     | 2d8 (4d8+64 Force) +dex   | 20lbs  | Reload(1), Range (600), Two Handed, Heavy, Special  | Slow           |
 | Pistol, supercharged      | -     | 2d4 (4d4 + 32 force) +dex | 5lbs   | Reload(3), Range (60/180), Two Handed, Special      | Slow           |
 | Military Automatic Rifle  | 670gp | 2d6 +dex                  | 20lbs  | Reload(16), Range (200/600), Two Handed, Rapid Fire | Slow           |
-| Pistol, Suppressed        | 75gp  | 2d4 +dex                  | 4lbs   | Reload (8), Range (20/60), Special                  | Vex            |
+| Pistol, Suppressed        | 75gp  | 2d4 +dex                  | 4lbs   | Reload (8), Range (20/60), Suppressed               | Vex            |
+| Rifle, Suppressed         | 180gp | 2d8 +dex                  | 9lbs   | Reload (6), Range (50/150), Suppressed, Bayonet     | Vex            |
 | Grenade Launcher          | 80gp  | ----                      | 7lbs   | Reload (1), Special                                 | ----           |
 | Runesteel Revolver        | -     | 1d8 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel               | Vex            |
 | Runesteel Shotgun         | -     | 2d8 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel    | Graze          |
@@ -80,7 +81,7 @@ Exotic Weapons are very unique weaponry that are very rare. These weapons requir
 
 **Runesteel.** A runesteel firearm is an experimental piece of tech, and unreliable. When loaded with a runesteel capacitor, they may make attacks affected by runesteel effects, but every attack made using a charge from the runesteel capacitor heats up the barrel and internals of the gun, giving you a a level of **overheat**, giving you a -1 per stack for 1 hour each, decreasing by 1 per hour. When your to-hit modifier reaches -5 or lower, the gun overheats and you have to spend at least 1 hour and 50gp (100gp for two handed) of work and materials to repair the gun, before it can be used again.
 
-**Suppressed Pistol.** This weapon is an integrally suppressed pistol, firing subsonic ammunition. Due to this, it's ammo is rare and costs twice as much as regular ammo. As well, when this weapon is fired, it is as silent as a bow, meaning it cannot be heard outside of 15ft.
+**Suppressed.** This weapon is integrally suppressed, firing subsonic ammunition. Due to this, it's ammo is rare and costs twice as much as regular ammo. As well, when this weapon is fired, it is near silent, meaning it cannot be heard outside of 15ft.
 
 **Grenade Launcher.** This weapon fires large, low velocity explosive projectiles. Due to this, it's ammo is rare and costs 3x as much as normal. When this weapon can be aimed at a specific square, instead of a targeted Creature. It's range is a flat 60 feet, and every creature within 20 feet of the point of impact must make a DC 15 Dexterity saving throw, taking 2d6 damage, or half as much on a failed save.
 
