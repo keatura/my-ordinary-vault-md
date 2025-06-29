@@ -34,8 +34,8 @@ When Powered Armor suffers a critical hit, roll on the Critical Damage Chart to 
 
 | Light Powered Armor (light/medium armor prof) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
 | --------------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
-| Exo-Skeleton                                  | 500gp   | 35ft  | 13 + Dex    | N/A     | 16       | 1d4 + Str      | Disadv. | 60lbs  |
-| Exo-Skeleton (battery powered)                | 2,000gp | 30ft  | 13 + Dex    | N/A     | 16       | 1d4 + Str      | N/A     | 80lbs  |
+| Exo-Skeleton                                  | 500gp   | 35ft  | 10 + Dex    | N/A     | 16       | 1d4 + Str      | Disadv. | 60lbs  |
+| Exo-Skeleton (battery powered)                | 2,000gp | 30ft  | 10 + Dex    | N/A     | 16       | 1d4 + Str      | N/A     | 80lbs  |
 | Lifter Suit                                   | 450gp   | 20ft  | 10          | 10      | 18       | 1d6 + Str      | Disadv  | 100lbs |
 | Chainmail Powered Armor                       | 800gp   | 35ft  | 16          | 14      | 17       | 1d6 + Str      | Disadv  | 110lbs |
 | Breastplate Powered Armor                     | 1,000gp | 35ft  | 14 + Dex    | 16      | 17       | 1d6 + Str      | Disadv  | 100lbs |
