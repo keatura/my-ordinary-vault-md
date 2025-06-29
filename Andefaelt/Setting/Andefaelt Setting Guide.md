@@ -128,6 +128,8 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 ##### [[Hemepha (nature and chaos)]]
 ##### [[Yorinth (order and law)]]
 
+## [[Morana (Goddess of the Underworld)]]
+
 ### [[Cihena (destruction)]]
 
 ##### [[Ares (war and ferality)]]
@@ -135,8 +137,6 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 ##### [[Azphin (death)]]
 ###### [[Gutur (undeath)]]
 ###### [[Iodrosni (rebirth)]]
-
-## [[ (God of the Underworld)]]
 
 --- 
 # Homebrew

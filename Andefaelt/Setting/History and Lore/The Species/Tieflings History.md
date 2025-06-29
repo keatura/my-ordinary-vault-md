@@ -1,1 +1,1 @@
-The King of Hell 
+Tieflings are direct offspring of Morana or their kin, 
