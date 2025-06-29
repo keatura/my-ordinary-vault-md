@@ -1,2 +1,2 @@
 - represents free will
-- collects the souls of their worshippers into the "Underworld", Morana's domain in the afterlife
+- collects the souls of their worshippers into the "Underworld", Morana's domain of the afterlife
