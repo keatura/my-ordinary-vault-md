@@ -20,17 +20,17 @@ Due to their mechanical nature, Powered Armor can be Critically Damaged in a sim
 When Powered Armor suffers a critical hit, roll on the Critical Damage Chart to see the effect.
 
 
-| d10 | Result                                | Repair |
-| --- | ------------------------------------- | ------ |
-| 1-2 | No systems are damaged.               | ---    |
-| 3   | **Operator Rattled.**                 | ---    |
-| 4   | **Arm Damaged.** One of the Armor's a |        |
-| 5   |                                       |        |
-| 6   |                                       |        |
-| 7   |                                       |        |
-| 8   |                                       |        |
-| 9   |                                       |        |
-| 10  |                                       |        |
+| d10 | Result                                                                                                                                                                                                                                                        | Repair                                                                                                       |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 1-2 | No systems are damaged.                                                                                                                                                                                                                                       | ---                                                                                                          |
+| 3   | **Operator Rattled.** The shot collides with the armor forcefully and sends intense vibrations through the suit. You cannot take reactions until the end of your next turn.                                                                                   | ---                                                                                                          |
+| 4   | **Arm Damaged.** One of the Armor's arms is crippled as a result. Roll a d6 (1-3 left, 4-6 right). Until the damage is repaired, you have disadvantage on attack rolls made with the damaged arm.                                                             | DC 10 Intelligence. Repair requires 1 hours of work and proficiency with tinker's tools.                     |
+| 5   | **Loss of Power.** The Armor's cylinder pressure has been compromised, resulting in a severe loss of power to the Armor. Until the damage is repaired, you have disadvantage on Strength checks.                                                              | DC 10 Intelligence. Repair requires 1 hour of work and proficiency with tinker's tools.                      |
+| 6   | **Movement Damaged.** The armor's movement systems have been damaged. Until the damage is repaired, your maximum speed is reduced by 10 feet and you cannot take the Dash action.                                                                             | DC 15 Intelligence. Repair requires 2 hours of work and proficiency with tinker's tools.                     |
+| 7   | **Radiator Leak.** The Armor's Radiator has been damaged, venting hot coolant onto the pilot. Until the armor is removed, you take 1d4 fire damage each minute.                                                                                               | DC 15 Intelligence. Repair requires 2 hours of work and proficiency with tinker's tools.                     |
+| 8   | **Operator Hit.** The attack bypasses the suit's armor. The attacks damage is doubled.                                                                                                                                                                        | ---                                                                                                          |
+| 9   | **Rupture.** The Armor's outer plating rips open, drastically reducing its protective ability. Until the Armor is repaired, ignore the resistance to damage and damage reduction.                                                                             | DC 17 Intelligence. Repair requires 3 hours of work and proficiency with tinker's tools.                     |
+| 10  | **Motor Explosion.** The attack causes the engine to violently combust, sending shrapnel in a radius around you. This explosion deals 5d6 piercing damage to you and any creature within 10 feet of you. Until the damage is repaired, the armor loses power. | 1/4 of the suit's cost (rounded up) for a new motor, and access to a machine shop. The repair takes 8 hours. |
 
 | Light Powered Armor (light/medium armor prof) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
 | --------------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
@@ -47,7 +47,7 @@ Light powered armor is generally fitted to a user, featuring a suit of armor or 
 | -------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
 | Heavy Plate Powered Armor              | 3,100gp | 30ft  | 19          | 10      | 21 +5    | 1d8 + Str      | Disadv  | 400lbs |
 | Forged Steel Powered Armor             | 3,700gp | 30ft  | 20          | 10      | 21+ 5    | 1d10 + Str     | Disadv  | 500lbs |
-Heavy powered armor is a size up, with longer lower leg sections and forearm sections to allow the suit to reach heights of up to 7 or 8 feet tall. They also feature extremely heavy armor sections that give the wearer Resistance to non-magical Bludgeoning, Piercing, or Slashing damage.
+Heavy powered armor is a size up, with longer lower leg sections and forearm sections to allow the suit to reach heights of up to 7 or 8 feet tall. They also feature extremely heavy armor sections that give the wearer Resistance to non-magical Bludgeoning, Piercing, or Slashing damage. Heavy powered armor also has flat damage reduction to all physical damage dealt to the suit. The number is equal to the Armor's Strength Modifier.
 
 | Exotic Powered Armor (special training) | Armor Class | Speed | Cost    | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
 | --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | ------- | ------ |
