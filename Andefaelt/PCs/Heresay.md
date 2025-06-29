@@ -1,2 +1,4 @@
 - tiefling warcaster
 - born on a small island, with a community of tieflings
+- no last name
+- was sent to Kalivny to 
