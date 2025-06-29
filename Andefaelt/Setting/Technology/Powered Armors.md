@@ -41,4 +41,4 @@ Heavy powered armor is a size up, with longer lower leg sections and forearm sec
 | Templar's Armor (Heavy)                 | 21          | 40ft  | 7,300gp | 12      | 23       | 1d12 + Str     | Disadv  | 760lbs |
 Exotic powered armor follows the general rules for its class of Powered Armor (either light or heavy), but they also come with special rules and require special training.
 
-**Templar's Armor.** Templar Armor is designed to work with the Asyrian Church's transport ships, and have runesteel shock absorbers built into their legs
+**Templar's Armor.** Templar Armor is designed to work with the Asyrian Church's transport ships, and have runesteel shock absorbers built into their legs, allowing them to ignore fall damage.
