@@ -45,13 +45,16 @@ Light powered armor is generally fitted to a user, featuring a suit of armor or 
 
 | Heavy Powered Armor (heavy armor prof) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
 | -------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
-| Heavy Plate Powered Armor              | 3,100gp | 30ft  | 19          | 10      | 21 +5    | 1d8 + Str      | Disadv  | 400lbs |
-| Forged Steel Powered Armor             | 3,700gp | 30ft  | 20          | 10      | 21+ 5    | 1d10 + Str     | Disadv  | 500lbs |
-Heavy powered armor is a size up, with longer lower leg sections and forearm sections to allow the suit to reach heights of up to 7 or 8 feet tall. They also feature extremely heavy armor sections that give the wearer Resistance to non-magical Bludgeoning, Piercing, or Slashing damage. Heavy powered armor also has flat damage reduction to all physical damage dealt to the suit. The number is equal to the Armor's Strength Modifier.
+| Heavy Plate Powered Armor              | 3,100gp | 25ft  | 19          | 10      | 21 +5    | 1d8 + Str      | Disadv  | 400lbs |
+| Cast Steel Powered Armor               | 3,700gp | 25ft  | 20          | 10      | 21+ 5    | 1d10 + Str     | Disadv  | 500lbs |
+Heavy powered armor is a size up, with longer lower leg sections and forearm sections to allow the suit to reach heights of up to 7 or 8 feet tall. They also feature extremely heavy armor sections that give the wearer Resistance to non-magical Bludgeoning, Piercing, or Slashing damage. Heavy powered armor also has flat damage reduction to all physical damage dealt to the suit. The number is equal to the Pilot's Proficiency Bonus.
 
-| Exotic Powered Armor (special training) | Armor Class | Speed | Cost    | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
-| --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | ------- | ------ |
-| Templar's Armor (Heavy)                 | 21          | 40ft  | 7,300gp | 12      | 23 +6    | 1d12 + Str     | Disadv  | 760lbs |
+| Exotic Powered Armor (special training) | Armor Class | Speed | Cost    | Max Dex | Strength | Unarmed Strike | Stealth   | Weight |
+| --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | --------- | ------ |
+| Templar's Armor (Heavy)                 | 21          | 40ft  | 7,300gp | 12      | 23 +6    | 1d12 + Str     | Disadv    | 760lbs |
+| Shocktroops' Exo (Light)                | 14 + Dex    | 45ft  | 3,000gp | N/A     | 17 +3    | 2d6 + Str      | See below | 75lbs  |
 Exotic powered armor follows the general rules for its class of Powered Armor (either light or heavy), but they also come with special rules and require special training.
 
-**Templar's Armor.** Templar Armor is designed to work with the Asyrian Church's transport ships, and have runesteel shock absorbers built into their legs, allowing them to ignore fall damage.
+**Templar's Armor.** Templar Armor is designed to work with the Asyrian Church's transport ships, and have runesteel shock absorbers built into their legs, allowing them to ignore fall damage. Templar Armor has a built-in Gasmask in the helmet.
+
+**Shocktroops' Exo.** The Iyamarian Aerial Cavalry Corps utilizes light, fast exo-skeleton armors to facilitate quick and powerful assaults and execute flanking maneuvers efficiently. This Armor has a built-in Gasmask in the helmet, and come with a deployable knife built into the arms for quick reaction and CQB. They also have power-regulation systems that allow them to enter a state of "silent running", allowing the suit to move nearly silently apart from the noise of the mechanics, for up to an hour. After this hour, the suit must be given at least 2 hours of rest to purge itself before it is safe to do so again.

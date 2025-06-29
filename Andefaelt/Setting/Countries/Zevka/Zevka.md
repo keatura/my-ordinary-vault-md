@@ -18,3 +18,16 @@ There are no major issues between races inside of Zevka. Due to the countries va
 ### Geography
 
 Zevka's territory encompasses all of the Highlands. This gives them quite a substantial amount of land, but due to these islands being old, they are not as resource rich as the Islands many newer countries inhabit. The Highlands are an archipelago of islands to the north of Ederna, several thousand feet higher than most other inhabited islands. Due to their altitude, air is thin and temperatures cold. The people of Zevka are adapted to this though, and apart from a few islands lower altitude for farming Zevkan residents are hardened by the harsh climate.
+
+### Cities
+
+- Lenovo
+	- Where Mizuki met her sorcerer mentor, and where they were buried.
+	- Produces mainly 'Jack Cortexes
+	- Is known for it's magical understanding and is the best option for practicing magic on the Korolevskye Coast
+		- What i need:
+		- mentor's name
+		- where they generally lived in the city (maybe city center or closer to the outskirts?)
+		- any major experiences they had there (surviving their first Zevkan winter, learning the ropes of Zevkan societal norms, which can be hard for foreigners as the people generally aren't the most social, etc.)
+		- Friends, relationships? maybe a favorite bar (could be just a name and vibe) or favorite place, maybe someone they would write letters to?
+
