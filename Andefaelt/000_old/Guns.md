@@ -36,6 +36,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Military Automatic Rifle  | 670gp | 2d6 +dex                  | 20lbs  | Reload(16), Range (200/600), Two Handed, Rapid Fire | Slow           |
 | Pistol, Suppressed        | 75gp  | 2d4 +dex                  | 4lbs   | Reload (8), Range (20/60), Suppressed               | Vex            |
 | Rifle, Suppressed         | 180gp | 2d8 +dex                  | 9lbs   | Reload (6), Range (50/150), Suppressed, Bayonet     | Vex            |
+| Rifle, Multicaliber       | 60gp  | 2d8 +dex                  | 7lbs   | Reload(2/1) Range (200/600), Special                | Vex            |
 | Grenade Launcher          | 80gp  | ----                      | 7lbs   | Reload (1), Special                                 | ----           |
 | Runesteel Revolver        | -     | 1d8 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel               | Vex            |
 | Runesteel Shotgun         | -     | 2d8 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel    | Graze          |
@@ -84,6 +85,8 @@ Exotic Weapons are very unique weaponry that are very rare. These weapons requir
 **Suppressed.** This weapon is integrally suppressed, firing subsonic ammunition. Due to this, it's ammo is rare and costs twice as much as regular ammo. As well, when this weapon is fired, it is near silent, meaning it cannot be heard outside of 15ft.
 
 **Grenade Launcher.** This weapon fires large, low velocity explosive projectiles. Due to this, it's ammo is rare and costs 3x as much as normal. When this weapon can be aimed at a specific square, instead of a targeted Creature. It's range is a flat 60 feet, and every creature within 20 feet of the point of impact must make a DC 15 Dexterity saving throw, taking 2d6 damage, or half as much on a failed save.
+
+**Multicaliber Rifle.** 
 
 ### Heavy Weapons
 These weapons are intended for use in emplacements, people in power armor and small warjacks. Due to their large size and huge weight, they are completely impractical for use by those not in powered armor. Someone may equip one of these weapons, but every weapon counts as having the Two-Handed property, and they may not use it to make an attack without receiving the Help action from someone else under the specific purpose of using the weapon. This Help action does not provide Advantage.

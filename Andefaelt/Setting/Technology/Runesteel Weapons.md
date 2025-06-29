@@ -4,6 +4,7 @@ Runesteel weapons work by routing cabling through the handle and hilt of the wea
 
 If an effect from a runesteel weapon requires a target to make a save against the effect, the DC is equal to **10+mod+PB(if applicable)+weapon enchantment**. When determining the dice rolled for an effect you roll the amount of dice, multiplied by your weapon enchantment +1 (for example, if something is 2xd8, it starts at 2d8, then a +1 weapon is 4d8, +2 weapon is 6d8, etc.) You can expend charges on one effect per turn. The amount of charges a weapon has per Capacitor is equal to 2 + weapon enchantment.
 
+Each Capacitor costs 5gp.
 
 some effect examples go as follows; if you have an idea for something, ask the DM and they will figure something out.
 
