@@ -120,7 +120,6 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 # Gods
 
 ## [[Kadis (The God of Endings)]]
-## [[Abyss (The God the Void)]]
 
 ### [[Diorythis (creation)]]
 
@@ -137,6 +136,8 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 ##### [[Azphin (death)]]
 ###### [[Gutur (undeath)]]
 ###### [[Iodrosni (rebirth)]]
+
+## [[Abyss (The God the Void)]]
 
 --- 
 # Homebrew
