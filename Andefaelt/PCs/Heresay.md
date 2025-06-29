@@ -1,0 +1,2 @@
+- tiefling warcaster
+- born on a small island, with a community of tieflings
