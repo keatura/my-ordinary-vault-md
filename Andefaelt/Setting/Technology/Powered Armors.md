@@ -32,13 +32,13 @@ Light powered armor is generally fitted to a user, featuring a suit of armor or 
 
 | Heavy Powered Armor (heavy armor prof) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
 | -------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
-| Heavy Plate Powered Armor              | 3,100gp | 30ft  | 19          | 10      | 21       | 1d8 + Str      | Disadv  | 400lbs |
-| Forged Steel Powered Armor             | 3,700gp | 30ft  | 20          | 10      | 21       | 1d10 + Str     | Disadv  | 500lbs |
+| Heavy Plate Powered Armor              | 3,100gp | 30ft  | 19          | 10      | 21 +5    | 1d8 + Str      | Disadv  | 400lbs |
+| Forged Steel Powered Armor             | 3,700gp | 30ft  | 20          | 10      | 21+ 5    | 1d10 + Str     | Disadv  | 500lbs |
 Heavy powered armor is a size up, with longer lower leg sections and forearm sections to allow the suit to reach heights of up to 7 or 8 feet tall. They also feature extremely heavy armor sections that give the wearer Resistance to non-magical Bludgeoning, Piercing, or Slashing damage.
 
 | Exotic Powered Armor (special training) | Armor Class | Speed | Cost    | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
 | --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | ------- | ------ |
-| Templar's Armor (Heavy)                 | 21          | 40ft  | 7,300gp | 12      | 23       | 1d12 + Str     | Disadv  | 760lbs |
+| Templar's Armor (Heavy)                 | 21          | 40ft  | 7,300gp | 12      | 23 +6    | 1d12 + Str     | Disadv  | 760lbs |
 Exotic powered armor follows the general rules for its class of Powered Armor (either light or heavy), but they also come with special rules and require special training.
 
 **Templar's Armor.** Templar Armor is designed to work with the Asyrian Church's transport ships, and have runesteel shock absorbers built into their legs, allowing them to ignore fall damage.
