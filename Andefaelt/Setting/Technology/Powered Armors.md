@@ -19,6 +19,19 @@ Due to their mechanical nature, Powered Armor can be Critically Damaged in a sim
 - Is subject to an effect or situation that could cause critical damage or warrant a malfunction, as determined by the DM.
 When Powered Armor suffers a critical hit, roll on the Critical Damage Chart to see the effect.
 
+
+| d10 | Result                                | Repair |
+| --- | ------------------------------------- | ------ |
+| 1-2 | No systems are damaged.               | ---    |
+| 3   | **Operator Rattled.**                 | ---    |
+| 4   | **Arm Damaged.** One of the Armor's a |        |
+| 5   |                                       |        |
+| 6   |                                       |        |
+| 7   |                                       |        |
+| 8   |                                       |        |
+| 9   |                                       |        |
+| 10  |                                       |        |
+
 | Light Powered Armor (light/medium armor prof) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
 | --------------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
 | Exo-Skeleton                                  | 500gp   | 35ft  | 13 + Dex    | N/A     | 16       | 1d4 + Str      | Disadv. | 60lbs  |
