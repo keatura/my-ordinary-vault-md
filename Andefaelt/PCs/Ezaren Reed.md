@@ -1,4 +1,5 @@
 - human fighter
+- 24
 
 Previous Standing in the Military: Joined the military when he turned 18, as to continue something of his father's legacy. Ezaren was a cavalier that fought in a battle resulting in some severe injuries, some being fatal if not for "Carver."
 
