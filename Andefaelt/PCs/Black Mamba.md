@@ -3,7 +3,13 @@
 - white rose is very important, still alive
 - 
 
+I'm going to give the vaguest outline since I'm a bit busy right now And then I'll send more detailed stuff soon
 
+1. Probably various friends, a lot of them likely died in the mission. I'll give a few soon. Family: Father, younger brother, stepmother. Father is human, stepmother is elvish, brother is half-elf. Allies and enemies too important to give vague answers, will be more detailed soon.,
+2. Previous standing in the military was high but not super high. High enough to be considered one of the leaders on the mission and known to be one of the top agents available (but not like infamous or anything). Low enough that he's obviously not giving orders outside of in combat. He probably would have been an agent from the beginning.,
+3. My father did similar work to me, and was quite good at his job. Same with my mother, but she died when I was young. My father switched to a more administrative, officer role after this, but I still remembered the stuff he taught me.,
+4. With his more magical-surrounded background, he's not too religious. He switches between superstitious and apathetic toward various religions, without discrimination. Except for Asyria. He thinks they're crazy. Values and other beliefs I'll do soon,
+5. He's got mixed feelings toward Iyamari. He knows they didn't make the bomb, but they wanted it obviously. And while he didn't want them to have it, he understands why they'd want it. It isn't like it would ruin his country for him. For him, it's more of how they follow stuff up that'll determine his future feelings. So right now, it's up in the air.
 
 ## Short story - Superweapon Heist
 So yeah, I'm thinking there's a big Asyrian ship transporting this antimatter bomb. It's a team operation - one party securing the weapon, one party securing control of the aircraft, etc
