@@ -25,9 +25,4 @@ Zevka's territory encompasses all of the Highlands. This gives them quite a subs
 	- Where Mizuki met her sorcerer mentor, and where they were buried.
 	- Produces mainly 'Jack Cortexes
 	- Is known for it's magical understanding and is the best option for practicing magic on the Korolevskye Coast
-		- What i need:
-		- mentor's name
-		- where they generally lived in the city (maybe city center or closer to the outskirts?)
-		- any major experiences they had there (surviving their first Zevkan winter, learning the ropes of Zevkan societal norms, which can be hard for foreigners as the people generally aren't the most social, etc.)
-		- Friends, relationships? maybe a favorite bar (could be just a name and vibe) or favorite place, maybe someone they would write letters to?
 
