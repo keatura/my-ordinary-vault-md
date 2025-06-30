@@ -114,11 +114,12 @@ And with that, after his glide, he tumbled to the ground. And he ends up on the 
 - **Obed Greathorn** (blue dragonborn, about 40). An adventurer that got Black Mamba out of a tough situation one time. Black Mamba owes him a favor at some point, but in the meantime they’re friendly. He lives in Voxis.
 
 # Allies
-- John and Obed
-- Red Rage, an elvish agent who’s pretty much just getting started. He doesn’t really have much power or anything, but he’s a big fan of Black Mamba. Black Mamba makes fun of him for being a small guy hiding behind an intimidating code name, but tries to help him out and teach him when he can.
+- **John**
+- **Obed**
+- **Red Rage**, an elvish agent who’s pretty much just getting started. He doesn’t really have much power or anything, but he’s a big fan of Black Mamba. Black Mamba makes fun of him for being a small guy hiding behind an intimidating code name, but tries to help him out and teach him when he can.
 
 # Enemies
 - Whoever is hunting him down
 - Asyrian authorities, although they don’t know exactly who he is. More specifically, the crew of the sunk ship and the big templar on the small ship.
 - White Rose, if she’s alive (hope she is, she would make a cool foil)
-- Mauric, an Orc officer for the IAR. He’s an old guy and didn’t like Black Mamba from the beginning. No clear reason/incident, just butted heads and whatever.
+- **Mauric**, an Orc officer for the IAR. He’s an old guy and didn’t like Black Mamba from the beginning. No clear reason/incident, just butted heads and whatever.
