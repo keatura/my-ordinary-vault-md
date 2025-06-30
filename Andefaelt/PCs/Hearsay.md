@@ -1,3 +1,4 @@
+she/her
 - tiefling warcaster
 - born on a small island, with a community of tieflings
 - no last name
@@ -8,4 +9,5 @@
 
 ##### Ukuchan Mechanic - Bolt-That-Sits-On-Desk "Bolt"
 - Roommate
-- helps Hearsay work 
+- helps Hearsay work on Bones, letting her borrow tools and learn how to work on Jacks
+- Literally just walked into Bolt's shop and dropped off Bones, 
