@@ -4,4 +4,4 @@ This mini-campaign takes place on a small island in southern Zevka, close to the
 
 # Kalivny
 Overview of the the Island:
-Mostly a mixture of humans and
+Mostly a mixture of humans and ukuchans, 
