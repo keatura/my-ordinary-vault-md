@@ -15,7 +15,7 @@ The Asyrian Empire is the most military power of the four nations. They control 
 - have good armor
 
 ### The Asyrian Navy
-
+- shape is similar to zeppelins, but with a large propulsion assembly on the rear as well as lots of armor and casemated secondary guns. They a bridge split between the top and the bottom, and generally have a lift through the center of the boat from one to another
 # The Church
 
 ## The Church's Army
