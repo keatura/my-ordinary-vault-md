@@ -1,7 +1,7 @@
 - Human rogue
 - iyamari military lore
 - white rose is very important, still alive
-- 
+- 30
 
 I'm going to give the vaguest outline since I'm a bit busy right now And then I'll send more detailed stuff soon
 
@@ -10,6 +10,7 @@ I'm going to give the vaguest outline since I'm a bit busy right now And then I'
 3. My father did similar work to me, and was quite good at his job. Same with my mother, but she died when I was young. My father switched to a more administrative, officer role after this, but I still remembered the stuff he taught me.,
 4. With his more magical-surrounded background, he's not too religious. He switches between superstitious and apathetic toward various religions, without discrimination. Except for Asyria. He thinks they're crazy. Values and other beliefs I'll do soon,
 5. He's got mixed feelings toward Iyamari. He knows they didn't make the bomb, but they wanted it obviously. And while he didn't want them to have it, he understands why they'd want it. It isn't like it would ruin his country for him. For him, it's more of how they follow stuff up that'll determine his future feelings. So right now, it's up in the air.
+6. Black Mamba, for context, is fully human. Around 30. To compare ages, his dad was around 30 when he had him, and mother around 25. His mom died when he was about 13
 
 ## Short story - Superweapon Heist
 So yeah, I'm thinking there's a big Asyrian ship transporting this antimatter bomb. It's a team operation - one party securing the weapon, one party securing control of the aircraft, etc
@@ -99,3 +100,33 @@ And with that, after his glide, he tumbled to the ground. And he ends up on the 
 1. It's possible that Iyamari doesn't know about what he did. So he could work with them still, unless somehow his betrayal is revealed. Speaking of which.,
 2. The possibility that White Rose survived and got off the ship could be interesting. Possible NPC who would have complex relationship with Black Mamba. On one hand, they have experience doing missions together and he did spare her life when she tried to kill him. On the other hand, they had a bit of a rivalry and he _did_ betray the mission. If she gets back to Iyamari, very good chance she'll snitch on him.,
 3. Yeah, heat will be high.
+
+# Family
+- **Idris King** (around 60), Black Mamba’s father. Once one of Iyamari’s top agents, he was actually from Zevka which led to him being a bit of a gruff and cold person. After his wife’s death, he got moved up to become an officer - likely reaching a high rank. I’d imagine the equivalent of a 1 star general maybe. There’s a chance he’s got some secret business going on given his previous work. Black Mamba holds a bit of resentment toward Idris for a few reasons. Firstly, he moved on from his wife quickly. Second, he was quite strict and tough growing up. Not the end of the world, but ties into the third thing. Third, he was nowhere near this strict and tough with his second son - who he had after remarrying (soon after his first wife’s death). That being said, they don’t have a terrible relationship. Just tense. Tough love from Idris and whatnot. His code name was Skullhammer, pretty spooky.
+- **Maria** (died around 40) King, Black Mamba’s mother. Also a very skilled agent, she was an Asyrian defect that joined Iyamari a while back. She died in a top secret mission (nature of her death has been kept secret, there’s a chance some fishy business was going on) against Asyria - part of the reason why Black Mamba has a vendetta against them (aside from also thinking their zealotry is both goofy and sinister). Her code name was Silent Dagger.
+- **Isabella King** (relatively young elf, not sure exact age), Black Mamba’s stepmother. Not related to the military, she’s an elven sorceress native to Iyamari. Black Mamba has never gotten too close to her, and has always been a bit suspicious of her. She’s a nice person though and hasn’t really done anything wrong to Black Mamba.
+- **Tanis King** (around 15), Black Mamba’s half-brother. They don’t interact a lot. Black Mamba is nice to him, but a little jealous at times. Idris is far more caring and far less strict. Some of it is due to Isabella’s calm nature, but that doesn’t change the bitter feeling for Black Mamba. At this point he doesn’t really care, he’s a full grown man.
+
+# Friends
+- **White Rose** (elf, equivalent of 30). This was an interesting relationship, they were friends but often disagreed and had a bit of a rivalry. As will be apparent, the agents almost always use their code names. Only with family do they really use their birth names. They often worked together, with White Rose having superior combat skills (particularly martial arts) while Black Mamba had better stealth and resourcefulness. As you know, they had a pretty brutal fight when she found out Black Mamba sabotaged the mission. As far as he knows, she could be dead. He left her alive and did hope that she made it off the ship, but couldn’t go back for her. He knows she’ll probably come after him.
+- **Green Shadow** (human, about 35). Dead according to White Rose, he was one of the group members on the iconic mission. He had known Black Mamba for a long time, and often talked about getting out of active combat as soon as he could so he could start a healthy family. Still, he took his job very seriously.
+- **John Krash** (half-elf, about 35). A friend of Black Mamba that’s outside the military. He’s actually committed several petty crimes, being a charlatan of sorts. Black Mamba jokingly holds that against him in exchange for free drinks at Krash’s pub. They’ve known each other for a long time, and have each other’s backs when possible. Only thing is, that usually just means Black Mamba having Krash’s back given the skill difference. He’s back in Iyamari.
+- **Obed Greathorn** (blue dragonborn, about 40). An adventurer that got Black Mamba out of a tough situation one time. Black Mamba owes him a favor at some point, but in the meantime they’re friendly. He lives in Voxis.
+
+# Allies
+- **John**
+- **Obed**
+- **Red Rage**, an elvish agent who’s pretty much just getting started. He doesn’t really have much power or anything, but he’s a big fan of Black Mamba. Black Mamba makes fun of him for being a small guy hiding behind an intimidating code name, but tries to help him out and teach him when he can.
+
+# Enemies
+- Whoever is hunting him down
+- Asyrian authorities, although they don’t know exactly who he is. More specifically, the crew of the sunk ship and the big templar on the small ship.
+- White Rose, if she’s alive (hope she is, she would make a cool foil)
+- **Mauric**, an Orc officer for the IAR. He’s an old guy and didn’t like Black Mamba from the beginning. No clear reason/incident, just butted heads and whatever.
+
+# Beliefs & Values
+- Doesn’t worship one god in particular. He respects the gods and all that, not wanting to get smited. I like the idea that he switches between being superstitious and skeptical - sometimes being the kind to leave an offering out and sometimes blatantly rejecting and ignoring it. Perhaps this has led him into trouble once.
+- He does not like Asyrian practices. He thinks they are too zealous. To him, gods that want that zealotry are bad gods. Still, if he gets afraid that the god will be mad at him, he will say the complete opposite to save his skin.
+- I’d consider him quite True Neutral - leaning good. He respects the principle of order and chain of command, but thinks that people need to have freedom to make the right decision when it's the right time. Hence, why he did what he did. Similar thing with neutral - he tries to do good when he can (you know, giving a beggar money and stuff) and avoids killing people he deems innocent. Still, he doesn’t have a big issue with killing people he deems a threat. When he gets very focused, he has even less of an issue. Sometimes he’s a bit petty too, but more mischievous petty than evil petty I’d say.
+- His biggest values are Personal Loyalty, Justice, Life, and Loyalty in general. The reason I differentiate with personal loyalty and wider loyalty is his betrayal. He cares for his country, but puts the principle of innocent people above that. However, if he was in a situation where his friends were in danger, he would totally go Joel firefly on them. He cares about justice a lot too, it’s a big motivator for him.
+- Loyalty to Iyamari is interesting. I’d still say he’s loyal, but he has questions. If in the past he’d listen without hesitation, he definitely won’t now. He would be happy to help them if they needed him, but what’s most important is how they proceed with what he did. Their actions against him will determine his loyalty going forth.
