@@ -6,4 +6,6 @@ This mini-campaign takes place on a small island in southern Zevka, close to the
 Overview of the the Island:
 Mostly a mixture of humans and ukuchans, 
 
-goblins
+goblins have been roped into worshipping the "Mask-Wearer"
+a cult of Iodrosni has formed on the island
+the leader is a warlock of Iodrosni, working to convince others to directly worship Iodrosni to grow her own power.
