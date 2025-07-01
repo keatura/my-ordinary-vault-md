@@ -11,6 +11,8 @@ The Asyrian Empire is the most military power of the four nations. They control 
 # The Asyrian Armed Forces
 
 ### The Asyrian Military
+- troops are generally well-trained
+- have good armor
 
 ### The Asyrian Navy
 
