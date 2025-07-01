@@ -7,5 +7,11 @@ Overview of the the Island:
 Mostly a mixture of humans and ukuchans, 
 
 goblins have been roped into worshipping the "Mask-Wearer"
-a cult of Iodrosni has formed on the island
-the leader is a warlock of Iodrosni, working to convince others to directly worship Iodrosni to grow her own power.
+a cult of "Iodrosni" has formed on the island
+the leader is a warlock of the Feyblood weapon he has, - the dagger. working to convince others to directly worship Iodrosni to grow her own power.
+
+His name is **[[Marckus Threadweaver]]**, 
+
+# Helena
+
+A small Asyrian town on the other side of the island, Kalivny and Helena coexist fairly peacefully. While Asyria 

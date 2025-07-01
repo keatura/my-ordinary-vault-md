@@ -1,2 +1,0 @@
-- related to demons
-- generally viewed poorly outside of Zevka, Iyamari is distrustful and Asyria is hateful.

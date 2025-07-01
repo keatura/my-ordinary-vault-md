@@ -104,8 +104,6 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 ##### [[Dragonborn and Kobold History]]
 
-##### [[Runeforged History]]
-
 ##### [[Orc History]]
 
 ##### [[Goliath History]]
@@ -114,7 +112,7 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 ##### [[Aasimar Lore]]
 
-##### [[Tieflings History 1]]
+##### [[Tieflings History]]
 
 ##### [[Lizardfolk History]]
 
