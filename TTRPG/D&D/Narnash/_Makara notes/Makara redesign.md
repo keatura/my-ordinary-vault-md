@@ -25,3 +25,10 @@ Her armor is a mix of plate and brigandine. with the breastplate, pauldrons and 
 Her expression is flat and distant, with her maroon hair tied up tightly into a bun.
 
 The item I would like to commission is her helmet, which can be seen in the two references, although it is the same polished steel as the armor. 
+
+----
+She is 5'3" and an elf, her ears are quite long and stick out to the side. Her eyes are hazel. the sword is 4 feet in length
+
+her boots are thigh-length, in a darker leather with laces that go all the way up and down the boots, she has a lavender coat and a white undershirt draping over the side. Her pants are black and form fitting. She has white silk gloves and her breastplate armor on.
+
+As she is playing, her sword is sat between her legs, and cradled in her right arm as she plays. the left 4 runes of the 2 columns display on the scabbard (in the same spots as the animals on the scabbard reference)
