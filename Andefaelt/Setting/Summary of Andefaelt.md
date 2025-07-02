@@ -42,7 +42,7 @@ Humans, Ukucha, and Dragonborn
 
 
 # Iyamari
-Colors I think of: grassy earth tones and smoky colors, the neons of magic 
+Colors I think of: grassy earth tones and smoky colors, the neon's of magic 
 Things that give off tradition, strict training and muscle memory, and loyalty
 
 Iyamari resides mostly within the eastern plains of Andefaelt, spreading slightly into the Highlands in the North. Ruled by a council of the different majority species of the country, residing at the center of the island that is the center of their biggest lake, Seifu Reservoir. Their capital city Naili is built on this island as well, which bears the same name. Iyamari doesnt have the most natural resources compared to the other three, but they do have one thing - Moxite. Lots of it. Since Moxite only needs flat surfaces to grow and form, Iyamari has loads of Moxite in huge veins, and it even used to be scattered across the surface. 
