@@ -119,8 +119,6 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 --- 
 # Gods
 
-## [[Eidolon, The Infinity]]
-
 ## [[Kadis (The God of Endings)]]
 
 ### [[Diorythis (creation)]]
@@ -139,7 +137,9 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 ###### [[Gutur (undeath)]]
 ###### [[Iodrosni (rebirth)]]
 
-## [[Abyss (The God the Void)]]
+## [[Abyss, The Void]]
+
+## [[Eidolon, The Infinity]]
 
 --- 
 # Homebrew
