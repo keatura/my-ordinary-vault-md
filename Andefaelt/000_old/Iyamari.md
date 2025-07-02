@@ -17,6 +17,7 @@ Iyamari is to the southeast of Ederna, and is the homeland of Elves. also called
 		- hometown/ city, experiences that could've shaped you into becoming an operative?
 		- beliefs? religious or otherwise
 		- how loyal are you still to Iyamari, after discovering the Antimatter bomb
+
 - Phoenix's pc is a field agent, and is currently looking for Black Mamba
 	- What i need from you:
 		- Friends, family, allies, enemies you have made? government bureaucracy is real
