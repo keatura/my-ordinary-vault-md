@@ -23,9 +23,9 @@ PB +2
 **Feyblood Dagger** *Melee or Ranged Attack:* +6 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d8+4) or 8 (1d6+4) Slashing damage, plus 8 (2d6) Radiant damage.
 
 **Spellcasting.**
-Marckus is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
+Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Marckus has the following Warlock spells prepared:
 
-Cantrips (at will): Booming Blade (range 30ft), Green-Flame Blade (range 30ft), Minor Illusion.
+Cantrips (at will): Booming Blade (range 60ft), Green-Flame Blade (range 60ft), Minor Illusion.
 
 3rd level (2 slots): Command, Vampiric Touch, Shield.
 
