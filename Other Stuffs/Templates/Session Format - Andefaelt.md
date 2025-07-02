@@ -37,20 +37,5 @@ Scene description.
 #### Scene
 Scene description.
 
-## Chapter
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
 ## Scratch Notes
 - Example

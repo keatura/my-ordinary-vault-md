@@ -13,7 +13,7 @@ Persuasion +5, Deception +5, Stealth +4
 **Senses:** Passive Perception 13
 PB +2
 
-**Dark Devotion.** The Feyblood dagger gives Marckus advantage of saving throws against being charmed or frightened.
+**Dark Devotion.** The Feyblood dagger gives Marckus advantage of saving throws against being charmed or frightened. 
 
 **Feyblood Pocket Dimension.** Marckus can summon and banish the Dagger to a pocket dimension.
 
