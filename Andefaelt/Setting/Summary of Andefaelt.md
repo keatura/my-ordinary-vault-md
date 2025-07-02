@@ -32,18 +32,27 @@ Things that give off dominance, authority, and outward appearance
 
 The Asyrian Empire resides in the western rainforest, and is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Camillus, the serving king of the period.
 
-Asyria Follows Kadis primarily in their worship, though they do worship the entire pantheon, as they are all descended from Kadis. So while everyone does give prayers to Kadis, there are smaller churches and sub-chapters of religious organizations dedicated to the other gods as well.
+Asyria Follows Kadis and Kadis' Children, as their leader is descended from Kadis. So while everyone does give prayers to Kadis, there are smaller churches and sub-chapters of religious organizations dedicated to Kadis' Children as well.
+
+Asyria is a very civilized, modern country and is constructed a new, modern capital city around the Western Pillar. It has been completed enough to be a completely functioning city, but still has heavy constructed to expand. 
 
 Main Species:
-Humans
+Humans, Ukucha, and Dragonborn
 
 
 
 # Iyamari
 Colors I think of: grassy earth tones and smoky colors, the neons of magic 
-Things that give off tradition, strict training and muscle memory, 
+Things that give off tradition, strict training and muscle memory, and loyalty
 
-Iyamari resides mostly within the eastern plains of Andefaelt, spreading slightly into the Highlands in the North. 
+Iyamari resides mostly within the eastern plains of Andefaelt, spreading slightly into the Highlands in the North. Ruled by a council of the different majority species of the country, residing at the center of the island that is the center of their biggest lake, Seifu Reservoir. Their capital city Naili is built on this island as well, which bears the same name. Iyamari doesnt have the most natural resources compared to the other three, but they do have one thing - Moxite. Lots of it. Since Moxite only needs flat surfaces to grow and form, Iyamari has loads of Moxite in huge veins, and it even used to be scattered across the surface. 
+
+Because of their large surplus of the crystal, Iyamari freely uses lots of fuel to run transport aircraft for their military, and their infamous shock troops, the Aerial Cavalry Corps, is known for strike fast and deep behind enemy lines. Iyamari is also notable for their recognizable airship design. Their airships look like giant flying wings and aircraft, using their lifting surfaces to fly higher than just the lifting devices would allow.
+
+Iyamari as a whole is generally, cool, calculated and relaxed. They only act on emotion in extreme circumstance.
+
+Main Species:
+Elves, Humans, and Orcs
 
 # Onyxia
 Colors I think of: all earth tones, brass and bronze, the seafoam green of Runesteel

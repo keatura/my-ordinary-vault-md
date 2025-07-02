@@ -23,7 +23,7 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 ##### [[Onyxian Capital, Noraveas]]
 
 ### [[Iyamari]]
-##### [[Iyamari' Capital]]
+##### [[Iyamari' Capital, Naili]]
 
 
 --- 
@@ -108,13 +108,9 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 ##### [[Goliath History]]
 
-##### [[Halfling History]]
-
 ##### [[Aasimar Lore]]
 
 ##### [[Tieflings History]]
-
-##### [[Lizardfolk History]]
 
 --- 
 # Gods
