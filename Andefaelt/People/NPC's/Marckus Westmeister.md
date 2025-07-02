@@ -1,4 +1,6 @@
-**Marckus Westmeister** is a teenage human from Kalivny. He found the Feyblood dagger while exploring in the woods, and it enraptured him, manipulating him to lead the goblins and capture the island. At heart he is just a teenage boy, but the dagger's magic is causing him to act abnormally.
+**Marckus Westmeister** is a teenage human from Kalivny. He found the Feyblood dagger while exploring in the woods, and it enraptured him, manipulating him to lead the goblins and capture the island. At heart he is just a teenage boy, but the dagger's magic is causing him to act abnormally. The only reason Marckus is as weak as he is, is because even subconsciously he is fighting back against the weapon's influence so he can go back to his parents.
+
+The Dagger and even Marckus himself drip Holy Blight, a sickeningly yellow radiant liquid that evaporates shortly after leaving contact. Casting spells and 
 
 Medium Humanoid
 AC: 14 (Leather, Cloak of Protection)
@@ -12,6 +14,8 @@ Persuasion +5, Deception +5, Stealth +4
 PB +2
 
 **Dark Devotion.** The Feyblood dagger gives Marckus advantage of saving throws against being charmed or frightened.
+
+**Feyblood Pocket Dimension.** 
 
 ### Actions
 **Multiattack.** Marckus makes two attacks with his Feyblood dagger. He can substitute one of his attacks to cast either *Booming Blade* or *Green-Flame Blade.* 
