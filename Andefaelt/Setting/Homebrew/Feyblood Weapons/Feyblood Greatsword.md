@@ -1,6 +1,6 @@
 *King Symus' personal Greatsword, a finely crafted magical sword, with a blade forged of dragon scales, that feeds off of the users power. It bears a striking resemblance to the legendary weapon, Grymblade, though resembles a sword instead of a scythe.*
 
-Weapon (Greatsword), Legendary, (requires attunement)
+###### Weapon (Greatsword), Legendary, (requires attunement)
 
 While attuned to the Drakeblood Greatsword you gain the following benefits:
 
