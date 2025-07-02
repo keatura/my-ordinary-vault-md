@@ -7,7 +7,7 @@ AC: 14 (Leather, Cloak of Protection)
 HP: 38 (5d10+5)
 Speed 30ft
 **Saving Throws** Str +1 Dex +3 Con +2 Int 0 Wis +2 Cha +4
-**STR: 11(0), DEX: 14(+2), CON: 12(+1), INT: 8(-1), WIS: 13(+1), CHA: 17(+3)**
+**STR: 11(0), DEX: 14(+2), CON: 12(+1), INT: 10(0), WIS: 8(-1), CHA: 17(+3)**
 **Skills**
 Persuasion +5, Deception +5, Stealth +4
 **Senses:** Passive Perception 13
