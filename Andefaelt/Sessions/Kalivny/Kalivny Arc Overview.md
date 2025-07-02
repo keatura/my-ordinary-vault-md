@@ -27,6 +27,8 @@ the leader is a warlock of the Feyblood weapon he has, - the dagger. working to 
 
 His name is **[[Marckus Westmeister]]**, a teenager from Helena that was exploring in the woods when he found something thought to be lost and forgotten - a Feyblood weapon.
 
+In the beginning, the group is sent to look for a lost 
+
 ##### Sessions
 [[Andefaelt Session 1]]
 
