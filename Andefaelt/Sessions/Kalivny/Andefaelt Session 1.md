@@ -1,11 +1,12 @@
 
 ## Session Description
 
-The crew meets in the Mammoth Arm Inn,
+The characters meet at the Mammoth Arm Inn, and gets a quest that may lead to something greater.. 
 
 # Important Places This Session
 
-- Place One
+- Mammoth Arm Inn
+	- 
 
 ## Chapter
 Scene description.
