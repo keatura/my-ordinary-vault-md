@@ -21,7 +21,7 @@ goblins have been roped into worshipping the "Mask-Wearer". Causing trouble arou
 a cult of "Iodrosni" has formed on the island
 the leader is a warlock of the Feyblood weapon he has, - the dagger. working to convince others to directly worship Iodrosni to grow her own power.
 
-His name is **[[Marckus Westmeister]]**, 
+His name is **[[Marckus Westmeister]]**, a teenager from Helena that was exploring in the woods when he found something thought to be lost and forgotten - a Feyblood weapon.
 
 ### random encounter ideas
 
