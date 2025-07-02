@@ -119,7 +119,7 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 --- 
 # Gods
 
-## [[Eidolon, The Infinity]] 
+## [[Eidolon, The Infinity]]
 
 ## [[Kadis (The God of Endings)]]
 
