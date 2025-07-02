@@ -25,7 +25,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Musket                     | 50gp  | 3d8 +dex  | 6lbs   | Reload (1), Range (50/100), Two Handed, Slow Shooting                                 | Push           |
 | Rifle, bolt action         | 75gp  | 2d8 +dex  | 7lbs   | Reload (4), Range (200/600), Two Handed, Bayonet                                      | Vex            |
 | Rifle, military            | 100gp | 2d8 +dex  | 6lbs   | Reload (6), Range (200/600), Two Handed, Bayonet                                      | Vex            |
-| Shotgun, tube fed          | 150gp | 2d8 +dex  | 5lbs   | Reload (4), Range (100/300). Buckshot, Two Handed                                     | Graze          |
+| Shotgun, tube fed          | 150gp | 2d8 +dex  | 5lbs   | Reload (4), Range (100/300). Buckshot, Two Handed, Bayonet                            | Graze          |
 | Rifle, anti-materiel       | 500gp | 4d10 +dex | 20lbs  | Str 13, Reload (1), Range (500/1500), Two Handed, Heavy, Anti-Materiel, Slow Shooting | Topple         |
 
 | **Exotic Ranged Weapons** | Price | Damage                    | Weight | Properties                                          | Weapon Mastery |
