@@ -12,7 +12,7 @@ Kresi is a Kobold living in Voxis, and defying the expectation set by his looks 
 ## Kresi
 Small humanoid
 AC: 19 (Thief's Rags)
-HP: 32
+HP: 66 (9d8+18)
 Speed: 40ft
 **STR: 8(-1), DEX: 18(+4), CON: 15(+2), INT: 13(+1), WIS: 14(+2), CHA: 17(+3)**
 Saves: Dexterity +8, Intelligence +5
@@ -32,7 +32,7 @@ PB +4
 
 *Slippery.* Kresi is difficult to pin down during a fight. He can move up to half his speed as a reaction when an enemy ends its turn within 5 feet of him. This movement doesn’t provoke opportunity attacks.
 
-*Thief's Rags.* Kresi wears enchanted clothes that defend him. While he wears these clothes, his AC is equal to 15+dex. As well any ranged weapon attack against him is at disadvantage, and his footsteps are silent.
+*Thief's Rags.* Kresi wears enchanted clothes that defend him. While he wears these clothes, his AC is equal to 15+dex. As well any ranged weapon attack against him is at disadvantage, and his footsteps are silent and he has advantage on stealth checks.
 
 **Actions**
 

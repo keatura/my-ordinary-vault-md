@@ -1,25 +1,26 @@
-Marckus Westmeister is a human from 
+Marckus Westmeister is a Teenage human from 
 
 Medium Humanoid
-AC: 13
+AC: 14 (Leather, Cloak of Protection)
 HP: 33 (5d8+5)
 Speed 35ft
-**STR: 10(0), DEX: 13(+1), CON: 12(+1), INT: 9(-1), WIS: 11(0), CHA: 17(+3)**
+**Saving Throws** Str +1 Dex +3 Con +2 Int 0 Wis +2 Cha +4
+**STR: 11(0), DEX: 14(+2), CON: 12(+1), INT: 8(-1), WIS: 13(+1), CHA: 17(+3)**
 **Skills**
-Medicine +7, Persuasion +5, Deception +5
+Religion +1, Persuasion +5, Deception +5
 **Senses:** Passive Perception 13
 PB +2
 
-**Divine Eminence.**
-As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 3d6 radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
+**Dark Devotion.** The Feyblood dagger gives Marckus advantage of saving throws against being charmed or frightened.
+
+**Multiattack.** Marckus makes two attacks with his Feyblood dagger. He can substitute one of his attacks to cast either *Booming Blade* or *Green-Flame Blade.* 
+
+**Feyblood Dagger** *Melee or Ranged Attack:* +6 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d8+4) or 8 (1d6+4) when making a ranged attack. 
+
 
 **Spellcasting.**
-The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
+Marckus is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
-Cantrips (at will): light, sacred flame, thaumaturgy
+Cantrips (at will): Booming Blade (range 30ft), Green-Flame Blade (range 30ft), Minor Illusion.
 
-1st level (4 slots): cure wounds, guiding bolt, sanctuary
-
-2nd level (3 slots): lesser restoration, spiritual weapon
-
-3rd level (2 slots): dispel magic, spirit guardians
+3rd level (2 slots): Command, Vampiric Touch, 
