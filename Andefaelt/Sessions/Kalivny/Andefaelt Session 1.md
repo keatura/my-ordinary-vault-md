@@ -1,7 +1,7 @@
 
 ## Session Description
 
-The crew meets in the Mammoth Arm Inn
+The crew meets in the Mammoth Arm Inn,
 
 # Important Places This Session
 
