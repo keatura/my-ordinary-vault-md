@@ -20,7 +20,7 @@ PB +2
 ### Actions
 **Multiattack.** Marckus makes two attacks with his Feyblood dagger. He can substitute one of his attacks to cast either *Booming Blade* or *Green-Flame Blade.* 
 
-**Feyblood Dagger** *Melee or Ranged Attack:* +6 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d8+4) or 8 (1d6+4) Slashing damage, plus 8 (2d6) Radiant damage when making a ranged attack. 
+**Feyblood Dagger** *Melee or Ranged Attack:* +6 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d8+4) or 8 (1d6+4) Slashing damage, plus 8 (2d6) Radiant damage.
 
 **Spellcasting.**
 Marckus is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
