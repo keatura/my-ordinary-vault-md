@@ -1,4 +1,4 @@
-Marckus Westmeister is a Teenage human from 
+**Marckus Westmeister** is a teenage human from 
 
 Medium Humanoid
 AC: 14 (Leather, Cloak of Protection)
@@ -13,6 +13,7 @@ PB +2
 
 **Dark Devotion.** The Feyblood dagger gives Marckus advantage of saving throws against being charmed or frightened.
 
+### Actions:
 **Multiattack.** Marckus makes two attacks with his Feyblood dagger. He can substitute one of his attacks to cast either *Booming Blade* or *Green-Flame Blade.* 
 
 **Feyblood Dagger** *Melee or Ranged Attack:* +6 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d8+4) or 8 (1d6+4) when making a ranged attack. 
@@ -23,4 +24,8 @@ Marckus is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell 
 
 Cantrips (at will): Booming Blade (range 30ft), Green-Flame Blade (range 30ft), Minor Illusion.
 
-3rd level (2 slots): Command, Vampiric Touch, 
+3rd level (2 slots): Command, Vampiric Touch, Shield.
+
+### Bonus Actions:
+
+**Cloaking.** 
