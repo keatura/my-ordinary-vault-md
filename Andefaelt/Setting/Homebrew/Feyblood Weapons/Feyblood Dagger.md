@@ -3,9 +3,11 @@
 
 ###### Weapon (Dagger), Legendary, (requires attunement)
 
-When you attune to this weapon, its power floods your conscious and affects your psyche. When you draw the weapon you become:
+When you pick this weapon up and make direct skin contact with it, it automatically attunes itself to you. If you have no attunement slots, then it gives you an extra one and fills that slot. 
+
+While you are attuned to this weapon, its power floods your conscious and affects your psyche. When you draw the weapon you become:
 - Extremely egotistical and self-centered.
-- You feel encouraged to give yourself to the dagger, and share control of your body with it.
+- You feel encouraged to give yourself to the dagger, and share control of your body and mind with it.
 - Pathologically attached to the dagger, and unwilling to let go or even banish it to the pocket dimension. (DC 15 Charisma save to banish it, can benefit from the Help Action.)
 
 If you shunt it to it's pocket dimension, it's influence becomes lesser, only being able to speak to you in short sentences and the attuned individual being free from its influence on their psyche.

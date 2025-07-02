@@ -71,7 +71,7 @@ Things that give off tradition, community, and resilience
 
 # Aesthetic and Vibes
 
-Andefaelt is a dieselpunk/decopunk setting, with a side of nature-based horror and struggles based around extreme weather events.
+Andefaelt is a dieselpunk/decopunk setting, with a side of nature-based horror and struggles based around extreme weather events. most towns and cities have machinery implemented, and 
 
 # Homebrew
-First off - No opportunity attacks. 
+First off - No opportunity attacks. This is still open to change, but it's something I want to playtest.

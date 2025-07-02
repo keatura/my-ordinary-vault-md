@@ -1,7 +1,7 @@
  The first bits of recorded history in Andefaelt is that of the Taeki Monastery. These include recorded accounts of battles, civilizations, and most important- the historical use of Relentium. The current calendar starts on the first year recorded by this monastery, and continues to the current day. The current year as of the start of the campaign is Year 1890.
 
 -The first inter-island travel (Year 11)
-The first occurrence of people splitting out onto other islands happened only 11 years after the first known recording of history. A Human by the name of Ulta Ceran, the first sorcerer, created a form of glider to carry himself on winds with the assistance of magic and Relentium to explore outwards.
+The first occurrence of people splitting out onto other islands happened only 11 years after the first known recording of history. An Elf by the name of Ulta Ceran, the first sorcerer, created a form of glider to carry himself on winds with the assistance of magic and Moxite to explore outwards.
 
 -The start of the Thirty-years War (Year 1326)
 The Thirty-years War was a war between Iyamari and Zevka, over land disputes on their borders. This led to a long, drawn out war tiring both sides and causing the complete destruction of Thrysta. The war did lead to the Zevkan invention of modern armored warships, but at that point in the war Zevka had already basically lost.
