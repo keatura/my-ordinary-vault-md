@@ -23,6 +23,9 @@ the leader is a warlock of the Feyblood weapon he has, - the dagger. working to 
 
 His name is **[[Marckus Westmeister]]**, a teenager from Helena that was exploring in the woods when he found something thought to be lost and forgotten - a Feyblood weapon.
 
+##### Sessions
+[[Andefaelt Session 1]]
+
 ### random encounter ideas
 
 - at the beginning, if they are sent to Helena, they find a man from there who got caught in whatever recent thunderstorm and is about to die of hypothermia. He is in a shoddy improvised shelter that was destroyed by the weather. allow the players to try and heal him but it's very difficult. 
