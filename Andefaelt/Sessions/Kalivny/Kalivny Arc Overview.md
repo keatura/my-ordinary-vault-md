@@ -7,6 +7,9 @@ This mini-campaign takes place on a small island in southern Zevka, close to the
 
 Overview of the the City:
 Mostly a mixture of Humans and Ukuchans, 
+A small port city, that serves as a sort of barrier in-between Zevka and Asyria. Their port can fit a few vessels of small to medium size, and they mainly export grain to any towns nearby. Kalivny doesnt normally do international trade. They are self-sufficient, producing their own fuel and importing some with the money they get from the grain trade. They produce food, and defend themselves, working with Helena to trade with each other, generally trading their well-maintained and more set-in-stone city guard to protect trade caravans and Helena from monsters and the goblin population on the island. 
+
+The City Center has traders for various goods, a blacksmith, clothing manufacturers, cobblers, a mechanic, etc.
 
 # Helena
 
