@@ -5,7 +5,7 @@ AC: 17 (Unarmored Defense, Ring of Protection)
 HP: 137 (12d12+48)
 Speed 45ft
 **Saving Throws** Str +11 Dex +3 Con +9 Int +3 Wis 0 Cha +4
-**STR: 22(+6), DEX: 14(+2), CON: 18(+4), INT: 14(+2), WIS: 8(-1), CHA: 16(+3)**
+**STR: 19(+4), DEX: 14(+2), CON: 18(+4), INT: 14(+2), WIS: 8(-1), CHA: 16(+3)**
 **Skills**
 Persuasion +7, Athletics +10, Perception +3
 **Senses:** Passive Perception 13
@@ -26,9 +26,9 @@ _**Relentless.**_ If damage reduces Fenris to 0 hit points, He must make a DC10
 ### Actions
 _**Multiattack.**_ Fenris makes three attacks, either with his Greataxe or his Handaxes. 
 
-_**Greataxe.**_ *Melee Attack.* +10 to hit, reach 5ft. one creature. *Hit:* 18 (2d10+6) Slashing damage, or 22 (2d10+10) while raging.
+_**Greataxe.**_ *Melee Attack.* +8 to hit, reach 5ft. one creature. *Hit:* 18 (2d10+4) Slashing damage, or 22 (2d10+8) while raging.
 
-_**Handaxe.**_ *Melee or Ranged Attack.* +10 to hit, reach 5ft thrown (20/60). *Hit:* 10 (1d6+6), or 14 (1d6+10) while raging.
+_**Handaxe.**_ *Melee or Ranged Attack.* +8 to hit, reach 5ft thrown (20/60). *Hit:* 10 (1d6+4), or 14 (1d6+8) while raging.
 
 ### Bonus Actions
 
