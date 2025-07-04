@@ -91,5 +91,14 @@ Runesteel is extremely common in Andefaelt.
 
 Andefaelt is a dieselpunk/decopunk setting, with a side of nature-based horror and struggles based around extreme weather events. most towns and cities have machinery implemented, and 
 
+
+For species differences specific to Andefaelt
+- all dwarves have beards regardless of gender
+- goliaths have hair like a polar bear or yeti
+- ukuchans are rat-like humanoids
+- dragonborn descend directly from dragons, and are the only living reminder that they existed. 
+	- also they have feathers on the back of their heads, behind their crests (kind of like hair) and on their tails - especially towards the ends. also sometimes there can be feathers on places like their elbows and necks.
+- 
+
 # Homebrew
 First off - No opportunity attacks. This is still open to change, but it's something I want to playtest.
