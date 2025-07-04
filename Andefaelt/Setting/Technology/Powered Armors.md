@@ -53,14 +53,14 @@ Heavy powered armor is a size up, with longer lower leg sections and forearm sec
 | Exotic Powered Armor (special training) | Armor Class | Speed | Cost    | Max Dex | Strength | Unarmed Strike | Stealth   | Weight |
 | --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | --------- | ------ |
 | Templar's Armor (Heavy, STR 17 req.)    | 21          | 40ft  | 7,300gp | 12      | 25 +7    | 2d6 + Str      | Disadv    | 760lbs |
-| Shocktroops' Exo (Light, DEX 13 req.)   | 14 + Dex    | 45ft  | 3,000gp | N/A     | 17 +3    | 1d10 + Str     | See below | 75lbs  |
+| Shocktroops' Exo (Light, DEX 13 req.)   | 14 + Dex    | 30ft  | 3,000gp | N/A     | 17 +3    | 1d10 + Str     | See below | 75lbs  |
 | Warcaster Armor                         | 13 + Dex    | speed | 2,010gp | N/A     | N/A      | N/A            | N/A       | 80lbs  |
 |                                         |             |       |         |         |          |                |           |        |
 Exotic powered armor follows the general rules for its class of Powered Armor (either light or heavy), but they also come with special rules and require special training.
 
 **Templar's Armor.** Templar Armor is designed to work with the Asyrian Church's transport ships, and have runesteel shock absorbers built into their legs, allowing them to ignore fall damage. Templar Armor has a built-in Gasmask in the helmet.
 
-**Shocktroops' Exo.** The Iyamarian Aerial Cavalry Corps utilizes light, fast exo-skeleton armors to facilitate quick and powerful assaults and execute flanking maneuvers efficiently. This Armor has a built-in Gasmask in the helmet, and come with a deployable knife built into the arms for quick reaction and CQB. They also have power-regulation systems that allow them to enter a state of "silent running", allowing the suit to move nearly silently apart from the noise of the mechanics, for up to an hour. After this hour, the suit must be given at least 2 hours of rest to purge itself before it is safe to do so again.
+**Shocktroops' Exo.** The Iyamarian Aerial Cavalry Corps utilizes light, fast exo-skeleton armors to facilitate quick and powerful assaults and execute flanking maneuvers efficiently. This Armor has a built-in Gasmask in the helmet, and come with a deployable knife built into the arms for quick reaction and CQB. They also have power-regulation systems that allow them to enter a state of "silent running", allowing the suit to move nearly silently apart from the noise of the mechanics, for up to an hour. After this hour, the suit must be given at least 2 hours of rest to purge itself before it is safe to do so again. Additionally, it comes with hover shoes and a repulsor pack for the armor, meaning the armor does not have footsteps, it's speed is increased by 20ft, and can dash and disengage as a bonus action. It can also hover and can gain altitude at a rate of 10 feet per turn.
 
 **Warcaster Armor.** Powered by a special arcane turbine engine and designed to not impede the user, Warcaster armor is supposed to boost the psychic capacity of a Warcaster, allowing them to mentally bond with the Cortex of a Jack, and give them orders on a subconscious level that is more efficient than "driving" them with orders.
 
@@ -70,6 +70,17 @@ Exotic powered armor follows the general rules for its class of Powered Armor (e
 While all power armor requires an engine, not all engines are created equal or for the same purpose.
 
 
-| Engine Type    | Power Output  | Charges |
-| -------------- | ------------- | ------- |
-| Arcane Turbine | 8 Rune Points |         |
+| Engine Type        | Power Output  | Charges | Recharge Per Turn | Other Effects                                                                                                                                                                                                                                             | Price |
+| ------------------ | ------------- | ------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Standard Engine    | 4 Rune Points | 10      | 2                 | N/A                                                                                                                                                                                                                                                       | N/A   |
+| High-Output Engine | 7 Rune Points | 15      | 5                 | N/A                                                                                                                                                                                                                                                       | 400gp |
+| Low-Output Engine  | 2 Rune Points | 5       | 1                 | **Efficient.** 1/2 normal fuel consumption.                                                                                                                                                                                                               | 200gp |
+| Tuned Engine       | 4 Rune Points | 10      | 5                 | **Redline.** can dash and disengage as a bonus action, and your speed is increased by 10ft.                                                                                                                                                               | 500gp |
+| Generator          | 0 Rune Points | 0       | 0                 | **Backup.** This can be attached to a set of Powered Armor, functioning as a backup in case the main engine loses power. It uses the same fuel tank and burns fuel at the same rate. The addition of this generator adds 20lbs to the weight of the suit. | 200gp |
+|                    |               |         |                   |                                                                                                                                                                                                                                                           |       |
+
+| Unique Engine Types | Power Output  | Charges | Recharge Per Turn | Other Effects                                             |
+| ------------------- | ------------- | ------- | ----------------- | -------------------------------------------------------- |
+| Shocktrooper Engine | 2 Rune Points | 5       | 5                 | Can power the Shocktroopers' repulsor gea              .  |
+| Arcane Turbine      | 8 Rune Points | 20      | 5                 |                                                           |
+| Templar Engine      | 6 Rune Points | 10      | 5               Can power the Templar's shock absorbers and air filters. and  |
