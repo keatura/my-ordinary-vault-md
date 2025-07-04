@@ -64,9 +64,9 @@ Main Species:
 Dwarves, Runeforged
 
 # Voxis
-Colors I think of:
+Colors I think of: Grunge
 
-
+Voxis is a large port city, and the largest city on Andefaelt, period.
 
 Main Species:
 Literally Anyone

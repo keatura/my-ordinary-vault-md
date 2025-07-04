@@ -83,7 +83,9 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 
 # History and Lore
 
-## [[Ancient History]]
+## [[Pre-Recorded History]]
+
+## [[Ancient Recorded History]]
 
 ## [[The Extinction of Dragons]]
 
