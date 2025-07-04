@@ -68,3 +68,8 @@ Exotic powered armor follows the general rules for its class of Powered Armor (e
 
 **Engines.**
 While all power armor requires an engine, not all engines are created equal or for the same purpose.
+
+
+| Engine Type    | Power Output  | Charges |
+| -------------- | ------------- | ------- |
+| Arcane Turbine | 8 Rune Points |         |
