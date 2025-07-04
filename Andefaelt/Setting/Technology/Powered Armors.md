@@ -9,8 +9,8 @@ While classified under the umbrella of "mechanized suits", powered armor is most
 
 Powered Armor does require fuel to function. The Fuel Consumption depends on the class of armor, and Exotic armor shares its fuel consumption with either light or heavy armor.
 
-Light Powered Armor lasts 7 days on 5gp of Diesel Fuel.
-Heavy Powered Armor lasts 7 days on 15gp of Diesel Fuel
+Light Powered Armor lasts 7 8-hour running periods on 5gp of Diesel Fuel.
+Heavy Powered Armor lasts 7 8-hour running periods on 15gp of Diesel Fuel.
 Battery Powered suits last 2 hours, and can charge their battery with 1 day's worth of fuel expended from their generator.
 
 Due to their mechanical nature, Powered Armor can be Critically Damaged in a similar way to 'Jacks and 'Mechs. A Powered Armor suit takes Critical Damage when it:
@@ -20,18 +20,18 @@ Due to their mechanical nature, Powered Armor can be Critically Damaged in a sim
 When Powered Armor suffers a critical hit, roll on the Critical Damage Chart to see the effect.
 
 
-| d10 | Result                                                                                                                                                                                                                                                        | Repair                                                                                                       |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 1-2 | No systems are damaged.                                                                                                                                                                                                                                       | ---                                                                                                          |
-| 3   | **Operator Rattled.** The shot collides with the armor forcefully and sends intense vibrations through the suit. You cannot take reactions until the end of your next turn.                                                                                   | ---                                                                                                          |
-| 4   | **Arm Damaged.** One of the Armor's arms is crippled as a result. Roll a d6 (1-3 left, 4-6 right). Until the damage is repaired, you have disadvantage on attack rolls made with the damaged arm.                                                             | DC 10 Intelligence. Repair requires 1 hours of work and proficiency with tinker's tools.                     |
-| 5   | **Loss of Power.** The Armor's cylinder pressure has been compromised, resulting in a severe loss of power to the Armor. Until the damage is repaired, you have disadvantage on Strength checks.                                                              | DC 10 Intelligence. Repair requires 1 hour of work and proficiency with tinker's tools.                      |
-| 6   | **Movement Damaged.** The armor's movement systems have been damaged. Until the damage is repaired, your maximum speed is reduced by 10 feet and you cannot take the Dash action.                                                                             | DC 15 Intelligence. Repair requires 2 hours of work and proficiency with tinker's tools.                     |
-| 7   | **Radiator Leak.** The Armor's Radiator has been damaged, venting hot coolant onto the pilot. Until the armor is removed, you take 1d4 fire damage each minute.                                                                                               | DC 15 Intelligence. Repair requires 2 hours of work and proficiency with tinker's tools.                     |
-| 8   | **Operator Hit.** The attack bypasses the suit's armor. The attacks damage is doubled.                                                                                                                                                                        | ---                                                                                                          |
-| 9   | **Rupture.** The Armor's outer plating rips open, drastically reducing its protective ability. Until the Armor is repaired, ignore the resistance to damage and damage reduction.                                                                             | DC 17 Intelligence. Repair requires 3 hours of work and proficiency with tinker's tools.                     |
-| 10  | **Motor Explosion.** The attack causes the engine to violently combust, sending shrapnel in a radius around you. This explosion deals 5d6 piercing damage to you and any creature within 10 feet of you. Until the damage is repaired, the armor loses power. | 1/4 of the suit's cost (rounded up) for a new motor, and access to a machine shop. The repair takes 8 hours. |
-Powered Armor requires special training to use without severely injuring yourself.
+| d10 | Result                                                                                                                                                                                                                                                        | Repair                                                                                   |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 1-2 | No systems are damaged.                                                                                                                                                                                                                                       | ---                                                                                      |
+| 3   | **Operator Rattled.** The shot collides with the armor forcefully and sends intense vibrations through the suit. You cannot take reactions until the end of your next turn.                                                                                   | ---                                                                                      |
+| 4   | **Arm Damaged.** One of the Armor's arms is crippled as a result. Roll a d6 (1-3 left, 4-6 right). Until the damage is repaired, you have disadvantage on attack rolls made with the damaged arm.                                                             | DC 10 Intelligence. Repair requires 1 hours of work and proficiency with tinker's tools. |
+| 5   | **Loss of Power.** The Armor's cylinder pressure has been compromised, resulting in a severe loss of power to the Armor. Until the damage is repaired, you have disadvantage on Strength checks.                                                              | DC 10 Intelligence. Repair requires 1 hour of work and proficiency with tinker's tools.  |
+| 6   | **Movement Damaged.** The armor's movement systems have been damaged. Until the damage is repaired, your maximum speed is reduced by 10 feet and you cannot take the Dash action.                                                                             | DC 15 Intelligence. Repair requires 2 hours of work and proficiency with tinker's tools. |
+| 7   | **Radiator Leak.** The Armor's Radiator has been damaged, venting hot coolant onto the pilot. Until the armor is removed, you take 1d4 fire damage each minute.                                                                                               | DC 15 Intelligence. Repair requires 2 hours of work and proficiency with tinker's tools. |
+| 8   | **Operator Hit.** The attack bypasses the suit's armor. The attacks damage is doubled.                                                                                                                                                                        | ---                                                                                      |
+| 9   | **Rupture.** The Armor's outer plating rips open, drastically reducing its protective ability. Until the Armor is repaired, ignore the resistance to damage and damage reduction.                                                                             | DC 17 Intelligence. Repair requires 3 hours of work and proficiency with tinker's tools. |
+| 10  | **Motor Explosion.** The attack causes the engine to violently combust, sending shrapnel in a radius around you. This explosion deals 5d6 piercing damage to you and any creature within 10 feet of you. Until the damage is repaired, the armor loses power. | DC 17 Intelligence. Repair requires 8 hours of work and proficiency with tinker's tools. |
+Powered Armor requires special training to use without severely injuring yourself. The cost of this training varies from area to area, but generally it is more expensive the heavier and more unique the armor is.
 
 | Light Powered Armor (inexpensive training) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
 | ------------------------------------------ | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
@@ -54,8 +54,15 @@ Heavy powered armor is a size up, with longer lower leg sections and forearm sec
 | --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | --------- | ------ |
 | Templar's Armor (Heavy)                 | 21          | 40ft  | 7,300gp | 12      | 25 +7    | 1d12 + Str     | Disadv    | 760lbs |
 | Shocktroops' Exo (Light)                | 14 + Dex    | 45ft  | 3,000gp | N/A     | 17 +3    | 2d6 + Str      | See below | 75lbs  |
+| Warcaster Armor                         | 13 + Dex    | speed | 2,010   | N/A     | N/A      | N/A            | N/A       | 30lbs  |
+|                                         |             |       |         |         |          |                |           |        |
 Exotic powered armor follows the general rules for its class of Powered Armor (either light or heavy), but they also come with special rules and require special training.
 
 **Templar's Armor.** Templar Armor is designed to work with the Asyrian Church's transport ships, and have runesteel shock absorbers built into their legs, allowing them to ignore fall damage. Templar Armor has a built-in Gasmask in the helmet.
 
 **Shocktroops' Exo.** The Iyamarian Aerial Cavalry Corps utilizes light, fast exo-skeleton armors to facilitate quick and powerful assaults and execute flanking maneuvers efficiently. This Armor has a built-in Gasmask in the helmet, and come with a deployable knife built into the arms for quick reaction and CQB. They also have power-regulation systems that allow them to enter a state of "silent running", allowing the suit to move nearly silently apart from the noise of the mechanics, for up to an hour. After this hour, the suit must be given at least 2 hours of rest to purge itself before it is safe to do so again.
+
+**Warcaster Armor.** Powered by a special arcane turbine engine 
+
+### Modules
+
