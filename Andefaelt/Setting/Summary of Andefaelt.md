@@ -58,12 +58,22 @@ Elves, Humans, and Orcs
 Colors I think of: all earth tones, brass and bronze, the seafoam green of Runesteel
 Things that give off advanced technology, sophistication, and education
 
+
+
+Main Species:
+Dwarves, Runeforged, 
+
 # Voxis
 Colors I think of:
 
 # Zevka
 Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra
 Things that give off tradition, community, and resilience
+
+
+
+Main Species:
+Humans, Goliaths, 
 
 # Water Troubles
 
