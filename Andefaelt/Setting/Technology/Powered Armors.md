@@ -25,7 +25,7 @@ When Powered Armor suffers a critical hit, roll on the Critical Damage Chart to 
 | 1-2 | No systems are damaged.                                                                                                                                                                                                                                       | ---                                                                                      |
 | 3   | **Operator Rattled.** The shot collides with the armor forcefully and sends intense vibrations through the suit. You cannot take reactions until the end of your next turn.                                                                                   | ---                                                                                      |
 | 4   | **Arm Damaged.** One of the Armor's arms is crippled as a result. Roll a d6 (1-3 left, 4-6 right). Until the damage is repaired, you have disadvantage on attack rolls made with the damaged arm.                                                             | DC 10 Intelligence. Repair requires 1 hours of work and proficiency with tinker's tools. |
-| 5   | **Loss of Power.** The Armor's cylinder pressure has been compromised, resulting in a severe loss of power to the Armor. Until the damage is repaired, you have disadvantage on Strength checks.                                                              | DC 10 Intelligence. Repair requires 1 hour of work and proficiency with tinker's tools.  |
+| 5   | **Loss of Power.** The Armor's cylinder pressure has been compromised, resulting in a severe loss of power to the Armor. Until the damage is repaired, you have disadvantage on Strength checks and your Module Power is halved.                              | DC 10 Intelligence. Repair requires 1 hour of work and proficiency with tinker's tools.  |
 | 6   | **Movement Damaged.** The armor's movement systems have been damaged. Until the damage is repaired, your maximum speed is reduced by 10 feet and you cannot take the Dash action.                                                                             | DC 15 Intelligence. Repair requires 2 hours of work and proficiency with tinker's tools. |
 | 7   | **Radiator Leak.** The Armor's Radiator has been damaged, venting hot coolant onto the pilot. Until the armor is removed, you take 1d4 fire damage each minute.                                                                                               | DC 15 Intelligence. Repair requires 2 hours of work and proficiency with tinker's tools. |
 | 8   | **Operator Hit.** The attack bypasses the suit's armor. The attacks damage is doubled.                                                                                                                                                                        | ---                                                                                      |
@@ -54,7 +54,7 @@ Heavy powered armor is a size up, with longer lower leg sections and forearm sec
 | --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | --------- | ------ |
 | Templar's Armor (Heavy)                 | 21          | 40ft  | 7,300gp | 12      | 25 +7    | 1d12 + Str     | Disadv    | 760lbs |
 | Shocktroops' Exo (Light)                | 14 + Dex    | 45ft  | 3,000gp | N/A     | 17 +3    | 2d6 + Str      | See below | 75lbs  |
-| Warcaster Armor                         | 13 + Dex    | speed | 2,010   | N/A     | N/A      | N/A            | N/A       | 30lbs  |
+| Warcaster Armor                         | 13 + Dex    | speed | 2,010   | N/A     | N/A      | N/A            | N/A       | 80lbs  |
 |                                         |             |       |         |         |          |                |           |        |
 Exotic powered armor follows the general rules for its class of Powered Armor (either light or heavy), but they also come with special rules and require special training.
 
@@ -62,7 +62,7 @@ Exotic powered armor follows the general rules for its class of Powered Armor (e
 
 **Shocktroops' Exo.** The Iyamarian Aerial Cavalry Corps utilizes light, fast exo-skeleton armors to facilitate quick and powerful assaults and execute flanking maneuvers efficiently. This Armor has a built-in Gasmask in the helmet, and come with a deployable knife built into the arms for quick reaction and CQB. They also have power-regulation systems that allow them to enter a state of "silent running", allowing the suit to move nearly silently apart from the noise of the mechanics, for up to an hour. After this hour, the suit must be given at least 2 hours of rest to purge itself before it is safe to do so again.
 
-**Warcaster Armor.** Powered by a special arcane turbine engine 
+**Warcaster Armor.** Powered by a special arcane turbine engine and designed to not impede the user, Warcaster armor is supposed to 
 
 ### Modules
 
