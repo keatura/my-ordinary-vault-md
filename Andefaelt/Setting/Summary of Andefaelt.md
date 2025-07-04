@@ -61,10 +61,15 @@ Things that give off advanced technology, sophistication, and education
 
 
 Main Species:
-Dwarves, Runeforged, 
+Dwarves, Runeforged
 
 # Voxis
 Colors I think of:
+
+
+
+Main Species:
+Literally Anyone
 
 # Zevka
 Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra
@@ -73,7 +78,7 @@ Things that give off tradition, community, and resilience
 
 
 Main Species:
-Humans, Goliaths, 
+Humans, Goliaths, anyone else who wants to survive the cold
 
 # Water Troubles
 
