@@ -31,22 +31,23 @@ When Powered Armor suffers a critical hit, roll on the Critical Damage Chart to 
 | 8   | **Operator Hit.** The attack bypasses the suit's armor. The attacks damage is doubled.                                                                                                                                                                        | ---                                                                                                          |
 | 9   | **Rupture.** The Armor's outer plating rips open, drastically reducing its protective ability. Until the Armor is repaired, ignore the resistance to damage and damage reduction.                                                                             | DC 17 Intelligence. Repair requires 3 hours of work and proficiency with tinker's tools.                     |
 | 10  | **Motor Explosion.** The attack causes the engine to violently combust, sending shrapnel in a radius around you. This explosion deals 5d6 piercing damage to you and any creature within 10 feet of you. Until the damage is repaired, the armor loses power. | 1/4 of the suit's cost (rounded up) for a new motor, and access to a machine shop. The repair takes 8 hours. |
+Powered Armor requires special training to use without severely injuring yourself.
 
-| Light Powered Armor (light/medium armor prof) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
-| --------------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
-| Exo-Skeleton                                  | 500gp   | 35ft  | 10 + Dex    | N/A     | 18 +4    | 1d4 + Str      | Disadv. | 60lbs  |
-| Exo-Skeleton (battery powered)                | 2,000gp | 30ft  | 10 + Dex    | N/A     | 18 +4    | 1d4 + Str      | N/A     | 80lbs  |
-| Lifter Suit                                   | 450gp   | 20ft  | 10          | 10      | 20 +5    | 1d6 + Str      | Disadv  | 100lbs |
-| Chainmail Powered Armor                       | 800gp   | 35ft  | 16          | 14      | 19 +4    | 1d6 + Str      | Disadv  | 110lbs |
-| Breastplate Powered Armor                     | 1,000gp | 35ft  | 14 + Dex    | 16      | 19 +4    | 1d6 + Str      | Disadv  | 100lbs |
-| Half-Plate Powered Armor                      | 1,200gp | 35ft  | 16 + Dex    | 14      | 19 +4    | 1d6 + Str      | Disadv  | 150lbs |
-| Plate Powered Armor                           | 2,500gp | 35ft  | 18          | 10      | 21 +5    | 1d8 + Str      | Disadv  | 250lbs |
+| Light Powered Armor (inexpensive training) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
+| ------------------------------------------ | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
+| Exo-Skeleton                               | 500gp   | 35ft  | 10 + Dex    | N/A     | 18 +4    | 1d4 + Str      | Disadv. | 60lbs  |
+| Exo-Skeleton (battery powered)             | 2,000gp | 30ft  | 10 + Dex    | N/A     | 18 +4    | 1d4 + Str      | N/A     | 80lbs  |
+| Lifter Suit                                | 450gp   | 20ft  | 10          | 10      | 20 +5    | 1d6 + Str      | Disadv  | 100lbs |
+| Chainmail Powered Armor                    | 800gp   | 35ft  | 16          | 14      | 19 +4    | 1d6 + Str      | Disadv  | 110lbs |
+| Breastplate Powered Armor                  | 1,000gp | 35ft  | 14 + Dex    | 16      | 19 +4    | 1d6 + Str      | Disadv  | 100lbs |
+| Half-Plate Powered Armor                   | 1,200gp | 35ft  | 16 + Dex    | 14      | 19 +4    | 1d6 + Str      | Disadv  | 150lbs |
+| Plate Powered Armor                        | 2,500gp | 35ft  | 18          | 10      | 21 +5    | 1d8 + Str      | Disadv  | 250lbs |
 Light powered armor is generally fitted to a user, featuring a suit of armor or no armor at all, that then firmly clips into an exposed exo-skeleton. Exo-skeletons are commonly used for heavy lifting in physical labor trades, and militaries use the armored variants for shock troops that are much more inexpensive than Jacks.
 
-| Heavy Powered Armor (heavy armor prof) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
-| -------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
-| Heavy Plate Powered Armor              | 3,100gp | 25ft  | 19          | 10      | 22 +6    | 1d8 + Str      | Disadv  | 400lbs |
-| Cast Steel Powered Armor               | 3,700gp | 25ft  | 20          | 10      | 22+ 6    | 1d10 + Str     | Disadv  | 500lbs |
+| Heavy Powered Armor (expensive training) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
+| ---------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
+| Heavy Plate Powered Armor                | 3,100gp | 25ft  | 19          | 10      | 22 +6    | 1d8 + Str      | Disadv  | 400lbs |
+| Cast Steel Powered Armor                 | 3,700gp | 25ft  | 20          | 10      | 22+ 6    | 1d10 + Str     | Disadv  | 500lbs |
 Heavy powered armor is a size up, with longer lower leg sections and forearm sections to allow the suit to reach heights of up to 7 or 8 feet tall. They also feature extremely heavy armor sections that give the wearer Resistance to non-magical Bludgeoning, Piercing, or Slashing damage. Heavy powered armor also has flat damage reduction to all physical damage dealt to the suit. The number is equal to the Pilot's Proficiency Bonus.
 
 | Exotic Powered Armor (special training) | Armor Class | Speed | Cost    | Max Dex | Strength | Unarmed Strike | Stealth   | Weight |
