@@ -79,8 +79,9 @@ While all power armor requires an engine, not all engines are created equal or f
 | Generator          | 0 Rune Points | 0       | 0                 | **Backup.** This can be attached to a set of Powered Armor, functioning as a backup in case the main engine loses power. It uses the same fuel tank and burns fuel at the same rate. The addition of this generator adds 20lbs to the weight of the suit. | 200gp |
 |                    |               |         |                   |                                                                                                                                                                                                                                                           |       |
 
-| Unique Engine Types | Power Output  | Charges | Recharge Per Turn | Other Effects                                             |
+| Unique Engine Types | Power Output  | Charges | Recharge Per Turn | Other Effects                                            |
 | ------------------- | ------------- | ------- | ----------------- | -------------------------------------------------------- |
-| Shocktrooper Engine | 2 Rune Points | 5       | 5                 | Can power the Shocktroopers' repulsor gea              .  |
-| Arcane Turbine      | 8 Rune Points | 20      | 5                 |                                                           |
-| Templar Engine      | 6 Rune Points | 10      | 5               Can power the Templar's shock absorbers and air filters. and  |
+| Shocktrooper Engine | 2 Rune Points | 5       | 5                 | Can power the Shocktroopers' repulsor gear.              |
+| Arcane Turbine      | 8 Rune Points | 20      | 5                 | N/A                                                      |
+| Templar Engine      | 6 Rune Points | 10      | 5                 | Can power the Templar's shock absorbers and air filters. |
+|                     |               |         |                   |                                                          |
