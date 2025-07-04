@@ -62,7 +62,7 @@ Exotic powered armor follows the general rules for its class of Powered Armor (e
 
 **Shocktroops' Exo.** The Iyamarian Aerial Cavalry Corps utilizes light, fast exo-skeleton armors to facilitate quick and powerful assaults and execute flanking maneuvers efficiently. This Armor has a built-in Gasmask in the helmet, and come with a deployable knife built into the arms for quick reaction and CQB. They also have power-regulation systems that allow them to enter a state of "silent running", allowing the suit to move nearly silently apart from the noise of the mechanics, for up to an hour. After this hour, the suit must be given at least 2 hours of rest to purge itself before it is safe to do so again.
 
-**Warcaster Armor.** Powered by a special arcane turbine engine and designed to not impede the user, Warcaster armor is supposed to boost the psychic capacity of a Warcaster, allowing them to 
+**Warcaster Armor.** Powered by a special arcane turbine engine and designed to not impede the user, Warcaster armor is supposed to boost the psychic capacity of a Warcaster, allowing them to mentally bond with the Cortex of a Jack, and give them orders on a subconscious level that is more efficient than "driving" them with orders.
 
-### Modules
+### Modules and Engine Power
 
