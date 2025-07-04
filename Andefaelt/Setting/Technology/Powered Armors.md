@@ -33,29 +33,29 @@ When Powered Armor suffers a critical hit, roll on the Critical Damage Chart to 
 | 10  | **Motor Explosion.** The attack causes the engine to violently combust, sending shrapnel in a radius around you. This explosion deals 5d6 piercing damage to you and any creature within 10 feet of you. Until the damage is repaired, the armor loses power. | DC 17 Intelligence. Repair requires 8 hours of work and proficiency with tinker's tools. |
 Powered Armor requires special training to use without severely injuring yourself. The cost of this training varies from area to area, but generally it is more expensive the heavier and more unique the armor is.
 
-| Light Powered Armor (inexpensive training) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
-| ------------------------------------------ | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
-| Exo-Skeleton                               | 500gp   | 35ft  | 10 + Dex    | N/A     | 18 +4    | 1d4 + Str      | Disadv. | 60lbs  |
-| Exo-Skeleton (battery powered)             | 2,000gp | 30ft  | 10 + Dex    | N/A     | 18 +4    | 1d4 + Str      | N/A     | 80lbs  |
-| Lifter Suit                                | 450gp   | 20ft  | 10          | 10      | 20 +5    | 1d6 + Str      | Disadv  | 100lbs |
-| Chainmail Powered Armor                    | 800gp   | 35ft  | 16          | 14      | 19 +4    | 1d6 + Str      | Disadv  | 110lbs |
-| Breastplate Powered Armor                  | 1,000gp | 35ft  | 14 + Dex    | 16      | 19 +4    | 1d6 + Str      | Disadv  | 100lbs |
-| Half-Plate Powered Armor                   | 1,200gp | 35ft  | 16 + Dex    | 14      | 19 +4    | 1d6 + Str      | Disadv  | 150lbs |
-| Plate Powered Armor (STR 13 req.)          | 2,500gp | 35ft  | 18          | 10      | 21 +5    | 1d8 + Str      | Disadv  | 250lbs |
+| Light Powered Armor (inexpensive training) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike        | Stealth | Weight |
+| ------------------------------------------ | ------- | ----- | ----------- | ------- | -------- | --------------------- | ------- | ------ |
+| Exo-Skeleton                               | 500gp   | 35ft  | 10 + Dex    | N/A     | 18 +4    | 1d4 + Str Bludgeoning | Disadv. | 60lbs  |
+| Exo-Skeleton (battery powered)             | 2,000gp | 30ft  | 10 + Dex    | N/A     | 18 +4    | 1d4 + Str Bludgeoning | N/A     | 80lbs  |
+| Lifter Suit                                | 450gp   | 20ft  | 10          | 10      | 20 +5    | 1d6 + Str Bludgeoning | Disadv  | 100lbs |
+| Chainmail Powered Armor                    | 800gp   | 35ft  | 16          | 14      | 19 +4    | 1d6 + Str Bludgeoning | Disadv  | 110lbs |
+| Breastplate Powered Armor                  | 1,000gp | 35ft  | 14 + Dex    | 16      | 19 +4    | 1d6 + Str Bludgeoning | Disadv  | 100lbs |
+| Half-Plate Powered Armor                   | 1,200gp | 35ft  | 16 + Dex    | 14      | 19 +4    | 1d6 + Str Bludgeoning | Disadv  | 150lbs |
+| Plate Powered Armor (STR 13 req.)          | 2,500gp | 35ft  | 18          | 10      | 21 +5    | 1d8 + Str Bludgeoning | Disadv  | 250lbs |
 Light powered armor is generally fitted to a user, featuring a suit of armor or no armor at all, that then firmly clips into an exposed exo-skeleton. Exo-skeletons are commonly used for heavy lifting in physical labor trades, and militaries use the armored variants for shock troops that are much more inexpensive than Jacks.
 
-| Heavy Powered Armor (expensive training) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
-| ---------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
-| Heavy Plate Powered Armor (STR 15 req.)  | 3,100gp | 25ft  | 19          | 10      | 22 +6    | 1d8 + Str      | Disadv  | 400lbs |
-| Cast Steel Powered Armor (STR 15 req.)   | 3,700gp | 25ft  | 20          | 10      | 22+ 6    | 1d10 + Str     | Disadv  | 500lbs |
+| Heavy Powered Armor (expensive training) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike         | Stealth | Weight |
+| ---------------------------------------- | ------- | ----- | ----------- | ------- | -------- | ---------------------- | ------- | ------ |
+| Heavy Plate Powered Armor (STR 15 req.)  | 3,100gp | 25ft  | 19          | 10      | 22 +6    | 1d8 + Str Bludgeoning  | Disadv  | 400lbs |
+| Cast Steel Powered Armor (STR 15 req.)   | 3,700gp | 25ft  | 20          | 10      | 22+ 6    | 1d10 + Str Bludgeoning | Disadv  | 500lbs |
 Heavy powered armor is a size up, with longer lower leg sections and forearm sections to allow the suit to reach heights of up to 7 or 8 feet tall. They also feature extremely heavy armor sections that give the wearer Resistance to non-magical Bludgeoning, Piercing, or Slashing damage. Heavy powered armor also has flat damage reduction to all physical damage dealt to the suit. The number is equal to the Pilot's Proficiency Bonus.
 
-| Exotic Powered Armor (special training) | Armor Class | Speed | Cost    | Max Dex | Strength | Unarmed Strike | Stealth   | Weight |
-| --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | --------- | ------ |
-| Templar's Armor (Heavy, STR 17 req.)    | 21          | 40ft  | 7,300gp | 12      | 25 +7    | 2d6 + Str      | Disadv    | 760lbs |
-| Shocktroops' Exo (Light, DEX 13 req.)   | 14 + Dex    | 30ft  | 3,000gp | N/A     | 17 +3    | 1d10 + Str     | See below | 75lbs  |
-| Warcaster Armor                         | 13 + Dex    | speed | 2,010gp | N/A     | N/A      | N/A            | N/A       | 80lbs  |
-|                                         |             |       |         |         |          |                |           |        |
+| Exotic Powered Armor (special training) | Armor Class | Speed | Cost    | Max Dex | Strength | Unarmed Strike        | Stealth   | Weight |
+| --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | --------------------- | --------- | ------ |
+| Templar's Armor (Heavy, STR 17 req.)    | 21          | 40ft  | 7,300gp | 12      | 25 +7    | 2d6 + Str Bludgeoning | Disadv    | 760lbs |
+| Shocktroops' Exo (Light, DEX 13 req.)   | 14 + Dex    | 30ft  | 3,000gp | N/A     | 17 +3    | 1d10 + Str Slashing   | See below | 75lbs  |
+| Warcaster Armor                         | 13 + Dex    | speed | 2,010gp | N/A     | N/A      | N/A                   | N/A       | 80lbs  |
+|                                         |             |       |         |         |          |                       |           |        |
 Exotic powered armor follows the general rules for its class of Powered Armor (either light or heavy), but they also come with special rules and require special training.
 
 **Templar's Armor.** Templar Armor is designed to work with the Asyrian Church's transport ships, and have runesteel shock absorbers built into their legs, allowing them to ignore fall damage. Templar Armor has a built-in Gasmask in the helmet.
@@ -79,12 +79,12 @@ While all power armor requires an engine, not all engines are created equal or f
 | Generator          | 0 Rune Points | 0       | 0             | **Backup.** This can be attached to a set of Powered Armor, functioning as a backup in case the main engine loses power. It uses the same fuel tank and burns fuel at the same rate. The addition of this generator adds 20lbs to the weight of the suit. | 200gp |
 |                    |               |         |               |                                                                                                                                                                                                                                                           |       |
 
-| Unique Engine Types | Power Output  | Charges | Recharge Rate | Other Effects                                            |
-| ------------------- | ------------- | ------- | ------------- | -------------------------------------------------------- |
-| Shocktrooper Engine | 2 Rune Points | 5       | 5 per minute  | Can power the Shocktroopers' repulsor gear.              |
-| Arcane Turbine      | 8 Rune Points | 20      | 5 per turn    | N/A                                                      |
-| Templar Engine      | 6 Rune Points | 10      | 5 per minute  | Can power the Templar's shock absorbers and air filters. |
-|                     |               |         |               |                                                          |
+| Unique Engine Types | Power Output  | Charges | Recharge Rate | Other Effects                                                                             |
+| ------------------- | ------------- | ------- | ------------- | ----------------------------------------------------------------------------------------- |
+| Shocktrooper Engine | 2 Rune Points | 5       | 5 per minute  | Can power the Shocktroopers' repulsor gear. Fuel costs 2x as much as normal.              |
+| Arcane Turbine      | 8 Rune Points | 20      | 5 per turn    | N/A                                                                                       |
+| Templar Engine      | 6 Rune Points | 10      | 5 per minute  | Can power the Templar's shock absorbers and air filters. Fuel costs 2x as much as normal. |
+|                     |               |         |               |                                                                                           |
 **Modules.**
 Powered by accumulated magical energy, Modules function as additional "powers" that a set of Powered Armor can use to it's effect. While magically powered, they are modifications to the armor that do affect the physical appearance. when you pay for the Module, decide how it fits into your armor and causes the effect.
 ref (https://anyflip.com/yglao/jlch/basic)
