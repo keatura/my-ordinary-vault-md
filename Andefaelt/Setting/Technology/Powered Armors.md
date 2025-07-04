@@ -52,8 +52,8 @@ Heavy powered armor is a size up, with longer lower leg sections and forearm sec
 
 | Exotic Powered Armor (special training) | Armor Class | Speed | Cost    | Max Dex | Strength | Unarmed Strike | Stealth   | Weight |
 | --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | --------- | ------ |
-| Templar's Armor (Heavy)                 | 21          | 40ft  | 7,300gp | 12      | 25 +7    | 1d12 + Str     | Disadv    | 760lbs |
-| Shocktroops' Exo (Light)                | 14 + Dex    | 45ft  | 3,000gp | N/A     | 17 +3    | 2d6 + Str      | See below | 75lbs  |
+| Templar's Armor (Heavy)                 | 21          | 40ft  | 7,300gp | 12      | 25 +7    | 2d6 + Str      | Disadv    | 760lbs |
+| Shocktroops' Exo (Light)                | 14 + Dex    | 45ft  | 3,000gp | N/A     | 17 +3    | 1d10 + Str     | See below | 75lbs  |
 | Warcaster Armor                         | 13 + Dex    | speed | 2,010   | N/A     | N/A      | N/A            | N/A       | 80lbs  |
 |                                         |             |       |         |         |          |                |           |        |
 Exotic powered armor follows the general rules for its class of Powered Armor (either light or heavy), but they also come with special rules and require special training.
@@ -62,7 +62,7 @@ Exotic powered armor follows the general rules for its class of Powered Armor (e
 
 **Shocktroops' Exo.** The Iyamarian Aerial Cavalry Corps utilizes light, fast exo-skeleton armors to facilitate quick and powerful assaults and execute flanking maneuvers efficiently. This Armor has a built-in Gasmask in the helmet, and come with a deployable knife built into the arms for quick reaction and CQB. They also have power-regulation systems that allow them to enter a state of "silent running", allowing the suit to move nearly silently apart from the noise of the mechanics, for up to an hour. After this hour, the suit must be given at least 2 hours of rest to purge itself before it is safe to do so again.
 
-**Warcaster Armor.** Powered by a special arcane turbine engine and designed to not impede the user, Warcaster armor is supposed to 
+**Warcaster Armor.** Powered by a special arcane turbine engine and designed to not impede the user, Warcaster armor is supposed to boost the psychic capacity of a Warcaster, allowing them to 
 
 ### Modules
 
