@@ -41,19 +41,19 @@ Powered Armor requires special training to use without severely injuring yoursel
 | Chainmail Powered Armor                    | 800gp   | 35ft  | 16          | 14      | 19 +4    | 1d6 + Str      | Disadv  | 110lbs |
 | Breastplate Powered Armor                  | 1,000gp | 35ft  | 14 + Dex    | 16      | 19 +4    | 1d6 + Str      | Disadv  | 100lbs |
 | Half-Plate Powered Armor                   | 1,200gp | 35ft  | 16 + Dex    | 14      | 19 +4    | 1d6 + Str      | Disadv  | 150lbs |
-| Plate Powered Armor                        | 2,500gp | 35ft  | 18          | 10      | 21 +5    | 1d8 + Str      | Disadv  | 250lbs |
+| Plate Powered Armor (STR 13 req.)          | 2,500gp | 35ft  | 18          | 10      | 21 +5    | 1d8 + Str      | Disadv  | 250lbs |
 Light powered armor is generally fitted to a user, featuring a suit of armor or no armor at all, that then firmly clips into an exposed exo-skeleton. Exo-skeletons are commonly used for heavy lifting in physical labor trades, and militaries use the armored variants for shock troops that are much more inexpensive than Jacks.
 
 | Heavy Powered Armor (expensive training) | Cost    | Speed | Armor Class | Max Dex | Strength | Unarmed Strike | Stealth | Weight |
 | ---------------------------------------- | ------- | ----- | ----------- | ------- | -------- | -------------- | ------- | ------ |
-| Heavy Plate Powered Armor                | 3,100gp | 25ft  | 19          | 10      | 22 +6    | 1d8 + Str      | Disadv  | 400lbs |
-| Cast Steel Powered Armor                 | 3,700gp | 25ft  | 20          | 10      | 22+ 6    | 1d10 + Str     | Disadv  | 500lbs |
+| Heavy Plate Powered Armor (STR 15 req.)  | 3,100gp | 25ft  | 19          | 10      | 22 +6    | 1d8 + Str      | Disadv  | 400lbs |
+| Cast Steel Powered Armor (STR 15 req.)   | 3,700gp | 25ft  | 20          | 10      | 22+ 6    | 1d10 + Str     | Disadv  | 500lbs |
 Heavy powered armor is a size up, with longer lower leg sections and forearm sections to allow the suit to reach heights of up to 7 or 8 feet tall. They also feature extremely heavy armor sections that give the wearer Resistance to non-magical Bludgeoning, Piercing, or Slashing damage. Heavy powered armor also has flat damage reduction to all physical damage dealt to the suit. The number is equal to the Pilot's Proficiency Bonus.
 
 | Exotic Powered Armor (special training) | Armor Class | Speed | Cost    | Max Dex | Strength | Unarmed Strike | Stealth   | Weight |
 | --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | --------- | ------ |
-| Templar's Armor (Heavy)                 | 21          | 40ft  | 7,300gp | 12      | 25 +7    | 2d6 + Str      | Disadv    | 760lbs |
-| Shocktroops' Exo (Light)                | 14 + Dex    | 45ft  | 3,000gp | N/A     | 17 +3    | 1d10 + Str     | See below | 75lbs  |
+| Templar's Armor (Heavy, STR 17 req.)    | 21          | 40ft  | 7,300gp | 12      | 25 +7    | 2d6 + Str      | Disadv    | 760lbs |
+| Shocktroops' Exo (Light, DEX 13 req.)   | 14 + Dex    | 45ft  | 3,000gp | N/A     | 17 +3    | 1d10 + Str     | See below | 75lbs  |
 | Warcaster Armor                         | 13 + Dex    | speed | 2,010   | N/A     | N/A      | N/A            | N/A       | 80lbs  |
 |                                         |             |       |         |         |          |                |           |        |
 Exotic powered armor follows the general rules for its class of Powered Armor (either light or heavy), but they also come with special rules and require special training.
