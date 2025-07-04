@@ -54,7 +54,7 @@ Heavy powered armor is a size up, with longer lower leg sections and forearm sec
 | --------------------------------------- | ----------- | ----- | ------- | ------- | -------- | -------------- | --------- | ------ |
 | Templar's Armor (Heavy, STR 17 req.)    | 21          | 40ft  | 7,300gp | 12      | 25 +7    | 2d6 + Str      | Disadv    | 760lbs |
 | Shocktroops' Exo (Light, DEX 13 req.)   | 14 + Dex    | 45ft  | 3,000gp | N/A     | 17 +3    | 1d10 + Str     | See below | 75lbs  |
-| Warcaster Armor                         | 13 + Dex    | speed | 2,010   | N/A     | N/A      | N/A            | N/A       | 80lbs  |
+| Warcaster Armor                         | 13 + Dex    | speed | 2,010gp | N/A     | N/A      | N/A            | N/A       | 80lbs  |
 |                                         |             |       |         |         |          |                |           |        |
 Exotic powered armor follows the general rules for its class of Powered Armor (either light or heavy), but they also come with special rules and require special training.
 
@@ -66,3 +66,5 @@ Exotic powered armor follows the general rules for its class of Powered Armor (e
 
 ### Modules and Engine Power
 
+**Engines.**
+While all power armor requires an engine, not all engines are created equal or for the same purpose.
