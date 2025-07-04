@@ -86,7 +86,7 @@ While all power armor requires an engine, not all engines are created equal or f
 | Templar Engine      | 6 Rune Points | 10      | 5 per minute  | Can power the Templar's shock absorbers and air filters. |
 |                     |               |         |               |                                                          |
 **Modules.**
-Powered by accumulated magical energy, Modules function as additional "powers" that a set of Powered Armor can use to it's effect.
+Powered by accumulated magical energy, Modules function as additional "powers" that a set of Powered Armor can use to it's effect. While magically powered, they are modifications to the armor that do affect the physical appearance. when you pay for the Module, decide how it fits into your armor and causes the effect.
 ref (https://anyflip.com/yglao/jlch/basic)
 
 | Module Name         | Target                          | Description                                                                                                                                                                                                                     | Price    |
@@ -97,6 +97,7 @@ ref (https://anyflip.com/yglao/jlch/basic)
 | Bond (Warcasters)   | Armor, Melee or Ranged Weapons. | This special module is meant to help Warcasters bond with their weapons and armor. While this module is powered, Warcasters may use their Focus Manipulation feature on their weapons and armor.                                | Built-in |
 | Fleet               | Armor                           | As a bonus action, you can expend 3 charges of the item's capacitor to gain 10 feet of movement and +2 AC for 1 minute.                                                                                                         | 450gp    |
 | Fog Generator       | Armor                           | As a bonus action, you can expend 2 charges to cast the *fog cloud* spell, centered on yourself without any verbal or somatic components. The fog dissipates after 1 minute.                                                    | 300gp    |
+| Repulsor            | Armor                           | As a bonus action, you can spend 3 charges to activate this module and repel nearby attackers. for all creatures within 10 feet of you must succeed on a DC 15 Strength check or they are pushed 15 feet away.                  | 300gp    |
 | Stall               | Armor                           | As part of an attack, you can expend 2 charges to activate this module. If the attack hits a 'jack or powered armor, they must succeed on a DC 13 constitution saving throw or be incapacitated until the end of its next turn. | 300gp    |
 | Stabilizer          | Armor                           | As a bonus action, you can expend 2 charges from the item's capacitor to activate this module. for 1 minute, you cannot be knocked prone.                                                                                       | 300gp    |
 | Heightened Strength | Armor                           | As a bonus action, you can expend 1 charge to gain advantage on Strength checks for the next 1 minute.                                                                                                                          | 150gp    |
