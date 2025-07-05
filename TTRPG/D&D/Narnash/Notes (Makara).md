@@ -309,5 +309,12 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- 35 damage, Damian rips the tentacle apart
 	- superman type shit rips this tentacle off with brute force
 	- passes the con save :3
-	- Asphodel does, but 
-- 
+	- Asphodel doesn't, takes some poison damage and is poisoned
+- In the end, Damian is the True Aura Farmer, Tensa is a chud
+- the Aboleth starts to freak out after the tentacle is ripped off
+	- tentacles swing around and break the walls and staircase
+	- 5 big booms for the arena
+	- the floor shatters and is rattling
+	- Tensa falls on her ass
+		- 5 big booms for her
+	- its Toothy Maw breaks through the floor of the are
