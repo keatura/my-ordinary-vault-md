@@ -390,4 +390,47 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - "fym nuh uh"
 - this Tensa mf is starting to make me Sad
 - finally Dilys and Makara head down the hallway with the Goons
+- Olivia, Damian, and Asphodel go through the trapdoor, and find themselves in a cavern with flowing water, droplets of water dripping off stalactites
+- the water is entering into the cavern via a waterfall at one end of the cavern, pooling into this brackish water
+- above the pool, there is a shiny golden birdcage like in other places in the temple
+- inside there is a fully golden grackle with amethyst eyes
+- Damian feels a familiar prescence.
+	- its a dragon
+		- black dragon
+			- hiiiiiiiiiiiiiii Sarrow
+- "you'll learn many things here, this is my design"
+	- uhhh
+	- "consume the bird damian"
+	- yeah alright bro
+- Damian dips into the pool and starts heading towards the bird cage
+	- yummy yummy snack :3
+- "How about we address the Dragon in the room"
+- Asphodel asks the grackle if it has seen the One Eyed Woman
+	- shes not in the room right now but shes always watching
+	- the bird is here to guard... the cave?
+- Damian grabs the bird and gets out of the water
+	- the bird is screaming for Damian to let it go, that its "of magic"
+- Munch Munch Crunch!!!
+- Asphodel covers her ears
+- Olivia is the Looker
+	- She sees from the opening of the trapdoor, as well as where the ladder leads down into the cavern, a single white feather falls down
+	- as it touches the water is becomes completely soaked, unlike normal birds that are waterproof
+	- owl feathers aren't waterproof...
+- As Damian is standing there, it starts to hit
+	- he gets a 50ft fly speed
+		- HOLY SHIT
+	- He gets "dreadful arrival", can cannonball a 20ft radius within 100ft 1/LR
+		- ALKAGDAHGSJDGHSJDG
+	- Damian is Locked The Fuck In
+- sir the keyboard smash has hit the Narnash Notes
+- Olivia senses one of the guardians of the temple
+- Oh No
+	- Who could of foreseen this happening
+- It just wanted to make it's prescence known, it's ALWAYS watching
+- the waterfall suggests that we are in something more akin to a mountain than a desert...
+	- Sinister
+		- Very Sinister
+	- Alex are you proud of me I used the word
+- cut to Dilys and Makara
+- Dilys goes back to map out the passage and cave
 - 
