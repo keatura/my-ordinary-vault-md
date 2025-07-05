@@ -325,5 +325,12 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- hmmmm......
 - He runs past her
 	- "she'll be fine"
-- The Aboleth starts throwing a tantrum, before this flying figure shows up and clean severs another one of the tentacles. the Aboleth re
+- The Aboleth starts throwing a tantrum, before this flying figure shows up and clean severs another one of the tentacles. the Aboleth recedes into the depths after this
 - It circles for a while, before leaving upwards.
+- In the next room, there's a giant tapestry carpet surrounded by walls of bookshelves and a giant chandelier made of sea glass, reflecting colourful light all over the room.
+- theres chests and shelves and books just on the floor, SO MANY BOOKS
+- another hallway with a purple torch lit
+- on the back wall, there is a enormous throne, maybe 20 feet across, made of glass and gold
+- on the back of the throne, there are mirrors stacked on top of each other that look like wings
+- Olivia doesnt want to take a short rest :(
+- This is Good News, Olivia. We can Finally Be Bees
