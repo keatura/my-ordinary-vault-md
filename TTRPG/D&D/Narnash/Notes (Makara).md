@@ -241,7 +241,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Asphodel and Dilys see Makara looking like her human self
 
 
-# 7/5/25
+# 7/5/25 The Big Temple (finally) (part 1?) (it is really big)
 - QUEUE SESSION START, we faded to white at the end of the previous session.
 	- we finally entered the fucking temple on the map thing we have had since session 1
 	- we met some assembly goons and makara dissed them for Reasons. everyone else was indifferent?
@@ -433,4 +433,33 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Alex are you proud of me I used the word
 - cut to Dilys and Makara
 - Dilys goes back to map out the passage and cave
+- we finally group back up
+- "So, what was in the birdcage Damian?"
+- a puzzle
+	- Extremely Loud Incorrect Buzzer
+- we go FORWARD!!!!!!
+- the lights in the 3rd room are small and dim, in the same cyan as the rooms normally related to the Aboleth
+- its a Very Very Large circular room, with the small birds flying overhead and a HUGE waterfall at the back of the room
+- the roof is dome shaped
+- at the very center of the room, there is a giant circular golden plaque
+	- it has a symbol on it, looks like an iconic symbol of the sun, relating to Kaha
+	- around the walls, there are hundreds of these golden birdcages, in various stages of repair and assembly
+		- all of the birdcages are made by hand?
+	- some of them are broken, some of them are being assembled, some are hooked up to the wall, and there's some kinda crucible to melt metal
+	- theres a table with loads of tools, thin bars of gold and three dead birds next to each other.
+		- One of them is a grackle, one is a robin with sapphire eyes, and one red tailed hawk with ruby eyes. all the same golden feathers and arranged from smallest to largest
+	- There is a mirror on the floor on the east side, and on the wall a GIGANTIC cracked mirror
+	- the symbol on the plaque is The OLDEST symbol used to represent Kaha, and also was used for Getscha as she was associated with the sun
+		- theres a few peacock feathers as well in the engraving
+		- its got symbols to represent the whole pantheon
+	- "the plaque looks removable"
+		- What Does that MEAN
+- Makara goes to inspect the birds on the table
+	- They have had their internal organs removed, and then their bellies were sewn shut with very thin steel wire
+- Asphodel is talking to the birds
+	- "theres a very loud angry evil spirit in here, loud like you"
+	- "you will know when they get here"
+	- Oh
+- theres no other obvious hallways in this room, we Must Go Deeper
+- first we should prooooobably deal with the Goons
 - 
