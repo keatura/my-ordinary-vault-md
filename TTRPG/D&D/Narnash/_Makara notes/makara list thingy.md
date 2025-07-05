@@ -1,3 +1,7 @@
+so 1/long rest when you kill someone you can choose to gain:
+ 
+- temp HP equal to twice your warlock level
+- while you have the temp HP you deal an extra 1d8 necrotic damage on your attacks and your movement speed increases by 10 feet
 
 
 how to be an ASSHOLE PRICK NOBLE notes

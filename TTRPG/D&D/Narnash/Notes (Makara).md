@@ -258,5 +258,45 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 		- she's literally a monster from Undertale
 - It feels like we are in a large ocean, but it starts to feel as it narrows as we continue forward, It begins to feel like we are walking through a shattered mirror, the physical representation of Something being broken
 	- It feels.. Sharp? like something took a sword and ripped through the space and reality itself
-- theres a "Prescence" in this place, the "Rift"
+- there is a "Prescence" in this place, the "Rift"
+- We pass through the Rift, into a dark hallway
+	- >darkvision joke numero 30214
+- It's completely empty around us, but everything looks well taken care of, a perfect white glossy marble 
+	- the lights around us are torches with purple light
+	- Not the Dread Fields, Bro
+- We start heading down a spiral staircase
+	- as we are heading down, the walls just crumble
+	- it reveals this empty, blue void
+- the stairs light up as we step on them, one by one.
+- It feels like we are just floating in the ocean, Dilys sees a shadow in the distance following us
+- as we get to the bottom of this giant staircase, we enter into this giant open room, with one purple lit torch in a hallway in the distance.
+- theres a tremor, and a flicker of these cyan blue lights, same as in the Aboleth room.
+- It starts turning into an earthquake as the Aboleth starts to break the floor beneath us
+- Roll Initiative
+- Asphodel is up first, flies up into the air and starts heading towards the hallway
+	- double dashes and makes it in one turn
+	- holy christ the bird is a fighter jet
+- Makara is up next, dash + misty step for 90ft twoards the hallway
+- All the Assembly Goons are up, one of them takes a crossbow bolt shot and misses like a goon
+- Dilys is up, action dash + misty step to get to the exit
+- Damian is up, walks forward and throws The Rope(tm)
+	- holy christ hes aura farming against the Aboleth
+	- Pass Me the Rope
+	- he also rages
+- he grapples the giant Aboleth tentacle
+- ABOLETH TURN YIPPEE
+	- All it's tentacles fully come out of the ground, they're like 50 ft long.
+	- one of them swings on Damian
+	- As he is hit with the tentacle, needles in the surface of it sting into Damian, but he passes the constitution saving throw
+	- it attacks the Group of Goons, but Damians grapple causes it to miss
+	- the Aboleth starts to pound the ground, causing more earthquakes, knocks Makara prone
+	- the floor and even the walls are starting to crack from the force
+- As Asphodel flies into the hallway, more torches light up and she enters another large room.
+- Makara stands up, runs to the hallway
+- Asphodel comes back into the room to attack the Aboleth and help Damian
+	- fuck this thing up yo
+	- she does
+	- my GOAT (shes a bird though)
+	- the Aboleth screeches in pain as Asphodel tears muscles underneath the skin
+	- moves back 10 feet with mobile feat
 - 
