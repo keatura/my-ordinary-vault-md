@@ -317,4 +317,12 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- the floor shatters and is rattling
 	- Tensa falls on her ass
 		- 5 big booms for her
-	- its Toothy Maw breaks through the floor of the are
+	- its Toothy Maw breaks through the floor of the arena, this thing is GIGANTIC
+- The party in the hallway just starts heading towards the room, we know Damian is a Winner
+- Tensa stands up and starts heading towards the hallway
+- It's only Tensa and Damian in the room
+- Damian goes to help Tensa
+	- hmmmm......
+- He runs past her
+	- "she'll be fine"
+- 
