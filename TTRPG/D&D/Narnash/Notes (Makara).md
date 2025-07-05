@@ -372,4 +372,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- "the woman with one eye takes very good care of us"
 	- All the birds freak out then spontaneously calm down and start chatting again
 	- They mention a dining room, thats near here and they start flying towards it
+- sick lore dump yippee
+- Damian literally sprints down the hallway
+	- smh impatient
+		- - some rich asshole probably
+- As he runs down the hallway, he sees drapery and other colourful decorations along the hallway
+- To the right, theres a very narrow passageway that has no torches.
 - 
