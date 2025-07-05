@@ -325,4 +325,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- hmmmm......
 - He runs past her
 	- "she'll be fine"
-- 
+- The Aboleth starts throwing a tantrum, before this flying figure shows up and clean severs another one of the tentacles. the Aboleth re
+- It circles for a while, before leaving upwards.
