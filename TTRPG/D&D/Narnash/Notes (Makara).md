@@ -378,4 +378,16 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 		- - some rich asshole probably
 - As he runs down the hallway, he sees drapery and other colourful decorations along the hallway
 - To the right, theres a very narrow passageway that has no torches.
+- Olivia and Asphodel follow, and its very narrow, there are points where they have to crawl, but they get through
+- in front of them, theres a VERY OLD trap door, with mold and rust on it and a slight breeze passing through the cracks.
+- the Goons dont wanna tell us what they took. for Some Reason
+- Eventually, Tensa shows us a Specimen that she took off a shelf, it looks moldy and old
+- they took books mostly in the study of arcana and the nature of the place
+- Dilys logs who's taking things and what their names are
+- Tensa is asking us why we care
+- "its literally just acedamia bro"
+- "nuh uh"
+- "fym nuh uh"
+- this Tensa mf is starting to make me Sad
+- finally Dilys and Makara head down the hallway with the Goons
 - 
