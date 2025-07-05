@@ -337,4 +337,19 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - one of the Goons goes to take a book off one of the shelves, gets instantly crushed and splattered by a giant stone pillar that falls from the ceiling
 - theres 5 pressure plates in total around the room
 	- one in each corner, and one in front of the throne
+- Dilys finds a handwritten book in traditional elvish, written by a guy called Lamar
+	- it's detailing different magical areas in Narnash, particularly Ago Swamp, where he recorded 24 wild magic surges in a week. He called the area Arstol. (means "Magical Bog")
+- Makara is looking for stuff about her sword, and possibly other "K-Title" Artifacts.
+- She is skimming through books, finds a picture of her sword before it became the sword
+- a giant slab of metal with the same exact runes on it. looks like a ink sketch of the metal.
+- she finds nothing else
+- Olivia is looking for stuff on The Exchange
+- The purple flames are directly related to the Dread Fields, the fires containing people souls
+	- they are called "Ethereal Blazes"
+- the person who wrote the book is named Enola
+- Dilys is looking for things about the Compass
+- Finds a scroll with a image of an object that is very similar to the compass, its more diamond shaped unlike ours which is more circular but still cut like a jewel. it still flips open like our compass, but it has a cutout on the inside. 
+	- its a circle cutout
+		- our compass is a circle
+		- holy Christ
 - 
