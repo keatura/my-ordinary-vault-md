@@ -352,4 +352,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- its a circle cutout
 		- our compass is a circle
 		- holy Christ
+- Damian finds a chest full of tiny little Wrens made of solid gold
+- they turn to look at him, like they had just woken up and stare at him with beady blue eyes made of small sapphire gems
+- they shoot past him and fly up around the chandelier and land on it, tweeting to each other
+- the chest looks like it's regularly cleaned, and at the bottom there is a soft cushion that looks fresh and like it had been made recently, and at there's a tiny bowl full of birdseed in the corner of the chest. on the bowl, it says "they possess light in them, big and bold and beautiful. But we prefer to eat them."
 - 
