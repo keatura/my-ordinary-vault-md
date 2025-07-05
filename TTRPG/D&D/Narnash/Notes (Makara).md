@@ -334,4 +334,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - on the back of the throne, there are mirrors stacked on top of each other that look like wings
 - Olivia doesnt want to take a short rest :(
 - This is Good News, Olivia. We can Finally Be Bees
+- one of the Goons goes to take a book off one of the shelves, gets instantly crushed and splattered by a giant stone pillar that falls from the ceiling
+- theres 5 pressure plates in total around the room
+	- one in each corner, and one in front of the throne
 - 
