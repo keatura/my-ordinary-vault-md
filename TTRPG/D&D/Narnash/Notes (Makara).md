@@ -356,4 +356,20 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - they turn to look at him, like they had just woken up and stare at him with beady blue eyes made of small sapphire gems
 - they shoot past him and fly up around the chandelier and land on it, tweeting to each other
 - the chest looks like it's regularly cleaned, and at the bottom there is a soft cushion that looks fresh and like it had been made recently, and at there's a tiny bowl full of birdseed in the corner of the chest. on the bowl, it says "they possess light in them, big and bold and beautiful. But we prefer to eat them."
+- Damian finally gives Olivia the book to translate, it's about the Lancers
+- It describes the place we are in, calls it a Library
+	- yeah no shit
+- Has some stuff about the Lancers that live here and the magical artifacts they are keeping here
+- some names of Lancers we get: Aryasmill, Havester, Yagra, Erbishia
+- It talks about how the magic in this place is so weird and so strong, that "nobody will ever find it"
+- Two of the Lancers have titles,
+	- Aryasmill is a title for someone very Powerful, a strong fighter or wizard who is male
+	- Erbishia is the same but for female, these titles are extremely difficult to obtain.
+- Asphodel goes to talk to the magic birds
+- "when was the last time someone was here"
+	- "There are many occupants"
+		- Hopefully its just the birds
+	- "the woman with one eye takes very good care of us"
+	- All the birds freak out then spontaneously calm down and start chatting again
+	- They mention a dining room, thats near here and they start flying towards it
 - 
