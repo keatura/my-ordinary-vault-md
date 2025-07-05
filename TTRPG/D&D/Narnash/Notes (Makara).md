@@ -292,11 +292,22 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- the Aboleth starts to pound the ground, causing more earthquakes, knocks Makara prone
 	- the floor and even the walls are starting to crack from the force
 - As Asphodel flies into the hallway, more torches light up and she enters another large room.
-- Makara stands up, runs to the hallway
 - Asphodel comes back into the room to attack the Aboleth and help Damian
 	- fuck this thing up yo
 	- she does
 	- my GOAT (shes a bird though)
 	- the Aboleth screeches in pain as Asphodel tears muscles underneath the skin
 	- moves back 10 feet with mobile feat
+- Makara stands up, runs to the hallway
+	- turns around and hits the Aboleth's tentacle with a Cone of Cold
+	- does OK damage
+- Tensa and the Assembly Goons go, most of them run towards the hallway, Tensa tries to Aura Farm and attack the tentacle
+	- As she hits it and slashes down the side of the tentacle it looks like purple worms slip out
+- Damian goes, hits the Aboleth Really Fucking Hard
+	- queue lots of dice noises and a +12 total damage mod
+		- yikes
+	- 35 damage, Damian rips the tentacle apart
+	- superman type shit rips this tentacle off with brute force
+	- passes the con save :3
+	- Asphodel does, but 
 - 
