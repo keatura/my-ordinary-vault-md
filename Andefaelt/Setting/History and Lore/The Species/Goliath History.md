@@ -1,0 +1,1 @@
+Originated from the highlands, adapted to be able to form layers of fat and a layer of fur. They never developed the long guard hairs of equivalent species like polar bears, and they are descended from yeti. though after they invented clothes. 

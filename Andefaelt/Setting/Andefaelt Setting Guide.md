@@ -2,7 +2,7 @@
 
 Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live on islands in the sky surrounding a great eternal hurricane-like storm, Ederna. Accompanying this, there are 4 Great World Pillars, and while little is know about them to the people of the world, these Great Pillars assist Ederna in keeping the islands afloat. 
 
-Archbishop Cadriel is one of the only people aware of the truly ancient history, and is trying to assemble the Ancient Weapons to grant himself the One True Wish, and reset time back to before Andefaelt was created, restoring the ancient civilization. 
+[[Archbishop Cadriel]] is one of the only people aware of the truly ancient history, and is trying to assemble the Ancient Weapons to grant himself the One True Wish, and reset time back to before Andefaelt was created, restoring the ancient civilization. He currently has control of the Feyblood Staff, which is giving him his lichdom and has asserted complete control over it. He has used the power from this weapon to place a curse on the other Feyblood weapons causing them to be driven to find a host and return themselves to him.
 
 **[[Summary of Andefaelt]]**
 
@@ -23,7 +23,7 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 ##### [[Onyxian Capital, Noraveas]]
 
 ### [[Iyamari]]
-##### [[Iyamari' Capital]]
+##### [[Iyamari' Capital, Naili]]
 
 
 --- 
@@ -83,13 +83,15 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 # History and Lore
 
-## [[Ancient History]]
+## [[Pre-Recorded History]]
+
+## [[Recorded History]]
 
 ## [[The Extinction of Dragons]]
 
 ## [[The Mythos of the Afterlife]]
 
-##
+---
 ## The Species
 
 ##### [[Runeforged]]
@@ -104,19 +106,13 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 
 ##### [[Dragonborn and Kobold History]]
 
-##### [[Runeforged History]]
-
 ##### [[Orc History]]
 
 ##### [[Goliath History]]
 
-##### [[Halfling History]]
-
 ##### [[Aasimar Lore]]
 
-##### [[Tieflings History 1]]
-
-##### [[Lizardfolk History]]
+##### [[Tieflings History]]
 
 --- 
 # Gods
@@ -139,7 +135,9 @@ Archbishop Cadriel is one of the only people aware of the truly ancient history,
 ###### [[Gutur (undeath)]]
 ###### [[Iodrosni (rebirth)]]
 
-## [[Abyss (The God the Void)]]
+## [[Abyss, The Void]]
+
+## [[Eidolon, The Infinity]]
 
 --- 
 # Homebrew
