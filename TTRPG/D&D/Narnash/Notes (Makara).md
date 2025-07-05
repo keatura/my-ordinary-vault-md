@@ -239,4 +239,24 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Makara encounters **Blake**, a random merchant she put out of business after beating in a duel 20 years ago
 - they have an embarassing argument on the street
 - Asphodel and Dilys see Makara looking like her human self
+
+
+# 7/5/25
+- QUEUE SESSION START, we faded to white at the end of the previous session.
+	- we finally entered the fucking temple on the map thing we have had since session 1
+	- we met some assembly goons and makara dissed them for Reasons. everyone else was indifferent?
+- we finally open the doors
+- they open in tiers, cracking open like a giant tomb
+- we are instinctually walking through the door, it brings a sort of hazy sleep-like feeling over us
+	- Erm, DM? I'm Akshually Immune to being put to sleep by magical means.
+- We all start to look a bit translucent and grainy in our vision, the floor feels like walking on sand or snow, but its not hot or cold
+- our thoughts are louder, like they are being whispered to us and our brains our moving quicker than normal.
+- Damian sees a very translucent, hollow form of Sarrow, the Black Eldest, almost like a spectre
+	- the wounds around her eyes are more pronounced, she has rips and tears and wounds all over her body
+	- "I'm happy one of my own has finally made it to the Rift."
+	- She collapses, fades into ash and disappears beneath the dust.
+		- she's literally a monster from Undertale
+- It feels like we are in a large ocean, but it starts to feel as it narrows as we continue forward, It begins to feel like we are walking through a shattered mirror, the physical representation of Something being broken
+	- It feels.. Sharp? like something took a sword and ripped through the space and reality itself
+- theres a "Prescence" in this place, the "Rift"
 - 
