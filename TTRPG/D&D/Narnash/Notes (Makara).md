@@ -518,4 +518,99 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 		- shrugs
 	- the other dragons know of the Rifts
 		- "everyone keeps secrets here"
-	- 
+- Asphodel goes to ask the birds to open the plaque
+	- they call it "the light"
+	- they call the room below "her room"
+	- they call Asphodel "star dove"
+- They fly into the depths of the waterfall
+- Asphodel follows
+- the birds keep chanting "follow us"
+- bigger birds join in, and they are descending in a spiral pattern into this cavern
+- Asphodel lands on.. carpet? 
+	- Asphodel is in the house
+		- like carpet
+		- like carpet
+	- it's warm
+	- follow the warmth!
+- she reaches out, and the tips of her fingers notice just a slight change in the atmosphere, she starts following it. cant tell if she's in a hallway or a room, it seems to expand out for miles.
+	- all of a sudden, she feels a sizzling heat in front of her
+	- "the light is here!"
+	- follow us again
+	- she perches on a very large "mast"
+		- like a lever?
+	- owls, macaws, goose, loons, all kinds of bird calls around Asphodel start singing
+		- she sings with them
+		- wholesome chungus
+	- oh it actually activates the thingy
+	- they continue to sing
+	- they start to turn into a beautiful choir, as the mast begins to move down
+	- we all hop on the plaque as it starts to lower
+	- too fast too fast!
+		- all the birds hop off, it slows down and they lower it successfully
+- Asphodel feels herself... hit something?? it's soft and feathery
+- "Asphodel, I hoped I would meet you first"
+	- Ermine, the guardian of the temple is right there
+	- "I have a present for you, I will give it to you myself"
+	- it's a cashew
+		- awwwwww
+	- Asphodel means "Star Dove"?
+		- **CONSUME THE CASHEW.**
+	- Asphodel eats it
+	- its the witerawwy the best cashew like evew
+	- She opens her eyes
+		- not really, finds herself back in the cave where she tore out her eyes.
+		- She felt sick, filthy and guilty and remembered the feeling of ascension as she was crawling out of that cave, like a second chance
+		- Crawling out of the cave, she finds herself with Family.
+	- she gets a sick new ability
+	- I"M FIRIN MY LAZORRR
+- As we descend down on the plaque, we are surrounded by what looks like a library
+- red drapings, red carpets all around leading into bookshelves. everything is well lit by whale oil lanterns
+	- staircases and poles and ladders all around
+	- dust sprays out as the platform sets down on the ground
+- We see Asphodel, but we dont see the guardian
+- we hop down and start lookin around
+- we are finally out of purples and blues, we find ourselves in a room that feels. warm?
+- oranges and reds and the vastness of this library
+- Damian "oh yeah I got a gift too"
+	- wut
+	- it was a bird
+	- you just have a bird?
+	- naw i ate it
+	- oooo kkkkkkk
+- Makara notices Tensa look behind her, and the rest of the Assembly people start twitching and acting strange
+- she walks up to the bowman, and lifts up his mask
+	- underneath, a younger human man with long black hair pulled up into a bun. he looks normal? but hes breathing really heavily
+	- she takes her hand to his eye and pulls back his eyelid, his eyes are rolling back
+	- they collapse
+	- Tensa is Very Concerned
+- Tensa starts getting....... TENSE
+- she falls over too
+- Damian looks down, they are still breathing but they look like they had seizures
+- "they have suffered a mild seizure, and will wake up shortly."
+	- Oh
+- We look up, and see the Sphinx
+- 30 feet tall, covered in white feathers
+	- has a very subtle gradient in all of her feathers. like she made of granite or something
+	- looks owl like with a flat head and a headdress with two horns on the sides that have very large magical looking beads
+	- the face is spherical with very large blue eyes
+	- her head is like an owls'
+	- it's a mixture between an owl and a human. very uncanny
+	- being watched by her is Strange. it explains the feeling of being watched the whole time here
+	- her back legs are very fox-like, and goes down and curls into what looks like a peacock feather.
+	- there are eye motifs all over her feathers and everything
+	- HUGE sickle shaped claws
+- the Sword is feeling Afraid.
+	- not of me dying, it's just wary of the Guardian
+- Dilys searches the bodies of the Goons
+- finds two more books than they said....
+	- Liars :(
+- we all start following Ermine, we follow her down into the lower library. she flies down completely silently
+- we keep following her deeper in the library
+- Ermine is 1,256 years old. This is a Lancers library, it holds history of pretty much everything. secrets even the Gods keep quiet.
+- She can tell Makara about the sword
+	- YIPPPEEEEEEE!!!!!!!!!
+- Her Oath is to hold the artifacts, to keep them safe and away from those who want to abuse them or would endanger themselves with their prescence.
+- She can see the future
+	- the assembly doesnt live to see tomorrow
+- She sees one where Narnash is destroyed. She wants to help us so that Doesnt Happen
+- 
