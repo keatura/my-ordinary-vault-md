@@ -741,3 +741,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Damian goes to find Olivia
 - Asphodel is looking for a book about Singfig, maybe about her temperment or just what shes like
 - Singfig got so insanely good at her craft of illusion magic that they went insane
+- SESSION END
+- holy peak
