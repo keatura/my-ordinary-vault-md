@@ -614,4 +614,14 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- the assembly doesnt live to see tomorrow
 - She sees one where Narnash is destroyed. She wants to help us so that Doesn't Happen
 - she compares us to a farmer taking care of their pigs or cows. how Narnash is just a field for us to graze in
-- 
+- Her Oath requires her to try and kill anyone who takes the artifact she wants us to have. That's why she is helping us and letting us rest here, so we have the best chances to win and take the Artefact
+- this session is definitely gonna be a 2 parter holy hell
+- She called my sword, Nahamaj, a "filthy little rule breaker"
+	- Literally Everyone has been after this sword for centuries. even before it was turned into a sword.
+	- Oh Great
+- i don wanna kill her shes so awesome :(
+- She has "business to attend to" and flies off and disappears
+- Makara takes off her armor and lets her guard drop
+- birds land all over Makara as she stands still, and a raven lands on her hand
+	- "hello, darling"
+	- I LOVE HIM I LOVE HIM
