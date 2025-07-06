@@ -612,5 +612,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Her Oath is to hold the artifacts, to keep them safe and away from those who want to abuse them or would endanger themselves with their prescence.
 - She can see the future
 	- the assembly doesnt live to see tomorrow
-- She sees one where Narnash is destroyed. She wants to help us so that Doesnt Happen
+- She sees one where Narnash is destroyed. She wants to help us so that Doesn't Happen
+- she compares us to a farmer taking care of their pigs or cows. how Narnash is just a field for us to graze in
 - 
