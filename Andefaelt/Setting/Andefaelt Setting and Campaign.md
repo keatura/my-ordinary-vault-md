@@ -12,6 +12,8 @@
 - [ ] Helena's relation to Asyria
 - [ ] Zevkan government and capital
 - [ ] Onyxian government and capital
+- [ ] Flesh out the fore-runners and give them a name
+- [ ] figure out how the afterlife works
 
 # Overview
 
