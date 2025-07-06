@@ -711,4 +711,16 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- I c ant ..
 - Makara helps him look for the Potion.
 	- A MIGHTY Potion
+- Makara finds it, hands it to him
+	- it's poison
+- It's not, Damian has 20STR now
+- I beg riley for a Ring of Protection, he lets me roll for it
+- get a 24
+- yippee!!111!
+- 21 AC :333333
+- Damian just fucking Flies Off
+	- I hate This Man
+- Asphodel is talking to the birds and ~~looking through~~ feeling the books, finds a braille section
+- looking for info about how the Lancers became the Druids
+- the Lancers entire goal was to keep history alive
 - 
