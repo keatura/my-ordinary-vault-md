@@ -79,12 +79,12 @@ While all power armor requires an engine, not all engines are created equal or f
 | Generator          | 0 Rune Points | 0       | 0             | **Backup.** This can be attached to a set of Powered Armor, functioning as a backup in case the main engine loses power. It uses the same fuel tank and burns fuel at the same rate. The addition of this generator adds 20lbs to the weight of the suit. | 200gp |
 |                    |               |         |               |                                                                                                                                                                                                                                                           |       |
 
-| Unique Engine Types | Power Output  | Charges | Recharge Rate | Other Effects                                                                             |
-| ------------------- | ------------- | ------- | ------------- | ----------------------------------------------------------------------------------------- |
-| Shocktrooper Engine | 2 Rune Points | 5       | 5 per minute  | Can power the Shocktroopers' repulsor gear. Fuel costs 2x as much as normal.              |
-| Arcane Turbine      | 8 Rune Points | 20      | 5 per turn    | N/A                                                                                       |
-| Templar Engine      | 6 Rune Points | 10      | 5 per minute  | Can power the Templar's shock absorbers and air filters. Fuel costs 2x as much as normal. |
-|                     |               |         |               |                                                                                           |
+| Unique Engine Types | Power Output  | Charges | Recharge Rate | Other Effects                                                                |
+| ------------------- | ------------- | ------- | ------------- | ---------------------------------------------------------------------------- |
+| Shocktrooper Engine | 2 Rune Points | 5       | 5 per minute  | Can power the Shocktroopers' repulsor gear. Fuel costs 2x as much as normal. |
+| Arcane Turbine      | 8 Rune Points | 20      | 5 per turn    | N/A                                                                          |
+| Templar Engine      | 6 Rune Points | 10      | 5 per minute  | Can power the Templar's shock absorbers and air filters.                     |
+|                     |               |         |               |                                                                              |
 **Modules.**
 Powered by accumulated magical energy, Modules function as additional "powers" that a set of Powered Armor can use to it's effect. While magically powered, they are modifications to the armor that do affect the physical appearance. when you pay for the Module, decide how it fits into your armor and causes the effect.
 ref (https://anyflip.com/yglao/jlch/basic)
