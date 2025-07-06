@@ -58,7 +58,7 @@ Elves, Humans, and Orcs
 Colors I think of: all earth tones, brass and bronze, the seafoam green of Runesteel
 Things that give off advanced technology, sophistication, and education
 
-
+Onyxia resides within the Southern Mountains scattered about, cities and towns built at the bases of mountains or along cliff faces. Ruled by a Meritocracy of the top professors in Noraveas, 
 
 Main Species:
 Dwarves, Runeforged
