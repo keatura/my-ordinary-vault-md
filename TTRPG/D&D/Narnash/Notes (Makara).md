@@ -729,4 +729,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - they start chatting
 - Damian gives a gold coin to each of the monkeys
 	- literally jumping for joy
+- they go looking items....
+- a ring.
+- a ring of what? REGENERATION!!!!
+- Damian rolls a twenty-fucking-four
+- Asphodel gets the ring
+	- she's getting a second chance, getting her sight back
 - 
