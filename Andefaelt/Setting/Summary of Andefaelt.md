@@ -58,7 +58,7 @@ Elves, Humans, and Orcs
 Colors I think of: all earth tones, brass and bronze, the seafoam green of Runesteel
 Things that give off advanced technology, sophistication, and education
 
-Onyxia resides within the Southern Mountains scattered about, cities and towns built at the bases of mountains or along cliff faces. Ruled by a Meritocracy of the top professors in Noraveas, their hybrid university and capital city build around the Southern Pillar. Onyxia is famous for their metallurgy and engineering, producing the finest goods from legendary craftsmasters. While small in number and inhabitable territory, Onyxia has the most advanced, efficient technology and high-end prosthetics and augments. Their Navy is infamous for their nigh-impenetrable floating fortresses, heavily armed and armored airships. Though in the end, Onyxia cares more about engineering and trade than their military.
+Onyxia resides within the Southern Mountains scattered about, cities and towns built at the bases of mountains or along cliff faces. Ruled by a Meritocracy of the top professors in Noraveas, their hybrid university and capital city build around the Southern Pillar. Onyxia is famous for their metallurgy and engineering, producing the finest goods from legendary crafts-masters. While small in number and inhabitable territory, Onyxia has the most advanced, efficient technology and high-end prosthetics and augments. Their Navy is infamous for their nigh-impenetrable floating fortresses, heavily armed and armored airships. Though in the end, Onyxia cares more about engineering and trade than their military.
 
 
 
@@ -68,7 +68,7 @@ Dwarves, Runeforged
 # Voxis
 Colors I think of: Grunge
 
-Voxis is a large port city, and the largest city on Andefaelt, period.
+Voxis is a large port city, and the largest city on Andefaelt, period. Ruled by Julia Umberlain, a former Elven  Asyrian noble, now Queen of Voxis, 
 
 Main Species:
 Literally Anyone
