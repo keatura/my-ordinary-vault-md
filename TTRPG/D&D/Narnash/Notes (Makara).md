@@ -723,4 +723,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Asphodel is talking to the birds and ~~looking through~~ feeling the books, finds a braille section
 - looking for info about how the Lancers became the Druids
 - the Lancers entire goal was to keep history alive
+- Damian pulls up on Asphodel,
+	- ITS THE MONSTER
+	- Damian kills the monster
+- they start chatting
+- Damian gives a gold coin to each of the monkeys
+	- literally jumping for joy
 - 
