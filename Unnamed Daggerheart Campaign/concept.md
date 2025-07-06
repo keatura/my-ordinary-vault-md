@@ -1,1 +1,3 @@
-the players all die, and instead of going to the afterlife they are brought to what is basically purgatory. the people who are sent here are those who are going to be sent to hell, and it serves as a kind of "judgement" 
+the players all die, and instead of going to the afterlife they are brought to what is basically purgatory. the people who are sent here are those who are going to be sent to hell, and it serves as a kind of "judgement" to deem if someone is truly capable of redemption, or they are sent to hell. the place they are sent is dedicated to preserving the balance 
+
+- a mini campaign, a couple sessions per player and it's mainly covering their backstories plus some extra
