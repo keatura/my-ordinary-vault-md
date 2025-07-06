@@ -502,4 +502,20 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- "Who are you?" thanks Dilys
 	- there's no spear wound, he looks ever so slightly transparent
 	- He is entombed by the ethereal blazes?
+	- The One Eyed Lady is a literal interpretation of the name
+	- Aravos wont tell us :(
+	- Riley also wont tell us :(
+	- The Birds are watchdogs of the Temple we are in, they aren't supposed to die naturally.
+	- Normally the Woman with One Eye opens the Plaque, but she's.. testing us?
+		- Great.
+		- This is all fine and dandy I'm not scared ONE BIT. NUH UH NOT ME
+	- "what's in the waterfall"
+	- "more water"
+		- Yeah
+	- Aravos can see Damian's past slightly
+		- memories,
+		- memories of what
+		- shrugs
+	- the other dragons know of the Rifts
+		- "everyone keeps secrets here"
 	- 
