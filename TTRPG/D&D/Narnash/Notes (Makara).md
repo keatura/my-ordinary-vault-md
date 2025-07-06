@@ -462,4 +462,44 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Oh
 - theres no other obvious hallways in this room, we Must Go Deeper
 - first we should prooooobably deal with the Goons
-- 
+- Dilys is going to check if theres a passage behind the waterfall
+	- almost decided to throw a cage in
+		- are you sure?
+	- Dilys Fucking Dies!
+- She remembers she has a bow, shoots an arrow into the waterfall
+- Olivia walks over to Tensa... Sinister
+	- Really, what the hell are you doing here?
+	- they are looking for a "very powerful artefact"
+	- "we have claims to it"
+		- uh. Nah.. no you dont dawg I'm sorry
+			- "it goes way back, deeper than you could ever imagine."
+			- Ok Bro
+- "Theres nothing behind the waterfall!"
+	- everyone thanks Dilys
+- cut back to Makara, shes opening a bird
+- perception check
+	- another failed roll :((((((
+- theres a voice in Makaras ear
+	- "I wouldn't do that if I were you."
+	- OH.
+	- "I hate them"
+	- he hates the birds
+- Damian walks over, saw the weird creature in the mirror, long body and silver horns
+- Olivia goes to lift the Plaque, it's either too heavy or being held down by magic
+- the plaque is definitely magical
+- looks like it needs some kinda magical intervention to assist lifting it
+- the surface of the plaque is reflective
+- Asphodel collects us to inform us of what the birds told her
+	- In this room specifically, there is an evil spirit
+	- it hates the birds
+		- Yikes
+	- The Woman is keeping the Aboleth down here
+- As Damian mentions the Silver Dragon, a laugh echoes around the room
+- in the shattered mirror, we see Aravos, the Golden Dragon that died.
+- We see him in the mirror, but not in the physical world.
+	- "I notice you are having trouble with the plaque, I can help y'know"
+	- yippee?
+	- "Who are you?" thanks Dilys
+	- there's no spear wound, he looks ever so slightly transparent
+	- He is entombed by the ethereal blazes?
+	- 
