@@ -241,7 +241,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Asphodel and Dilys see Makara looking like her human self
 
 
-# 7/5/25 The Big Temple (finally) (part 1?) (it is really big)
+# 7/5/25 The Big Temple (finally) (maybe) (part 1?) (it is really big) (HOLY SHIT MY PARENTS ARE ALIVE) (and damian chronically aura farms)
 - QUEUE SESSION START, we faded to white at the end of the previous session.
 	- we finally entered the fucking temple on the map thing we have had since session 1
 	- we met some assembly goons and makara dissed them for Reasons. everyone else was indifferent?
@@ -625,4 +625,90 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - birds land all over Makara as she stands still, and a raven lands on her hand
 	- "hello, darling"
 	- I LOVE HIM I LOVE HIM
+-  Dilys and Makara talk about how much will be lost with the death of Ermine
+- Dilys goes to look for information on Sphinx's
+- Makara looks for information on the sword
+	- roll investigation
+	- 2 and a 3
+		- BRO.
+	- The Sphinx shows up and asks me what i think the sword was made for
+	- "killing werewolves?"
+	- she leads me to a section of the archives with artefacts, and tells me my sword was a bystander to war and conflict.
+		- It has a soul.
+		- well.
+	- it comes from a greater being, a very very very large being
+	- It used to be called "The Needle"
+		- Nahamaj, The First One is it's true name
+	- Ermine called the language block a "bottleneck"
+- Nahamaj is the full name, the rest of the runes are Instructions.
+- it doesn't want to follow the instructions, it doesn't want to participate in war and conflict anymore. It is angry because the gods are preventing me from reading those instructions
+- Makara's elf dad is dead, her elf mom was not involved in the explosion.
+	- "she is not unlike Aravos"
+	- Ermine tells Makara she was born to be a weapon
+- Ermine gives Makara a tome from someone who was researching Nahamaj
+- the Flash during the duel was a last ditch effort to save Makara's life
+- MAKARA CASTS COMPREHEND LAGUAGES
+	- AND DOESNT GET CHOKED!!!!!!!!!!!!!!!!!!!!!!
+	- SHE GETS THE FULLLL FUCKING NAME!!!!
+- Olivia is looking for information on K-Titles
+- She finds a book from the Lancers
+- they are worried about how comically dangerous the K-Titles are
+- "The Exchange" is HERE in the archives, it is an artifact
+- "The Entanglement" is not in possession of the Lancers, it's also kind of not really magical?
+- It derives it's power from some third party source but the Lancers lost it before they could do any proper research on it
+- As Olivia is searching through the library, she finds herself in a darker part of the library, she sees something out of the corner of her eyes. a dark, shadowy figure starts levitating towards her
+	- it's just fucking Damian
+	- cool bro
+	- "whatchya readin Olivia?"
+	- "books"
+	- "yeah no shit"
+	- he leaves
+	- fucking sob
+	- this guy is a serial aura farmer bro smhhhhh My Head
+- my notes aren't as good now i'm NOT LOCKED IN
+- Olivia is reading a book and there's critical theory about the gods and what they are
+- her Eye(s) notice a book, in the early days of Narnash there were reports of trees or other things like cats with multiple eyes all around their body, strange sightings of weird white lights that are just torn away and destroyed
+	- There's one report that the author claims is totally over-exaggerated, but there was this one person a very very long time ago, a person was walking along the coast and they looked up and saw all the stars in the sky literally merge together, then a red thread flow through the sky and literally Sew The Sky Back Together.
+	- "fate" is a trivial thing in Narnash, and it's very up in the air, people would turn to Aliolos for answers because he's the God of Secrets, but like 
+		- wouldn't get an answer
+		- i wonder why
+	- she's looking for books to figure out how to "become uncorruptable"
+	- most of the books are about research and strange objects, but there are lots of books on old psychology theories
+	- Olivia goes to look for The Exchange
+- Olivia is looking for how to gain immortality
+- i hate matthew bro roll under a 20 please i'm gonna crash out
+- most of the stories surrounding immortality involve wizards and rituals, they are NOT cheap
+- some of them are liches, some of them turn into monsters, there can also be a spiritual toll or something
+- cut to Damian after he floats away ominously
+	- he's looking for the Assembly members
+- they are still in the same place, he throws the mask back to them
+	- they are still frozen
+- Not only have they suffered a seizure, but magical effects are keeping them asleep
+	- Tensa is a red Tiefling, Hanna is also a blue Tiefling, Fuekin is a Human, a Crolie is a Dwarf
+- Damian tries to wake up Tensa, doesn't work
+- Arcana
+- VERY very potent sleep spell
+- he separates them and sets them up on hammocks and other good sleeping spots
+- Ermine can basically teleport through the whole ass place
+- Damian thinks fighting is in his blood
+	- "I dont think there's much value of me, other than that."
+	- he did buy Asphodel cashews :3
+	- "I don't know what will come from me, but I don't think it's anything good"
+	- She tells Damian nothing is ever black and white, that even if he does terrible things, he can still choose to do good
+- Damian ask's Ermine what she wants of the archive after she is gone
+- She want's it to be destroyed
+	- so does Damian
+- Hm
+- Ermine has spent her time, experienced most everything and is content with her life
+- He blinks, and she is gone
+- He goes looking for magical artefacts
+- He is trying to find any kind of magic rings or jewelry
+- Damian Omni-Man hovers into the darkness above Makara
+- he SLOOOWLLLY hovers down towards her, just looking straight ahead, slightly tilted so he makes eye contact when he reaches the floor
+- "Makara do you want to move fast or slow"
+- Slow
+- he just fucking. Hovers away
+	- I c ant ..
+- Makara helps him look for the Potion.
+	- A MIGHTY Potion
 - 
