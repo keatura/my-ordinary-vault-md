@@ -58,7 +58,7 @@ Elves, Humans, and Orcs
 Colors I think of: all earth tones, brass and bronze, the seafoam green of Runesteel
 Things that give off advanced technology, sophistication, and education
 
-Onyxia resides within the Southern Mountains scattered about, cities and towns built at the bases of mountains or along cliff faces. Ruled by a Meritocracy of the top professors in Noraveas, 
+Onyxia resides within the Southern Mountains scattered about, cities and towns built at the bases of mountains or along cliff faces. Ruled by a Meritocracy of the top professors in Noraveas, their hybrid university and capital city build around the Southern Pillar. Onyxia is famous for their metallurgy and engineering, producing the finest goods from legendary craftsmasters. While small in number and inhabitable territory, Onyxia has the most advanced, efficient technology
 
 Main Species:
 Dwarves, Runeforged
