@@ -1,4 +1,19 @@
-### Overview
+## The Campaign and To-do list
+
+### Arcs
+
+#### [[Kalivny Arc Overview]] - Arc One
+
+## To-do list
+
+- [ ] Create an overview for the plot
+- [ ] make a list of all of the feyblood weapons
+- [ ] session 1
+- [ ] Helena's relation to Asyria
+- [ ] Zevkan government and capital
+- [ ] Onyxian government and capital
+
+# Overview
 
 Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live on islands in the sky surrounding a great eternal hurricane-like storm, Ederna. Accompanying this, there are 4 Great World Pillars, and while little is know about them to the people of the world, these Great Pillars assist Ederna in keeping the islands afloat. 
 
