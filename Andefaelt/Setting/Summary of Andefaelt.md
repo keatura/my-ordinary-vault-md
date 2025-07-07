@@ -32,9 +32,9 @@ Things that give off dominance, authority, and outward appearance
 
 The Asyrian Empire resides in the western rainforest, and is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Camillus, the serving king of the period.
 
-Asyria Follows Kadis and Kadis' Children, as their leader is descended from Kadis. So while everyone does give prayers to Kadis, there are smaller churches and sub-chapters of religious organizations dedicated to Kadis' Children as well.
+Asyria Follows Kadis and Kadis' Children, as their leader is descended from Kadis. So while everyone does give prayers to Kadis, there are smaller churches and sub-chapters of religious organizations dedicated to Kadis' Children as well. 
 
-Asyria is a very civilized, modern country and is constructed a new, modern capital city around the Western Pillar. It has been completed enough to be a completely functioning city, but still has heavy constructed to expand. 
+Asyria is a very civilized, modern country and is constructing a new, modern capital city around the Western Pillar. It has been completed enough to be a completely functioning city, but still has heavy construction work to expand. 
 
 Main Species:
 Humans, Ukucha, and Dragonborn
@@ -60,7 +60,7 @@ Things that give off advanced technology, sophistication, and education
 
 Onyxia resides within the Southern Mountains scattered about, cities and towns built at the bases of mountains or along cliff faces. Ruled by a Meritocracy of the top professors in Noraveas, their hybrid university and capital city build around the Southern Pillar. Onyxia is famous for their metallurgy and engineering, producing the finest goods from legendary crafts-masters. While small in number and inhabitable territory, Onyxia has the most advanced, efficient technology and high-end prosthetics and augments. Their Navy is infamous for their nigh-impenetrable floating fortresses, heavily armed and armored airships. Though in the end, Onyxia cares more about engineering and trade than their military.
 
-
+Onyxia, to go along with their love of metallurgy, has huge deposits of iron and other important metals in the mountains they live in. The largest industry in Onyxia is mining, 
 
 Main Species:
 Dwarves, Runeforged
@@ -68,7 +68,7 @@ Dwarves, Runeforged
 # Voxis
 Colors I think of: Grunge
 
-Voxis is a large port city, and the largest city on Andefaelt, period. Ruled by Julia Umberlain, a former Elven  Asyrian noble, now Queen of Voxis, 
+Voxis is a large port city, and the largest city on Andefaelt, period. Ruled by Julia Umberlain, a former Elven Asyrian noble, now Queen of Voxis, 
 
 Main Species:
 Literally Anyone

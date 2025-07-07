@@ -42,6 +42,10 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 ### [[Iyamari]]
 ##### [[Iyamari' Capital, Naili]]
 
+### [[Voxis]]
+##### [[Undercity]]
+
+### [[Thanatos]]
 
 --- 
 
