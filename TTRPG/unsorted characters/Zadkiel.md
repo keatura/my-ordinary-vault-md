@@ -6,7 +6,8 @@
 - aldrir
 
 ###### General Ideas
-phoenix themed paladin who is Literally Golden Retriever to an unhealthy degree
+phoenix/martyr themed paladin who is Literally Golden Retriever until you hurt Talia
+arguably doesnt actually care that much about other people because 
 
 ###### goals for the character
 - enneagram stuffs
