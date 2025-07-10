@@ -13,7 +13,7 @@ never kill yourself but in like a disappointing way
 
 ###### goals for the character
 - enneagram stuffs
-- make a new paladin subclass maybe
+- make a new paladin subclass maybe - Oath of Protection
 
 # Character Traits
 
