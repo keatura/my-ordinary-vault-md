@@ -2,12 +2,15 @@
 
 ###### Out of Character Inspirations
 - gillion tidestrider
-- mordred
+- mordred "My Dad is Literally Satan" wildfire druid
+- aldrir
 
 ###### General Ideas
-phoenix themed sorcadin who is Literally Golden Retriever to an unhealthy degree
+phoenix themed paladin who is Literally Golden Retriever to an unhealthy degree
 
 ###### goals for the character
+- enneagram stuffs
+- make a new paladin subclass
 
 # Character Traits
 
