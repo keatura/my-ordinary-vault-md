@@ -1,10 +1,11 @@
 # Character Concept
 
 ###### Out of Character Inspirations
-- 
+- gillion tidestrider
+- mordred
 
 ###### General Ideas
-
+phoenix themed sorcadin who is Literally Golden Retriever to an unhealthy degree
 
 ###### goals for the character
 
