@@ -8,6 +8,7 @@
 ###### General Ideas
 phoenix/martyr themed paladin who is Literally Golden Retriever until you hurt Talia
 arguably doesnt actually care that much about other people because 
+never kill yourself but in like a disappointing way
 
 ###### goals for the character
 - enneagram stuffs
