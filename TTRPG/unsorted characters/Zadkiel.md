@@ -1,4 +1,5 @@
 # Character Concept
+https://docs.google.com/document/d/10B_VpnpEznO5LDtZk5bOITRG2tPbMLD2qzzIPdrmdO8/edit?tab=t.0 maybe
 
 ###### Out of Character Inspirations
 - gillion tidestrider
@@ -12,7 +13,7 @@ never kill yourself but in like a disappointing way
 
 ###### goals for the character
 - enneagram stuffs
-- make a new paladin subclass
+- make a new paladin subclass maybe
 
 # Character Traits
 
