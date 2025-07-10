@@ -109,6 +109,8 @@ arguably doesnt actually care that much about other people because
 - "I'm not that kind of person" / "You cant ask me to do that",
 - "I thought you loved me",
 - "No matter what I do, it will never be good enough."
+- what would they do if they were forced to wear a maid dress?
+- what would they do if they were forced to wear a bunny suit?
 
 # Backstory
 
