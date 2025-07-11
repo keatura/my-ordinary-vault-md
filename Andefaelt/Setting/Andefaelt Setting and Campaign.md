@@ -104,6 +104,8 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 
 # History and Lore
 
+## [[000_Feyblood Weapon History | Feyblood Weapon History]]
+
 ## [[Pre-Recorded History]]
 
 ## [[Recorded History]]

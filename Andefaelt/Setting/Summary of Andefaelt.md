@@ -71,7 +71,7 @@ Things that give: gang violence and LSPD!! STOP RESISTING!!
 
 Voxis is a large port city, and the largest city on Andefaelt, period. Ruled by Julia Umberlain, a former Elven Asyrian noble, now Queen of Voxis. She established it on the ruins of Thrysta, the former Zevkan capital before the 30-Years-War. Now, Voxis is a major port city due to it's location. It has massive ports on each side of the island, and several massive shipyards producing mostly civilian ships, but occasionally commissioned military vessels. Being a massive city, Voxis also has an in-depth train network spanning the whole city, the only city like it in the plane. 
 
-Julia is a poor, absent leader though. Voxis is in a state of perpetual gang warfare
+Julia is a poor, absent leader though. Voxis is in a state of perpetual gang warfare due to her complete lack of care over the populous, and said gangs fight for control over territory in the city and control of the ports. The only thing keeping Voxis from falling into complete disarray are the City Enforcers, a near-militant police force wielding military-grade equipment and chemical weapons to flush out gang hideouts and shut them down. These Enforcers are known for being brutal and unforgiving, even to those not affiliated.
 
 Main Species:
 Literally Anyone
@@ -80,7 +80,7 @@ Literally Anyone
 Colors I think of: reds, oranges, cyan, green, and other fun colours for prayer flags and things, and the whites and browns and light blues of tundra
 Things that give off tradition, community, and resilience
 
-
+A place of 
 
 Main Species:
 Humans, Goliaths, anyone else who wants to survive the cold
