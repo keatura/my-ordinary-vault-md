@@ -80,7 +80,7 @@ Literally Anyone
 Colors I think of: reds, oranges, cyan, green, and other fun colours for prayer flags and things, and the whites and browns and light blues of tundra
 Things that give off tradition, community, and resilience
 
-A place of 
+A place of community and loyalty, Zevka is located in the Highlands, a land of ice and freezing cold. 
 
 Main Species:
 Humans, Goliaths, anyone else who wants to survive the cold
@@ -94,7 +94,7 @@ Runesteel is extremely common in Andefaelt.
 
 # Aesthetic and Vibes
 
-Andefaelt is a dieselpunk/decopunk setting, with a side of nature-based horror and struggles based around extreme weather events. most towns and cities have machinery and technology implemented in their economy, whether that be transport trucks, laborjacks and warjacks, 
+Andefaelt is a dieselpunk/decopunk setting, with a side of nature-based horror and struggles based around extreme weather events. most towns and cities have machinery and technology implemented in their economy, whether that be transport trucks, laborjacks and warjacks, or any other powered tool.
 
 For species differences specific to Andefaelt
 - all dwarves have beards regardless of gender
@@ -102,7 +102,7 @@ For species differences specific to Andefaelt
 - ukuchans are rat-like humanoids
 - dragonborn descend directly from dragons, and are the only living reminder that they existed. 
 	- also they have feathers on the back of their heads, behind their crests (kind of like hair) and on their tails - especially towards the ends. also sometimes there can be feathers on places like their elbows and necks.
-- tieflings are similar to aasimar
+- tieflings are similar to aasimar, created by the goddess of the underworld, Morana.
 
 # Homebrew
 First off - No opportunity attacks. This is still open to change, but it's something I want to playtest.
