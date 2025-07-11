@@ -24,6 +24,11 @@ certain qualifications are required for a dragon to possess something
 Blacksteel is a semi-naturally occurring metal, the presence of a Emperor class dragon or higher can cause their magical aura to seep into the ores of the surrounding country, creating it. Blacksteel is capable of killing dragons and is used in Dragon Hunts
 all of the dragons wrote off these dragon hunters because "it wouldn't happen to me"
 The Shadow Emperor, the Maelstrom was the first to go, the Hunters built dragon-killing cannons along the mountain range to the north, and forced the Maelstrom to retreat into the southern ocean
+Esis, the former subjects of the Maelstrom, established the Hunter's Guild and offered to help others free themselves.
+The next Tyrant to be targeted was Lothil, the Sea Tyrant. She was killed with a flying submarine creation powered with three dragon souls.
+then Vitae, the Light Tyrant, and Vexus, the Spirit Tyrant
+Caenum, the Air Tyrant was 4th and Spirans, the Fire Emperor was the last to fall, the only emperor they actually managed to kill. The rest are missing
+The Hunter is the one who took down Spirans, he is basically a myth
 
 
 **THE DEMOCRATIC ALLIANCE**
