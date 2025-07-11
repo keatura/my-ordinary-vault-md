@@ -94,7 +94,7 @@ Runesteel is extremely common in Andefaelt.
 
 # Aesthetic and Vibes
 
-Andefaelt is a dieselpunk/decopunk setting, with a side of nature-based horror and struggles based around extreme weather events. most towns and cities have machinery implemented, and 
+Andefaelt is a dieselpunk/decopunk setting, with a side of nature-based horror and struggles based around extreme weather events. most towns and cities have machinery and technology implemented in their economy, whether that be transport trucks, laborjacks and warjacks, 
 
 For species differences specific to Andefaelt
 - all dwarves have beards regardless of gender
