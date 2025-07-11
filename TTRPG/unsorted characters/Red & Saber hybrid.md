@@ -16,6 +16,22 @@ most likely in The Alliance / Democratic Nations
 even in The Alliance, it's still dangerous for dragons because there are those who want to turn them into objects
 It works by locking their consciousness behind a wall and using their magic to power something
 
+Lore
+certain qualifications are required for a dragon to possess something
+- the soul needs to be "pure"
+- being "pure" requires crystal from the Eye
+- a titled dragon such as a lord or monarch would have the swing to get themself a nice crystal heart
+Blacksteel is a semi-naturally occurring metal, the presence of a Emperor class dragon or higher can cause their magical aura to seep into the ores of the surrounding country, creating it. Blacksteel is capable of killing dragons and is used in Dragon Hunts
+all of the dragons wrote off these dragon hunters because "it wouldn't happen to me"
+The Shadow Emperor, the Maelstrom was the first to go, the Hunters built dragon-killing cannons along the mountain range to the north, and forced the Maelstrom to retreat into the southern ocean
+
+
+**THE DEMOCRATIC ALLIANCE**
+grew up under Vexus the Soulrend, the Spirit Tyrant
+pretty much put dragons and humans in the get along shirt and allowed them to govern themselves as long as they submitted to him
+have bio-mechs for the dragons to possess
+eastern europse naming base, Greek/Mediterranean cultural base
+
 
 
 
