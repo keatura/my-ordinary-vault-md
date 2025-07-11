@@ -1,5 +1,5 @@
 inspo:
-Transistor, Fate, Gerson Deltarune, Eragon and Saphira, being a Scalie, 
+Transistor, Fate, Gerson Deltarune, Roaring Knight Deltarune, Eragon and Saphira, being a Scalie, 
 - able to lose the powers if the sword / necklace is lost
 - partner/ family maybe inside of the sword, it's sentient
 - BIG SWORD. like 6 ft maybe 
@@ -7,6 +7,8 @@ Transistor, Fate, Gerson Deltarune, Eragon and Saphira, being a Scalie,
 - when she summons the sword it gives her a costume, like armor or something
 - array powers, swap between different styles of sword and armor for different powers
 - tectonic powers, her speed is due to literally shifting tectonic plates under her feet as she moves
+- former farmer, dragon wife
+- is now homeless, very punk aesthetic
 
 DRAGONSOUL YIPPEE
 
