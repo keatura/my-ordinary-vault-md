@@ -35,7 +35,7 @@ The Hunter is the one who took down Spirans, he is basically a myth
 grew up under Vexus the Soulrend, the Spirit Tyrant
 pretty much put dragons and humans in the get along shirt and allowed them to govern themselves as long as they submitted to him
 have bio-mechs for the dragons to possess
-eastern europse naming base, Greek/Mediterranean cultural base
+eastern europe naming base, Greek/Mediterranean cultural base
 
 
 
