@@ -4,6 +4,7 @@
 - sword turns into the necklace
 - when she summons the sword it gives her a costume, like armor or something
 - array powers, swap between different styles of sword and armor for different powers
+- tectonic powers, her speed is due to literally shifting tectonic plates under her feet as she moves
 
 DRAGONSOUL YIPPEE
 
