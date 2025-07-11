@@ -1,5 +1,5 @@
 inspo:
-Transistor, Fate, Gerson Deltarune, Eragon and Saphira, 
+Transistor, Fate, Gerson Deltarune, Eragon and Saphira, being a Scalie, 
 - able to lose the powers if the sword / necklace is lost
 - partner/ family maybe inside of the sword, it's sentient
 - BIG SWORD. like 6 ft maybe 
