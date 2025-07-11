@@ -7,8 +7,9 @@ Transistor, Fate, Gerson Deltarune, Roaring Knight Deltarune, Eragon and Saphira
 - when she summons the sword it gives her a costume, like armor or something
 - array powers, swap between different styles of sword and armor for different powers
 - tectonic powers, her speed is due to literally shifting tectonic plates under her feet as she moves
-- former farmer, dragon wife
-- is now homeless, very punk aesthetic
+- kicked out at 16/17, homeless now, crust punk
+- formed or joined a band, gained popularity, dragon wife
+- 
 
 DRAGONSOUL YIPPEE
 
