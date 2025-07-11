@@ -1,0 +1,5 @@
+- Folklore about a "Rat King", basically something akin to Wendigo
+	- If it hunted you and ate you, it would track your scent and eat the rest of your family, then disappear for a while.
+	- unclear if it's real
+	- has a vertical mouth that spreads down its throat the jaw is split in the middle, multiple tails and limbs, like a conglomeration of several huge rats.
+	- 
