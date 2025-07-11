@@ -1,5 +1,5 @@
 inspo:
-Transistor, Fate, Gerson Deltarune, Roaring Knight Deltarune, Eragon and Saphira, being a Scalie, 
+Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, Crust Punk, Marceline, that awesome anime thing of scraping your ax on the ground behind you, 
 - able to lose the powers if the sword / necklace is lost
 - partner/ family maybe inside of the sword, it's sentient
 - BIG SWORD. like 6 ft maybe 
@@ -9,6 +9,7 @@ Transistor, Fate, Gerson Deltarune, Roaring Knight Deltarune, Eragon and Saphira
 - tectonic powers, her speed is due to literally shifting tectonic plates under her feet as she moves
 - kicked out at 16/17, homeless now, crust punk
 - formed or joined a band, gained popularity, dragon wife
+- band broke up because of her borderline delusional search to get the dragon out of the sword
 - 
 
 DRAGONSOUL YIPPEE
