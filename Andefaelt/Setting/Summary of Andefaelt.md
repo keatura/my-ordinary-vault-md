@@ -60,7 +60,7 @@ Things that give off advanced technology, sophistication, and education
 
 Onyxia resides within the Southern Mountains scattered about, cities and towns built at the bases of mountains or along cliff faces. Ruled by a Meritocracy of the top professors in Noraveas, their hybrid university and capital city build around the Southern Pillar. Onyxia is famous for their metallurgy and engineering, producing the finest goods from legendary crafts-masters. While small in number and inhabitable territory, Onyxia has the most advanced, efficient technology and high-end prosthetics and augments. Their Navy is infamous for their nigh-impenetrable floating fortresses, heavily armed and armored airships. Though in the end, Onyxia cares more about engineering and trade than their military.
 
-Onyxia, to go along with their love of metallurgy, has huge deposits of iron and other important metals in the mountains they live in. The largest industry in Onyxia is mining, 
+Onyxia, to go along with their love of metallurgy, has huge deposits of iron and other important metals in the mountains they live in. The largest industry in Onyxia is mining, because for a lot of the population it is one of the few available jobs.
 
 Main Species:
 Dwarves, Runeforged
@@ -68,7 +68,7 @@ Dwarves, Runeforged
 # Voxis
 Colors I think of: Grunge
 
-Voxis is a large port city, and the largest city on Andefaelt, period. Ruled by Julia Umberlain, a former Elven Asyrian noble, now Queen of Voxis, 
+Voxis is a large port city, and the largest city on Andefaelt, period. Ruled by Julia Umberlain, a former Elven Asyrian noble, now Queen of Voxis. She established it on the ruins of Thrysta, the former Zevkan capital before the 30-Years-War. Now, Voxis is a major port city due to it's location. It has massive ports on each side of the island, and several massive shipyards producing mostly civilian ships, but occasionally commissioned military vessels. Being a massive city, Voxis also has an in-depth train network spanning the whole city, the only city like it in the plane. 
 
 Main Species:
 Literally Anyone
