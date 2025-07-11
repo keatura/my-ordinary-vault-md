@@ -66,15 +66,18 @@ Main Species:
 Dwarves, Runeforged
 
 # Voxis
-Colors I think of: Grunge
+Colors I think of: Grunge,, Yeah no colours just Dirt
+Things that give: gang violence and LSPD!! STOP RESISTING!!
 
 Voxis is a large port city, and the largest city on Andefaelt, period. Ruled by Julia Umberlain, a former Elven Asyrian noble, now Queen of Voxis. She established it on the ruins of Thrysta, the former Zevkan capital before the 30-Years-War. Now, Voxis is a major port city due to it's location. It has massive ports on each side of the island, and several massive shipyards producing mostly civilian ships, but occasionally commissioned military vessels. Being a massive city, Voxis also has an in-depth train network spanning the whole city, the only city like it in the plane. 
+
+Julia is a poor, absent leader though. Voxis is in a state of perpetual gang warfare
 
 Main Species:
 Literally Anyone
 
 # Zevka
-Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra
+Colors I think of: reds, oranges, cyan, green, and other fun colours for prayer flags and things, and the whites and browns and light blues of tundra
 Things that give off tradition, community, and resilience
 
 

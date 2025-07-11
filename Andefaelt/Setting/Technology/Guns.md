@@ -36,7 +36,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Military Automatic Rifle  | 670gp | 2d6 +dex                  | 20lbs  | Reload(16), Range (200/600), Two Handed, Rapid Fire | Slow           |
 | Pistol, Suppressed        | 75gp  | 2d4 +dex                  | 4lbs   | Reload (8), Range (20/60), Suppressed               | Vex            |
 | Rifle, Suppressed         | 180gp | 2d8 +dex                  | 9lbs   | Reload (6), Range (50/150), Suppressed, Bayonet     | Vex            |
-| Rifle, Multicaliber       | 60gp  | 2d8 +dex                  | 7lbs   | Reload(2/1) Range (200/600), Special                | Vex            |
+| Rifle, Multicaliber       | 60gp  | 2d8 +dex                  | 7lbs   | Reload(2/2) Range (200/600), Special                | Vex            |
 | Grenade Launcher          | 80gp  | ----                      | 7lbs   | Reload (1), Special                                 | ----           |
 | Runesteel Revolver        | -     | 1d8 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel               | Vex            |
 | Runesteel Shotgun         | -     | 2d8 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel    | Graze          |
@@ -86,7 +86,7 @@ Exotic Weapons are very unique weaponry that are very rare. These weapons requir
 
 **Grenade Launcher.** This weapon fires large, low velocity explosive projectiles. Due to this, it's ammo is rare and costs 3x as much as normal. When this weapon can be aimed at a specific square, instead of a targeted Creature. It's range is a flat 60 feet, and every creature within 20 feet of the point of impact must make a DC 15 Dexterity saving throw, taking 2d6 damage, or half as much on a failed save.
 
-**Multicaliber Rifle.** 
+**Multicaliber Rifle.** This weapon has two different calibers: a double barrel shotgun and then underslung those barrels, are two rifle-caliber barrels. This weapon can only be loaded with buckshot, meaning the shotgun barrels can only be used to make the **Buckshot** special attack.
 
 ### Heavy Weapons
 These weapons are intended for use in emplacements, people in power armor and small warjacks. Due to their large size and huge weight, they are completely impractical for use by those not in powered armor. Someone may equip one of these weapons, but every weapon counts as having the Two-Handed property, and they may not use it to make an attack without receiving the Help action from someone else under the specific purpose of using the weapon. This Help action does not provide Advantage.
@@ -94,14 +94,8 @@ These weapons are intended for use in emplacements, people in power armor and sm
 The Ammo costs for all Heavy Weapons are doubled.
 
 **Machine Gun.** 
-- This Weapon cannot be fired unless it is being held by a Creature that:
-	- Is Large
-	- Has the Powerful Build Feature
-	- Is Prone
-	- Is in half-cover
-	- Is wearing powered armor
-		- **Sweeping Fire.** When the attack action is made with a Machine Gun by a creature that is proficient with this weapon, they may forfeit their action, bonus action, and movement that turn to make an attack roll with advantage. This attack roll is then applied against every creature of their choosing in a 60-foot cone. The amount of creatures targeted may not exceed the current remaining ammo in the Machine Guns magazine.
-			- For example, if there was 8 creatures in this cone, and the user rolled a 17 to hit, every creature with an AC of 17 or lower would have damage rolled against them.
+- **Sweeping Fire.** When the attack action is made with a Machine Gun by a creature that is proficient with this weapon, they may forfeit their action, bonus action, and movement that turn to make an attack roll with advantage. This attack roll is then applied against every creature of their choosing in a 60-foot cone. The amount of creatures targeted may not exceed the current remaining ammo in the Machine Guns magazine.
+	- For example, if there was 8 creatures in this cone, and the user rolled a 17 to hit, every creature with an AC of 17 or lower would have damage rolled against them.
 
 **Large Caliber.**
 - This weapon's ammo costs 3x as much as normal, instead of 2x.
