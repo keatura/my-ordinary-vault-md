@@ -543,4 +543,20 @@
 	- he heals 19 health
 - Nhilryna turn
 	- she moves up and grabs the sword
+	- cast death ward on herself and ran
+	- Vorogast misses the opportunity attack
+- Jeeves turn
+	- Breaks out of the grapple
+- Vorogast turn
+	- he slashes his sword, making two giant arcs of blood
+		- terraria hardmode sword
+	- COUNTER SPELL :)))))))))
+	- He quickens a spell
+	- he raises his arms up... again
+	- BUT THIS TIME FROM BELOW!!!!!!!
+	- Nhilryna makes a con save, but 21 beats it
+	- she takes 11 acid damage as spikes of blood shoot out from below her
+- Nhilryna turn
+	- Vorogast takes more cold damage from her aura
+	- cast chill touch, misses
 	- 
