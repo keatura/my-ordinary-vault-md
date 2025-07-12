@@ -622,3 +622,12 @@
 - a skeleton man is chasing her
 - "man cannot compare to gods, Nhilryna."
 - It grabs onto her and she wakes up
+- Anesidora shows up after we wake up
+	- she does the "Hi N!!" bit
+	- sigh
+- Artix apologizes for killing her
+	- Miguel walks out and sees her
+	- "Oh! You're back... you killed me.." and he goes to make food
+- Anesidora starts talking to Jeeves
+- She  tells Jeeves about the "RIP Jeeves" thing she saw in the house
+- 
