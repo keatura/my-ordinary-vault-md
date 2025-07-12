@@ -542,4 +542,5 @@
 	- Jeeves takes 19 Acid damage
 	- he heals 19 health
 - Nhilryna turn
+	- she moves up and grabs the sword
 	- 
