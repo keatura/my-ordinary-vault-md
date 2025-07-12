@@ -10,6 +10,7 @@ Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, C
 - kicked out at 16/17, homeless now, crust punk
 - formed or joined a band, gained popularity, dragon wife
 - band broke up because of her borderline delusional search to get the dragon out of the sword
+- dwarf with silver markings on the skin
 
 Some Things to think about:
 
@@ -79,7 +80,36 @@ pretty much put dragons and humans in the get along shirt and allowed them to go
 have bio-mechs for the dragons to possess
 eastern europe naming base, Greek/Mediterranean cultural base
 
+- Question 1; What are the driving forces of your character? The nature and quality of their desire. List two motivations, primary and secondary.
+ - Anastasiya's primary motivation is to bring find a way to bring Silvershift back out of the weapon, and returned to her original human body.
+ - Reform the capitalistic society within The Democratic Alliance and create change that benefits the working class
 
+- Question 2; What happens when they cannot achieve their goals? How do they react? How do they feel? Describe the personality's distortion.
+ - When things start to fall apart, Anastasiya starts to become selfish and desperate to make it work, resulting to drastic measures, when she is normally open to helping others and fighting for those who cant.
+ - She becomes very dead-set on making **Her Plan** work, and not listening to others. She will literally brute forcing a problem into working before thinking of a different way. This isn't her first response, but when she gets extremely frustrated and starts to break down, she definitely turns to brutality and violence.  
+
+- Question 3; What emotional wounds does your character bear? Psychological trauma, emotional baggage, mortal fears, vulnerabilities. How are they affected?
+ - She's worried that she is not doing good enough, worried that Silvershift is upset that she is *still* inside of the ax
+ - one of her core fears is becoming powerless. between her former social standing with the band, and the possibility of losing the trinket that ties Silvershift and Anastasiya together and severing their bond.
+ - She definitely has abandonment issues from being kicked out as a teenager. She has a MILDLY unhealthy bond with Silvershift, who, as a dragon, does instinctively use that sometimes. She is stand-offish to outsiders because she is scared of growing close to them and losing them.
+ - Her core vulnerability is definitely those close to her hurting her. Even her old bandmates she would pretend on the outside she doesnt care but if they insult her it would stick in her brain for a WHILE. Not so much her ex-family, because 
+
+- Question 4; The curse and crutch of their secrets. What does your character want to keep hidden? How does this affect how they act around others?
+ - 
+
+- Question 5; The simple humanity in contradictions. What traits, desires, values, or characteristics contradict each other within your character? What are their paradoxes?
+ - 
+
+- Question 6; What connections does your character have? Humans are creatures of community, counting both positive and negative connections. List three specific important relationships.
+ - 
+
+- Question 7; What is your character's personality? Starting from most dominant traits to least dominant, pick nine trait descriptors to most succinctly describe your character.
+ - 
+
+- Question 8; What are some fun facts about your character? Behavioral quirks, past moments, or any other details that add flavor.
+ - 
+ - 
+ - 
 
 
 >[!Physical Domains]
