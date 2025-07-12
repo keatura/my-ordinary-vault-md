@@ -60,7 +60,16 @@ The Architect was Miffed, he didn't wanna be a papa
 He tossed The Gardener into the Singularity, and then just dipped, left to get milk
 The entire population of Dragons in the Eye started going into an all-out war at the loss of their basically deity, lots of factional warfare
 9 main dragon factions
-Nightshade, The Crawling Hunt, 
+- Nightshade (defacto leaders)
+- The Crawling Hunt (own Maw, barbarians)
+- The Divine Host (brain rot and manipulate you into joining their religion)
+- The Devouring Hollow (small amounts of Very Powerful Dragons)
+- Starshatter (basically like mercenaries)
+- House of Nightmares (Will Literally Poof You)
+- The Horde of the Forsaken (Dragon Clowns who will just show up and fuck with you)
+- Stormstriders
+- The Golden Law (Lawful Evil merchant faction, managing resources and people do business through them)
+
 
 **THE DEMOCRATIC ALLIANCE**
 grew up under Vexus the Soulrend, the Spirit Tyrant
