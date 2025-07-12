@@ -493,7 +493,7 @@
 - before me
 	- Sob
 
-# 6/12/25 (Nhilryna possibly kills my only plothook) (she's dying)
+# 6/12/25 (Nhilryna possibly kills my only plothook) (she's dying) (nvm she nukes lightkeep instead of running away for some reason)
 - Nhilryna stars talking to Vorogast about him maybe NOT killing people
 	- Erm.,,, what if you like,,, didn't?
 	- "Do you have any idea of how many lives you will take tonight?"
