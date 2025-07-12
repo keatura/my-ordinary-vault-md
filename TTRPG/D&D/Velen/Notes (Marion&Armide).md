@@ -617,4 +617,8 @@
 - Nhilryna looks at her Anointed Map:tm: and Partislach is coming to touch us
 - there are people flying banners saying "The revolution has begun"
 - they are shooting at will into stores and crowds of people
-- 
+- Artix helps Armide leads the party through the city to a forest she had seen before, we set up a Jeeves Extravagant Hut
+- Nhilryna is dreaming, finds herself on a sandy place in complete darkness
+- a skeleton man is chasing her
+- "man cannot compare to gods, Nhilryna."
+- It grabs onto her and she wakes up
