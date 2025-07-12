@@ -606,4 +606,9 @@
 - hes got glowing yellow eyes but not in an anointed way and orange paint on his face
 - It's Faridoon
 	- Oh were SO FUCKED 
+- Armide says that she caused the black hole
+- also tells Faridoon she killed Vrazda
+- Come to the academy in the Stormwall Mountains and Faridoon will show Armide the Star Druids
+	- holy shit they are alive oh my fucoadghasdjlfghsdfjk;ghs;kfjdgh
+- Faridoon gives me two scrolls of sending
 - 
