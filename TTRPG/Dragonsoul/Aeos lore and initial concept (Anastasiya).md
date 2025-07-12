@@ -2,7 +2,7 @@ inspo:
 Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, Crust Punk, Marceline, that awesome anime thing of scraping your ax on the ground behind you, 
 - able to lose the powers if the sword / necklace is lost
 - partner/ family maybe inside of the sword, it's sentient
-- BIG SWORD. like 6 ft maybe 
+- BIG AXE. like 6 ft maybe 
 - sword turns into the necklace
 - when she summons the sword it gives her a costume, like armor or something
 - array powers, swap between different styles of sword and armor for different powers
