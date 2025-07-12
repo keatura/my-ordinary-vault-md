@@ -493,3 +493,35 @@
 - before me
 	- Sob
 
+# 6/12/25 (Nhilryna possibly kills my only plothook) (she's dying)
+- Nhilryna stars talking to Vorogast about him maybe NOT killing people
+	- Erm.,,, what if you like,,, didn't?
+	- "Do you have any idea of how many lives you will take tonight?"
+	- "nope."
+		- Yeah ok bro like what the fuck
+	- Nhilryna casts Scorching Ray
+	- Vorogast casts Deflect Spell, +5 ac and resistance to damage
+	- Nhilryna still gets a crit like wtf bro
+		- i'm pissed off
+	-  he takes like 18 damage lmao
+	- Nhilryna hides behind Jeeves
+	- bro
+- He turns around, holding up this red shield and walks up to Jeeves
+	- maybe it isn't the Jeeves show....
+- He raises up the sword and rains down red bolts from the sky, but Jeeves counterspells it
+- DC 14, Jeeves uses inspiration to pass
+- he quickens to cast the same spell again lmfao
+- Nhilryna also counterspells
+	- she passes as well
+- Jeeves casts Hold Person, but Vorogast uses a Legendary Resistance
+- Vorogast casts THE SAME FUCKING SPELL FOR THE THIRD FUCKING TIME!!!!!!!
+	- AND IT GETS COUNTERSPELLED FOR THE THIRD FUCKING TIME!!!!!!
+	- NOTHING EVER HAPPENS VELEN. NOTHING
+- He casts a Blood Curse on Nhilryna
+- she dies but goes to 1 because of Death Ward
+- quicken spell fireball
+- Vorogast turns into a pool of blood, moves behind Nhilryna and stabs her in the back
+	- Jeeves my GOAT uses his projected ward
+	- 13 damage, projected ward has 17
+	- Second attack misses because of mage armor
+- 
