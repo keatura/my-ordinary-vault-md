@@ -27,6 +27,7 @@ Some Things to think about:
     - What is her title?,
 	    - Her title is Silvershift.
     - Was she the type to make enemies?,
+	    - Yes, she 
     - Possible jobs or roles in society for her?,
     - Was she banished from the Eye, or did she come to Aeos willingly?
 	    - Left willingly, was from one of the weaker factions
