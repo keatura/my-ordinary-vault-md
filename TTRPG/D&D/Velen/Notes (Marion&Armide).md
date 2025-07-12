@@ -525,10 +525,11 @@
 	- 13 damage, projected ward has 17
 	- Second attack misses because of mage armor
 - I wasn't paying attention for the nhilryna and jeeves turns sorry
-- Vorogast turn, he stabs Nhilryna again, hits once and breaks her second death ward
+- Vorogast turn, he stabs Nhilryna again, hits once and breaks her second death ward, Jeeves arcane ward is gone
 	- He uses his bonus action to grab Nhilryna, she has to man a Con save
 	- DC 18 holy shit
 	- she passes thank damian moses christ
 	- she looks at her arm, and this giant boil forms on her skin. shes poisoned
 - Nhilryna turn
+- casts Vampiric Touch, but misses
 - 
