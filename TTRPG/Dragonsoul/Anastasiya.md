@@ -3,12 +3,15 @@
 # Character Concept
 
 ###### Out of Character Inspirations
-- 
+Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, Crust Punk, Marceline, that awesome anime thing of scraping your ax on the ground behind you, Susie Deltarune
 
 ###### General Ideas
-
+Axe-Wielding Crustpunk with a Titled Dragon Girlfriend
 
 ###### goals for the character
+learn MnM
+go properly in-depth for the lore
+complete an enneagram 
 
 # Character Traits
 

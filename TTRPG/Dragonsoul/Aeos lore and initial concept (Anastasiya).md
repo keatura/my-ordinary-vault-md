@@ -10,7 +10,25 @@ Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, C
 - kicked out at 16/17, homeless now, crust punk
 - formed or joined a band, gained popularity, dragon wife
 - band broke up because of her borderline delusional search to get the dragon out of the sword
-- 
+
+Some Things to think about:
+
+- Anastasiya
+    
+    - When did she join the band / when did the band start?,
+    - What's her connection like with her family? Why was she kicked out?,
+    - What season was she born in?,
+    - Does she live with her wife, or does her wife live with her?,
+    
+- Valentyna
+    
+    - Was/is she part of one of the major draconic factions?,
+    - How old is she comparable to human years?,
+    - What is her title?,
+    - Was she the type to make enemies?,
+    - Possible jobs or roles in society for her?,
+    - Was she banished from the Eye, or did she come to Aeos willingly?
+	    - Left willingly, was from one of the weaker factions
 
 DRAGONSOUL YIPPEE
 
@@ -33,7 +51,16 @@ The next Tyrant to be targeted was Lothil, the Sea Tyrant. She was killed with a
 then Vitae, the Light Tyrant, and Vexus, the Spirit Tyrant
 Caenum, the Air Tyrant was 4th and Spirans, the Fire Emperor was the last to fall, the only emperor they actually managed to kill. The rest are missing
 The Hunter is the one who took down Spirans, he is basically a myth
-
+The Architect built The Eye, The Gardener built Aeos and the life on it
+They were both missing something, both of them were part of the Blood domain of dragons but blood doesnt exist in the Astral Plane
+The Gardener was just chilling on a supposedly uninhabited continent, devoid of all life until they found a small, microscopic organism
+they started to basically superjuice this organism, and played with it for millions of years
+eventually, sentient life started showing up on Aeos, until this life evolved into dragons 
+The Architect was Miffed, he didn't wanna be a papa
+He tossed The Gardener into the Singularity, and then just dipped, left to get milk
+The entire population of Dragons in the Eye started going into an all-out war at the loss of their basically deity, lots of factional warfare
+9 main dragon factions
+Nightshade, The Crawling Hunt, 
 
 **THE DEMOCRATIC ALLIANCE**
 grew up under Vexus the Soulrend, the Spirit Tyrant
@@ -78,3 +105,20 @@ Aura Sign: sensory overload
 These are general categories that are used when a dragon can't be put anywhere else.
 Chaos: True Neutral
 Any ability that cannot be put under the other domains
+
+![[Pasted image 20250711231516.png]] 
+souls float around in the Astral Plane
+they can fall into vortexes or universes
+when someone is born, a nearby soul is sucked into that body
+as a soul reincarnates again and again, it gains more "weight"
+the higher weight a soul has, the more likely it is to survive a vortex
+if not, they get thrashed and torn apart, but if it survives it can be remade into a dragon, infused and saturated with astral energy
+even then, you can still get spat into the Singularity and disappear forever
+If a soul gains enough mass, they turn into a Prisma Star
+the blue star in Aeos is just powerful enough to have a small vortex
+
+
+The Eye was built by The Architect, was supposed to be basically a retirement home for them
+they came from a neighboring universe of dragon society
+was built to collect energy, was just meant to sit there and gain energy, then ascend into a star
+
