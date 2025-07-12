@@ -493,7 +493,7 @@
 - before me
 	- Sob
 
-# 6/12/25 (Nhilryna possibly kills my only plothook) (she's dying) (nvm she nukes lightkeep instead of running away for some reason)
+# 6/12/25 (Nhilryna possibly kills my only plothook) (she's dying) (nvm she nukes lightkeep instead of running away for some reason) (we are fine though we will live those) (i WILL make sure Nhilryna lives)
 - Nhilryna stars talking to Vorogast about him maybe NOT killing people
 	- Erm.,,, what if you like,,, didn't?
 	- "Do you have any idea of how many lives you will take tonight?"
@@ -611,4 +611,7 @@
 - Come to the academy in the Stormwall Mountains and Faridoon will show Armide the Star Druids
 	- holy shit they are alive oh my fucoadghasdjlfghsdfjk;ghs;kfjdgh
 - Faridoon gives me two scrolls of sending
+- I swear Armide was gonna die i feel like luck has graced me
+	- nat 20 helps
+- Anesidora is talking to Kalathoth
 - 
