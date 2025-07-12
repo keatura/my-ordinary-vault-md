@@ -599,4 +599,11 @@
 	- lowk manipulating but also like bro
 	- he wants me to find the pieces of the blade and to forge something new with the pieces
 - Nhilryna is still keeping secrets
+- Armide stops Patrick from shooting Nhilryna
+- we dip
+- theres a big flash in the sky
+- looks like a humanoid flying out of the sky
+- hes got glowing yellow eyes but not in an anointed way and orange paint on his face
+- It's Faridoon
+	- Oh were SO FUCKED 
 - 
