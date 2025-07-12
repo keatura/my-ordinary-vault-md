@@ -595,4 +595,8 @@
 	- "come here, Armide"
 	- he hands her the bloodstone from the sword
 	- he will come back at some point
-	- 
+	- The Ancient City of Konec is where he used to live, and where he could conduct the ritual to cure me
+	- lowk manipulating but also like bro
+	- he wants me to find the pieces of the blade and to forge something new with the pieces
+- Nhilryna is still keeping secrets
+- 
