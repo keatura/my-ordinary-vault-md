@@ -584,4 +584,15 @@
 	- nat 20 for the last save
 - it starts to slow down and dissipates
 - roughly 1/4 of Lightkeep is destroyed
-- 
+- Armide tackles Nhilryna
+- Nhilryna tries to defend herself
+- Armide sees the remains of Vorogast
+- the remains are whispering, and she decides to step off of Nhilryna and go see
+- The dust asks her to touch it, and she does
+- she finds herself in the same red nebula as the bloodstar
+	- Vorogast is sitting on a large stone throne with a bloodstone at the top
+	- he looks more developed than he did before, more muscles but still no skin
+	- "come here, Armide"
+	- he hands her the bloodstone from the sword
+	- he will come back at some point
+	- 
