@@ -531,5 +531,15 @@
 	- she passes thank damian moses christ
 	- she looks at her arm, and this giant boil forms on her skin. shes poisoned
 - Nhilryna turn
-- casts Vampiric Touch, but misses
-- 
+	- casts Vampiric Touch, but misses
+	- creates another 4th level slot
+- Jeeves turn
+	- drinks a potion of Hill Giant Strength
+	- attempts to disarm Vorogast, but he rolls higher
+	- silvery barbs, he fails and Jeeves gets the Blood Blade
+- Vorogast turn
+	- grabs Jeeves, Jeeves becomes incapacitated
+	- Jeeves takes 19 Acid damage
+	- he heals 19 health
+- Nhilryna turn
+	- 
