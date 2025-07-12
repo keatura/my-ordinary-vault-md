@@ -92,10 +92,12 @@ eastern europe naming base, Greek/Mediterranean cultural base
  - She's worried that she is not doing good enough, worried that Silvershift is upset that she is *still* inside of the ax
  - one of her core fears is becoming powerless. between her former social standing with the band, and the possibility of losing the trinket that ties Silvershift and Anastasiya together and severing their bond.
  - She definitely has abandonment issues from being kicked out as a teenager. She has a MILDLY unhealthy bond with Silvershift, who, as a dragon, does instinctively use that sometimes. She is stand-offish to outsiders because she is scared of growing close to them and losing them.
- - Her core vulnerability is definitely those close to her hurting her. Even her old bandmates she would pretend on the outside she doesnt care but if they insult her it would stick in her brain for a WHILE. Not so much her ex-family, because 
+ - Her core vulnerability is definitely those close to her hurting her. Even her old bandmates she would pretend on the outside she doesnt care but if they insult her it would stick in her brain for a WHILE. Not so much her ex-family.
+ - Her biggest emotional baggage is just that she is in WAY over her head. She went from being a member of a basement-show playing punk band to scouring the world to figure out how to take a DRAGON SOUL out of a weapon that is intrinsically tied to her, hoping that she can save a relationship with a being that is unfathomably more powerful than her. She is prone to using her power for petty things such as squabbles because it gives her a sense of control over her current situation, because she honestly has not had any control in her life since she was left on the streets.
 
 - Question 4; The curse and crutch of their secrets. What does your character want to keep hidden? How does this affect how they act around others?
- - 
+ - Silvershift, she not only cannot really share the fact she is in a relationship with a dragon, but also the fact that it's very much something that can be stolen. She skirts around the fact that she even has a partner in the first place, and if she admits it will not tell anyone it's a dragon
+ - Even her band wouldn't know about her relationship, they just assume that she had a major break down and decided she couldn't tour anymore
 
 - Question 5; The simple humanity in contradictions. What traits, desires, values, or characteristics contradict each other within your character? What are their paradoxes?
  - 
