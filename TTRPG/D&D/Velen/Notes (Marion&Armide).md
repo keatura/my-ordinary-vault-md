@@ -559,4 +559,29 @@
 - Nhilryna turn
 	- Vorogast takes more cold damage from her aura
 	- cast chill touch, misses
-	- 
+- Vorogast turn
+	- Blood curse fails
+	- Moar Blood Rain
+- this fight is lost i'm not note taking the rest of this unless something stupid happens
+- ok Nhilryna is using her Chekhov's Gun
+- cut to the rest of the party
+- the buildings and shit in Lightkeep start to collapse as darkness is consuming the city
+- Patrick: "We need to Ride NOW"
+	- ok bro
+	- he pulls out a sdkfz 2
+- darkness starts to consume the entire city in this giant radius
+- we start running
+- cut back to Nhilryna and Jeeves
+- Vorogast dies instantly
+	- cool
+- the foundations of buildings start to crumble to dust
+- the astana tower gets destroyed
+	- at least one good thing happens
+- she tries to stop it and fails because of poison
+- she passes the second save
+- third save is a 24, passes
+- she feels the black hole start to slow
+	- nat 20 for the last save
+- it starts to slow down and dissipates
+- roughly 1/4 of Lightkeep is destroyed
+- 
