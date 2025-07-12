@@ -25,6 +25,7 @@ Some Things to think about:
     - Was/is she part of one of the major draconic factions?,
     - How old is she comparable to human years?,
     - What is her title?,
+	    - Her title is Silvershift.
     - Was she the type to make enemies?,
     - Possible jobs or roles in society for her?,
     - Was she banished from the Eye, or did she come to Aeos willingly?
