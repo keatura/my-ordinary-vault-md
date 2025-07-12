@@ -614,4 +614,7 @@
 - I swear Armide was gonna die i feel like luck has graced me
 	- nat 20 helps
 - Anesidora is talking to Kalathoth
+- Nhilryna looks at her Anointed Map:tm: and Partislach is coming to touch us
+- there are people flying banners saying "The revolution has begun"
+- they are shooting at will into stores and crowds of people
 - 
