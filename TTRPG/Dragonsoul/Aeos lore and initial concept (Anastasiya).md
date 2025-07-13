@@ -99,6 +99,7 @@ eastern europe naming base, Greek/Mediterranean cultural base
 - Question 4; The curse and crutch of their secrets. What does your character want to keep hidden? How does this affect how they act around others?
  - Silvershift, she not only cannot really share the fact she is in a relationship with a dragon, but also the fact that it's very much something that can be stolen. She skirts around the fact that she even has a partner in the first place, and if she admits it will not tell anyone it's a dragon
  - Her band would know, but she doesn't share outside of that.
+ - 
 
 - Question 5; The simple humanity in contradictions. What traits, desires, values, or characteristics contradict each other within your character? What are their paradoxes?
  - 
@@ -110,9 +111,9 @@ eastern europe naming base, Greek/Mediterranean cultural base
  - 
 
 - Question 7; What is your character's personality? Starting from most dominant traits to least dominant, pick nine trait descriptors to most succinctly describe your character.
- - driven
+ - motivated
+ - passionate
  - 
- - 3
  - 4
  - 5
  - 6
