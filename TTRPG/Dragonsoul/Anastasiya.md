@@ -135,7 +135,7 @@ complete an enneagram
  - 
 
 - Question 5; The simple humanity in contradictions. What traits, desires, values, or characteristics contradict each other within your character? What are their paradoxes?
- - 
+ - She absolutely detests righteous authority. If someone chooses to put themselves in a position of power over others to a point they have control on the life of others, whether through money, law, or morality she will inherently disagree with that. But she chooses the respect the Dragons. A group of creatures so powerful  
 
 - Question 6; What connections does your character have? Humans are creatures of community, counting both positive and negative connections. List three specific important relationships.
  - Silvershift, her dragon girlfriend. They have a somewhat healthy relationship, and literally spend every waking moment together now that she has been turned into a magical item. 
