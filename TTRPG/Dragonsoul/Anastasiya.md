@@ -179,19 +179,21 @@ med agi
 
 total stats ~~ 60pts
 
-removable link ability 25 ranks damage 20 + 8 ranks enhance ability str 20-4=16pts | 96pts
+removable link ability 25 ranks damage 20 + 10 ranks enhance ability str 20-4=16pts | 96pts
 
 protection 46 ranks + fades = 23 pts | 119 pts
 
 communication 2 rank + dimensional + subtle 2 ranks = 11pts | 130 pts
 
 hq = 0 pts
-- dimensional
-- 
+- dimensional portal
+- concealed
+- sealed
+- secret
 
 5 ability array 15pts = 20pts | 150pts
 - 1 flight + wings flaw, 15 ranks
 - 2 speed, 15 ranks
-- 3 speed, 5 ranks, linked, senses, 
-- 4 
-- 5
+- 3 speed, 5 ranks, linked, deflect, 10 ranks
+- 4 create, 5 ranks, precise
+- 5 senses, 15 ranks, danger sense, extended, acute (visual and auditory), awareness, accurate (visual), infravision, darkvision, distance sense, counters illusion, rapid
