@@ -179,7 +179,7 @@ med agi
 
 total stats ~~ 60pts
 
-removable link ability 25 ranks damage 20 + 10 ranks enhance ability str 20-4=16pts | 96pts
+removable link ability 25 ranks damage 20 + 8 ranks enhance ability str 20-4=16pts | 96pts
 
 protection 46 ranks + fades = 23 pts | 119 pts
 
