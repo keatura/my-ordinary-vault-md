@@ -11,7 +11,16 @@ Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, C
 - formed or joined a band, gained popularity, dragon wife
 - band broke up because of her borderline delusional search to get the dragon out of the sword
 - dwarf with silver markings on the skin
-- former name was Emilia, changed after being kicked out and deciding it was too high-class sounding.she 
+- former name was Emilia, changed after being kicked out and deciding it was too high-class sounding
+- her family were middle-class silversmiths who made lots of jewelry for the higher class, they manifested lots of silver on their skin, and would use that to make their product
+- they would use their natural fluency with metal to work it skillfully into jewelry
+
+reason to meet Christa:
+the people shes from are some of the few people in the world who could potentially remove Silvershift from her weapon
+it's a faction of possessed wildlings who have launched attacks on supply trains and other things, mostly in their homeland but also internationally occasionally
+considered to be very dangerous, but they have been trained alongside their dragon possessing them to function very efficiently together as a team
+literally just terrorists
+have reportedly done attacks that harmed civilians and infrastructure
 
 Some Things to think about:
 
@@ -19,6 +28,7 @@ Some Things to think about:
     
     - When did she join the band / when did the band start?,
     - What's her connection like with her family? Why was she kicked out?,
+	    - 
     - What season was she born in?,
     - Does she live with her wife, or does her wife live with her?,
     
@@ -125,6 +135,7 @@ eastern europe naming base, Greek/Mediterranean cultural base
  - eats really slow and savors her food even if its objectively slop, and even when she has something important to do she doesnt eat much faster
  - to add onto this, she is big for most dwarves and tends to eat more as a part of that (4'8")
  - she has a really embarrassing tattoo of her first relationship on her lower calf, got it while she was drunk and its really shaky and terrible. (its some shit like E+A LUV 4EVA) She only wears pants because of this, or tries her best to cover it up by asking Silvershift to cover it up with the silver growths on her skin
+ - smiths silver jewelry in her free time, and will occasionally give rings and necklaces to people who help her or as a gift, a way of showing appreciation
  - 
 
 
