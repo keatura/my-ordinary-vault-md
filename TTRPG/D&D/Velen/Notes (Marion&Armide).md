@@ -493,7 +493,7 @@
 - before me
 	- Sob
 
-# 6/12/25 (Nhilryna possibly kills my only plothook) (she's dying) (nvm she nukes lightkeep instead of running away for some reason) (we are fine though we will live those) (i WILL make sure Nhilryna lives)
+# 6/12/25 (Nhilryna possibly kills my only plothook) (she's dying) (nvm she nukes lightkeep instead of running away) (we are fine though we will live those) (i WILL make sure Nhilryna lives)
 - Nhilryna stars talking to Vorogast about him maybe NOT killing people
 	- Erm.,,, what if you like,,, didn't?
 	- "Do you have any idea of how many lives you will take tonight?"
@@ -644,4 +644,6 @@
 - he also helped make the Redemptors
 - Molgast was the head designer of the Redemptors
 - we get a smoke grenade
+- we enter the reactor mega dungeon
+- my notes are no longer locked in im tired
 - 
