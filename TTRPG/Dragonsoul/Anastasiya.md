@@ -60,6 +60,10 @@ complete an enneagram
 ###### Important Items and Trinkets
 - 
 
+###### Enneagram Typing
+
+1w2 
+
 # People
 
 #### Family
