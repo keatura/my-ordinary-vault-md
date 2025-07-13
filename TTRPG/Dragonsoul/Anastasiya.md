@@ -110,6 +110,54 @@ complete an enneagram
 - "I thought you loved me",
 - "No matter what I do, it will never be good enough."
 
+ Question 1; What are the driving forces of your character? The nature and quality of their desire. List two motivations, primary and secondary.
+ - Anastasiya's primary motivation is to bring find a way to bring Silvershift back out of the weapon, and returned to her original human body.
+ - Reform the capitalistic society within The Democratic Alliance and create change that benefits the working class
+
+- Question 2; What happens when they cannot achieve their goals? How do they react? How do they feel? Describe the personality's distortion.
+ - When things start to fall apart, Anastasiya starts to become selfish and desperate to make it work, resulting to drastic measures, when she is normally open to helping others and fighting for those who cant.
+ - She becomes very dead-set on making **Her Plan** work, and not listening to others. She will literally brute forcing a problem into working before thinking of a different way. This isn't her first response, but when she gets extremely frustrated and starts to break down, she definitely turns to brutality and violence.  
+
+- Question 3; What emotional wounds does your character bear? Psychological trauma, emotional baggage, mortal fears, vulnerabilities. How are they affected?
+ - She's worried that she is not doing good enough, worried that Silvershift is upset that she is *still* inside of the ax
+ - one of her core fears is becoming powerless. between her former social standing with the band, and the possibility of losing the trinket that ties Silvershift and Anastasiya together and severing their bond.
+ - She definitely has abandonment issues from being kicked out as a teenager. She has a MILDLY unhealthy bond with Silvershift, who, as a dragon, does instinctively use that sometimes. She is stand-offish to outsiders because she is scared of growing close to them and losing them.
+ - Her core vulnerability is definitely those close to her hurting her. Even her old bandmates she would pretend on the outside she doesnt care but if they insult her it would stick in her brain for a WHILE. Not so much her ex-family.
+ - Her biggest emotional baggage is just that she is in WAY over her head. She went from being a member of a basement-show playing punk band to scouring the world to figure out how to take a DRAGON SOUL out of a weapon that is intrinsically tied to her, hoping that she can save a relationship with a being that is unfathomably more powerful than her. She is prone to using her power for petty things such as squabbles because it gives her a sense of control over her current situation, because she honestly has not had any control in her life since she was left on the streets.
+
+- Question 4; The curse and crutch of their secrets. What does your character want to keep hidden? How does this affect how they act around others?
+ - Silvershift, she not only cannot really share the fact she is in a relationship with a dragon, but also the fact that it's very much something that can be stolen. She skirts around the fact that she even has a partner in the first place, and if she admits it will not tell anyone it's a dragon
+ - Her band would know, but she doesn't share outside of that.
+ - 
+
+- Question 5; The simple humanity in contradictions. What traits, desires, values, or characteristics contradict each other within your character? What are their paradoxes?
+ - 
+
+- Question 6; What connections does your character have? Humans are creatures of community, counting both positive and negative connections. List three specific important relationships.
+ - Silvershift, her dragon girlfriend. They have a somewhat healthy relationship, and literally spend every waking moment together now that she has been turned into a magical item. 
+ - Her band, **System Shock**. and it's 3 other members - a lead guitarist, drummer, and rhythm/vocals, with Anastasiya on bass. I'll fill these three more out in later updates
+ - Her ex-family.
+ - 
+
+- Question 7; What is your character's personality? Starting from most dominant traits to least dominant, pick nine trait descriptors to most succinctly describe your character.
+ - motivated
+ - passionate
+ - 
+ - 4
+ - 5
+ - 6
+ - 7
+ - 8
+ - 9
+
+- Question 8; What are some fun facts about your character? Behavioral quirks, past moments, or any other details that add flavor.
+ - eats really slow and savors her food even if its objectively slop, and even when she has something important to do she doesnt eat much faster
+ - to add onto this, she is big for most dwarves and tends to eat more as a part of that (4'8")
+ - she has a really embarrassing tattoo of her first relationship on her lower calf, got it while she was drunk and its really shaky and terrible. (its some shit like E+A LUV 4EVA) She only wears pants because of this, or tries her best to cover it up by asking Silvershift to cover it up with the silver growths on her skin
+ - smiths silver jewelry in her free time, and will occasionally give rings and necklaces to people who help her or as a gift, a way of showing appreciation
+ - 
+
+
 # Backstory
 
 bla bla bla
