@@ -119,3 +119,13 @@ bla bla bla
 ### Event 1
 
 
+# Build list
+
+high fgt high stam
+med agi
+
+link ability damage + enhance ability str removable
+
+protection w/ sustain + fades
+
+array 20 +5
