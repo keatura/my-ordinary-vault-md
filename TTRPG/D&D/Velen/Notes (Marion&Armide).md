@@ -661,4 +661,5 @@
 - find a security room
 - get a shotgun
 - find an elevator
+- we go to a bathroom, theres one stall thats completely boarded up
 - 
