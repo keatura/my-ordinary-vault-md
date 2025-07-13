@@ -1,5 +1,5 @@
 inspo:
-Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, Crust Punk, Marceline, that awesome anime thing of scraping your ax on the ground behind you, 
+Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, Crust Punk, Marceline, that awesome anime thing of scraping your ax on the ground behind you, Namari, 
 - able to lose the powers if the sword / necklace is lost
 - partner/ family maybe inside of the sword, it's sentient
 - BIG AXE. like 6 ft maybe 
@@ -121,8 +121,9 @@ eastern europe naming base, Greek/Mediterranean cultural base
  - 9
 
 - Question 8; What are some fun facts about your character? Behavioral quirks, past moments, or any other details that add flavor.
- - 
- - 
+ - eats really slow and savors her food even if its objectively slop, and even when she has something important to do she doesnt eat much faster
+ - to add onto this, she is big for most dwarves and tends to eat more as a part of that (4'8")
+ - she has a really embarrassing tattoo of her first relationship on her lower calf, got it while she was drunk and its really shaky and terrible. (its some shit like E+A LUV 4EVA) She only wears pants because of this, or tries her best to cover it up by asking Silvershift to cover it up with the silver growths on her skin
  - 
 
 
