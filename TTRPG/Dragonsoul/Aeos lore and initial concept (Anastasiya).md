@@ -110,7 +110,15 @@ eastern europe naming base, Greek/Mediterranean cultural base
  - 
 
 - Question 7; What is your character's personality? Starting from most dominant traits to least dominant, pick nine trait descriptors to most succinctly describe your character.
+ - driven
  - 
+ - 3
+ - 4
+ - 5
+ - 6
+ - 7
+ - 8
+ - 9
 
 - Question 8; What are some fun facts about your character? Behavioral quirks, past moments, or any other details that add flavor.
  - 
