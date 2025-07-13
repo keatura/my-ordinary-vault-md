@@ -11,9 +11,10 @@ Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, C
 - formed or joined a band, gained popularity, dragon wife
 - band broke up because of her borderline delusional search to get the dragon out of the sword
 - dwarf with silver markings on the skin
-- former name was Emilia, changed after being kicked out and deciding it was too high-class sounding
+- former name was Emilia Smith, changed after being kicked out and deciding it was too high-class sounding
 - her family were middle-class silversmiths who made lots of jewelry for the higher class, they manifested lots of silver on their skin, and would use that to make their product
 - they would use their natural fluency with metal to work it skillfully into jewelry
+- 
 
 reason to meet Christa:
 the people shes from are some of the few people in the world who could potentially remove Silvershift from her weapon
