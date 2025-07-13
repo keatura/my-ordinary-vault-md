@@ -646,4 +646,8 @@
 - we get a smoke grenade
 - we enter the reactor mega dungeon
 - my notes are no longer locked in im tired
+- we get into a giant room with a pit we cannot see the bottom of
+- Anesidora finds a breaker and pulls it
+- the lights turn on and a platform moves
+- Artix can't see the color green
 - 
