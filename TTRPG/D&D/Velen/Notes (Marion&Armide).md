@@ -659,4 +659,6 @@
 - Armide kills a guy to prevent him from shooting Anesidora
 - we continue on
 - find a security room
+- get a shotgun
+- find an elevator
 - 
