@@ -650,4 +650,8 @@
 - Anesidora finds a breaker and pulls it
 - the lights turn on and a platform moves
 - Artix can't see the color green
+- Armide turns into a cat to solve a parkour puzzles and then curls up on Miguels neck
+- the other group solves their second puzzles
+- we cross the gap, we go into this room with people in it wearing hazmat suits
+- it looks kind of like a server room, they are moving cassette tape like things between the various boxes
 - 
