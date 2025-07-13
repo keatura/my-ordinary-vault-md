@@ -3,7 +3,7 @@
 # Character Concept
 
 ###### Out of Character Inspirations
-Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, Crust Punk, Marceline, that awesome anime thing of scraping your ax on the ground behind you, Susie Deltarune
+Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, Crust Punk, 70's and 80's social justice and rights, Marceline, that awesome anime thing of scraping your ax on the ground behind you, Susie Deltarune
 
 ###### General Ideas
 Axe-Wielding Crustpunk with a Titled Dragon Girlfriend
@@ -62,7 +62,7 @@ complete an enneagram
 
 ###### Enneagram Typing
 
-1w2 
+1w2 - 4 - 6
 
 # People
 
@@ -159,6 +159,7 @@ complete an enneagram
  - to add onto this, she is big for most dwarves and tends to eat more as a part of that (4'8")
  - she has a really embarrassing tattoo of her first relationship on her lower calf, got it while she was drunk and its really shaky and terrible. (its some shit like E+A LUV 4EVA) She only wears pants because of this, or tries her best to cover it up by asking Silvershift to cover it up with the silver growths on her skin
  - smiths silver jewelry in her free time, and will occasionally give rings and necklaces to people who help her or as a gift, a way of showing appreciation
+ - makes money through selling jewelry to her local community, sometimes internationally
  - 
 
 

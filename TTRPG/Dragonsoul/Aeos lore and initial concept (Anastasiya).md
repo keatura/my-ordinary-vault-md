@@ -85,6 +85,9 @@ The entire population of Dragons in the Eye started going into an all-out war at
 - Stormstriders
 - The Golden Law (Lawful Evil merchant faction, managing resources and people do business through them)
 
+> Despite wanting to rebel against authority, there is also an unconscious desire to structure and orient themselves which results in a strong orientation to authority, authority figures and authoritarian ideals in the type 6 psyche. Inadvertently always refers back to, and props up, established sources of authority in everything they do. Idealize authority.
+
+hehehehhee
 
 **THE DEMOCRATIC ALLIANCE**
 grew up under Vexus the Soulrend, the Spirit Tyrant
