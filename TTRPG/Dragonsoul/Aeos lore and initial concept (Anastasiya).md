@@ -11,6 +11,7 @@ Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, C
 - formed or joined a band, gained popularity, dragon wife
 - band broke up because of her borderline delusional search to get the dragon out of the sword
 - dwarf with silver markings on the skin
+- former name was Emilia, changed after being kicked out and deciding it was too high-class sounding.she 
 
 Some Things to think about:
 
@@ -97,12 +98,15 @@ eastern europe naming base, Greek/Mediterranean cultural base
 
 - Question 4; The curse and crutch of their secrets. What does your character want to keep hidden? How does this affect how they act around others?
  - Silvershift, she not only cannot really share the fact she is in a relationship with a dragon, but also the fact that it's very much something that can be stolen. She skirts around the fact that she even has a partner in the first place, and if she admits it will not tell anyone it's a dragon
- - Even her band wouldn't know about her relationship, they just assume that she had a major break down and decided she couldn't tour anymore
+ - Her band would know, but she doesn't share outside of that.
 
 - Question 5; The simple humanity in contradictions. What traits, desires, values, or characteristics contradict each other within your character? What are their paradoxes?
  - 
 
 - Question 6; What connections does your character have? Humans are creatures of community, counting both positive and negative connections. List three specific important relationships.
+ - Silvershift, her dragon girlfriend. They have a somewhat healthy relationship, and literally spend every waking moment together now that she has been turned into a magical item. 
+ - Her band, **System Shock**. and it's 3 other members - a lead guitarist, drummer, and rhythm/vocals, with Anastasiya on bass. I'll fill these three more out in later updates
+ - Her ex-family.
  - 
 
 - Question 7; What is your character's personality? Starting from most dominant traits to least dominant, pick nine trait descriptors to most succinctly describe your character.
