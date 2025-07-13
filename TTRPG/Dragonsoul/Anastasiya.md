@@ -128,8 +128,8 @@ link ability damage, attack,  + enhance ability str removable
 
 protection 20 ranks w/ sustain + fades = 10pts
 
-5 ability array 20pts = 25pts
-- 1 flight + wings flaw, 20 ranks
+5 ability array 15pts = 25pts
+- 1 flight + wings flaw, 15 ranks
 - 2 speed, 20 ranks
 - 3 speed, 5 ranks, linked, deflect, 15 ranks
 - 4 
