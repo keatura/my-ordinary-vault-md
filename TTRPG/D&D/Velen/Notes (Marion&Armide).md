@@ -654,4 +654,9 @@
 - the other group solves their second puzzles
 - we cross the gap, we go into this room with people in it wearing hazmat suits
 - it looks kind of like a server room, they are moving cassette tape like things between the various boxes
+- anesidora gets hungry
+- tearin people apart
+- Armide kills a guy to prevent him from shooting Anesidora
+- we continue on
+- find a security room
 - 
