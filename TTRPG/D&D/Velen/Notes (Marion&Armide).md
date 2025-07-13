@@ -640,4 +640,8 @@
 - Armide and Nhilryna pull out the treasure chest under the skeleton
 - it has 60 gold and a magic greataxe
 	- its called the Maniacal Axe
+- Apharia made the fucked up TV head guy
+- he also helped make the Redemptors
+- Molgast was the head designer of the Redemptors
+- we get a smoke grenade
 - 
