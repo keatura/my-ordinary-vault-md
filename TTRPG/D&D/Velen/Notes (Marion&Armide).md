@@ -630,4 +630,14 @@
 	- "Oh! You're back... you killed me.." and he goes to make food
 - Anesidora starts talking to Jeeves
 - She  tells Jeeves about the "RIP Jeeves" thing she saw in the house
+- Armide keeps Nhilryna safe while she takes a bath
+	- she leads her to a small pond of clear freshwater in the forest she had found previously
+	- Nhilryna gets grabbed by a skeleton
+	- Armide pulls her out and fires off a Guiding Bolt
+	- it gets obliterated
+- Armide leaves to patrol around the area and give Nhilryna some space
+- A Blasphemer offers Artix some trinkets and some money for the Wind Blade
+- Armide and Nhilryna pull out the treasure chest under the skeleton
+- it has 60 gold and a magic greataxe
+	- its called the Maniacal Axe
 - 
