@@ -124,13 +124,21 @@ bla bla bla
 high fgt high stam
 med agi
 
-link ability damage, attack,  + enhance ability str removable
+total stats ~~ 60pts
 
-protection 20 ranks w/ sustain + fades = 10pts
+removable link ability 25 ranks damage 20 + 10 ranks enhance ability str 20-4=16pts | 96pts
 
-5 ability array 15pts = 25pts
+protection 46 ranks + fades = 23 pts | 119 pts
+
+communication 2 rank + dimensional + subtle 2 ranks = 11pts | 130 pts
+
+hq = 0 pts
+- dimensional
+- 
+
+5 ability array 15pts = 20pts | 150pts
 - 1 flight + wings flaw, 15 ranks
-- 2 speed, 20 ranks
-- 3 speed, 5 ranks, linked, deflect, 15 ranks
+- 2 speed, 15 ranks
+- 3 speed, 5 ranks, linked, senses, 
 - 4 
 - 5
