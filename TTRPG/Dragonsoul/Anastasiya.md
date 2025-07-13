@@ -129,3 +129,8 @@ link ability damage + enhance ability str removable
 protection w/ sustain + fades
 
 array 20 +5
+- 1 flight
+- 2 speed
+- 3 
+- 4
+- 5
