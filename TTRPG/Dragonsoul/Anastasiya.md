@@ -124,13 +124,13 @@ bla bla bla
 high fgt high stam
 med agi
 
-link ability damage + enhance ability str removable
+link ability damage, attack,  + enhance ability str removable
 
-protection w/ sustain + fades
+protection 20 ranks w/ sustain + fades = 10pts
 
-array 20 +5
-- 1 flight
-- 2 speed
-- 3 
-- 4
+5 ability array 20pts = 25pts
+- 1 flight + wings flaw, 20 ranks
+- 2 speed, 20 ranks
+- 3 speed, 5 ranks, linked, deflect, 15 ranks
+- 4 
 - 5
