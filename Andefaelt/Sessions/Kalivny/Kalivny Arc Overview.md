@@ -22,8 +22,8 @@ A small Asyrian town on the other side of the island, Kalivny and Helena coexist
 goblins have been roped into worshipping the "Mask-Wearer". Causing trouble around 
 
 
-a cult of "Iodrosni" has formed on the island
-the leader is a warlock of the Feyblood weapon he has, - the dagger. working to convince others to directly worship Iodrosni to grow her own power.
+A cult of goblins is beginning to form on the island
+the leader is a Feyblood weapon - the dagger. It is using the goblins to gain a human host, so it can take that host over and begin to control the island. The dagger wants to control the island 
 
 His name is **[[Marckus Westmeister]]**, a teenager from Helena that was exploring in the woods when he found something thought to be lost and forgotten - a Feyblood weapon.
 
