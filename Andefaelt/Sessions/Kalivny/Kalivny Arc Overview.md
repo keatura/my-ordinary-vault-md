@@ -27,7 +27,7 @@ the leader is a warlock of the Feyblood weapon he has, - the dagger. working to 
 
 His name is **[[Marckus Westmeister]]**, a teenager from Helena that was exploring in the woods when he found something thought to be lost and forgotten - a Feyblood weapon.
 
-In the beginning, the group is sent to look for a lost kid - Marckus. His mother bursts into the Mammoths Arm Inn, begging for someone to find her baby. She had already tried to find someone in Helena but no one could, and she hurried over the Kalivny as fast as she could.
+In the beginning, the group is sent to look for a lost kid - Marckus. His mother bursts into the Mammoths Arm Inn, begging for someone to find her child, as he was captured by goblins. She had already tried to find someone in Helena but no one could, and she hurried over the Kalivny as fast as she could. She notes that Helena was aware of a goblin camp somewhere close to the outskirts of the woods, 
 
 ##### Sessions
 [[Andefaelt Session 1]]
