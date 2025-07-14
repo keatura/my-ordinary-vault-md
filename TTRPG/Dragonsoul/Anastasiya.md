@@ -192,11 +192,11 @@ PRE 5 | 10
 
 total stats ~~ 60pts
 
-removable link ability 25 ranks damage 20 + 8 ranks enhance ability str 16-3=13pts | 93pts
+removable link ability 28 ranks damage 28-5=23 + 8 ranks enhance ability str 16-3=13pts, 23 pts total| 93pts
 
-protection 44 ranks + fades = 22 pts | 115 pts
+protection 54 ranks + fades + removable = 27-5 pts, 22 pts total | 115 pts
 
-communication 3 rank + dimensional + subtle 2 ranks = 15pts | 130 pts
+communication 3 rank + dimensional + subtle 2 ranks + limited (Silvershift) = 12pts | 130 pts
 
 Summon (2 ranks): [Flaws] Fades1  \ Limited1  (Requires the axe) \  Reduced Range1 \ Tiring8 [Requires a full nights rest to recover] = 0pp cost
 Summoned Minion 30pp (2 ranks of growth (4pp), 8 intelligence 8 awareness [20 point total])
@@ -213,5 +213,5 @@ hq = 0 pts
 - 1 flight + wings flaw, 15 ranks
 - 2 speed, 15 ranks
 - 3 speed, 5 ranks, linked, deflect, 10 ranks
-- 4 create, 5 ranks, precise
+- 4 create, 5 ranks, precise, permanent
 - 5 senses, 15 ranks, danger sense, extended, acute (visual and auditory), awareness, accurate (visual), infravision, darkvision, distance sense, counters illusion, rapid
