@@ -7,7 +7,7 @@ Transistor, Fate, Gerson Deltarune, Stark, Eragon and Saphira, being a Scalie, C
 - when she summons the sword it gives her a costume, like armor or something
 - array powers, swap between different styles of sword and armor for different powers
 - tectonic powers, her speed is due to literally shifting tectonic plates under her feet as she moves
-- kicked out at 16/17, homeless now, crust punk
+- kicked out at 18/19, homeless now, crust punk
 - formed or joined a band, gained popularity, dragon wife
 - band broke up because of her borderline delusional search to get the dragon out of the sword
 - dwarf with silver markings on the skin
