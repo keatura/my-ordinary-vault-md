@@ -192,7 +192,7 @@ PRE 5 | 10
 
 total stats ~~ 60pts
 
-**The Axe.** removable link ability 28 ranks damage 28-5=23 + 8 ranks enhance ability str 16-3=13pts, 23 pts total| 93pts
+**The Axe.** removable link ability 28 ranks damage(str based) 28-5=23 + 8 ranks enhance ability str 16-3=13pts, 23 pts total| 93pts
 
 **Silver Skin.** protection 54 ranks + sustained + fades + removable = 27-5 pts, 22 pts total | 115 pts
 
