@@ -29,7 +29,7 @@ His name is **[[Marckus Westmeister]]**, a teenager from Helena that was explori
 
 In the beginning, the group is sent to look for a lost kid - Marckus. His mother bursts into the Mammoths Arm Inn, begging for someone to find her child, as he was captured by goblins. She had already tried to find someone in Helena but no one could, and she hurried over the Kalivny as fast as she could. She notes that Helena was aware of a goblin camp somewhere close to the outskirts of the woods.
 
-The goblins have recently uncovered the [[Feyblood Dagger]], and it has been manipulating them to bring them a human for it to bond to. The dagger is very egotistical and wants to conquer the island just for it's own sense of status.
+The goblins have recently uncovered the [[Feyblood Dagger]], and it has been manipulating them to bring them a human for it to bond to. The dagger is very egotistical and wants to conquer the island just for it's own sense of status. 
 
 ##### Sessions
 [[Andefaelt Session 1]]
