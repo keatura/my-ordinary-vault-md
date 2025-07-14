@@ -188,15 +188,15 @@ DEX -1 | -2
 FGT 10 | 20
 INT 0 | 0
 AWE 2 | 4
-PRE 5 | 10
+PRE 3 | 6
 
-total stats ~~ 60pts
+total stats ~~ 56pts
 
-**The Axe.** removable link ability 28 ranks damage(str based) 28-5=23 + 8 ranks enhance ability str 16-3=13pts, 23 pts total| 93pts
+**The Axe.** removable link ability 27 ranks damage(str based) 27-5=22 + 8 ranks enhance ability str 16-3=13pts, 35 pts total | 91pts
 
-**Silver Skin.** protection 54 ranks + sustained + fades + removable = 27-5 pts, 22 pts total | 115 pts
+**Silver Skin.** protection 50 ranks + sustained + fades + removable = 25-5 pts, 20 pts total | 111 pts
 
-communication 3 rank + dimensional + subtle 2 ranks + limited (Silvershift) = 12pts | 130 pts
+communication 3 rank + dimensional + subtle 2 ranks + limited (Silvershift) = 12pts | 123 pts
 
 Summon (2 ranks): [Flaws] Fades1  \ Limited1  (Requires the axe) \  Reduced Range1 \ Tiring8 [Requires a full nights rest to recover] = 0pp cost
 Summoned Minion 30pp (2 ranks of growth (4pp), 8 intelligence 8 awareness [20 point total])
@@ -209,9 +209,16 @@ hq = 0 pts
 - sealed
 - secret
 
-5 ability array 15pts = 20pts | 150pts
+5 ability array 15pts = 20pts | 143pts
 - 1 flight + wings flaw, 15 ranks
 - 2 speed, 15 ranks
 - 3 speed, 5 ranks, linked, deflect, 10 ranks
 - 4 create, 5 ranks, precise, permanent
 - 5 senses, 15 ranks, danger sense, extended, acute (visual and auditory), awareness, accurate (visual), infravision, darkvision, distance sense, counters illusion, rapid
+
+advantages: 7pts | 150pts
+Interpose
+Improved Initiative 3 (+12)
+Move-By-Action
+Power Attack
+Defensive Attack
