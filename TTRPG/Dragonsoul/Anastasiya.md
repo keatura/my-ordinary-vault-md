@@ -113,6 +113,8 @@ complete an enneagram
 - "I'm not that kind of person" / "You cant ask me to do that",
 - "I thought you loved me",
 - "No matter what I do, it will never be good enough."
+- Birthday?
+	- 
 
  Question 1; What are the driving forces of your character? The nature and quality of their desire. List two motivations, primary and secondary.
  - Anastasiya's primary motivation is to bring find a way to bring Silvershift back out of the weapon, and returned to her original human body.

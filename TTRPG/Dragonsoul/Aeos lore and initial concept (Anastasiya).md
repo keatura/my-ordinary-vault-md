@@ -178,6 +178,8 @@ These are general categories that are used when a dragon can't be put anywhere e
 Chaos: True Neutral
 Any ability that cannot be put under the other domains
 
+![[Pasted image 20250714004721.png]]
+
 ![[Pasted image 20250711231516.png]] 
 souls float around in the Astral Plane
 they can fall into vortexes or universes
