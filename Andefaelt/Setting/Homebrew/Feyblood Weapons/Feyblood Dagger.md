@@ -1,5 +1,6 @@
+The Feyblood Dagger was a secondary weapon to the ancient Great Knight Arunodel. After it's corruption, the Dagger has started excercising it's grab for power, wanting to prove it's just as capable as the other Feyblood weapons, because Arunodel almost never used the weapon, preferring his [[Feyblood Halberd]] instead.
 
-
+Now, the Dagger represents ego.
 
 ###### Weapon (Dagger), Legendary, (requires attunement)
 
