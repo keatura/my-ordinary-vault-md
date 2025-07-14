@@ -73,7 +73,7 @@ complete an enneagram
 - 
 
 #### Friends
-- Her lover, Valentyna. She is a titled drake of the Earth, Spirit, and Chaos elements who was raised in The Crawling Hunt in the Eye. She managed to defect on a mission down to earth, and ran away to the Democratic Alliance
+- Her lover, Valentyna (met 12.19.516). She is a titled drake of the Earth, Spirit, and Chaos elements who was raised in The Crawling Hunt in the Eye. She managed to defect on a mission down to earth, and ran away to the Democratic Alliance
 
 #### Enemies
 - 
@@ -171,21 +171,32 @@ bla bla bla
 
 # Important Lore
 
-### Event 1
+### Getting kicked out
+13.5.113
 
+- Was kicked out of her house and disowned by her family upon their realization of her relationship with a dragon.
 
 # Build list
 
 high fgt high stam
 med agi
 
+STR 2 | 4
+STA 8 | 16
+AGL 4 | 8
+DEX -1 | -2
+FGT 10 | 20
+INT 0 | 0
+AWE 2 | 4
+PRE 5 | 10
+
 total stats ~~ 60pts
 
-removable link ability 25 ranks damage 20 + 10 ranks enhance ability str 20-4=16pts | 96pts
+removable link ability 25 ranks damage 20 + 8 ranks enhance ability str 16-3=13pts | 93pts
 
-protection 46 ranks + fades = 23 pts | 119 pts
+protection 44 ranks + fades = 22 pts | 115 pts
 
-communication 2 rank + dimensional + subtle 2 ranks = 11pts | 130 pts
+communication 3 rank + dimensional + subtle 2 ranks = 15pts | 130 pts
 
 Summon (2 ranks): [Flaws] Fades1  \ Limited1  (Requires the axe) \  Reduced Range1 \ Tiring8 [Requires a full nights rest to recover] = 0pp cost
 Summoned Minion 30pp (2 ranks of growth (4pp), 8 intelligence 8 awareness [20 point total])
