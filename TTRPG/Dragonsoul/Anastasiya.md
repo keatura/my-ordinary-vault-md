@@ -179,7 +179,7 @@ bla bla bla
 # Build list
 
 STR 2 | 4
-STA 8 | 16
+STA 3 | 6
 AGL 4 | 8
 DEX -1 | -2
 FGT 10 | 20
@@ -187,22 +187,25 @@ INT 0 | 0
 AWE 2 | 4
 PRE 3 | 6
 
-total stats ~~ 56pts
+total stats ~~ 46pts
 
-**The Axe.** Removable Battleaxe (3pts) Damage 3, Slashing, Crit 20
-Effects: [Transform 5], [Limited1] (requires the axe), [Linked] (Shapeshifting Weapon) (10pts)
+**The Axe.** Battleaxe (3pts) Damage 3, Slashing, Crit 20 [13pts total] | 59pts
+Effects: [Removable], [Transform 5/2 ranks], [Limited1] (requires the axe), [Linked] (Shapeshifting Weapon) (10pts)
+Anastasiya can transform the Enchanted Battleaxe into different states [Transform]. This can only be done while she is in possession of the Axe [Limited], and the Axe can be taken away from her [Removable].
 
-**Shapeshifting Weapon.** Array, [Linked] (The Axe)
+**Shapeshifting Weapon.** [Array], [Linked] (The Axe), 19pts array [21pts total] | 81pts
 
-- **Axe Form.** Damage7 (6pts), Enhanced Ability (Strength)8 (13pts), Protection10 (8)
+**Axe Form.** Damage7 (6pts), Enhanced Ability (Strength)8 - 10 total (13pts) [19pts]
+Anastasiya transforms her weapon into a large battle-axe with a 6-foot long handle [Transform]. While wielding this Enchanted Weapon, Anastasiya's strength is increased significantly [Enhanced Ability].
 
-- **Sword Form.** Damage7, [Multiattack] (12pts), Enhanced Ability (Fight)3 (5pts), Enhanced Ability (Strength)1 (2pts), rotection10 (8)
+**Sword Form.** Damage7, [Multiattack] (12pts), Enhanced Ability (Strength)4 - 5 total (7pts) [19pts]
+Anastasiya transforms her weapon into a large greatsword with a 7 feet in length [Transform]. Due to it's increased finesse, this weapon can be swung to hit multiple targets in rapid succession [Multiattack]. While wielding this Enchanted Weapon, Anastasiya's strength is increased [Enhanced Ability].
 
-- **Spear and Shield Form.** Damage7 [Reach2] (9pts), protection20 (16)
+**Silver Skin.** Enhanced Ability (Stamina)7, [Removable] (requires the axe) = 14-2 pts, 12 pts total | 92pts
 
-**Silver Skin.** protection 20 ranks, [Sustained], [Removable] (requires the axe) = 20-4 pts, 16 pts total | 95 pts
+**Mental Link.** [Communication3] (Mental), [Dimensional], [Subtle2], [Limited] (Silvershift) = 12pts | 104pts
 
-**Mental Link.** communication 3 rank + dimensional + subtle 2 ranks + limited (Silvershift) = 12pts | 107 pts
+ 
 
 Summon (2 ranks): [Flaws] Fades1  \ Limited1  (Requires the axe) \  Reduced Range1 \ Tiring8 [Requires a full nights rest to recover] = 0pp cost
 Summoned Minion 30pp (2 ranks of growth (4pp), 8 intelligence 8 awareness [20 point total])
@@ -215,18 +218,19 @@ hq = 0 pts
 - sealed
 - secret
 
-4 ability array 15pts = 19pts | 126pts
+4 ability array 15pts = 19pts | 123pts
 - 1 flight + wings flaw, 15 ranks
 - 2 speed, 15 ranks
 - 3 create, 5 ranks, precise, permanent
 - 4 senses, 15 ranks, danger sense, extended, acute (visual and auditory), awareness, accurate (visual), infravision, darkvision, distance sense, counters illusion, rapid
 
-skills: 17pts | 143pts
+skills: 15pts | 138pts
 
 
-advantages: 7pts | 150pts
-Interpose
-Improved Initiative 3 (+12)
-Move-By-Action
-Power Attack
-Defensive Attack
+advantages: 12pts | 150pts
+Interpose 1pts
+Improved Initiative 3 (+12) 3pts
+Move-By-Action 1pts
+Power Attack 1pts
+Defensive Attack 1pts
+Quick Draw 1pts
