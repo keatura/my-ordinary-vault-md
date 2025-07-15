@@ -193,7 +193,7 @@ total stats ~~ 46pts
 Effects: [Removable]
 Anastasiya has a 6-foot-tall enchanted battle-axe she uses to fight. It can be taken from her when she is not resisting [Removable].
 
-**Silver Skin.** Enhanced Ability (Stamina)7 (12pts), Enhanced Ability (Strength)5 (8pts), Immunity(Toughness)80 [Halved Effect] (32pts), [Removable] (requires the axe) | 101pts
+**Silver Skin.** Enhanced Ability (Stamina)7 (12pts), Enhanced Ability (Strength)5 (8pts), Immunity(Toughness)80 [Halved Effect] (32pts), [Removable] (requires the axe) = 52pts | 101pts
 
 **Mental Link.** [Communication3] (Mental), [Dimensional], [Subtle2], [Limited] (Silvershift) = 12pts | 113pts
 
