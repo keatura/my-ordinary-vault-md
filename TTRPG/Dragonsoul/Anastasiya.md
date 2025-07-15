@@ -79,7 +79,8 @@ complete an enneagram
 - Dima Novak, the rhythm guitarist who also helped with writing lyrics. Dima was the gentlest of all of the band members, the most empathetic.
 	- Known for being the voice of reason between the four.
 	- He was the oldest in the group, and the wisest, he managed to stay away from drugs and general other addictions.
-	- 
+	- Helped Anastasiya a lot. He was the only one in the band who knew her original name and was the first person she told about her relationship with Val.
+	- Met him when Ana and Val were looking for a place to sleep in their first few weeks  
 
 #### Enemies
 - 
@@ -154,11 +155,11 @@ complete an enneagram
 - Question 7; What is your character's personality? Starting from most dominant traits to least dominant, pick nine trait descriptors to most succinctly describe your character.
  - motivated
  - passionate
+ - focused
+ - loyal
+ - upstanding
+ - defender
  - 
- - 4
- - 5
- - 6
- - 7
  - 8
  - 9
 
@@ -180,7 +181,13 @@ bla bla bla
 ### Getting kicked out
 13.5.113
 
+- Lived with her family in Deuchith
 - Was kicked out of her house and disowned by her family upon their realization of her relationship with a dragon.
+- Moved west, to a city in Bruanuin
+
+### Ana's time in Bruanuin
+
+
 
 # Build list
 
@@ -211,11 +218,11 @@ Anastasia projects a silver body for Valentina to "posses" that last for about 1
 **Pocket Dimension.** Headquarters, [Miniscule -4] , [Dimensional Portal], [Concealed], [Sealed], [Secret] 0 pts
 
 
-4 ability array 15pts = 19pts | 132pts
-- 1 flight + wings flaw, 15 ranks (12,000mph)
-- 2 speed, 15 ranks (12,000mph)
-- 3 create, 5 ranks, precise, permanent
-- 4 senses, 15 ranks, danger sense, extended, acute (visual and auditory), awareness, accurate (visual), infravision, darkvision, distance sense, counters illusion, rapid
+**Silver Manipulation.** [Array4] (19pts) | 132pts
+- [Flight15 Wings] (12,000mph)
+- [Speed15] (12,000mph)
+- [Create5], [Precise], [Permanent]
+- [Senses15], [Danger sense], [Extended], [Acute] (visual and auditory), [Awareness], [Accurate] (visual), [Infravision], [Darkvision], [Distance sense], [Counters illusion], [Rapid]
 
 **Skills:** 5pts | 138pts
 Technology +1
@@ -234,29 +241,29 @@ Improved Critical4 4pts
 Diehard 1pts
 
 Complications:
-- Justice
+- **Justice**
 Anastasiya wants justice for the poor & less fortunate of the world. She grew up surrounded by people being hurt by the systems in place, and after she was kicked out, had to survive underneath them as well. 
 
-- Secret (Silvershift)
+- **Secret** (Silvershift)
 Anastasiya has to skirt around the fact that her partner is a dragon, and that she is carrying around a dragon with her all of the time.
 
-- Hatred
+- **Hatred**
 Anastasiya HATES pure capitalistic systems, especially that of The Democratic Alliance. She detests them and actively plots their destruction where she can.
 
-- Obsession (Finding a Cure)
+- **Obsession** (Finding a Cure)
 Anastasiya is obsessed with figuring out a way to remove Silvershift from the axe she is currently stuck in. She will choose to search for answers to this whenever she has free time, and will drop current tasks if Silvershift demands she does.
 
-- Temper
+- **Temper**
 If she is around someone who begins to make fun of those who are poor or homeless, or have addictions to substances she immediately lashes out. She believes these people just haven't had the experience and spent the time to properly understand their position, and are in no place to make fun of them. Though, her reaction is more violent and less rational. This temper also applies to herself, and if she finds herself subject to criticism for things related to her social standing, she will lash out just as easily.
 
-- Enemy (Watershed)
+- **Enemy** (Watershed)
 After releasing her band's song that revealed many extremely heavy secrets about the company Watershed and their CEO, and proceeded to back it up with actual sources, their whistleblower and a band member "disappeared", and Silvershift was turned into an enchanted weapon. She and her band are now all targets for Watershed to get rid of.
 
-- Enemy (The Crawling Hunt)
+- **Enemy** (The Crawling Hunt)
 Due to her close tie with Silvershift, Anastasiya is a target for The Crawling Hunt.
 
-- Accident
+- **Accident**
 The powers Anastasiya uses are very destructive. When she is moving full speed she causes fractures beneath her feet. Slamming into targets and the ground causes massive craters and shockwaves, and attacking with the axe can leave massive damage as well with her superhuman strength.
 
-- Power Loss
+- **Power Loss**
 If Anastasiya takes a course of action that Silvershift inherently disagrees with, she can cut off all of the powers to Anastasiya, causing her to lose all of her superhuman abilities, if not more. 
