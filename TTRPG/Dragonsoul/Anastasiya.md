@@ -211,13 +211,13 @@ Anastasia projects a silver body for Valentina to "posses" that last for about 1
 - 3 create, 5 ranks, precise, permanent
 - 4 senses, 15 ranks, danger sense, extended, acute (visual and auditory), awareness, accurate (visual), infravision, darkvision, distance sense, counters illusion, rapid
 
-skills: 5pts | 138pts
+**Skills:** 5pts | 138pts
 Technology +1
 Driving +1
 Intimidation +5
 Insight +3
 
-advantages: 13pts | 150pts
+**Advantages:** 13pts | 150pts
 Interpose 1pts
 Improved Initiative 3 (+12) 3pts
 Move-By-Action 1pts
@@ -226,3 +226,27 @@ Defensive Attack 1pts
 Quick Draw 1pts
 Improved Critical4 4pts
 Diehard 1pts
+
+Complications:
+- Justice
+Anastasiya wants justice for the poor & less fortunate of the world. She grew up surrounded by people being hurt by the systems in place, and after she was kicked out, had to survive underneath them as well. 
+
+- Secret (Silvershift)
+Anastasiya has to skirt around the fact that her partner is a dragon, and that she is carrying around a dragon with her all of the time.
+
+- Hatred
+Anastasiya HATES pure capitalistic systems, especially that of The Democratic Alliance. She detests them and actively plots their destruction where she can.
+
+- Obsession ()
+
+
+- Temper
+
+
+- Enemy (Watershed)
+
+
+- Enemy (The Crawling Hunt)
+
+
+- Accident
