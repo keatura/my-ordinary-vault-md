@@ -189,7 +189,10 @@ PRE 3 | 6
 
 total stats ~~ 56pts
 
-**The Axe.** removable link ability 10 ranks damage(str based) 10-2=8 + 8 ranks enhance ability str 16-3=13pts, 23 pts total | 79pts
+**The Axe.** Removable Battleaxe (3pts) Damage 3, Slashing, Crit 20
+Effects: Transform 
+
+removable link ability 10 ranks damage(str based) 10-2=8 + 8 ranks enhance ability str 16-3=13pts, 23 pts total | 79pts
 
 **Silver Skin.** protection 20 ranks + sustained + removable = 20-4 pts, 16 pts total | 95 pts
 
