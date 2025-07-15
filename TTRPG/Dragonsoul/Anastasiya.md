@@ -237,11 +237,11 @@ Anastasiya has to skirt around the fact that her partner is a dragon, and that s
 - Hatred
 Anastasiya HATES pure capitalistic systems, especially that of The Democratic Alliance. She detests them and actively plots their destruction where she can.
 
-- Obsession ()
-
+- Obsession (Finding a Cure)
+Anastasiya is obsessed with figuring out a way to remove Silvershift from the axe she is currently stuck in.
 
 - Temper
-
+If she is around someone who begins to make fun of those who are poor or homeless, or have addictions to substances she immediately lashes out. She believes these people just haven't had the experience and spent the time to properly understand their position, and are in no place to make fun of them. Though, her reaction is more violent and less rational.
 
 - Enemy (Watershed)
 
