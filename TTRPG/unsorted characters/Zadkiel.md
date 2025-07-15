@@ -1,12 +1,19 @@
 # Character Concept
+https://docs.google.com/document/d/10B_VpnpEznO5LDtZk5bOITRG2tPbMLD2qzzIPdrmdO8/edit?tab=t.0 maybe
 
 ###### Out of Character Inspirations
-- 
+- gillion tidestrider
+- mordred "My Dad is Literally Satan" wildfire druid
+- aldrir
 
 ###### General Ideas
-
+phoenix/martyr themed paladin who is Literally Golden Retriever until you hurt Talia
+arguably doesnt actually care that much about other people because 
+never kill yourself but in like a disappointing way
 
 ###### goals for the character
+- enneagram stuffs
+- make a new paladin subclass maybe - Oath of Protection
 
 # Character Traits
 
@@ -104,6 +111,8 @@
 - "I'm not that kind of person" / "You cant ask me to do that",
 - "I thought you loved me",
 - "No matter what I do, it will never be good enough."
+- what would they do if they were forced to wear a maid dress?
+- what would they do if they were forced to wear a bunny suit?
 
 # Backstory
 

@@ -1,12 +1,13 @@
+The Feyblood Dagger was a Roundel Dagger, and a secondary weapon to the ancient Great Knight [[Arunodel]]. After it's corruption, the Dagger has started exercising it's grab for power, wanting to prove it's just as capable as the other Feyblood weapons, because Arunodel almost never used the weapon, preferring his [[Feyblood Halberd]] instead.
 
-
+Now, the Dagger represents ego. It's corruption has lead it to denying the fact it was just a sidearm, and wanting more from it's existence than just being a tool.
 
 ###### Weapon (Dagger), Legendary, (requires attunement)
 
 When you pick this weapon up and make direct skin contact with it, it automatically attunes itself to you. If you have no attunement slots, then it gives you an extra one and fills that slot. 
 
 While you are attuned to this weapon, its power floods your conscious and affects your psyche. When you draw the weapon you become:
-- Extremely egotistical and self-centered.
+- Extremely egotistical and self-centered. You believe yourself to be better than others and more worthy of material value and push yourself to do everything better than the others. You are an over-achiever.
 - You feel encouraged to give yourself to the dagger, and share control of your body and mind with it.
 - Pathologically attached to the dagger, and unwilling to let go or even banish it to the pocket dimension. (DC 15 Charisma save to banish it, can benefit from the Help Action.)
 

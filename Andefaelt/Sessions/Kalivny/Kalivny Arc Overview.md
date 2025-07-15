@@ -21,13 +21,14 @@ A small Asyrian town on the other side of the island, Kalivny and Helena coexist
 
 goblins have been roped into worshipping the "Mask-Wearer". Causing trouble around 
 
-
-a cult of "Iodrosni" has formed on the island
-the leader is a warlock of the Feyblood weapon he has, - the dagger. working to convince others to directly worship Iodrosni to grow her own power.
+A cult of goblins is beginning to form on the island
+the leader is a Feyblood weapon - the dagger. It is using the goblins to gain a human host, so it can take that host over and begin to control the island. The dagger wants to control the island 
 
 His name is **[[Marckus Westmeister]]**, a teenager from Helena that was exploring in the woods when he found something thought to be lost and forgotten - a Feyblood weapon.
 
-In the beginning, the group is sent to look for a lost kid - Marckus. His parents have put out a 
+In the beginning, the group is sent to look for a lost kid - Marckus. His mother bursts into the Mammoths Arm Inn, begging for someone to find her child, as he was captured by goblins. She had already tried to find someone in Helena but no one could, and she hurried over the Kalivny as fast as she could. She notes that Helena was aware of a goblin camp somewhere close to the outskirts of the woods.
+
+The goblins have recently uncovered the [[Feyblood Dagger]], and it has been manipulating them to bring them a human for it to bond to. The dagger is very egotistical and wants to conquer the island just for it's own sense of status. 
 
 ##### Sessions
 [[Andefaelt Session 1]]
@@ -35,3 +36,4 @@ In the beginning, the group is sent to look for a lost kid - Marckus. His parent
 ### random encounter ideas
 
 - at the beginning, if they are sent to Helena, they find a man from there who got caught in whatever recent thunderstorm and is about to die of hypothermia. He is in a shoddy improvised shelter that was destroyed by the weather. allow the players to try and heal him but it's very difficult. 
+- encounter Possessed Marckus a few times before they actual fight him, he is very elusive

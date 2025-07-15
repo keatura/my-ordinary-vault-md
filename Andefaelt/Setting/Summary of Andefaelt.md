@@ -32,9 +32,9 @@ Things that give off dominance, authority, and outward appearance
 
 The Asyrian Empire resides in the western rainforest, and is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Camillus, the serving king of the period.
 
-Asyria Follows Kadis and Kadis' Children, as their leader is descended from Kadis. So while everyone does give prayers to Kadis, there are smaller churches and sub-chapters of religious organizations dedicated to Kadis' Children as well.
+Asyria Follows Kadis and Kadis' Children, as their leader is descended from Kadis. So while everyone does give prayers to Kadis, there are smaller churches and sub-chapters of religious organizations dedicated to Kadis' Children as well. 
 
-Asyria is a very civilized, modern country and is constructed a new, modern capital city around the Western Pillar. It has been completed enough to be a completely functioning city, but still has heavy constructed to expand. 
+Asyria is a very civilized, modern country and is constructing a new, modern capital city around the Western Pillar. It has been completed enough to be a completely functioning city, but still has heavy construction work to expand. 
 
 Main Species:
 Humans, Ukucha, and Dragonborn
@@ -58,24 +58,29 @@ Elves, Humans, and Orcs
 Colors I think of: all earth tones, brass and bronze, the seafoam green of Runesteel
 Things that give off advanced technology, sophistication, and education
 
+Onyxia resides within the Southern Mountains scattered about, cities and towns built at the bases of mountains or along cliff faces. Ruled by a Meritocracy of the top professors in Noraveas, their hybrid university and capital city build around the Southern Pillar. Onyxia is famous for their metallurgy and engineering, producing the finest goods from legendary crafts-masters. While small in number and inhabitable territory, Onyxia has the most advanced, efficient technology and high-end prosthetics and augments. Their Navy is infamous for their nigh-impenetrable floating fortresses, heavily armed and armored airships. Though in the end, Onyxia cares more about engineering and trade than their military.
 
+Onyxia, to go along with their love of metallurgy, has huge deposits of iron and other important metals in the mountains they live in. The largest industry in Onyxia is mining, because for a lot of the population it is one of the few available jobs.
 
 Main Species:
 Dwarves, Runeforged
 
 # Voxis
-Colors I think of: Grunge
+Colors I think of: Grunge,, Yeah no colours just Dirt
+Things that give: gang violence and LSPD!! STOP RESISTING!!
 
-Voxis is a large port city, and the largest city on Andefaelt, period.
+Voxis is a large port city, and the largest city on Andefaelt, period. Ruled by Julia Umberlain, a former Elven Asyrian noble, now Queen of Voxis. She established it on the ruins of Thrysta, the former Zevkan capital before the 30-Years-War. Now, Voxis is a major port city due to it's location. It has massive ports on each side of the island, and several massive shipyards producing mostly civilian ships, but occasionally commissioned military vessels. Being a massive city, Voxis also has an in-depth train network spanning the whole city, the only city like it in the plane. 
+
+Julia is a poor, absent leader though. Voxis is in a state of perpetual gang warfare due to her complete lack of care over the populous, and said gangs fight for control over territory in the city and control of the ports. The only thing keeping Voxis from falling into complete disarray are the City Enforcers, a near-militant police force wielding military-grade equipment and chemical weapons to flush out gang hideouts and shut them down. These Enforcers are known for being brutal and unforgiving, even to those not affiliated.
 
 Main Species:
 Literally Anyone
 
 # Zevka
-Colors I think of: reds, oranges, cyan, and the whites and browns and light blues of tundra
+Colors I think of: reds, oranges, cyan, green, and other fun colours for prayer flags and things, and the whites and browns and light blues of tundra
 Things that give off tradition, community, and resilience
 
-
+A place of community and loyalty, Zevka is located in the Highlands, a land of ice and freezing cold. 
 
 Main Species:
 Humans, Goliaths, anyone else who wants to survive the cold
@@ -89,7 +94,7 @@ Runesteel is extremely common in Andefaelt.
 
 # Aesthetic and Vibes
 
-Andefaelt is a dieselpunk/decopunk setting, with a side of nature-based horror and struggles based around extreme weather events. most towns and cities have machinery implemented, and 
+Andefaelt is a dieselpunk/decopunk setting, with a side of nature-based horror and struggles based around extreme weather events. most towns and cities have machinery and technology implemented in their economy, whether that be transport trucks, laborjacks and warjacks, or any other powered tool.
 
 For species differences specific to Andefaelt
 - all dwarves have beards regardless of gender
@@ -97,7 +102,7 @@ For species differences specific to Andefaelt
 - ukuchans are rat-like humanoids
 - dragonborn descend directly from dragons, and are the only living reminder that they existed. 
 	- also they have feathers on the back of their heads, behind their crests (kind of like hair) and on their tails - especially towards the ends. also sometimes there can be feathers on places like their elbows and necks.
-- tieflings are similar to aasimar
+- tieflings are similar to aasimar, created by the goddess of the underworld, Morana.
 
 # Homebrew
 First off - No opportunity attacks. This is still open to change, but it's something I want to playtest.

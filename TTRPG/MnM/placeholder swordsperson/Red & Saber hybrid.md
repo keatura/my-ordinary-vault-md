@@ -1,6 +1,0 @@
-- able to lose the powers if the sword / necklace is lost
-- partner/ family maybe inside of the sword, it's sentient
-- BIG SWORD. like 6 ft maybe 
-- sword turns into the necklace
-- when she summons the sword it gives her a costume, like armor or something
-- 
