@@ -241,7 +241,7 @@ Anastasiya HATES pure capitalistic systems, especially that of The Democratic Al
 Anastasiya is obsessed with figuring out a way to remove Silvershift from the axe she is currently stuck in. She will choose to search for answers to this whenever she has free time, and will drop current tasks if Silvershift demands she does.
 
 - Temper
-If she is around someone who begins to make fun of those who are poor or homeless, or have addictions to substances she immediately lashes out. She believes these people just haven't had the experience and spent the time to properly understand their position, and are in no place to make fun of them. Though, her reaction is more violent and less rational.
+If she is around someone who begins to make fun of those who are poor or homeless, or have addictions to substances she immediately lashes out. She believes these people just haven't had the experience and spent the time to properly understand their position, and are in no place to make fun of them. Though, her reaction is more violent and less rational. This temper also applies to herself, and if she finds herself subject to criticism for things related to her social standing, she will lash out just as easily.
 
 - Enemy (Watershed)
 After releasing her band's song that revealed many extremely heavy secrets about the company Watershed and their CEO, and proceeded to back it up with actual sources, their whistleblower and a band member "disappeared", and Silvershift was turned into an enchanted weapon. She and her band are now all targets for Watershed to get rid of.
