@@ -76,7 +76,7 @@ complete an enneagram
 - Her lover, Valentyna (met 12.19.516). She is a titled drake of the Earth, Spirit, and Chaos elements who was raised in The Crawling Hunt in the Eye. She managed to defect on a mission down to earth, and ran away to the Democratic Alliance
 - August Kuznetsov, the lead guitarist
 - Luka Kowalski, the drummer
-- Dima Novak, the rhythm guitarist who also helped with writing lyrics.
+- Dima Novak, the rhythm guitarist who also helped with writing lyrics. Dima was the gentlest of all of the band members, the most empathetic.
 
 #### Enemies
 - 
