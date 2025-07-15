@@ -187,12 +187,13 @@ bla bla bla
 13.5.113
 
 - Lived with her family in Deuchith
+- met Silvershift right before her 18th birthday
 - Was kicked out of her house and disowned by her family upon their realization of her relationship with a dragon.
 - Moved west, to a city in Bruanuin
 
 ### Ana's time in Bruanuin
 
-- Met Silvershift early in her time there
+- first few weeks were very rough, nearly starving to death with no money and no idea of 
 - Met Dima shortly after that, and would crash on his couch sometimes. He was in and out of housing too, though
 
 ### System Shock
