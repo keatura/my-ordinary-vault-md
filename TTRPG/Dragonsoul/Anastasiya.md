@@ -190,13 +190,19 @@ PRE 3 | 6
 total stats ~~ 56pts
 
 **The Axe.** Removable Battleaxe (3pts) Damage 3, Slashing, Crit 20
-Effects: Transform 
+Effects: [Transform 5], [Limited1] (requires the axe), [Linked] (Shapeshifting Weapon) (10pts)
 
-removable link ability 10 ranks damage(str based) 10-2=8 + 8 ranks enhance ability str 16-3=13pts, 23 pts total | 79pts
+**Shapeshifting Weapon.** Array, [Linked] (The Axe)
 
-**Silver Skin.** protection 20 ranks + sustained + removable = 20-4 pts, 16 pts total | 95 pts
+- **Axe Form.** Damage7 (6pts), Enhanced Ability (Strength)8 (13pts), Protection10 (8)
 
-communication 3 rank + dimensional + subtle 2 ranks + limited (Silvershift) = 12pts | 107 pts
+- **Sword Form.** Damage7, [Multiattack] (12pts), Enhanced Ability (Fight)3 (5pts), Enhanced Ability (Strength)1 (2pts), rotection10 (8)
+
+- **Spear and Shield Form.** Damage7 [Reach2] (9pts), protection20 (16)
+
+**Silver Skin.** protection 20 ranks, [Sustained], [Removable] (requires the axe) = 20-4 pts, 16 pts total | 95 pts
+
+**Mental Link.** communication 3 rank + dimensional + subtle 2 ranks + limited (Silvershift) = 12pts | 107 pts
 
 Summon (2 ranks): [Flaws] Fades1  \ Limited1  (Requires the axe) \  Reduced Range1 \ Tiring8 [Requires a full nights rest to recover] = 0pp cost
 Summoned Minion 30pp (2 ranks of growth (4pp), 8 intelligence 8 awareness [20 point total])
