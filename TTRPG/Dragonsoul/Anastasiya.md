@@ -178,9 +178,6 @@ bla bla bla
 
 # Build list
 
-high fgt high stam
-med agi
-
 STR 2 | 4
 STA 8 | 16
 AGL 4 | 8
@@ -192,11 +189,11 @@ PRE 3 | 6
 
 total stats ~~ 56pts
 
-**The Axe.** removable link ability 10 ranks damage(str based) 10-2=8 + 8 ranks enhance ability str 16-3=13pts, 23 pts total | 91pts
+**The Axe.** removable link ability 10 ranks damage(str based) 10-2=8 + 8 ranks enhance ability str 16-3=13pts, 23 pts total | 79pts
 
-**Silver Skin.** protection 20 ranks + sustained + removable = 20-4 pts, 16 pts total | 111 pts
+**Silver Skin.** protection 20 ranks + sustained + removable = 20-4 pts, 16 pts total | 95 pts
 
-communication 3 rank + dimensional + subtle 2 ranks + limited (Silvershift) = 12pts | 123 pts
+communication 3 rank + dimensional + subtle 2 ranks + limited (Silvershift) = 12pts | 107 pts
 
 Summon (2 ranks): [Flaws] Fades1  \ Limited1  (Requires the axe) \  Reduced Range1 \ Tiring8 [Requires a full nights rest to recover] = 0pp cost
 Summoned Minion 30pp (2 ranks of growth (4pp), 8 intelligence 8 awareness [20 point total])
@@ -209,12 +206,14 @@ hq = 0 pts
 - sealed
 - secret
 
-5 ability array 15pts = 20pts | 143pts
+4 ability array 15pts = 19pts | 126pts
 - 1 flight + wings flaw, 15 ranks
 - 2 speed, 15 ranks
-- 3 speed, 5 ranks, linked, deflect, 10 ranks
-- 4 create, 5 ranks, precise, permanent
-- 5 senses, 15 ranks, danger sense, extended, acute (visual and auditory), awareness, accurate (visual), infravision, darkvision, distance sense, counters illusion, rapid
+- 3 create, 5 ranks, precise, permanent
+- 4 senses, 15 ranks, danger sense, extended, acute (visual and auditory), awareness, accurate (visual), infravision, darkvision, distance sense, counters illusion, rapid
+
+skills: 17pts | 143pts
+
 
 advantages: 7pts | 150pts
 Interpose
