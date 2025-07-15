@@ -74,6 +74,7 @@ complete an enneagram
 
 #### Friends
 - Her lover, Valentyna (met 12.19.516). She is a titled drake of the Earth, Spirit, and Chaos elements who was raised in The Crawling Hunt in the Eye. She managed to defect on a mission down to earth, and ran away to the Democratic Alliance
+- The rhythm guitarist of her band, 
 
 #### Enemies
 - 
