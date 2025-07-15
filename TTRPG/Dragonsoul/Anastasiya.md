@@ -74,13 +74,18 @@ complete an enneagram
 
 #### Friends
 - Her lover, Valentyna (met 12.19.516). She is a titled drake of the Earth, Spirit, and Chaos elements who was raised in The Crawling Hunt in the Eye. She managed to defect on a mission down to earth, and ran away to the Democratic Alliance
-- August Kuznetsov, the lead guitarist
-- Luka Kowalski, the drummer
-- Dima Novak, the rhythm guitarist who also helped with writing lyrics. Dima was the gentlest of all of the band members, the most empathetic.
+- August Kuznetsov, the lead guitarist (they/them)
+	- 
+- Luka Kowalski, the drummer (she/her)
+	- 
+- Dima Novak, the rhythm guitarist who also helped with writing lyrics. (he/him)
+	- Dima was the gentlest of all of the band members, the most empathetic.
 	- Known for being the voice of reason between the four.
 	- He was the oldest in the group, and the wisest, he managed to stay away from drugs and general other addictions.
 	- Helped Anastasiya a lot. He was the only one in the band who knew her original name and was the first person she told about her relationship with Val.
-	- Met him when Ana and Val were looking for a place to sleep in their first few weeks  
+	- Met him when Ana and Val were looking for a place to sleep in their first few weeks, he let them crash on his couch for a little bit while they figured things out.
+	- They became good friends and eventually he invited her to band, teaching her to play bass
+	- His presence helped Anastasiya get used to her new situation, and helped her be as comfortable as she could be.
 
 #### Enemies
 - 
@@ -187,7 +192,14 @@ bla bla bla
 
 ### Ana's time in Bruanuin
 
+- Met Silvershift early in her time there
+- Met Dima shortly after that, and would crash on his couch sometimes. He was in and out of housing too, though
 
+### System Shock
+
+- Served as a lead singer for the band
+- they wrote very political songs, focused on the injustice and classism inside of the Democratic Alliance and were known in their local scenes for not being afraid to call out specific names and participate in actions that could potentially get them arrested or attacked by the companies private militaries.
+- lived on the edge, but they made enough money to barely scrape by. Anastasiya's silversmithing side-business helped, and August 
 
 # Build list
 
