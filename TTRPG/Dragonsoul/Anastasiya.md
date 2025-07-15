@@ -189,48 +189,40 @@ PRE 3 | 6
 
 total stats ~~ 46pts
 
-**The Axe.** Battleaxe (3pts) Damage 3, Slashing, Crit 20 [13pts total] | 59pts
-Effects: [Removable], [Transform 5/2 ranks], [Limited1] (requires the axe), [Linked] (Shapeshifting Weapon) (10pts)
-Anastasiya can transform the Enchanted Battleaxe into different states [Transform]. This can only be done while she is in possession of the Axe [Limited], and the Axe can be taken away from her [Removable].
+**The Axe.** Battleaxe (3pts) Damage 3, Slashing, Crit 16-20 [3pts total] | 49pts
+Effects: [Removable]
+Anastasiya has a 6-foot-tall enchanted battle-axe she uses to fight. It can be taken from her when she is not resisting [Removable].
 
-**Shapeshifting Weapon.** [Array], [Linked] (The Axe), 19pts array [21pts total] | 81pts
+**Silver Skin.** Enhanced Ability (Stamina)7 (12pts), Enhanced Ability (Strength)5 (8pts), Immunity(Toughness)80 [Halved Effect] (32pts), [Removable] (requires the axe) | 101pts
 
-**Axe Form.** Damage3 [Strength Based] (3pts), Affliction [19pts]
-Anastasiya transforms her weapon into a large battle-axe with a 6-foot long handle [Transform]. While wielding this Enchanted Weapon, Anastasiya's strength is increased significantly [Enhanced Ability].
+**Mental Link.** [Communication3] (Mental), [Dimensional], [Subtle2], [Limited] (Silvershift) = 12pts | 113pts
 
-**Sword Form.** Damage3 [Strength Based, Multiattack] (6pts) [19pts]
-Anastasiya transforms her weapon into a large greatsword with a 7 feet in length [Transform]. Due to it's increased finesse, this weapon can be swung to hit multiple targets in rapid succession [Multiattack]. While wielding this Enchanted Weapon, Anastasiya's strength is increased [Enhanced Ability].
-
-**Silver Skin.** Enhanced Ability (Stamina)7 (12pts), Enhanced Ability (Strength)5 (8pts), [Removable] (requires the axe) | 92pts
-
-**Mental Link.** [Communication3] (Mental), [Dimensional], [Subtle2], [Limited] (Silvershift) = 12pts | 104pts
-
- 
-
-Summon (2 ranks): [Flaws] Fades1  \ Limited1  (Requires the axe) \  Reduced Range1 \ Tiring8 [Requires a full nights rest to recover] = 0pp cost
+**Silver Projection.** Summon (2 ranks): [Flaws] Fades1  \ Limited1  (Requires the axe) \  Reduced Range1 \ Tiring8 [Requires a full nights rest to recover] = 0pp cost
 Summoned Minion 30pp (2 ranks of growth (4pp), 8 intelligence 8 awareness [20 point total])
 
 Anastasia projects a silver body for Valentina to "posses" that last for about 15 minutes before dissipating [Fades]. This form is roughly the size of your average human and can appear as a small pseudo-dragon or a humanoid shape [Minion Growth 2] and still keeps Valentina conscious at the same time [Minion Int 8 Awe 8]. Anastasia requires the axe to be in her possession for this to work and cannot function otherwise, it cannot participate and combat and will dissipate when struck with force [Limited]. This projected body cannot get further than 30 feet away from Anastasia and the instant it does it dissipates [Reduced Range]. Upon the effect ending, Anastasia requires 8 hours or a full nights rest uninterrupted to fully recover, and until this happens is Fatigued [Tiring 8].
 
-hq = 0 pts
-- dimensional portal
-- concealed
-- sealed
-- secret
+**Pocket Dimension.** Headquarters, [Miniscule -4] , [Dimensional Portal], [Concealed], [Sealed], [Secret] 0 pts
 
-4 ability array 15pts = 19pts | 123pts
+
+4 ability array 15pts = 19pts | 132pts
 - 1 flight + wings flaw, 15 ranks
 - 2 speed, 15 ranks
 - 3 create, 5 ranks, precise, permanent
 - 4 senses, 15 ranks, danger sense, extended, acute (visual and auditory), awareness, accurate (visual), infravision, darkvision, distance sense, counters illusion, rapid
 
-skills: 15pts | 138pts
+skills: 5pts | 138pts
+Technology +1
+Driving +1
+Intimidation +5
+Insight +3
 
-
-advantages: 12pts | 150pts
+advantages: 13pts | 150pts
 Interpose 1pts
 Improved Initiative 3 (+12) 3pts
 Move-By-Action 1pts
-Power Attack 1pts
+All-Out Attack 1pts
 Defensive Attack 1pts
 Quick Draw 1pts
+Improved Critical4 4pts
+Diehard 1pts
