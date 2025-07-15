@@ -195,13 +195,13 @@ Anastasiya can transform the Enchanted Battleaxe into different states [Transfor
 
 **Shapeshifting Weapon.** [Array], [Linked] (The Axe), 19pts array [21pts total] | 81pts
 
-**Axe Form.** Damage7 (6pts), Enhanced Ability (Strength)8 - 10 total (13pts) [19pts]
+**Axe Form.** Damage3 [Strength Based] (3pts), Affliction [19pts]
 Anastasiya transforms her weapon into a large battle-axe with a 6-foot long handle [Transform]. While wielding this Enchanted Weapon, Anastasiya's strength is increased significantly [Enhanced Ability].
 
-**Sword Form.** Damage7, [Multiattack] (12pts), Enhanced Ability (Strength)4 - 5 total (7pts) [19pts]
+**Sword Form.** Damage3 [Strength Based, Multiattack] (6pts) [19pts]
 Anastasiya transforms her weapon into a large greatsword with a 7 feet in length [Transform]. Due to it's increased finesse, this weapon can be swung to hit multiple targets in rapid succession [Multiattack]. While wielding this Enchanted Weapon, Anastasiya's strength is increased [Enhanced Ability].
 
-**Silver Skin.** Enhanced Ability (Stamina)7, [Removable] (requires the axe) = 14-2 pts, 12 pts total | 92pts
+**Silver Skin.** Enhanced Ability (Stamina)7 (12pts), Enhanced Ability (Strength)5 (8pts), [Removable] (requires the axe) | 92pts
 
 **Mental Link.** [Communication3] (Mental), [Dimensional], [Subtle2], [Limited] (Silvershift) = 12pts | 104pts
 
