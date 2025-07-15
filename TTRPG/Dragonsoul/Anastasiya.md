@@ -197,9 +197,11 @@ bla bla bla
 
 ### System Shock
 
+- Was invited by Dima
 - Served as a lead singer for the band
 - they wrote very political songs, focused on the injustice and classism inside of the Democratic Alliance and were known in their local scenes for not being afraid to call out specific names and participate in actions that could potentially get them arrested or attacked by the companies private militaries.
-- lived on the edge, but they made enough money to barely scrape by. Anastasiya's silversmithing side-business helped, and August 
+- lived on the edge, but they made enough money to barely scrape by. Anastasiya's silversmithing side-business helped, and August got them shows at local bars and venues
+- 
 
 # Build list
 
