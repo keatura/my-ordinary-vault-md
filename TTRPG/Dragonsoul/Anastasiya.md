@@ -249,7 +249,7 @@ After releasing her band's song that revealed many extremely heavy secrets about
 - Enemy (The Crawling Hunt)
 Due to her close tie with Silvershift, Anastasiya is a target for The Crawling Hunt.
 
-- Accident Prone
+- Accident
 The powers Anastasiya uses are very destructive. When she is moving full speed she causes fractures beneath her feet. Slamming into targets and the ground causes massive craters and shockwaves, and attacking with the axe can leave massive damage as well with her superhuman strength.
 
 - Power Loss
