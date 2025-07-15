@@ -10,6 +10,11 @@ The characters meet at the Mammoth Arm Inn, and gets a quest that may lead to so
 	- there is a giant mammoth horn mounted on the wall above the fire place
 	- behind the bar there is his large Greataxe that he keeps on the wall
 
+- **[[Kalivny]]**
+	- 
+
+- **[[Helena]]**
+
 ## Chapter
 Scene description.
 
