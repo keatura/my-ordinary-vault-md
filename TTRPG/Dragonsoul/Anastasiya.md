@@ -206,8 +206,8 @@ Anastasia projects a silver body for Valentina to "posses" that last for about 1
 
 
 4 ability array 15pts = 19pts | 132pts
-- 1 flight + wings flaw, 15 ranks
-- 2 speed, 15 ranks
+- 1 flight + wings flaw, 15 ranks (12,000mph)
+- 2 speed, 15 ranks (12,000mph)
 - 3 create, 5 ranks, precise, permanent
 - 4 senses, 15 ranks, danger sense, extended, acute (visual and auditory), awareness, accurate (visual), infravision, darkvision, distance sense, counters illusion, rapid
 
