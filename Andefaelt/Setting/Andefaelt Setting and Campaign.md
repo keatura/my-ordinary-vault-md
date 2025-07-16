@@ -14,6 +14,8 @@
 - [ ] Onyxian government and capital
 - [ ] Flesh out the fore-runners and give them a name
 - [ ] figure out how the afterlife works
+- [ ] write a prophecy for Hearsay
+- [ ] 
 
 # Overview
 
