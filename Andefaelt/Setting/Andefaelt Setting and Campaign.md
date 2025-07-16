@@ -9,7 +9,7 @@
 - [ ] Create an overview for the plot
 - [ ] make a list of all of the feyblood weapons
 - [ ] session 1
-- [ ] Helena's relation to Asyria
+- [x] Helena's relation to Asyria
 - [ ] Zevkan government and capital
 - [ ] Onyxian government and capital
 - [ ] Flesh out the fore-runners and give them a name
