@@ -19,7 +19,7 @@ A small Asyrian town on the other side of the island, Kalivny and Helena coexist
 
 # Kalivny Arc
 
-goblins have been roped into worshipping the "Mask-Wearer". Causing trouble around 
+goblins have been roped into worshipping the "Hooded One", firstly referred to as "The Blade". Causing trouble around, and most notably kidnapping someones kid.
 
 A cult of goblins is beginning to form on the island
 the leader is a Feyblood weapon - the dagger. It is using the goblins to gain a human host, so it can take that host over and begin to control the island. The dagger wants to control the island 

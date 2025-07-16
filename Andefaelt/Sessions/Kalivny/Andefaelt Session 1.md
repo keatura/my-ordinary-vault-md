@@ -30,8 +30,8 @@ just a simple quest
 - happened recently, he should still be at a camp nearby Kalivny
 - requesting people with combat or magical experience, meet a member of the city guard at the Mammoths Head Inn.
 
-#### Scene
-Scene description.
+#### The Inn
+The players find themselves in the Inn, 
 
 #### Scene
 Scene description.
