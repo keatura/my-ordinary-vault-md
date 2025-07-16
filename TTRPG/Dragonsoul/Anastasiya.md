@@ -232,7 +232,6 @@ Anastasia projects a silver body for Valentina to "posses" that last for about 1
 
 **Pocket Dimension.** Headquarters, [Miniscule -4] , [Dimensional Portal], [Concealed], [Sealed], [Secret] 0 pts
 
-
 **Silver Manipulation.** [Array4] (19pts) | 129pts
 - [Flight15 Wings] (12,000mph)
 - [Speed15] (12,000mph)
