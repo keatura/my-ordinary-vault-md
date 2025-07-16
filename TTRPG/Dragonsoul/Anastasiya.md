@@ -217,13 +217,13 @@ PRE 3 | 6
 
 total stats ~~ 46pts
 
-**The Axe.** Battleaxe (3pts) Damage 3, Slashing, Crit 16-20 [3pts total] | 49pts
+**The Axe.** Battleaxe (3epts) Damage 3, Slashing, Crit 16-20 [3pts total] | 46pts
 Effects: [Removable]
 Anastasiya has a 6-foot-tall enchanted battle-axe she uses to fight. It can be taken from her when she is not resisting [Removable].
 
-**Silver Skin.** Enhanced Ability (Stamina)7 (12pts), Enhanced Ability (Strength)5 (8pts), Immunity(Toughness)80 [Halved Effect] (32pts), [Removable] (requires the axe) = 52pts | 101pts
+**Silver Skin.** Enhanced Ability (Stamina)7 (12pts), Enhanced Ability (Strength)5 (8pts), Immunity(Toughness)80 [Halved Effect] (32pts), [Removable] (requires the axe) = 52pts | 98pts
 
-**Mental Link.** [Communication3] (Mental), [Dimensional], [Subtle2], [Limited] (Silvershift) = 12pts | 113pts
+**Mental Link.** [Communication3] (Mental), [Dimensional], [Subtle2], [Limited] (Silvershift) = 12pts | 110pts
 
 **Silver Projection.** Summon (2 ranks): [Flaws] Fades1  \ Limited1  (Requires the axe) \  Reduced Range1 \ Tiring8 [Requires a full nights rest to recover] = 0pp cost
 Summoned Minion 30pp (2 ranks of growth (4pp), 8 intelligence 8 awareness [20 point total])
@@ -233,19 +233,19 @@ Anastasia projects a silver body for Valentina to "posses" that last for about 1
 **Pocket Dimension.** Headquarters, [Miniscule -4] , [Dimensional Portal], [Concealed], [Sealed], [Secret] 0 pts
 
 
-**Silver Manipulation.** [Array4] (19pts) | 132pts
+**Silver Manipulation.** [Array4] (19pts) | 129pts
 - [Flight15 Wings] (12,000mph)
 - [Speed15] (12,000mph)
 - [Create5], [Precise], [Permanent]
 - [Senses15], [Danger sense], [Extended], [Acute] (visual and auditory), [Awareness], [Accurate] (visual), [Infravision], [Darkvision], [Distance sense], [Counters illusion], [Rapid]
 
-**Skills:** 5pts | 138pts
+**Skills:** 5pts | 134pts
 Technology +1
 Driving +1
 Intimidation +5
 Insight +3
 
-**Advantages:** 13pts | 150pts
+**Advantages:** 16pts | 150pts
 Interpose 1pts
 Improved Initiative 3 (+12) 3pts
 Move-By-Action 1pts
@@ -254,6 +254,8 @@ Defensive Attack 1pts
 Quick Draw 1pts
 Improved Critical4 4pts
 Diehard 1pts
+Equipment 1pts
+Takedown 2pts
 
 Complications:
 - **Justice**
