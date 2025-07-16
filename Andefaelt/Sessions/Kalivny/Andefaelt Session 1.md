@@ -26,7 +26,7 @@ the three met at the table, two of them found papers for mercenary work, one of 
 just a simple quest
 
 "Marckus Westmeister Missing"
-- he was captured by goblins after him and his mom were attacked while exploring the woods
+- he was captured by goblins after him and his mom were attacked while taking a merchant cart to Kalivny
 - happened recently, he should still be at a camp nearby Kalivny
 - requesting people with combat or magical experience, meet a member of the city guard at the Mammoths Head Inn.
 
