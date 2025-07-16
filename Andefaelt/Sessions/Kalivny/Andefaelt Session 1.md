@@ -15,8 +15,12 @@ The characters meet at the Mammoth Arm Inn, and gets a quest that may lead to so
 
 - **[[Helena]]**
 
-## Chapter
-Scene description.
+## Mammoth Arm Inn & Intro
+
+>[!Intro]
+>It's mid-august in Andefaelt, the beginning of monsoon season on the western side. 
+>
+>It's roughly mid-day, and the Mammoth Arm Inn is starting to fill up with people heading for lunch.
 
 #### Scene
 Scene description.
