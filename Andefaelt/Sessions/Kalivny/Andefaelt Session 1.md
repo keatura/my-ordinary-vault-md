@@ -31,7 +31,16 @@ just a simple quest
 - requesting people with combat or magical experience, meet a member of the city guard at the Mammoths Head Inn.
 
 #### The Inn
-The players find themselves in the Inn, the first people there are Hearsay and Black Mamba
+The players find themselves in the Inn, the first people there are Hearsay and Black Mamba. 
+shortly after, Mizuki and Ezaren
+
+Hearsay gives a brief
+
+basically what she needs to hit:
+- goblins captured this kid named Marckus
+- he was being taken back to whatever camp they have
+
+- a thing you would personally know after being in the town guard for a while is that this is out of character, they generally just are raiding for fun or supplies or whatever reason they may have, but they rarely take prisoners
 
 #### Scene
 Scene description.
@@ -43,9 +52,9 @@ Scene description.
 Scene description.
 
 ## The Woods
-Scene description.
+GOBLINS!!!!
 
-#### Scene
+#### The Ambush
 Scene description.
 
 #### Scene
