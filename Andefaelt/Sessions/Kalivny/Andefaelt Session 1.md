@@ -18,7 +18,7 @@ The characters meet at the Mammoth Arm Inn, and gets a quest that may lead to so
 ## Mammoth Arm Inn & Intro
 
 >[!Intro]
->It's mid-august in Andefaelt, the beginning of monsoon season on the western side. It's a relatively clear day in Kalivny, for all that's worth. The gravel roads and wheat fields glistening with morning showers, now being exposed to the mid-day sun. Just outside of the city center is the Mammoth Arm Inn. a decently sized two-floor tavern. Inside, there are common folk on their lunch break and sailors eating while their cargo is being taken care of. and at one of the tables, 3 particular looking people.
+>It's mid-august in Andefaelt, the beginning of monsoon season on the western side. It's a relatively clear day in Kalivny, for all that's worth. The gravel roads and wheat fields glistening with morning showers, now being exposed to the mid-day sun. Just outside of the city center is the Mammoth Arm Inn. a decently sized two-floor tavern. Inside, there are common folk on their lunch break and sailors eating while their cargo is being taken care of. and at one of the tables, 4 particular looking people.
 - players intro and describe their characters
 
 the three met at the table, two of them found papers for mercenary work, one of them posted the paper
