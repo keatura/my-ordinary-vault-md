@@ -69,14 +69,15 @@ CR 1/4 PB +2
 **Scimitar.** Melee Weapon Attack: +4 to hit, reach 5 ft., One Target. Hit: (1d6 + 2) Slashing damage.
 **Crude Rifle.** Ranged Weapon Attack: +4 to hit, reach 30/60 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(1)
 
+**Reload.**
+The goblin attempts to reload, roll d6. 5-6 successful
+
 **Bonus Actions.**
 
 **Nimble Escape.**
 *The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
-**Reload.**
-The goblin attempts to reload, roll d6. 5-6 successful
 
-There is one Goblin who is acting as the sort of "leader". He has the following weapon instead of the Crude Pistol
+There is one Goblin who is acting as the sort of "leader". He has the following weapon instead of the Crude Revolver
 **Old Revolver.** Ranged Weapon Attack: +4 to hit, reach 50/150 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(5)
 
 #### The Ambush
@@ -84,7 +85,7 @@ As everyone drives down the road, they come across the destroyed caravan, where 
 
 goblins sneak up on them, group stealth check contested against party passive perception unless they are actively looking around
 
-its 3 goblins, 2 normal ones and one with a revolver. If any of them charge they scream "For The Hooded One!"
+its 5 goblins, 4 normal ones and one with a revolver. If any of them charge they scream "For The Hooded One!"
 
 After the fight if they look around they find:
 
