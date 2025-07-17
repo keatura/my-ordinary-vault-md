@@ -85,7 +85,11 @@ goblins sneak up on them, group stealth check contested against party passive pe
 
 its 3 goblins, 2 normal ones and one with a revolver. If any of them charge they scream "For The Hooded One!"
 
-After the fight if they look around 
+After the fight if they look around they find:
+
+a) footsteps and a trail that looks like someone had been dragged
+b) a tiny camp nearby where the goblins were staying
+c) a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade
 
 #### The Trail
 Scene description.
