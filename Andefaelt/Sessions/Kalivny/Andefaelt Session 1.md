@@ -54,6 +54,30 @@ Scene description.
 ## The Woods
 GOBLINS!!!!
 
+Small humanoid  
+AC: 13  
+HP: 7  
+Speed: 30ft  
+**STR: 8(-1), DEX: 14(+2), CON: 10(0), INT: 10(0), WIS: 8(-1), CHA: 8(-1)**  
+Skills: Stealth +6  
+Senses: Darkvision 60ft, Passive perception 9  
+CR 1/4 PB +2
+
+**Actions.**
+
+**Scimitar.** Melee Weapon Attack: +4 to hit, reach 5 ft., One Target. Hit: (1d6 + 2) Slashing damage.
+**Crude Pistol.** Ranged Weapon Attack: +4 to hit, reach 30/60 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(1)
+
+**Bonus Actions.**
+
+**Nimble Escape.**
+*The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
+**Reload.**
+The goblin attempts to reload, roll d6. 5-6 successful
+
+There is one Goblin who is acting as the sort of "leader". He has the following weapon instead of the Crude Pistol
+**Old Revolver.** Ranged Weapon Attack: +4 to hit, reach 50/150 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(5)
+
 #### The Ambush
 Scene description.
 
