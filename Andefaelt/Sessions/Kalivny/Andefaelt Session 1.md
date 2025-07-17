@@ -42,8 +42,9 @@ basically what she needs to hit:
 
 - a thing you would personally know after being in the town guard for a while is that this is out of character, they generally just are raiding for fun or supplies or whatever reason they may have, but they rarely take prisoners
 
-#### Scene
-Scene description.
+#### The City Guard
+- [[Jacob Callaway]] is the captain of the city guard.
+- there is a car and cart at the station prepped for them, cart has the Policejack in it.
 
 #### Scene
 Scene description.

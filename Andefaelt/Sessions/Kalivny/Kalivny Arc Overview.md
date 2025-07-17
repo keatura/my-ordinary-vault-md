@@ -1,21 +1,13 @@
 This mini-campaign takes place on a small island in southern Zevka, close to the border with Asyria.
 
 - alex's character is introduced in a 2 part encounter, first he attacks the party after 1 or 2 traps and then in the middle of that they are attacked by cultists, where he helps the party.
+	- nah he is in prison now
+	- now hes getting told to work with the party
 - **[[Feyblood Dagger]]**
 
-# Kalivny
+# [[Kalivny]]
 
-Overview of the the City:
-Mostly a mixture of Humans and Ukuchans, 
-A small port city, that serves as a sort of barrier in-between Zevka and Asyria. Their port can fit a few vessels of small to medium size, and they mainly export grain to any towns nearby. Kalivny doesnt normally do international trade. They are self-sufficient, producing their own fuel and importing some with the money they get from the grain trade. They produce food, and defend themselves, working with Helena to trade with each other, generally trading their well-maintained and more set-in-stone city guard to protect trade caravans and Helena from monsters and the goblin population on the island. 
-
-The City Center has traders for various goods, a general store, a market, a blacksmith, clothing manufacturers, cobblers, a mechanic, etc. the buildings surrounding the city center are things like the town hall, the jail and town guard.
-
-# Helena
-
-Overview of the Town:
-Mostly Humans and Ukuchans as well, as well as Dragonborn from Asyria
-A small Asyrian town on the other side of the island, Kalivny and Helena coexist fairly peacefully. While Asyria 
+# [[Helena]]
 
 # Kalivny Arc
 
