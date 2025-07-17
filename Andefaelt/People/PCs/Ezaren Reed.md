@@ -1,6 +1,10 @@
 - human fighter
 - 24
 
+Sister is a pirate, looking for their mother
+
+
+
 Previous Standing in the Military: Joined the military when he turned 18, as to continue something of his father's legacy. Ezaren was a cavalier that fought in a battle resulting in some severe injuries, some being fatal if not for "Carver."
 
 Howetown/growing up: Born in a small town within Iyamari; his father and older sister raised him in a modest home. With his father's former skills of being a former squire of Asyria, Ezaren got a small glimpse of what his father had previously pursued. With plenty of space, Ezaren had ample opportunities to grow his love for horseback riding. 
