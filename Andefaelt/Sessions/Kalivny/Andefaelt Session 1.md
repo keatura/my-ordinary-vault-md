@@ -89,7 +89,7 @@ After the fight if they look around they find:
 
 a) footsteps and a trail that looks like someone had been dragged
 b) a tiny camp nearby where the goblins were staying
-c) a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade
+c) a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade, on the back 
 
 #### The Trail
 Scene description.
