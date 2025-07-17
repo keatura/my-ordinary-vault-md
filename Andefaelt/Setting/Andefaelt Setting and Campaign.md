@@ -150,7 +150,7 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 ##### [[Hemepha (nature and chaos)]]
 ##### [[Yorinth (order and law)]]
 
-## [[Morana (Goddess of the Underworld)]]
+## [[Morana (Goddess of New Beginnings)]]
 
 ### [[Cihena (destruction)]]
 
