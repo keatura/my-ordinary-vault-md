@@ -79,7 +79,7 @@ There is one Goblin who is acting as the sort of "leader". He has the following 
 **Old Revolver.** Ranged Weapon Attack: +4 to hit, reach 50/150 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(5)
 
 #### The Ambush
-As everyone drives down the road, they come across the destroyed caravan, where they can assume Marckus was taken.
+As everyone drives down the road, they come across the destroyed caravan, where they can assume Marckus was taken. 
 
 goblins sneak up on them, group stealth check contested against party passive perception unless they are actively looking around
 
