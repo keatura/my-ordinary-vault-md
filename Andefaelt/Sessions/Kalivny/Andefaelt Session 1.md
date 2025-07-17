@@ -44,7 +44,7 @@ basically what she needs to hit:
 
 #### The City Guard
 - [[Jacob Callaway]] is the captain of the city guard.
-- there is a car and cart at the station prepped for them, cart has the Policejack in it.
+- there is a truck and cart at the station prepped for them, cart has the Policejack in it.
 
 #### Scene
 Scene description.
