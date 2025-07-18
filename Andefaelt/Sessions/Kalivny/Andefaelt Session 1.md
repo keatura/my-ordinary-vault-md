@@ -77,11 +77,11 @@ There is one Goblin who is acting as the sort of "leader". He has the following 
 **Old Revolver.** Ranged Weapon Attack: +4 to hit, reach 50/150 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(5)
 
 #### The Ambush
-As everyone drives down the road, they come across the destroyed caravan, where they can assume Marckus was taken. 
+As everyone drives down the road, it begins to pour down rain. they come across the destroyed caravan, where they can assume Marckus was taken. As they drive up to it, they hear a loud *Ka-thunk* and a crack as they drive over a pothole that just looked like a small puddle and one of the wheels cracks.
 
 goblins sneak up on them, group stealth check contested against party passive perception unless they are actively looking around
 
-its 5 goblins, 4 normal ones and one with a revolver. If any of them charge they scream "For The Hooded One!"
+its 4 goblins, 3 normal ones and one with a revolver. If any of them charge they scream "For The Hooded One!"
 
 After the fight if they look around they find:
 
@@ -90,7 +90,7 @@ b) a tiny camp nearby where the goblins were staying
 c) a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade, on the back 
 
 #### The Trail
-Scene description.
+There is a small trail back to where the goblin's camp is, left when they were dragging Marckus
 
 #### Scene
 Scene description.
@@ -99,4 +99,4 @@ Scene description.
 Scene description.
 
 ## Scratch Notes
-- Example
+- 
