@@ -95,7 +95,7 @@ There is a small trail back to where the goblin's camp is, left when they were d
 - through the rain, there are a few goblins keeping watch as they approach, but passive perception of 9 means they are easy to sneak by.
 
 #### The Camp
-At the end of a trail is a small clearing
+At the end of a trail is a small clearing, with a few tents and a small campfire that has been completely put out by the rain. there's another 3 goblins, plus the 2 guards
 
 #### Scene
 Scene description.
