@@ -11,7 +11,6 @@ The characters meet at the Mammoth Arm Inn, and gets a quest that may lead to so
 	- behind the bar there is his large Greataxe that he keeps on the wall. It's well-maintained but doesn't look like it has seen combat in years.
 
 - **[[Kalivny]]**
-	- 
 
 - **[[Helena]]**
 
