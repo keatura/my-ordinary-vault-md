@@ -45,12 +45,9 @@ basically what she needs to hit:
 #### The City Guard
 - [[Jacob Callaway]] is the captain of the city guard.
 - there is a truck and cart at the station prepped for them, cart has the Policejack in it.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
+- The station itself is a large brick structure, 2 stories and about 100 feet wide and 70 feet deep.
+	- The first floor has the entrance area armory and stuff, and the garage with some cars.
+	- 
 
 ## The Woods
 GOBLINS!!!!
