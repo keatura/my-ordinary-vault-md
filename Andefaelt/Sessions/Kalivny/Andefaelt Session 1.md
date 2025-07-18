@@ -47,7 +47,6 @@ basically what she needs to hit:
 - there is a truck and cart at the station prepped for them, cart has the Policejack in it.
 - The station itself is a large brick structure, 2 stories and about 100 feet wide and 70 feet deep.
 	- The first floor has the entrance area armory and stuff, and the garage with some cars.
-	- 
 
 ## The Woods
 GOBLINS!!!!
