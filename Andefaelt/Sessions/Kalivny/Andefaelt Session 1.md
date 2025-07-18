@@ -90,7 +90,7 @@ b) a crude tiny camp nearby where the goblins were staying, looks like it has be
 c) a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade, that it doesn't seem like they followed at all. On the back "Pack up and return, we have gotten what we needed." in what seems to be fairly nice looking handwriting.
 
 #### The Trail
-There is a small trail back to where the goblin's camp is, left when they were dragging Marckus
+There is a small trail back to where the goblin's camp is, left when they were dragging Marckus. With the rain it takes roughly an hour, but 
 
 #### Scene
 Scene description.
