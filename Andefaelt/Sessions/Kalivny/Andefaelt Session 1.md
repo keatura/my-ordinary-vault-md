@@ -85,9 +85,10 @@ its 4 goblins, 3 normal ones and one with a revolver. If any of them charge they
 
 After the fight if they look around they find:
 
-a) footsteps and a trail that looks like someone had been dragged
-b) a crude tiny camp nearby where the goblins were staying, looks like it has been mostly packed up
-c) DC 10 investigation, a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade, that it doesn't seem like they followed at all. On the back "Pack up and return, we have gotten what we needed." in what seems to be fairly nice looking handwriting.
+a) DC 10 investigation around the carts, there is a distinct lack of blood around them 
+b) footsteps and a trail that looks like someone had been dragged
+c) a crude tiny camp nearby where the goblins were staying, looks like it has been mostly packed up
+d) DC 10 investigation, a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade, that it doesn't seem like they followed at all. On the back "Pack up and return, we have gotten what we needed." in what seems to be fairly nice looking handwriting.
 
 #### The Trail
 There is a small trail back to where the goblin's camp is, left when they were dragging Marckus. With the rain it takes roughly an hour.
