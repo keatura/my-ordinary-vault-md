@@ -101,10 +101,21 @@ At the end of a trail is a small clearing, with a few tents and a small campfire
 Inside the camp there are
 a) a organizational list assigning the different goblins roles
 b) a rough map with a path leading deeper into the woods
-c) 
+c) DC 10 investigation, in one of the tents there is a work in progress crude wooden carving of a medieval-style roundel dagger.
 
-#### Scene
-Scene description.
+As they search through the camp, comment on how the rain is starting to soak through their clothes and they are starting to shiver. Continuing forth immediately may cause issues.
+
+#### Returning to Town
+Returning to the truck, the driver managed to replace the tire and get the truck out of the ditch and turned around.
+
+It's a slow process back to town in the mud, but they get home safely. As they return to town the rain slows down but doesn't stop.
+
+If they go to the station, they are sent up to the captains office by a guard (Peter) in the garage.
+-  Jacob lets them know he can't pay them if they didn't find the kid, but can sponsor them to go out again and pay for their nights rest in the town if they do so.
+- is interested by the map, there's rumors of old ruins or something out there.
+- if they talk about or show him evidence of the goblins being organized, he seems concerned. "organized goblins are competent goblins, that's the last thing we need."
+- He'll answer any other questions to a reasonable extent
+- when they go to leave, he asks Blue Bamba (sob) to stay behind, tells him that he'll let him go but would they are short staffed and does need him to help out.
 
 ## Scratch Notes
 - 
