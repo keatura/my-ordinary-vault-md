@@ -87,7 +87,7 @@ After the fight if they look around they find:
 
 a) footsteps and a trail that looks like someone had been dragged
 b) a tiny camp nearby where the goblins were staying
-c) a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade, on the back 
+c) a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade, that it doesn't seem like they followed at all. On the back 
 
 #### The Trail
 There is a small trail back to where the goblin's camp is, left when they were dragging Marckus
