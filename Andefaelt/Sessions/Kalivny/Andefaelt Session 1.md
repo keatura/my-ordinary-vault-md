@@ -87,14 +87,15 @@ After the fight if they look around they find:
 
 a) footsteps and a trail that looks like someone had been dragged
 b) a crude tiny camp nearby where the goblins were staying, looks like it has been mostly packed up
-c) a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade, that it doesn't seem like they followed at all. On the back "Pack up and return, we have gotten what we needed." in what seems to be fairly nice looking handwriting.
+c) DC 10 investigation, a note with a fairly crudely drawn plan of how to attack a group that got stuck at the barricade, that it doesn't seem like they followed at all. On the back "Pack up and return, we have gotten what we needed." in what seems to be fairly nice looking handwriting.
 
 #### The Trail
 There is a small trail back to where the goblin's camp is, left when they were dragging Marckus. With the rain it takes roughly an hour.
-- as they get closer 
+- as they get closer, dc 15 perception check to notice more tracks around
+- through the rain, there are a few goblins keeping watch as they approach, but passive perception of 9 means they are easy to sneak by.
 
-#### Scene
-Scene description.
+#### The Camp
+At the end of a trail is a small clearing
 
 #### Scene
 Scene description.
