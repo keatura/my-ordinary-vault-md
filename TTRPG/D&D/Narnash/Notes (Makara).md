@@ -812,4 +812,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 		- Shes Dead
 	- The Exchange is the only item with a compass leading to it like we have on Narnash
 	- Ermine takes Dilys away after Dilys asks about the wolf
+	- Sherwin was one of the first plants in the government from the Assembly
+		- Judas Shrew is the most dangerous of the Assembly
+	- The Director worked alongside Sherwin, not knowing his true occupations
+		- she figured it out, and does not tolerate secrets
+		- knows the government is corrupt, but she thought of herself above that
+		- she thought it was so unfair that Sherwin kept things from her
 	- 
