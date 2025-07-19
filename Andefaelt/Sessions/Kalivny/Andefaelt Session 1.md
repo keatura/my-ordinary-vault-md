@@ -21,7 +21,7 @@ The characters meet at the Mammoth Arm Inn, and gets a quest that may lead to so
 >
 >Kalivny is a small city, mostly made of brick buildings with a decently sized market square in the center, surrounded by other buildings such as inns and stores. There is a port to the north and a hill with the Mayor's mansion on it to the east. surrounding Kalivny are old stone walls, then miles of farming fields, most wheat with other vegetables to feed the town.
 >
->Just outside of the city center is the Mammoth Arm Inn. a decently sized two-floor tavern. Inside, there are common folk on their lunch break and sailors eating while their cargo is being taken care of. and at one of the tables, 2 particular looking people sitting.
+>Just outside of the city center is the Mammoth Arm Inn. a decently sized two-floor tavern. Inside, there are common folk on their lunch break and sailors eating while their cargo is being taken care of. and at one of the tables, 2 particular looking people sitting off to the side.
 - players intro and describe their characters
 
 the three met at the table, two of them found papers for mercenary work, one of them posted the paper
