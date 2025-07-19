@@ -838,4 +838,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- the Assembly wants to kill Shoga and create chaos
 - It's time to play the game
 - We walk down into an unfilled part of the archive
-- 
+- there is a gigantic tree made of crystal in the center of a larger arena
+	- there are 5 cauldrons in the tree, each on has a riddle enscribed
+	- 
