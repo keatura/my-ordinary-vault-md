@@ -121,4 +121,4 @@ If they go to the station, they are sent up to the captains office by a guard (P
 - when they go to leave, he asks Blue Bamba (sob) to stay behind, tells him that he'll let him go but would they are short staffed and does need him to help out.
 
 ## Scratch Notes
-- 
+- they captured a goblin, expect an interrogation
