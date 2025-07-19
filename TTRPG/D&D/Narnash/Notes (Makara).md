@@ -810,4 +810,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- The Archives were built during the Werewolf Wars
 	- The other libraries are built across everywhere, including a temple is Away-Place that is also guarded by a Sphinx
 		- Shes Dead
+	- The Exchange is the only item with a compass leading to it like we have on Narnash
+	- Ermine takes Dilys away after Dilys asks about the wolf
 	- 
