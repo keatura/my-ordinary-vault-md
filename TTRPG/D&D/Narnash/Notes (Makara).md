@@ -840,4 +840,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - We walk down into an unfilled part of the archive
 - there is a gigantic tree made of crystal in the center of a larger arena
 	- there are 5 cauldrons in the tree, each on has a riddle enscribed
-	- 
+	- the birds will stop attacking when we solve the riddles
+- the exit is the skylight, but we cannot leave prematurely
+- 
