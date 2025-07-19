@@ -803,4 +803,11 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Damian is looking for a magical needle
 	- he wants the eldritch claw tattoo
 - big things coming in Narnash!
-- 
+- Dilys and Damian are talking as he carves the tattoo into his neck
+- Dilys question time
+	- She can tell someone's intentions when they enter.
+	- The Exchange is something so valuable, and so important, and so powerful the the Divinity specifically requested Ermine guard it
+	- The Archives were built during the Werewolf Wars
+	- The other libraries are built across everywhere, including a temple is Away-Place that is also guarded by a Sphinx
+		- Shes Dead
+	- 
