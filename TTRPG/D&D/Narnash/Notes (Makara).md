@@ -800,4 +800,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - the Map belonged to Tien'Gong
 - There are 50 Sphinx on Narnash, and there are always 50
 	- when one dies, another is created
+- Damian is looking for a magical needle
+	- he wants the eldritch claw tattoo
+- big things coming in Narnash!
 - 
