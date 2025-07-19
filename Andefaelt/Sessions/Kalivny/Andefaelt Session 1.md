@@ -122,3 +122,6 @@ If they go to the station, they are sent up to the captains office by a guard (P
 
 ## Scratch Notes
 - they captured a goblin, expect an interrogation
+- they captured 3 more goblins
+- planning to head back into town and prepare to head out again soon
+- 
