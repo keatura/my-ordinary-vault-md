@@ -744,5 +744,50 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - SESSION END
 - holy peak
 
-# 7/19/25 (dylis is gonna crash out)
+# 7/19/25 Battle with a Sphinx (dilys is gonna crash out)
+- recap
+	- large pearly gate
+	- looking for "The Exchange"
+	- found ourselves in a weird place
+	- big spiral staircase
+	- fought the Aboleth
+	- escaped to a room nearby
+	- small library with a throne and traps
+	- damian ate a bird and can fly
+	- big room with a waterfall, and lots of golden birds
+	- we met Aravos through a magic mirror
+	- convinced the birds to help us open the plaque
+	- asphodel landed on a lever
+	- met the sphinx and got a gift
+	- everyone else came down on the plaque
+	- gigantic library
+		- assembly members got knocked out lol
+	- she wants to give us The Exchange, but cannot
+		- she has to fight us for it, but is giving us time to prepare
+- Dilys finds herself in a dreamscape of the archive, but it feels.. uncanny?
+- She sees the same wolf, with it's large, cyan eyes
+	- it seems to be following her?
+	- "So you finally made it to the Archives. Very good, very good!"
+- It approaches her, it's much larger than we remember
+- The wolf says they are a "disgraced author"
+	- but he doesn't have a book here, not in the archives
+	- "In another universe, maybe"
+	- Oh
+- It has been watching Dilys for a very long time, watching all of us
+	- "so are others, watch your back."
+	- Oh No
+- Lancer libraries are scattered all throughout Narnash
+- everything around Dilys starts to swirl and get smaller and smaller, with waves like a crt screen as the world around her dematerializes
+- nap time :3
+- WE AWAKEN
+	- awaken
+	- awaken
+	- awaken
+	- take the land, that must be taken
+- Olivia wakes up first, immediately starts looking for more tomes and scrolls
+- she is looking for info on succession systems in the various countries and loopholes
+	- Sinister
+- Ermine appears behind Olivia
+- She asks Ermine about what shes looking for
+	- "I Know What You Want, Olivia"
 - 
