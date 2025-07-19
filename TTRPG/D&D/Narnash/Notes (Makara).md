@@ -836,4 +836,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Even if it's not the king, the court and the military are very important
 	- looking for a way to "ask nicely" when trying to overthrow the government, without violence
 	- the Assembly wants to kill Shoga and create chaos
-	- 
+- It's time to play the game
+- We walk down into an unfilled part of the archive
+- 
