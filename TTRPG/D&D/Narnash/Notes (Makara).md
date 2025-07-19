@@ -790,4 +790,14 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Ermine appears behind Olivia
 - She asks Ermine about what shes looking for
 	- "I Know What You Want, Olivia"
+- Makara goes to talk to Dilys, wakes her up
+- She wants to make sure Dilys is ok, because she seemed upset
+	- "I'm Fine."
+	- Shit ok sure
+- Asphodel wakes up, immediate monkey shenanigans
+	- has to convince them to not steal a bird sob
+- She's looking for Ermine
+- the Map belonged to Tien'Gong
+- There are 50 Sphinx on Narnash, and there are always 50
+	- when one dies, another is created
 - 
