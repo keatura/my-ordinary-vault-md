@@ -818,4 +818,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 		- she figured it out, and does not tolerate secrets
 		- knows the government is corrupt, but she thought of herself above that
 		- she thought it was so unfair that Sherwin kept things from her
-	- 
+- Olivia is still looking for loop holes and information
+	- Sinister
+- 
