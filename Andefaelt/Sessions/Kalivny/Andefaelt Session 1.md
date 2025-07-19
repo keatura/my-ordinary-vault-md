@@ -79,6 +79,16 @@ The goblin attempts to reload, roll d6. 5-6 successful
 There is one Goblin who is acting as the sort of "leader". He has the following weapon instead of the Crude Revolver
 **Old Revolver.** Ranged Weapon Attack: +4 to hit, reach 50/150 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(5)
 
+Goblin Leader 20 3 shots
+Goblin 2 18
+Hearsay 17
+Policejack 16
+Mizuki 15
+Ezaren 14
+Goblin 3 13
+Blue Bamba 11
+Goblin 1 4
+
 #### The Ambush
 As everyone drives down the road, it begins to pour down rain. they come across the destroyed caravan, where they can assume Marckus was taken. As they drive up to it, they hear a loud *Ka-thunk* and a crack as they drive over a pothole that just looked like a small puddle and one of the wheels cracks.
 
