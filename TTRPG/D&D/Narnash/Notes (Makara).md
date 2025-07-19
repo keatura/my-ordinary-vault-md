@@ -820,4 +820,20 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 		- she thought it was so unfair that Sherwin kept things from her
 - Olivia is still looking for loop holes and information
 	- Sinister
-- 
+- Damian is looking for Tensa
+	- Shes gone
+	- Oh No
+- Damian is going looking for another assembly member
+	- he gets his head cut off
+	- yep
+- Ermine is hungry and shes hunting the assembly members
+	- she eats heads
+- Damian asks her to not kill Tensa
+- Damian goes to Olivia, talking about discussing something with the whole party
+- Olivia wants to discuss something privately with Ermine
+	- she wants to know about loopholes
+	- For Saze, she would need to get in good with the nobles and higher ups of Saze
+	- Even if it's not the king, the court and the military are very important
+	- looking for a way to "ask nicely" when trying to overthrow the government, without violence
+	- the Assembly wants to kill Shoga and create chaos
+	- 
