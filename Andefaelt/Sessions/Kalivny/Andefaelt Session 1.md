@@ -103,7 +103,7 @@ At the end of a trail is a small clearing, with a few tents and a small campfire
 
 Inside the camp there are
 a) a organizational list assigning the different goblins roles
-b) a rough map with a path leading deeper into the woods
+b) a rough map with a path leading deeper into the woods, roughly 15 miles and not clear.
 c) DC 10 investigation, in one of the tents there is a work in progress crude wooden carving of a medieval-style roundel dagger.
 
 As they search through the camp, comment on how the rain is starting to soak through their clothes and they are starting to shiver. Continuing forth immediately may cause issues.
