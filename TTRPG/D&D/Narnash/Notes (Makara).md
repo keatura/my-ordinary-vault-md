@@ -842,4 +842,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- there are 5 cauldrons in the tree, each on has a riddle enscribed
 	- the birds will stop attacking when we solve the riddles
 - the exit is the skylight, but we cannot leave prematurely
-- 
+- my notes are NOT locked in
+- Dilys got dropped out of the air
+- Asphodel 
