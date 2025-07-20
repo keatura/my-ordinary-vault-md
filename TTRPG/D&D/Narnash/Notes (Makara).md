@@ -846,3 +846,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Dilys got dropped out of the air
 - got a headache and stopped taking notes sob
 - stone sphinx is getting ripped apart by Olivia, she grabs the heart for one of the cauldrons
+- Makara stares into the eye
+- she sees a life with her mother, peaceful and not struggling for her life, and her name is Visha
+- 10d10 psychic damage holy christ
+- makara goes down
+- 
