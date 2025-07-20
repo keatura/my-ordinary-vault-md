@@ -844,4 +844,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - the exit is the skylight, but we cannot leave prematurely
 - my notes are NOT locked in
 - Dilys got dropped out of the air
-- 
+- got a headache and stopped taking notes sob
+- stone sphinx is getting ripped apart by Olivia, she grabs the heart for one of the cauldrons
