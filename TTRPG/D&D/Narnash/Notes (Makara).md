@@ -744,7 +744,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - SESSION END
 - holy peak
 
-# 7/19/25 Battle with a Sphinx (dilys is gonna crash out)
+# 7/19/25 Battle with a Sphinx (dilys is gonna crash out) (she doesn't) (we gotta fight ermine) (theres a big ass tree)
 - recap
 	- large pearly gate
 	- looking for "The Exchange"
