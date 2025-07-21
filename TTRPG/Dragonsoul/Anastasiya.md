@@ -91,6 +91,8 @@ complete an enneagram
 - 
 
 # questions
+https://ideonomy.mit.edu/essays/traits.html
+
 - Moment of greatest fear,
 - Moment of greatest courage,
 - Moment of greatest sadness,
@@ -155,18 +157,17 @@ complete an enneagram
  - Silvershift, her dragon girlfriend. They have a somewhat healthy relationship, and literally spend every waking moment together now that she has been turned into a magical item. 
  - Her band, **System Shock**. and it's 3 other members - a lead guitarist, drummer, and rhythm/vocals, with Anastasiya on bass. I'll fill these three more out in later updates
  - Her ex-family.
- - 
 
 - **Question 7;** What is your character's personality? Starting from most dominant traits to least dominant, pick nine trait descriptors to most succinctly describe your character.
  - motivated
  - passionate
  - focused
+ - rowdy
  - loyal
  - prideful
  - upstanding
- - defender
+ - possessive
  - defensive
- - 
 
 - **Question 8;** What are some fun facts about your character? Behavioral quirks, past moments, or any other details that add flavor.
  - eats really slow and savors her food even if its objectively slop, and even when she has something important to do she doesnt eat much faster
@@ -174,7 +175,6 @@ complete an enneagram
  - she has a really embarrassing tattoo of her first relationship on her lower calf, got it while she was drunk and its really shaky and terrible. (its some shit like E+A LUV 4EVA) She only wears pants because of this, or tries her best to cover it up by asking Silvershift to cover it up with the silver growths on her skin
  - smiths silver jewelry in her free time, and will occasionally give rings and necklaces to people who help her or as a gift, a way of showing appreciation
  - makes money through selling jewelry to her local community, sometimes internationally
- - 
 
 
 # Backstory
