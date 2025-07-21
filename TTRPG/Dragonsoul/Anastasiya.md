@@ -104,7 +104,7 @@ complete an enneagram
 	- description:
 		- ~~ 6'4"
 		- lanky and fairly skinny
-		- 
+		- pale as shit, like vampire level of white
 
 #### Enemies
 - 
