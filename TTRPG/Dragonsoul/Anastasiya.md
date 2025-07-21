@@ -75,6 +75,8 @@ complete an enneagram
 #### Friends
 - Her lover, Valentyna (met 12.19.516). She is a titled drake of the Earth, Spirit, and Chaos elements who was raised in The Crawling Hunt in the Eye. She managed to defect on a mission down to earth, and ran away to the Democratic Alliance
 - August Kuznetsova, the lead guitarist (they/them)
+	- Ana's stoner buddy, the reason she smokes
+	- band's composer
 	- 
 - Luka Kowalski, the drummer (she/her)
 	- 
@@ -86,6 +88,11 @@ complete an enneagram
 	- Met him when Ana and Val were looking for a place to sleep in their first few weeks, he let them crash on his couch for a little bit while they figured things out.
 	- They became good friends and eventually he invited her to band, teaching her to play bass
 	- His presence helped Anastasiya get used to her new situation, and helped her be as comfortable as she could be.
+	- Overall:
+		- the most caring
+		- the smartest
+		- straight-edge
+		- 
 
 #### Enemies
 - 
