@@ -79,6 +79,9 @@ complete an enneagram
 	- band's composer
 	- 
 - Luka Kowalski, the drummer (she/her)
+	- borderline conspiracy theorist
+		- believes in them in a way of like
+		  "realistically, I know it's not true. But What If?"
 	- 
 - Dima Novak, the rhythm guitarist who also helped with writing lyrics. (he/him)
 	- Dima was the gentlest of all of the band members, the most empathetic.
