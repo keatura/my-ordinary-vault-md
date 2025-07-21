@@ -149,7 +149,7 @@ complete an enneagram
  - While she doesnt hide the fact she's homeless, she doesn't like admitting the reason why. She doesn't like acknowledging the fact that her parents are still living fairly comfortably after kicking her out.
 
 - **Question 5;** The simple humanity in contradictions. What traits, desires, values, or characteristics contradict each other within your character? What are their paradoxes?
- - She absolutely detests righteous authority. If someone chooses to put themselves in a position of power over others to a point they have control on the life of others, whether through money, law, or morality she will inherently disagree with that. But she chooses the respect the Dragons. A group of creatures so powerful  
+ - She absolutely detests righteous authority. If someone chooses to put themselves in a position of power over others to a point they have control on the life of others, whether through money, law, or morality she will inherently disagree with that. But she also is very close with a dragon. And while Valentyna is not the worst example of draconic tyranny, she still chooses to trust Val and is helping her.
 
 - **Question 6;** What connections does your character have? Humans are creatures of community, counting both positive and negative connections. List three specific important relationships.
  - Silvershift, her dragon girlfriend. They have a somewhat healthy relationship, and literally spend every waking moment together now that she has been turned into a magical item. 
@@ -165,7 +165,7 @@ complete an enneagram
  - prideful
  - upstanding
  - defender
- - 
+ - defensive
  - 
 
 - **Question 8;** What are some fun facts about your character? Behavioral quirks, past moments, or any other details that add flavor.
