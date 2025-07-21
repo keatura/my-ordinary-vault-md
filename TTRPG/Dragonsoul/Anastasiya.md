@@ -84,8 +84,11 @@ complete an enneagram
 		  "realistically, I know it's not true. But What If?"
 	- very energetic, probably has adhd or something
 	- ~~ 6 foot
+	- boxes in her free time, taught Ana how to fight and win
+	- 
 	- 
 - Dima Novak, the rhythm guitarist who also helped with writing lyrics. (he/him)
+	- dead
 	- Dima was the gentlest of all of the band members, the most empathetic.
 	- Known for being the voice of reason between the four.
 	- He was the oldest in the group, and the wisest, he managed to stay away from drugs and general other addictions.
@@ -95,8 +98,12 @@ complete an enneagram
 	- His presence helped Anastasiya get used to her new situation, and helped her be as comfortable as she could be.
 	- Overall:
 		- the most caring
-		- the smartest
+		- the most street-wise
 		- straight-edge
+		- the oldest
+	- description:
+		- ~~ 6'4"
+		- lanky and fairly skinny
 		- 
 
 #### Enemies
