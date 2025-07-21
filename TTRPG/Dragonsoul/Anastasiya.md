@@ -74,7 +74,7 @@ complete an enneagram
 
 #### Friends
 - Her lover, Valentyna (met 12.19.516). She is a titled drake of the Earth, Spirit, and Chaos elements who was raised in The Crawling Hunt in the Eye. She managed to defect on a mission down to earth, and ran away to the Democratic Alliance
-- August Kuznetsov, the lead guitarist (they/them)
+- August Kuznetsova, the lead guitarist (they/them)
 	- 
 - Luka Kowalski, the drummer (she/her)
 	- 
