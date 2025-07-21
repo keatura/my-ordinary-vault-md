@@ -86,7 +86,7 @@ complete an enneagram
 		  "realistically, I know it's not true. But What If?"
 	- very hyperactive
 	- 
-	- boxes in her free time, taught Ana how to fight and win
+	- boxes in her free time, taught Ana the basics of fighting and defending herself
 	- description:
 		- ~~ 6 foot
 
