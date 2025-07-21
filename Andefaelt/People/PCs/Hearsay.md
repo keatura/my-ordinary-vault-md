@@ -15,6 +15,9 @@ she/her
 - any major experiences on the ship? or even in the year you have spent on Kalivny
 - favorite place? maybe a favorite bar (could be just a name and vibe) or something else, maybe someone they would write letters to?
 
+- the proving can happen for various reasons
+	- different prodigies can get into fights and altercations 
+
 ## Friends
 
 ##### Ukuchan Mechanic - Bolt-That-Sits-On-Desk "Bolt"
