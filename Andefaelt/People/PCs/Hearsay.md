@@ -16,7 +16,7 @@ she/her
 - favorite place? maybe a favorite bar (could be just a name and vibe) or something else, maybe someone they would write letters to?
 
 - the proving can happen for various reasons
-	- different prodigies can get into fights and altercations 
+	- different prodigies can get into fights and altercations. but generally wont kill each other
 
 ## Friends
 
