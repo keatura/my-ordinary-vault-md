@@ -162,11 +162,11 @@ complete an enneagram
  - passionate
  - focused
  - loyal
+ - prideful
  - upstanding
  - defender
  - 
- - 8
- - 9
+ - 
 
 - Question 8; What are some fun facts about your character? Behavioral quirks, past moments, or any other details that add flavor.
  - eats really slow and savors her food even if its objectively slop, and even when she has something important to do she doesnt eat much faster
