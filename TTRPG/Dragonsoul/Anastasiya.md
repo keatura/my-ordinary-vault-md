@@ -85,6 +85,7 @@ complete an enneagram
 		- believes in them in a way of like
 		  "realistically, I know it's not true. But What If?"
 	- very hyperactive
+	- was in a relationship with Dima, is NOT taking his death well
 	- 
 	- boxes in her free time, taught Ana the basics of fighting and defending herself
 	- description:
