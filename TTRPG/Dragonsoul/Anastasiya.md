@@ -77,6 +77,8 @@ complete an enneagram
 - August Kuznetsova, the lead guitarist (they/them)
 	- Ana's stoner buddy, and the reason she smokes
 	- band's composer
+	- taught Ana about maintaining her clothes, and how to hand sew
+	- 
 	- description:
 		- ~~ 5'7"
 
@@ -91,6 +93,8 @@ complete an enneagram
 	- 
 	- description:
 		- ~~ 6 foot
+		- has a leather battle jacket with studs that she LOVES and has had for like 8 years, wears it every day
+		- 
 
 - Dima Novak, the rhythm guitarist who also helped with writing lyrics. (he/him)
 	- dead
@@ -111,6 +115,7 @@ complete an enneagram
 		- ~~ 6'4"
 		- lanky and fairly skinny
 		- pale as shit, like vampire level of white
+		- not really into fashion, wore mostly cheap utilitarian clothes
 
 #### Enemies
 - 
