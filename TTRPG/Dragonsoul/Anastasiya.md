@@ -94,6 +94,7 @@ complete an enneagram
 
 - Dima Novak, the rhythm guitarist who also helped with writing lyrics. (he/him)
 	- dead
+	- Luka's boyfriend
 	- Dima was the gentlest of all of the band members, the most empathetic.
 	- Known for being the voice of reason between the four.
 	- He was the oldest in the group, and the wisest, he managed to stay away from drugs and general other addictions.
