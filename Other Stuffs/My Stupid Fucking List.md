@@ -1,7 +1,7 @@
 :3 :3 :3
 # Live Action
 - [x] Battle L.A.
-- [ ] Bill & Ted
+- [x] Bill & Ted
 - [ ] Bill & Ted 2
 - [ ] I Saw The TV Glow
 - [ ] Harold and Kumar Go To Whitecastle (while high)
@@ -9,11 +9,11 @@
 - [ ] John Wick 2
 - [ ] John Wick 3
 - [ ] John Wick 4
-- [ ] Inglorious Bastards
+- [x] Inglorious Bastards
 - [ ] V is for Vendetta
 - [ ] The Gentle Men
-- [ ] Mad Max: Furiosa
-- [ ] Mad Max: Fury Road
+- [x] Mad Max: Furiosa
+- [x] Mad Max: Fury Road
 - [ ] Godzilla (2014)
 - [ ] Godzilla: King of the Monsters
 - [ ] Godzilla: Minus One
@@ -24,7 +24,7 @@
 - [ ] Good Morning Vietnam
 - [ ] Zoolander
 - [ ] Forest Gump
-- [ ] Tropic Thunder
+- [x] Tropic Thunder
 - [ ] Saving Private Ryan
 - [ ] Civil War (new one)
 - [ ] 1917
