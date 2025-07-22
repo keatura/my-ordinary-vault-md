@@ -75,7 +75,7 @@ complete an enneagram
 #### Friends
 - Her lover, Valentyna (met 12.19.516). She is a titled drake of the Earth, Spirit, and Chaos elements who was raised in The Crawling Hunt in the Eye. She managed to defect on a mission down to earth, and ran away to the Democratic Alliance
 - August Kuznetsova, the lead guitarist (they/them)
-	- Ana's stoner buddy, the reason she smokes
+	- Ana's stoner buddy, and the reason she smokes
 	- band's composer
 	- description:
 		- ~~ 5'7"
@@ -85,9 +85,10 @@ complete an enneagram
 		- believes in them in a way of like
 		  "realistically, I know it's not true. But What If?"
 	- very hyperactive
-	- was in a relationship with Dima, is NOT taking his death well
-	- 
+	- was in a relationship with Dima, is NOT taking his death well (feels at fault, just like the other two but it's worst for her)
+	- orphan, been on the streets since she was 13 and Dima helped her survive, 2 years younger than him
 	- boxes in her free time, taught Ana the basics of fighting and defending herself
+	- 
 	- description:
 		- ~~ 6 foot
 
@@ -104,7 +105,7 @@ complete an enneagram
 		- the most caring
 		- the most street-wise
 		- straight-edge
-		- the oldest
+		- basically the father of the group
 	- description:
 		- ~~ 6'4"
 		- lanky and fairly skinny
