@@ -1,4 +1,4 @@
-Anastasiya is 4'8", with a fairly wide build. 
+Anastasiya is 4'8", with a fairly wide build. her skin 
 
 Open Malvora
 Free the Food
