@@ -1,7 +1,7 @@
 # Character Concept
 
 ###### Out of Character Inspirations
-- 
+- Saphira, 
 
 ###### General Ideas
 

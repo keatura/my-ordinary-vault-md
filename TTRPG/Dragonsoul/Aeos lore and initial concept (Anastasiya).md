@@ -79,10 +79,10 @@ The entire population of Dragons in the Eye started going into an all-out war at
 - The Crawling Hunt (own Maw, barbarians)
 - The Divine Host (brain rot and manipulate you into joining their religion)
 - The Devouring Hollow (small amounts of Very Powerful Dragons)
-- Starshatter (basically like mercenaries)
+- Starshatter (megachurch/religious group)
 - House of Nightmares (Will Literally Poof You)
 - The Horde of the Forsaken (Dragon Clowns who will just show up and fuck with you)
-- Stormstriders
+- Stormstriders (basically mercenaries)
 - The Golden Law (Lawful Evil merchant faction, managing resources and people do business through them)
 
 > Despite wanting to rebel against authority, there is also an unconscious desire to structure and orient themselves which results in a strong orientation to authority, authority figures and authoritarian ideals in the type 6 psyche. Inadvertently always refers back to, and props up, established sources of authority in everything they do. Idealize authority.
