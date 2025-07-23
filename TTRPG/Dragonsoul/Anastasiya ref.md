@@ -1,4 +1,4 @@
-
+Anastasiya is 4'8", with a fairly wide build. 
 
 Open Malvora
 Free the Food
