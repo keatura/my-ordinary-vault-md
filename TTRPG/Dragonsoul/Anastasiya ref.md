@@ -2,5 +2,5 @@
 
 Open Malvora
 Free the Food
-Close Watershed
+End Watershed
 Kill Facists
