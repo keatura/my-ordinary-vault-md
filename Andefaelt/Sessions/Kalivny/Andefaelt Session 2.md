@@ -1,7 +1,7 @@
 
 ## Session Description
 
-Example
+gobbo
 
 # Important Places This Session
 
