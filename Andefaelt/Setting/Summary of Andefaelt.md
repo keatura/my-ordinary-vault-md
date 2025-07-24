@@ -80,7 +80,7 @@ Literally Anyone
 Colors I think of: reds, oranges, cyan, green, and other fun colours for prayer flags and things, and the whites and browns and light blues of tundra
 Things that give off tradition, community, and resilience
 
-A place of community and loyalty, Zevka is located in the Highlands, a land of ice and freezing cold. 
+A place of community and loyalty, Zevka is located in the Highlands, a land of ice and freezing cold. Currently ruled by 
 
 Main Species:
 Humans, Goliaths, anyone else who wants to survive the cold
