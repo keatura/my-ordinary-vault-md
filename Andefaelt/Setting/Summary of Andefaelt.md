@@ -102,7 +102,7 @@ For species differences specific to Andefaelt
 - ukuchans are rat-like humanoids
 - dragonborn descend directly from dragons, and are the only living reminder that they existed. 
 	- also they have feathers on the back of their heads, behind their crests (kind of like hair) and on their tails - especially towards the ends. also sometimes there can be feathers on places like their elbows and necks.
-- tieflings are similar to aasimar, created by the goddess of the underworld, Morana.
+- tieflings are similar to aasimar, created by the goddess of the underworld, Morana, and her offspring. It's unknown how many Tieflings exist in Andefaelt, though they are a very rare sight most often.
 
 # Homebrew
 First off - No opportunity attacks. This is still open to change, but it's something I want to playtest.
