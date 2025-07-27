@@ -85,13 +85,6 @@ A place of community and loyalty, Zevka is located in the Highlands, a land of i
 Main Species:
 Humans, Goliaths, anyone else who wants to survive the cold
 
-# Water Troubles
-
-# Technology
-
-##### Runesteel
-Runesteel is extremely common in Andefaelt. 
-
 # Aesthetic and Vibes
 
 Andefaelt is a dieselpunk/decopunk setting, with a side of nature-based horror and struggles based around extreme weather events. most towns and cities have machinery and technology implemented in their economy, whether that be transport trucks, laborjacks and warjacks, or any other powered tool.
@@ -103,6 +96,3 @@ For species differences specific to Andefaelt
 - dragonborn descend directly from dragons, and are the only living reminder that they existed. 
 	- also they have feathers on the back of their heads, behind their crests (kind of like hair) and on their tails - especially towards the ends. also sometimes there can be feathers on places like their elbows and necks.
 - tieflings are similar to aasimar, created by the goddess of the underworld, Morana, and her offspring. It's unknown how many Tieflings exist in Andefaelt, though they are a very rare sight most often.
-
-# Homebrew
-First off - No opportunity attacks. This is still open to change, but it's something I want to playtest.
