@@ -5,13 +5,23 @@ gobbo
 
 # Important Places This Session
 
-- Place One
+- **[[Kalivny]]**
 
-## Chapter
-Scene description.
+- **[[Helena]]**
 
-#### Scene
-Scene description.
+## The Guard Headquarters
+The City Guard Headquarters is a large brick buildings with windows on the second floor and higher, and garages on the right side.
+
+First floor - Garages, Main Office, Armory, Briefing Room, and Holding Cells
+Second floor - Offices, Kitchen and break room, Interview and interrogation rooms
+Third floor - Guard Captains' office, Evidence Processing, storage
+
+#### Scene One
+The rain is calming down now, a medium drizzle, with a light mist coming off the streets.
+
+Inside the garage is a few people milling about, and one guy comes through a door (Hearsay recognizes them as Peter, someone who has been there a little longer than she.)
+
+several guards are sent to escort the goblins to cells
 
 #### Scene
 Scene description.
