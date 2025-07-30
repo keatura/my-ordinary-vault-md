@@ -23,8 +23,9 @@ Inside the garage is a few people milling about, and one guy comes through a doo
 
 several guards are sent to escort the goblins to cells
 
-#### Scene
-Scene description.
+#### Jacob Callaway
+His office is on the 3rd floor.
+
 
 #### Scene
 Scene description.
