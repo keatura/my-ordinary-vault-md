@@ -23,9 +23,10 @@ Inside the garage is a few people milling about, and one guy comes through a doo
 
 several guards are sent to escort the goblins to cells
 
-#### Jacob Callaway
+#### Marek Callaway
 His office is on the 3rd floor.
-
+- gruff man, very tan skin and a very gruff guy
+- is a dwarf, has a big beard, he doesnt wear any decorations on his uniform, and it looks well-worn. 
 
 #### Scene
 Scene description.

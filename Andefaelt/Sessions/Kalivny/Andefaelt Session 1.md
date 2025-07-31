@@ -46,7 +46,7 @@ basically what she needs to hit:
 - a thing you would personally know after being in the town guard for a while is that this is out of character, they generally just are raiding for fun or supplies or whatever reason they may have, but they rarely take prisoners
 
 #### The City Guard
-- [[Jacob Callaway]] is the captain of the city guard.
+- [[Marek Callaway]] is the captain of the city guard.
 - there is a truck and cart at the station prepped for them, cart has the Policejack in it.
 - The station itself is a large brick structure, 2 stories and about 100 feet wide and 70 feet deep.
 	- The first floor has the entrance area armory and stuff, and the garage with some cars.
