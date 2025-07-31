@@ -65,13 +65,12 @@ The goblin attempts to reload, roll d6. 5-6 successful
 
 **Nimble Escape.**
 *The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
-
 #### *Hobgoblin*
 Medium Humanoid
 AC: 16
-HP: 11
-Speed: 30ft  
-**STR: 14(+2), DEX: 12(+1), CON: 12(+1), INT: 10(0), WIS: 10(0), CHA: 9(-1)**
+HP: 11 (2d8+2)
+Speed: 30ft
+**STR: 14(+2), DEX: 14(+2), CON: 12(+1), INT: 10(0), WIS: 10(0), CHA: 9(-1)**
 Senses: Darkvision 60ft, Passive perception 10
 CR 1/2 PB +2
 
@@ -80,16 +79,16 @@ While the Hobgoblin is within 5ft of a friendly creature, it deals an extra 7 (2
 
 **Actions.**
 
-***Longsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., One Target. Hit: (1d10 + 1) Slashing damage.
-***Crude Rifle.*** Ranged Weapon Attack: +4 to hit, reach 30/60 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(1)
+***Longsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., One Target. Hit: (1d10 + 2) Slashing damage.
+***Crude Longrifle.*** Ranged Weapon Attack: +4 to hit, reach 60/180 ft., One Target. Hit: (1d12 + 2) Piercing damage. Reload(1)
 
 ***Reload.***
 The hobgoblin reloads.
 
 **Bonus Actions.**
 
-***Nimble Escape.***
-*The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
+***Leadership.***
+*The Hobgoblin orders one of it's allies to make an attack. The target friendly creature may then use it's reaction to make an attack against the closest target.*
 
 #### The Path In
 Scene description.
