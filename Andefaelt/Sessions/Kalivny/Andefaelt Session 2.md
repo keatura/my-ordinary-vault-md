@@ -84,7 +84,7 @@ While the Hobgoblin is within 5ft of a friendly creature, it deals an extra 7 (2
 ***Crude Rifle.*** Ranged Weapon Attack: +4 to hit, reach 30/60 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(1)
 
 ***Reload.***
-The goblin attempts to reload, roll d6. 5-6 successful
+The hobgoblin reloads.
 
 **Bonus Actions.**
 
