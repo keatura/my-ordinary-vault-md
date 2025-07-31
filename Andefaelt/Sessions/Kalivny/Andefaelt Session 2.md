@@ -39,16 +39,16 @@ Scene description.
 #### Scene
 Scene description.
 
-## Chapter
+## The Goblin Camp
 Scene description.
 
-#### Scene
+#### The Path In
 Scene description.
 
-#### Scene
+#### Outskirts
 Scene description.
 
-#### Scene
+#### In the Camp
 Scene description.
 
 #### Scene
