@@ -36,11 +36,59 @@ His office is on the 3rd floor.
 
 #### Stables
 - Stables are on the outskirts of town, but have an agreement with the city guard to rent horses out to them if they need them.
-- when they walk in, theres a couple men in suits with bowler hats
+- when they walk in, there's a couple men in suits with bowler hats sitting at a table talking
+	- new york accents
+	- dc10 history, these guys are a part of the Horse Mafia
+	- i
 
 
 ## The Goblin Camp
-Scene description.
+#### *Goblin*
+Small Humanoid  
+AC: 13  
+HP: 7  
+Speed: 30ft  
+**STR: 8(-1), DEX: 14(+2), CON: 10(0), INT: 10(0), WIS: 8(-1), CHA: 8(-1)**  
+Skills: Stealth +6  
+Senses: Darkvision 60ft, Passive perception 9  
+CR 1/4 PB +2
+
+**Actions.**
+
+**Scimitar.** Melee Weapon Attack: +4 to hit, reach 5 ft., One Target. Hit: (1d6 + 2) Slashing damage.
+**Crude Rifle.** Ranged Weapon Attack: +4 to hit, reach 30/60 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(1)
+
+**Reload.**
+The goblin attempts to reload, roll d6. 5-6 successful
+
+**Bonus Actions.**
+
+**Nimble Escape.**
+*The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
+
+#### *Hobgoblin*
+Medium Humanoid
+AC: 16
+HP: 11
+Speed: 30ft  
+**STR: 14(+2), DEX: 12(+1), CON: 12(+1), INT: 10(0), WIS: 10(0), CHA: 9(-1)**
+Senses: Darkvision 60ft, Passive perception 10
+CR 1/2 PB +2
+
+***Martial Advantage***
+
+**Actions.**
+
+***Longsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., One Target. Hit: (1d10 + 1) Slashing damage.
+***Crude Rifle.*** Ranged Weapon Attack: +4 to hit, reach 30/60 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(1)
+
+***Reload.***
+The goblin attempts to reload, roll d6. 5-6 successful
+
+**Bonus Actions.**
+
+***Nimble Escape.***
+*The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
 
 #### The Path In
 Scene description.
