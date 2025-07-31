@@ -75,7 +75,8 @@ Speed: 30ft
 Senses: Darkvision 60ft, Passive perception 10
 CR 1/2 PB +2
 
-***Martial Advantage***
+***Regimented.***
+While the Hobgoblin is within 5ft of a friendly creature, it deals an extra 7 (2d6) damage on all of it's attacks.
 
 **Actions.**
 
