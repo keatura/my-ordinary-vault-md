@@ -34,11 +34,10 @@ His office is on the 3rd floor.
 - He'll answer any other questions to a reasonable extent
 - Sascha still isn't off the hook - needs to find the kid before they'll officially let him go
 
-#### 
-Scene description.
+#### Stables
+- Stables are on the outskirts of town, but have an agreement with the city guard to rent horses out to them if they need them.
+- when they walk in, theres a couple men in suits with bowler hats
 
-#### Scene
-Scene description.
 
 ## The Goblin Camp
 Scene description.
