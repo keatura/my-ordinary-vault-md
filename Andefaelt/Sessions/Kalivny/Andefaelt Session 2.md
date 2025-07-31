@@ -31,9 +31,9 @@ His office is on the 3rd floor.
 - is interested by the map, there's rumors of old ruins or something out there.
 - if they talk about or show him evidence of the goblins being organized, he seems concerned. "organized goblins are dangerous goblins, that's the last thing we need."
 - He'll answer any other questions to a reasonable extent
-- when they go to leave, he asks Blue Bamba (sob) to stay behind, tells him that he'll let him go but would they are short staffed and does need him to help out.
+- Sascha still isn't off the hook - needs to find the kid before they'll officially let him go
 
-#### Scene
+#### 
 Scene description.
 
 #### Scene
