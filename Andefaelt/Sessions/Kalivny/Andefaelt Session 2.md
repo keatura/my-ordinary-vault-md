@@ -75,7 +75,7 @@ Senses: Darkvision 60ft, Passive perception 10
 CR 1/2 PB +2
 
 ***Regimented.***
-Once per turn, while the Hobgoblin is within 5ft of a friendly creature that isn't incapacitated, it deals an extra 7 (2d6) damage on all of it's attacks.
+Once per turn, while the Hobgoblin is within 5ft of a friendly creature that isn't incapacitated, it deals an extra 7 (2d6) damage on an attack.
 
 **Actions.**
 
