@@ -98,3 +98,8 @@ For species differences specific to Andefaelt
 - dragonborn descend directly from dragons, and are the only living reminder that they existed. 
 	- also they have feathers on the back of their heads, behind their crests (kind of like hair) and on their tails - especially towards the ends. also sometimes there can be feathers on places like their elbows and necks.
 - tieflings are similar to aasimar, created by the goddess of the underworld, Morana, and her offspring. It's unknown how many Tieflings exist in Andefaelt, though they are a very rare sight most often.
+
+# Homebrew
+First of all - Opportunity attacks are made at disadvantage. If this ends up not working, it may be up to completely removing them or just reverted to base 5e rules.
+
+Second of all - Minion rules. monsters will be part of "units" that share a health pool. so for example, a Zevkan Infantry unit comprised of 5 soldiers, where each soldier has 7 health. 7 damage will, of course kill one soldier. But, any damage over 7 is carried over to the other soldiers and applied to them. So if a unit of soldiers is hit by an attack, and takes 16 damage, then the damage would "bleed" over, killing 2 soldiers and leaving another with 5 health.

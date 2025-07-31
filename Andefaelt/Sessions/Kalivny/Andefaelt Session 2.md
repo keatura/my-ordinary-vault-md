@@ -28,6 +28,7 @@ His office is on the 3rd floor.
 - gruff man, very tan skin and a very gruff guy
 - is a dwarf, has a big beard, he doesnt wear any decorations on his uniform, and it looks well-worn. 
 - Marek lets them know he can't pay them if they didn't find the kid, but can sponsor them to go out again and pay for their nights rest in the town if they do so.
+	- hands Hearsay a check to pay for hers and the others general needs for food and rest in town.
 - is interested by the map, there's rumors of old ruins or something out there.
 - if they talk about or show him evidence of the goblins being organized, he seems concerned. "organized goblins are dangerous goblins, that's the last thing we need."
 - He'll answer any other questions to a reasonable extent
