@@ -88,7 +88,7 @@ Once per turn, while the Hobgoblin is within 5ft of a friendly creature that isn
 *The hobgoblin reloads any firearms it is wielding.*
 
 #### The Path In
-Scene description.
+The long path towards the Goblin camp is very muddy, but still prevalent 
 
 #### Outskirts
 Scene description.
