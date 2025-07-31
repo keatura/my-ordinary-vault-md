@@ -38,8 +38,8 @@ His office is on the 3rd floor.
 - Stables are on the outskirts of town, but have an agreement with the city guard to rent horses out to them if they need them.
 - when they walk in, there's a couple men in suits with bowler hats sitting at a table talking
 	- new york accents
-	- dc10 history, these guys are a part of the Horse Mafia
-	- i
+	- dc10 history, these guys are a part of the [[Horse Mafia]]. One of them has a guitar case with a submachine gun, and the other has a greatcoat.
+	- if they dont cause problems, they get the horses with no problem
 
 
 ## The Goblin Camp
