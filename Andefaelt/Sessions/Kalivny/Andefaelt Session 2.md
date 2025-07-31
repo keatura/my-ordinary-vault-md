@@ -75,20 +75,17 @@ Senses: Darkvision 60ft, Passive perception 10
 CR 1/2 PB +2
 
 ***Regimented.***
-While the Hobgoblin is within 5ft of a friendly creature, it deals an extra 7 (2d6) damage on all of it's attacks.
+Once per turn, while the Hobgoblin is within 5ft of a friendly creature that isn't incapacitated, it deals an extra 7 (2d6) damage on all of it's attacks.
 
 **Actions.**
 
 ***Longsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., One Target. Hit: (1d10 + 2) Slashing damage.
 ***Crude Longrifle.*** Ranged Weapon Attack: +4 to hit, reach 60/180 ft., One Target. Hit: (1d12 + 2) Piercing damage. Reload(1)
 
-***Reload.***
-The hobgoblin reloads.
-
 **Bonus Actions.**
 
-***Leadership.***
-*The Hobgoblin orders one of it's allies to make an attack. The target friendly creature may then use it's reaction to make an attack against the closest target.*
+***Reload.***
+*The hobgoblin reloads any firearms it is wielding.*
 
 #### The Path In
 Scene description.
