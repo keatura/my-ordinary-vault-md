@@ -88,7 +88,8 @@ Once per turn, while the Hobgoblin is within 5ft of a friendly creature that isn
 *The hobgoblin reloads any firearms it is wielding.*
 
 #### The Path In
-The long path towards the Goblin camp is very muddy, but still prevalent 
+The long path towards the Goblin camp is very muddy, but still prevalent with cart tracks, especially the further along the party heads.
+- after roughly 6 or so miles, they start to see sporadic smaller trails leading off to other parts of the forest.
 
 #### Outskirts
 Scene description.
