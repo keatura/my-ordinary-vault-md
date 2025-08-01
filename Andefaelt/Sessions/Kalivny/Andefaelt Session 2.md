@@ -137,15 +137,16 @@ The long path towards the Goblin camp is very muddy, but still prevalent with ca
 - one has a cart, that has supplies for another camp like tents, sticks to build racks, and tools
 
 #### Outskirts
-- as they get to the outskirts of the camp, they see a palisade wall about 100ft long, with about 50ft of open land leading up to the gate, with goblins standing at the top of the wall 
-- they are willing to talk to Mizuki, and lead her into the camp to speak with the head Shaman, [[Chantmaster Zekka]]. 
+- as they get to the outskirts of the camp, they see a palisade wall about 100ft long, with about 50ft of open land leading up to the gate, with goblins standing at the top of the wall and two hobgoblins standing at either side of the gate.
+- farmland surrounds the palisades with goblins harvesting the last of the crop in the fields, mostly potatoes and pumpkins.
+- they are willing to talk to Mizuki, and lead her into the camp to speak with the head Shaman, [[Chantmaster Zekka]].
+- 
 
 #### In the Camp
-- Inside the camp, there are large circular tents, and at the center of camp a much larger tent.
-- next to the tent is an excavated area, leading into a c
-
-#### Scene
-Scene description.
+- Inside the camp, there are large circular tents, a blacksmith and a gunsmith. and at the center of camp a much larger tent.
+- next to the tent is an excavated area, leading into a cave.
+- leading from the gate into the cave are cart tracks
+- roughly like 100 goblins and 
 
 ## Scratch Notes
 - Example
