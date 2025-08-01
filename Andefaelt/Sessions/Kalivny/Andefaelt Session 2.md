@@ -138,15 +138,17 @@ The long path towards the Goblin camp is very muddy, but still prevalent with ca
 
 #### Outskirts
 - as they get to the outskirts of the camp, they see a palisade wall about 100ft long, with about 50ft of open land leading up to the gate, with goblins standing at the top of the wall and two hobgoblins standing at either side of the gate.
-- farmland surrounds the palisades with goblins harvesting the last of the crop in the fields, mostly potatoes and pumpkins.
+- farmland surrounds the palisades with goblins harvesting the last of the crop in the fields, mostly greens and pumpkins.
+- they see a shaman looking goblins walk around from the edge of the palisades seemingly from other farmland, walk into the middle of some of the farmland and start a quiet chant. a small rain cloud forms over the tip of the staff and the shaman starts watering the plants.
 - they are willing to talk to Mizuki, and lead her into the camp to speak with the head Shaman, [[Chantmaster Zekka]].
-- 
+- Though they do require the other three to be guarded, and Hearsay to have their arms tied together and arms
 
 #### In the Camp
 - Inside the camp, there are large circular tents, a blacksmith and a gunsmith. and at the center of camp a much larger tent.
 - next to the tent is an excavated area, leading into a cave.
 - leading from the gate into the cave are cart tracks
-- roughly like 100 goblins and 
+- roughly like 100 goblins and 30 hobgoblins
+- the Chantmasters tent has her with some other Shamans inside as well, surrounding a fire.
 
 ## Scratch Notes
 - Example
