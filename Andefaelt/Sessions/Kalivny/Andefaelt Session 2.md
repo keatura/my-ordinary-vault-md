@@ -43,7 +43,7 @@ His office is on the 3rd floor.
 
 
 ## The Goblin Camp
-#### *Goblin*
+##### *Goblin*
 Small Humanoid  
 AC: 13  
 HP: 7  
@@ -66,7 +66,7 @@ The goblin attempts to reload, roll d6. 5-6 successful
 **Nimble Escape.**
 *The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
 
-#### *Goblin Shaman*
+##### *Goblin Shaman*
 Small Humanoid  
 AC: 11
 HP: 27 
@@ -99,7 +99,7 @@ Cantrips (at will): druidcraft, produce flame, shillelagh, frost bolt
 
 ***Vine Shield.*** When any creature is targeted with an attack within 30ft of the Goblin Shaman, this creature may use it's reaction to give the target +2 AC until the start of their next turn. The effected creature may not move under any circumstance until the start of their next turn.
 
-#### *Hobgoblin*
+##### *Hobgoblin*
 Medium Humanoid
 AC: 16
 HP: 11 (2d8+2)
