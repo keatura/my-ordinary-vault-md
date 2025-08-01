@@ -141,7 +141,7 @@ The long path towards the Goblin camp is very muddy, but still prevalent with ca
 - farmland surrounds the palisades with goblins harvesting the last of the crop in the fields, mostly greens and pumpkins.
 - they see a shaman looking goblins walk around from the edge of the palisades seemingly from other farmland, walk into the middle of some of the farmland and start a quiet chant. a small rain cloud forms over the tip of the staff and the shaman starts watering the plants.
 - they are willing to talk to Mizuki, and lead her into the camp to speak with the head Shaman, [[Chantmaster Zekka]].
-- Though they do require the other three to be guarded, and Hearsay to have their arms tied together and arms
+- Though they do require the other three to be guarded, and Hearsay to have their arms bound together.
 
 #### In the Camp
 - Inside the camp, there are large circular tents, a blacksmith and a gunsmith. and at the center of camp a much larger tent.
@@ -149,6 +149,10 @@ The long path towards the Goblin camp is very muddy, but still prevalent with ca
 - leading from the gate into the cave are cart tracks
 - roughly like 100 goblins and 30 hobgoblins
 - the Chantmasters tent has her with some other Shamans inside as well, surrounding a fire.
+- She is willing to give the boy back, but tomorrow, as to complete the ritual first.
+	- The ritual is to build a Grove, something they sadly lack a truly experienced Archdruid to complete.
+	- The Dagger promised them this magical power as long as they remove it from the tomb and provide it with a human.
+	- If the ritual kills the boy she promises that she will not attack any more caravans or human settlements, as long as they stop the deforestation and logging. 
 
 ## Scratch Notes
 - Example
