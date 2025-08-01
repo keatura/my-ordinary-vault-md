@@ -65,6 +65,40 @@ The goblin attempts to reload, roll d6. 5-6 successful
 
 **Nimble Escape.**
 *The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
+
+#### *Goblin Shaman*
+Small Humanoid  
+AC: 11
+HP: 27 
+Speed: 30ft  
+**STR: 10(0), DEX: 12(+1), CON: 13(+1), INT: 12(+1), WIS: 15(+2), CHA: 11(0)**  
+Skills: Stealth +6  
+Senses: Darkvision 60ft, Passive perception 9  
+CR 1/4 PB +2
+
+**Spellcasting.** The Goblin Shaman is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
+
+Cantrips (at will): druidcraft, produce flame, shillelagh, wild bolt
+
+1st level (4 slots): entangle, longstrider, speak with animals, thunderwave
+
+2nd level (3 slots): animal messenger, barkskin
+
+**Actions.**
+
+***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with *shillelagh*.
+
+***Wild Bolt.*** *Ranged Spell Attack:* +4 to hit, reach 60ft., one target. Hit: 6 (1d10) poison damage.
+
+**Bonus Actions.**
+
+**Nimble Escape.**
+*The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
+
+**Reactions.**
+
+***Vine Shield.*** When any creature is targeted with an attack within 30ft of the Goblin Shaman, this creature may use it's reaction to give the target +2 AC until the start of their next turn. The effected creature may not move under any circumstance until the start of their next turn.
+
 #### *Hobgoblin*
 Medium Humanoid
 AC: 16
