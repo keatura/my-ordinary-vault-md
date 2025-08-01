@@ -136,7 +136,7 @@ The long path towards the Goblin camp is very muddy, but still prevalent with ca
 - one has a cart, that has supplies for another camp like tents, sticks to build racks, and tools
 
 #### Outskirts
-- as they get to the outskirts of the camp, they see a palisade wall about 100ft long, with about 50ft of open land along the road
+- as they get to the outskirts of the camp, they see a palisade wall about 100ft long, with about 50ft of open land leading up to the gate, with goblins standing at the top of the wall 
 
 #### In the Camp
 Scene description.
