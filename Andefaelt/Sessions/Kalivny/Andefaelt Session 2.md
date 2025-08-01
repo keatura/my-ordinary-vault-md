@@ -128,11 +128,15 @@ Once per turn, while the Hobgoblin is within 5ft of a friendly creature that isn
 #### The Path In
 The long path towards the Goblin camp is very muddy, but still prevalent with cart tracks, especially the further along the party heads.
 - after roughly 6 or so miles, they start to see sporadic smaller trails leading off to other parts of the forest.
+- it starts to get dark
 - while walking along the path, they encounter 4 goblins carrying supplies and rifles, with a Hobgoblin bodyguard.
 	- DC 10 perception checks to see the goblins first.
+- after this encounter it starts to get late
+- theres a few more groups like this the next day
+- one has a cart, that has supplies for another camp like tents, sticks to build racks, and tools
 
 #### Outskirts
-- as they get to the outskirts of the camp, they see a palisade wall about 100ft long, 
+- as they get to the outskirts of the camp, they see a palisade wall about 100ft long, with about 50ft of open land along the road
 
 #### In the Camp
 Scene description.
