@@ -78,17 +78,17 @@ CR 1/4 PB +2
 
 **Spellcasting.** The Goblin Shaman is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
-Cantrips (at will): druidcraft, produce flame, shillelagh, wild bolt
+Cantrips (at will): druidcraft, produce flame, shillelagh, frost bolt
 
 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave
 
-2nd level (3 slots): animal messenger, barkskin
+2nd level (3 slots): animal messenger, enlarge/reduce
 
 **Actions.**
 
 ***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with *shillelagh*.
 
-***Wild Bolt.*** *Ranged Spell Attack:* +4 to hit, reach 60ft., one target. Hit: 6 (1d10) poison damage.
+***Frost Bolt.*** *Ranged Spell Attack:* +4 to hit, reach 60ft., one target. Hit: 4 (1d8) cold damage, and the target has disadvantage on the next weapon attack roll it makes before the end of its next turn.
 
 **Bonus Actions.**
 
