@@ -141,7 +141,8 @@ The long path towards the Goblin camp is very muddy, but still prevalent with ca
 - they are willing to talk to Mizuki, and lead her into the camp to speak with the head Shaman, [[Chantmaster Zekka]]. 
 
 #### In the Camp
-Scene description.
+- Inside the camp, there are large circular tents, and at the center of camp a much larger tent.
+- next to the tent is an excavated area, leading into a c
 
 #### Scene
 Scene description.
