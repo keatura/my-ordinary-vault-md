@@ -44,6 +44,7 @@ His office is on the 3rd floor.
 
 
 ## The Goblin Camp
+[Best 250 DnD Goblin Names (With Meanings)](https://amazinggameroom.com/fantasy-names/goblin-names/)
 ##### *Goblin*
 Small Humanoid  
 AC: 13  
@@ -73,8 +74,8 @@ AC: 11
 HP: 27 
 Speed: 30ft  
 **STR: 10(0), DEX: 12(+1), CON: 13(+1), INT: 12(+1), WIS: 15(+2), CHA: 11(0)**  
-Skills: Stealth +6  
-Senses: Darkvision 60ft, Passive perception 9  
+Skills: Stealth +6, Nature +3, Medicine +4
+Senses: Darkvision 60ft, Passive perception 12
 CR 1/4 PB +2
 
 **Spellcasting.** The Goblin Shaman is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
