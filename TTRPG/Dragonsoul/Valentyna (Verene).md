@@ -1,7 +1,7 @@
 # Character Concept
 
 ###### Out of Character Inspirations
-- 
+- Saphira, 
 
 ###### General Ideas
 
@@ -70,8 +70,6 @@
 - 
 
 # questions
-https://ideonomy.mit.edu/essays/traits.html
-
 - Moment of greatest fear,
 - Moment of greatest courage,
 - Moment of greatest sadness,
@@ -106,9 +104,6 @@ https://ideonomy.mit.edu/essays/traits.html
 - "I'm not that kind of person" / "You cant ask me to do that",
 - "I thought you loved me",
 - "No matter what I do, it will never be good enough."
-
-List descriptors to describe the character.
-- 
 
 # Backstory
 

@@ -15,6 +15,9 @@ she/her
 - any major experiences on the ship? or even in the year you have spent on Kalivny
 - favorite place? maybe a favorite bar (could be just a name and vibe) or something else, maybe someone they would write letters to?
 
+- the proving can happen for various reasons
+	- different prodigies can get into fights and altercations. but generally wont kill each other
+
 ## Friends
 
 ##### Ukuchan Mechanic - Bolt-That-Sits-On-Desk "Bolt"
@@ -22,4 +25,4 @@ she/her
 - helps Hearsay work on Bones, letting her borrow tools and learn how to work on Jacks
 - Literally just walked into Bolt's shop and dropped off Bones, they had a short talk and now Hearsay pays rent and they are roommates
 - understands that Hearsay has a bit more going on than she lets on - doesnt really care and doesnt ask
-- 
+- wants to hunt and kill the King of Rats

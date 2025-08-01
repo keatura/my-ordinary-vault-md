@@ -46,7 +46,7 @@ basically what she needs to hit:
 - a thing you would personally know after being in the town guard for a while is that this is out of character, they generally just are raiding for fun or supplies or whatever reason they may have, but they rarely take prisoners
 
 #### The City Guard
-- [[Jacob Callaway]] is the captain of the city guard.
+- [[Marek Callaway]] is the captain of the city guard.
 - there is a truck and cart at the station prepped for them, cart has the Policejack in it.
 - The station itself is a large brick structure, 2 stories and about 100 feet wide and 70 feet deep.
 	- The first floor has the entrance area armory and stuff, and the garage with some cars.
@@ -114,7 +114,7 @@ Returning to the truck, the driver managed to replace the tire and get the truck
 It's a slow process back to town in the mud, but they get home safely. As they return to town the rain slows down but doesn't stop.
 
 If they go to the station, they are sent up to the captains office by a guard (Peter) in the garage.
-- Jacob lets them know he can't pay them if they didn't find the kid, but can sponsor them to go out again and pay for their nights rest in the town if they do so.
+- Marek lets them know he can't pay them if they didn't find the kid, but can sponsor them to go out again and pay for their nights rest in the town if they do so.
 - is interested by the map, there's rumors of old ruins or something out there.
 - if they talk about or show him evidence of the goblins being organized, he seems concerned. "organized goblins are competent goblins, that's the last thing we need."
 - He'll answer any other questions to a reasonable extent

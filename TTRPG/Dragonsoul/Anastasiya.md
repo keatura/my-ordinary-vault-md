@@ -74,11 +74,31 @@ complete an enneagram
 
 #### Friends
 - Her lover, Valentyna (met 12.19.516). She is a titled drake of the Earth, Spirit, and Chaos elements who was raised in The Crawling Hunt in the Eye. She managed to defect on a mission down to earth, and ran away to the Democratic Alliance
-- August Kuznetsov, the lead guitarist (they/them)
+- August Kuznetsova, the lead guitarist (they/them)
+	- Ana's stoner buddy, and the reason she smokes
+	- band's composer
+	- taught Ana about maintaining her clothes, and how to hand sew
 	- 
+	- description:
+		- ~~ 5'7"
+
 - Luka Kowalski, the drummer (she/her)
+	- borderline conspiracy theorist
+		- believes in them in a way of like
+		  "realistically, I know it's not true. But What If?"
+	- very hyperactive
+	- was in a relationship with Dima, is NOT taking his death well (feels at fault, just like the other two but it's worst for her)
+	- orphan, been on the streets since she was 13 and Dima helped her survive, 2 years younger than him
+	- boxes in her free time, taught Ana the basics of fighting and defending herself
 	- 
+	- description:
+		- ~~ 6 foot
+		- has a leather battle jacket with studs that she LOVES and has had for like 8 years, wears it every day
+		- 
+
 - Dima Novak, the rhythm guitarist who also helped with writing lyrics. (he/him)
+	- dead
+	- Luka's boyfriend
 	- Dima was the gentlest of all of the band members, the most empathetic.
 	- Known for being the voice of reason between the four.
 	- He was the oldest in the group, and the wisest, he managed to stay away from drugs and general other addictions.
@@ -86,11 +106,23 @@ complete an enneagram
 	- Met him when Ana and Val were looking for a place to sleep in their first few weeks, he let them crash on his couch for a little bit while they figured things out.
 	- They became good friends and eventually he invited her to band, teaching her to play bass
 	- His presence helped Anastasiya get used to her new situation, and helped her be as comfortable as she could be.
+	- Overall:
+		- the most caring
+		- the most street-wise
+		- straight-edge
+		- basically the father of the group
+	- description:
+		- ~~ 6'4"
+		- lanky and fairly skinny
+		- pale as shit, like vampire level of white
+		- not really into fashion, wore mostly cheap utilitarian clothes
 
 #### Enemies
 - 
 
 # questions
+https://ideonomy.mit.edu/essays/traits.html
+
 - Moment of greatest fear,
 - Moment of greatest courage,
 - Moment of greatest sadness,
@@ -128,53 +160,51 @@ complete an enneagram
 - Birthday?
 	- 11.1.122 (14.5)
 
- Question 1; What are the driving forces of your character? The nature and quality of their desire. List two motivations, primary and secondary.
+ **Question 1;** What are the driving forces of your character? The nature and quality of their desire. List two motivations, primary and secondary.
  - Anastasiya's primary motivation is to bring find a way to bring Silvershift back out of the weapon, and returned to her original human body.
  - Reform the capitalistic society within The Democratic Alliance and create change that benefits the working class
 
-- Question 2; What happens when they cannot achieve their goals? How do they react? How do they feel? Describe the personality's distortion.
+- **Question 2;** What happens when they cannot achieve their goals? How do they react? How do they feel? Describe the personality's distortion.
  - When things start to fall apart, Anastasiya starts to become selfish and desperate to make it work, resulting to drastic measures, when she is normally open to helping others and fighting for those who cant.
  - She becomes very dead-set on making **Her Plan** work, and not listening to others. She will literally brute forcing a problem into working before thinking of a different way. This isn't her first response, but when she gets extremely frustrated and starts to break down, she definitely turns to brutality and violence.  
 
-- Question 3; What emotional wounds does your character bear? Psychological trauma, emotional baggage, mortal fears, vulnerabilities. How are they affected?
+- **Question 3;** What emotional wounds does your character bear? Psychological trauma, emotional baggage, mortal fears, vulnerabilities. How are they affected?
  - She's worried that she is not doing good enough, worried that Silvershift is upset that she is *still* inside of the ax
  - one of her core fears is becoming powerless. between her former social standing with the band, and the possibility of losing the trinket that ties Silvershift and Anastasiya together and severing their bond.
  - She definitely has abandonment issues from being kicked out as a teenager. She has a MILDLY unhealthy bond with Silvershift, who, as a dragon, does instinctively use that sometimes. She is stand-offish to outsiders because she is scared of growing close to them and losing them.
- - Her core vulnerability is definitely those close to her hurting her. Even her old bandmates she would pretend on the outside she doesnt care but if they insult her it would stick in her brain for a WHILE. Not so much her ex-family.
- - Her biggest emotional baggage is just that she is in WAY over her head. She went from being a member of a basement-show playing punk band to scouring the world to figure out how to take a DRAGON SOUL out of a weapon that is intrinsically tied to her, hoping that she can save a relationship with a being that is unfathomably more powerful than her. She is prone to using her power for petty things such as squabbles because it gives her a sense of control over her current situation, because she honestly has not had any control in her life since she was left on the streets.
+ - Her core vulnerability is definitely those close to her hurting her. Even her bandmates she would pretend on the outside she doesnt care but if they insult her it would stick in her brain for a WHILE. Not so much her ex-family.
+ - Her biggest emotional baggage is just that she is in WAY over her head. She went from being homeless, and member of a basement-show playing punk band to scouring the world to figure out how to take a DRAGON SOUL out of a weapon that is intrinsically tied to her, hoping that she can save a relationship with a being that is unfathomably more powerful than her. She is prone to using her power for petty things such as squabbles because it gives her a sense of control over her current situation, because she honestly has not had any control in her life since she was left on the streets.
 
-- Question 4; The curse and crutch of their secrets. What does your character want to keep hidden? How does this affect how they act around others?
- - Silvershift, she not only cannot really share the fact she is in a relationship with a dragon, but also the fact that it's very much something that can be stolen. She skirts around the fact that she even has a partner in the first place, and if she admits it will not tell anyone it's a dragon
+- **Question 4;** The curse and crutch of their secrets. What does your character want to keep hidden? How does this affect how they act around others?
+ - Silvershift, she not only cannot really share the fact she is in a relationship with a dragon, but also the fact that it's very much something that can be stolen. She skirts around the fact that she even has a partner in the first place, and if she admits it, will not tell anyone it's with a dragon.
  - Her band would know, but she doesn't share outside of that.
- - 
+ - While she doesnt hide the fact she's homeless, she doesn't like admitting the reason why. She doesn't like acknowledging the fact that her parents are still living fairly comfortably after kicking her out.
 
-- Question 5; The simple humanity in contradictions. What traits, desires, values, or characteristics contradict each other within your character? What are their paradoxes?
- - She absolutely detests righteous authority. If someone chooses to put themselves in a position of power over others to a point they have control on the life of others, whether through money, law, or morality she will inherently disagree with that. But she chooses the respect the Dragons. A group of creatures so powerful  
+- **Question 5;** The simple humanity in contradictions. What traits, desires, values, or characteristics contradict each other within your character? What are their paradoxes?
+ - She absolutely detests righteous authority. If someone chooses to put themselves in a position of power over others to a point they have control on the life of others, whether through money, law, or morality she will inherently disagree with that. But she also is very close with a dragon. And while Valentyna is not the worst example of draconic tyranny, she still chooses to trust Val and is helping her.
 
-- Question 6; What connections does your character have? Humans are creatures of community, counting both positive and negative connections. List three specific important relationships.
+- **Question 6;** What connections does your character have? Humans are creatures of community, counting both positive and negative connections. List three specific important relationships.
  - Silvershift, her dragon girlfriend. They have a somewhat healthy relationship, and literally spend every waking moment together now that she has been turned into a magical item. 
  - Her band, **System Shock**. and it's 3 other members - a lead guitarist, drummer, and rhythm/vocals, with Anastasiya on bass. I'll fill these three more out in later updates
  - Her ex-family.
- - 
 
-- Question 7; What is your character's personality? Starting from most dominant traits to least dominant, pick nine trait descriptors to most succinctly describe your character.
+- **Question 7;** What is your character's personality? Starting from most dominant traits to least dominant, pick nine trait descriptors to most succinctly describe your character.
  - motivated
  - passionate
  - focused
+ - rowdy
  - loyal
+ - prideful
  - upstanding
- - defender
- - 
- - 8
- - 9
+ - possessive
+ - defensive
 
-- Question 8; What are some fun facts about your character? Behavioral quirks, past moments, or any other details that add flavor.
+- **Question 8;** What are some fun facts about your character? Behavioral quirks, past moments, or any other details that add flavor.
  - eats really slow and savors her food even if its objectively slop, and even when she has something important to do she doesnt eat much faster
  - to add onto this, she is big for most dwarves and tends to eat more as a part of that (4'8")
  - she has a really embarrassing tattoo of her first relationship on her lower calf, got it while she was drunk and its really shaky and terrible. (its some shit like E+A LUV 4EVA) She only wears pants because of this, or tries her best to cover it up by asking Silvershift to cover it up with the silver growths on her skin
  - smiths silver jewelry in her free time, and will occasionally give rings and necklaces to people who help her or as a gift, a way of showing appreciation
  - makes money through selling jewelry to her local community, sometimes internationally
- - 
 
 
 # Backstory

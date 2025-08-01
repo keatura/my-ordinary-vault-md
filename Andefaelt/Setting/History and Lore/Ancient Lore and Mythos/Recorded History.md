@@ -1,5 +1,8 @@
  The first bits of recorded history in Andefaelt is that of the Taeki Monastery. These include recorded accounts of battles, civilizations, and most important- the historical use of Relentium. The current calendar starts on the first year recorded by this monastery, and continues to the current day. The current year as of the start of the campaign is Year 1890.
 
+-The Great Fissure
+The Great Fissure is the "big bang" of Andefaelt. as the myth goes, Kadis singlehandedly willed the world to maintain itself, and not much is known about the society beforehand. Though after, everyone was left with the fractured islands that are known now. This is the reason Kadis is treated with such universal respect, Kadis is seen as the protector of life in Andefaelt. Kadis used it's string to wrap around all the islands and hold them in place and prevent them from shattering in whatever event happened to cause such destruction. Though, even with all Kadis' effort, the lands remained fractured, and the raw magic from the struggle led to the creation of Ederna, and the formation of Abyss and Eidolon.
+
 -The first inter-island travel (Year 11)
 The first occurrence of people splitting out onto other islands happened only 11 years after the first known recording of history. An Elf by the name of Ulta Ceran, the first sorcerer, created a form of glider to carry himself on winds with the assistance of magic and Moxite to explore outwards.
 

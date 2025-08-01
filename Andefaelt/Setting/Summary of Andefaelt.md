@@ -80,17 +80,12 @@ Literally Anyone
 Colors I think of: reds, oranges, cyan, green, and other fun colours for prayer flags and things, and the whites and browns and light blues of tundra
 Things that give off tradition, community, and resilience
 
-A place of community and loyalty, Zevka is located in the Highlands, a land of ice and freezing cold. 
+A place of community and loyalty, Zevka is located in the Highlands, a land of ice and freezing cold. Currently ruled by King Ruslan, who replaced his father, King Symus in 1694 during the Voxis War for Independence. Though they are human, Zevkan royalty have a pension for living extremely long periods of time, due to a secret held deep within, most likely only known to the King themself and their court wizard.
+
+
 
 Main Species:
 Humans, Goliaths, anyone else who wants to survive the cold
-
-# Water Troubles
-
-# Technology
-
-##### Runesteel
-Runesteel is extremely common in Andefaelt. 
 
 # Aesthetic and Vibes
 
@@ -102,7 +97,9 @@ For species differences specific to Andefaelt
 - ukuchans are rat-like humanoids
 - dragonborn descend directly from dragons, and are the only living reminder that they existed. 
 	- also they have feathers on the back of their heads, behind their crests (kind of like hair) and on their tails - especially towards the ends. also sometimes there can be feathers on places like their elbows and necks.
-- tieflings are similar to aasimar, created by the goddess of the underworld, Morana.
+- tieflings are similar to aasimar, created by the goddess of the underworld, Morana, and her offspring. It's unknown how many Tieflings exist in Andefaelt, though they are a very rare sight most often.
 
 # Homebrew
-First off - No opportunity attacks. This is still open to change, but it's something I want to playtest.
+First of all - Opportunity attacks are made at disadvantage. If this ends up not working, it may be up to completely removing them or just reverted to base 5e rules.
+
+Second of all - Minion rules. monsters will be part of "units" that share a health pool. so for example, a Zevkan Infantry unit comprised of 5 soldiers, where each soldier has 7 health. 7 damage will, of course kill one soldier. But, any damage over 7 is carried over to the other soldiers and applied to them. So if a unit of soldiers is hit by an attack, and takes 16 damage, then the damage would "bleed" over, killing 2 soldiers and leaving another with 5 health.

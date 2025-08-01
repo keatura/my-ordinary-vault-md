@@ -8,13 +8,14 @@
 
 - [ ] Create an overview for the plot
 - [ ] make a list of all of the feyblood weapons
-- [ ] session 1
+- [x] session 1
 - [x] Helena's relation to Asyria
 - [ ] Zevkan government and capital
 - [ ] Onyxian government and capital
 - [ ] Flesh out the fore-runners and give them a name
 - [ ] figure out how the afterlife works
 - [ ] write a prophecy for Hearsay
+- [ ] https://www.youtube.com/watch?v=qMfpai7lHaI
 - [ ] 
 
 # Overview
@@ -24,6 +25,8 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 [[Archbishop Cadriel]] is one of the only people aware of the truly ancient history, and is trying to assemble the Ancient Weapons to grant himself the One True Wish, and reset time back to before Andefaelt was created, restoring the ancient civilization. He currently has control of the Feyblood Staff, which is giving him his lichdom and has asserted complete control over it. He has used the power from this weapon to place a curse on the other Feyblood weapons causing them to be driven to find a host and return themselves to him.
 
 **[[Summary of Andefaelt]]**
+
+- The Great Fissure is the "big bang" of Andefaelt. as the myth goes, Kadis singlehandedly willed the world to maintain itself, and not much is known about the society beforehand. Though after, everyone was left with the fractured islands that are known now. This is the reason Kadis is treated with such universal respect, Kadis is seen as the protector of life in Andefaelt. Kadis used it's string to wrap around all the islands and hold them in place and prevent them from shattering in whatever event happened to cause such destruction. Though, even with all Kadis' effort, the lands remained fractured, and the raw magic from the struggle led to the creation of Ederna, and the formation of Abyss and Eidolon.
 
 # Andefaelt
 
@@ -134,6 +137,8 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 ##### [[Orc History]]
 
 ##### [[Goliath History]]
+
+##### [[Goblin History]]
 
 ##### [[Aasimar Lore]]
 
