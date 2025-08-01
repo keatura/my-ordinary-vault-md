@@ -48,7 +48,7 @@ His office is on the 3rd floor.
 ##### *Goblin*
 Small Humanoid  
 AC: 13  
-HP: 7  
+HP: 7 (2d6)
 Speed: 30ft  
 **STR: 8(-1), DEX: 14(+2), CON: 10(0), INT: 10(0), WIS: 8(-1), CHA: 8(-1)**  
 Skills: Stealth +6  
@@ -71,7 +71,7 @@ The goblin attempts to reload, roll d6. 5-6 successful
 ##### *Goblin Shaman*
 Small Humanoid  
 AC: 11
-HP: 27 
+HP: 11 (2d8+2)
 Speed: 30ft  
 **STR: 10(0), DEX: 12(+1), CON: 13(+1), INT: 12(+1), WIS: 15(+2), CHA: 11(0)**  
 Skills: Stealth +6, Nature +3, Medicine +4
