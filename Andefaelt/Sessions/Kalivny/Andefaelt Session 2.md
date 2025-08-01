@@ -40,6 +40,7 @@ His office is on the 3rd floor.
 	- new york accents
 	- dc10 history, these guys are a part of the [[Horse Mafia]]. One of them has a guitar case with a submachine gun, and the other has a greatcoat.
 	- if they dont cause problems, they get the horses with no problem
+	- as everyone goes to leave to go to the stables, one of the guys turns 
 
 
 ## The Goblin Camp
@@ -121,6 +122,9 @@ Once per turn, while the Hobgoblin is within 5ft of a friendly creature that isn
 ***Reload.***
 *The hobgoblin reloads any firearms it is wielding.*
 
+##### Initiative:
+1. 
+
 #### The Path In
 The long path towards the Goblin camp is very muddy, but still prevalent with cart tracks, especially the further along the party heads.
 - after roughly 6 or so miles, they start to see sporadic smaller trails leading off to other parts of the forest.
@@ -128,7 +132,7 @@ The long path towards the Goblin camp is very muddy, but still prevalent with ca
 	- DC 10 perception checks to see the goblins first.
 
 #### Outskirts
-Scene description.
+- as they get to the outskirts of the camp, they see a palisade wall about 100ft long, 
 
 #### In the Camp
 Scene description.
