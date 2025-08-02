@@ -667,4 +667,9 @@
 - recap
 	- fiendish dungeon
 	- Armide almost dies because Anesidora is pressing buttons
-	- 
+	- I didn't take notes myb
+- Nilryhna and Jeeves are hiding from a spooky monster
+	- they distract it with minor illusion 
+	- run away!
+	- they lock themselves in a room to hide
+- cut to Armide and Anesidora 
