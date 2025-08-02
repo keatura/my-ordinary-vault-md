@@ -744,7 +744,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - SESSION END
 - holy peak
 
-# 7/19/25 Battle with a Sphinx (dilys is gonna crash out)
+# 7/19/25 Battle with a Sphinx (dilys is gonna crash out) (she doesn't) (we gotta fight ermine) (theres a big ass tree)
 - recap
 	- large pearly gate
 	- looking for "The Exchange"
@@ -842,4 +842,12 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- there are 5 cauldrons in the tree, each on has a riddle enscribed
 	- the birds will stop attacking when we solve the riddles
 - the exit is the skylight, but we cannot leave prematurely
+- my notes are NOT locked in
+- Dilys got dropped out of the air
+- got a headache and stopped taking notes sob
+- stone sphinx is getting ripped apart by Olivia, she grabs the heart for one of the cauldrons
+- Makara stares into the eye
+- she sees a life with her mother, peaceful and not struggling for her life, and her name is Visha
+- 10d10 psychic damage holy christ
+- makara goes down
 - 

@@ -40,13 +40,15 @@ His office is on the 3rd floor.
 	- new york accents
 	- dc10 history, these guys are a part of the [[Horse Mafia]]. One of them has a guitar case with a submachine gun, and the other has a greatcoat.
 	- if they dont cause problems, they get the horses with no problem
+	- as everyone goes to leave to go to the stables, one of the guys turns 
 
 
 ## The Goblin Camp
+[Best 250 DnD Goblin Names (With Meanings)](https://amazinggameroom.com/fantasy-names/goblin-names/)
 ##### *Goblin*
 Small Humanoid  
 AC: 13  
-HP: 7  
+HP: 7 (2d6)
 Speed: 30ft  
 **STR: 8(-1), DEX: 14(+2), CON: 10(0), INT: 10(0), WIS: 8(-1), CHA: 8(-1)**  
 Skills: Stealth +6  
@@ -69,11 +71,11 @@ The goblin attempts to reload, roll d6. 5-6 successful
 ##### *Goblin Shaman*
 Small Humanoid  
 AC: 11
-HP: 27 
+HP: 11 (2d8+2)
 Speed: 30ft  
 **STR: 10(0), DEX: 12(+1), CON: 13(+1), INT: 12(+1), WIS: 15(+2), CHA: 11(0)**  
-Skills: Stealth +6  
-Senses: Darkvision 60ft, Passive perception 9  
+Skills: Stealth +6, Nature +3, Medicine +4
+Senses: Darkvision 60ft, Passive perception 12
 CR 1/4 PB +2
 
 **Spellcasting.** The Goblin Shaman is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
@@ -121,20 +123,36 @@ Once per turn, while the Hobgoblin is within 5ft of a friendly creature that isn
 ***Reload.***
 *The hobgoblin reloads any firearms it is wielding.*
 
+##### Initiative:
+1. 
+
 #### The Path In
 The long path towards the Goblin camp is very muddy, but still prevalent with cart tracks, especially the further along the party heads.
 - after roughly 6 or so miles, they start to see sporadic smaller trails leading off to other parts of the forest.
+- it starts to get dark
 - while walking along the path, they encounter 4 goblins carrying supplies and rifles, with a Hobgoblin bodyguard.
 	- DC 10 perception checks to see the goblins first.
+- after this encounter it starts to get late
+- theres a few more groups like this the next day
+- one has a cart, that has supplies for another camp like tents, sticks to build racks, and tools
 
 #### Outskirts
-Scene description.
+- as they get to the outskirts of the camp, they see a palisade wall about 100ft long, with about 50ft of open land leading up to the gate, with goblins standing at the top of the wall and two hobgoblins standing at either side of the gate.
+- farmland surrounds the palisades with goblins harvesting the last of the crop in the fields, mostly greens and pumpkins.
+- they see a shaman looking goblins walk around from the edge of the palisades seemingly from other farmland, walk into the middle of some of the farmland and start a quiet chant. a small rain cloud forms over the tip of the staff and the shaman starts watering the plants.
+- they are willing to talk to Mizuki, and lead her into the camp to speak with the head Shaman, [[Chantmaster Zekka]].
+- Though they do require the other three to be guarded, and Hearsay to have their arms bound together.
 
 #### In the Camp
-Scene description.
-
-#### Scene
-Scene description.
+- Inside the camp, there are large circular tents, a blacksmith and a gunsmith. and at the center of camp a much larger tent.
+- next to the tent is an excavated area, leading into a cave.
+- leading from the gate into the cave are cart tracks
+- roughly like 100 goblins and 30 hobgoblins
+- the Chantmasters tent has her with some other Shamans inside as well, surrounding a fire.
+- She is willing to give the boy back, but tomorrow, as to complete the ritual first.
+	- The ritual is to build a Grove, something they sadly lack a truly experienced Archdruid to complete.
+	- The Dagger promised them this magical power as long as they remove it from the tomb and provide it with a human.
+	- If the ritual kills the boy she promises that she will not attack any more caravans or human settlements, as long as they stop the deforestation and logging. 
 
 ## Scratch Notes
 - Example
