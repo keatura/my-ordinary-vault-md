@@ -705,4 +705,6 @@
 - dead baby in the church room
 - we go to the security room and pull the lever
 	- we start playing fnaf
+	- sinister
+	- now the first nights never really that hard-
 - 
