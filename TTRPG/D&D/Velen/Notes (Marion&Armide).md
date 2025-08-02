@@ -672,4 +672,10 @@
 	- they distract it with minor illusion 
 	- run away!
 	- they lock themselves in a room to hide
-- cut to Armide and Anesidora 
+- cut to Armide and Anesidora
+- they are exploring an old laboratory
+	- find a wind up flashlight
+	- its loud
+	- oh boy
+- we continue forth, right then a left
+	- 
