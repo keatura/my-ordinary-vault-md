@@ -698,4 +698,7 @@
 	- for now
 - they go to a desk
 - find 2 revolver bullets with pictures showing a guy shooting a bullseye
+- literally crashing out rn
+	- gods hardest battles (dnd session) for his silliest of clowns
+- Jeeves and Nhilryna show up to the fnaf room
 - 
