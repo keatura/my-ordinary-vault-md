@@ -664,4 +664,7 @@
 - we go to a bathroom, theres one stall thats completely boarded up
 
 # 8/2/25 THE BIG DUNGEON PT 2
-- 
+- recap
+	- fiendish dungeon
+	- Armide almost dies because Anesidora is pressing buttons
+	- 
