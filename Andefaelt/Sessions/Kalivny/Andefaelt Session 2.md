@@ -155,4 +155,4 @@ The long path towards the Goblin camp is very muddy, but still prevalent with ca
 	- If the ritual kills the boy she promises that she will not attack any more caravans or human settlements, as long as they stop the deforestation and logging from their farmers.
 
 ## Scratch Notes
-- Example
+- Marek gave the players an old map of before Helena was founded 
