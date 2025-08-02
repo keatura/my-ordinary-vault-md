@@ -707,4 +707,9 @@
 	- we start playing fnaf
 	- sinister
 	- now the first nights never really that hard-
+- ARTIX RETURNS
+- Armide summons 4 satyrs and goes to grab Anesidora
+- it works
+- we kill a ghoul
+	- Hell Yeah
 - 
