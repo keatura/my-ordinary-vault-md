@@ -701,4 +701,8 @@
 - literally crashing out rn
 	- gods hardest battles (dnd session) for his silliest of clowns
 - Jeeves and Nhilryna show up to the fnaf room
+- we look around
+- dead baby in the church room
+- we go to the security room and pull the lever
+	- we start playing fnaf
 - 
