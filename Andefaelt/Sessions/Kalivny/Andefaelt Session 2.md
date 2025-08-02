@@ -71,7 +71,7 @@ The goblin attempts to reload, roll d6. 5-6 successful
 ##### *Goblin Shaman*
 Small Humanoid  
 AC: 11
-HP: 11 (2d8+2)
+HP: 24 (4d8+4)
 Speed: 30ft  
 **STR: 10(0), DEX: 12(+1), CON: 13(+1), INT: 12(+1), WIS: 15(+2), CHA: 11(0)**  
 Skills: Stealth +6, Nature +3, Medicine +4
@@ -141,7 +141,7 @@ The long path towards the Goblin camp is very muddy, but still prevalent with ca
 - farmland surrounds the palisades with goblins harvesting the last of the crop in the fields, mostly greens and pumpkins.
 - they see a shaman looking goblins walk around from the edge of the palisades seemingly from other farmland, walk into the middle of some of the farmland and start a quiet chant. a small rain cloud forms over the tip of the staff and the shaman starts watering the plants.
 - they are willing to talk to Mizuki, and lead her into the camp to speak with the head Shaman, [[Chantmaster Zekka]].
-- Though they do require the other three to be guarded, and Hearsay to have their arms bound together.
+- Though they do require the other three to drop their weapons and be guarded, and Hearsay to have their arms bound together.
 
 #### In the Camp
 - Inside the camp, there are large circular tents, a blacksmith and a gunsmith. and at the center of camp a much larger tent.
