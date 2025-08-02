@@ -686,4 +686,16 @@
 	- big pillar in the center with a note
 	- "In event of contamination, pull the lever in the security room."
 		- Suspicious
+	- theres a bullseye in the room, with a molotov attached to it
+- Nhilryna and Jeeves
+- they head into a new room
+- getting followed by a freaky creature
+	- Jeeves rolls a 3 on stealth
+		- sob
+	- door is creaky
+		- cooked
+- they manage to avoid the creature
+	- for now
+- they go to a desk
+- find 2 revolver bullets with pictures showing a guy shooting a bullseye
 - 
