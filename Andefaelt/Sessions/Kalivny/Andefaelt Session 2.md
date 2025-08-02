@@ -25,7 +25,7 @@ several guards are sent to escort the goblins to cells
 
 #### [[Marek Callaway]]
 His office is on the 3rd floor.
-- gruff man, very tan skin and a very gruff guy
+- gruff man, very tan skin and graying hair
 - is a dwarf, has a big beard, he doesnt wear any decorations on his uniform, and it looks well-worn. 
 - Marek lets them know he can't pay them if they didn't find the kid, but can sponsor them to go out again and pay for their nights rest in the town if they do so.
 	- hands Hearsay a check to pay for hers and the others general needs for food and rest in town.
