@@ -678,4 +678,7 @@
 	- its loud
 	- oh boy
 - we continue forth, right then a left
-	- 
+	- find a new area
+	- it's literally fnaf
+	  Sob
+- 
