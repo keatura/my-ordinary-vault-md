@@ -18,9 +18,9 @@ Summer
 | 1d6 | Weather                                                                                                                   |
 | --- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Thunderstorm<br>adv on stealth checks<br>spending 1hr in the rain without cover or protection gives 1 level of exhaustion |
-| 2   | Thunderstorm<br>adv on stealth checks<br>spending 1hr in the rain without cover or protection gives 1 level of exhaustion |
+| 2   | Light Rain<br>spending 4hrs in the rain without cover or protection gives 1 level of exhaustion                           |
 | 3   | Light Rain<br>spending 4hrs in the rain without cover or protection gives 1 level of exhaustion                           |
-| 4   | Light Rain<br>spending 4hrs in the rain without cover or protection gives 1 level of exhaustion                           |
+| 4   | Clear                                                                                                                     |
 | 5   | Clear                                                                                                                     |
 | 6   | Clear                                                                                                                     |
 
