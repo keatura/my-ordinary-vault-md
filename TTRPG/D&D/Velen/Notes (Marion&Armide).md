@@ -681,4 +681,9 @@
 	- find a new area
 	- it's literally fnaf
 	  Sob
+- theres a big room with bunks and dead bodies, some of them are burnt to a skeleton
+	- Holy Christ theres nothing left
+	- big pillar in the center with a note
+	- "In event of contamination, pull the lever in the security room."
+		- Suspicious
 - 
