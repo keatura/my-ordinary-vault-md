@@ -662,4 +662,6 @@
 - get a shotgun
 - find an elevator
 - we go to a bathroom, theres one stall thats completely boarded up
+
+# 8/2/25 THE BIG DUNGEON PT 2
 - 
