@@ -732,4 +732,5 @@
 - Nhilryna is talking to Lyncis
 - void arc???
 - discussing the possibility of quantum time distortion
-- 
+- VOID ARC!!!!
+- we are in the fucking lego movie lord business tower
