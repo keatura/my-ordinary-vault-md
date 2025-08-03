@@ -729,4 +729,7 @@
 - it doesnt matter
 - Artix gets swallowed by the darkness, then Armide does as well
 - Nhilryna and Jeeves are in Nhilryna's demiplane making peace with death
+- Nhilryna is talking to Lyncis
+- void arc???
+- discussing the possibility of quantum time distortion
 - 
