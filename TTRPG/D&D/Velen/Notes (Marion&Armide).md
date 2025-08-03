@@ -712,4 +712,7 @@
 - it works
 - we kill a ghoul
 	- Hell Yeah
-	- 
+- anesidora gets jumped by a freak monster
+- either shes a weird reanimated corpse
+	- or stole someones name and skin
+- 
