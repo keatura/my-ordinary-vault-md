@@ -715,4 +715,6 @@
 - anesidora gets jumped by a freak monster
 - either shes a weird reanimated corpse
 	- or stole someones name and skin
-- 
+- she killed some ladies baby and skinned her
+- her husband is a ghoul and Literally Nosferatu
+	- 
