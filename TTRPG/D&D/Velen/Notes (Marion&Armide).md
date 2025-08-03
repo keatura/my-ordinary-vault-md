@@ -719,4 +719,9 @@
 - her husband is a ghoul and Literally Nosferatu
 - Kotos is back Again
 	- Sigh
+- partislaach shows up
+- we run tf awaaayyyyy
+- get to the core of the reactor
+- theres a mf Dark Fountain
+	- it's actually a pillar of void energy
 - 
