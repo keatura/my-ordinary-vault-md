@@ -717,4 +717,6 @@
 	- or stole someones name and skin
 - she killed some ladies baby and skinned her
 - her husband is a ghoul and Literally Nosferatu
+- Kotos is back Again
+	- Sigh
 - 
