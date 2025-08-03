@@ -724,4 +724,9 @@
 - get to the core of the reactor
 - theres a mf Dark Fountain
 	- it's actually a pillar of void energy
+- the glass starts to crack
+- we run
+- it doesnt matter
+- Artix gets swallowed by the darkness, then Armide does as well
+- Nhilryna and Jeeves are in Nhilryna's demiplane making peace with death
 - 
