@@ -885,4 +885,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- He is enamored by the Beast
 	- Vasha likes the shiny
 - Dilys needs to come to terms with the fact that the Archive is gonna be destroyed
+- We all get onto Ermines back as a earthquake like sensation begins, apparently the Assembly has methods of digging very very quickly
+- we fly out through the skylight, in the distance we see people so far away they look like ants, with carriages and things moving in formation
+- Aravos wants to know more, Ermine still wont tell him anything
+	- Rip Bro
 - 
