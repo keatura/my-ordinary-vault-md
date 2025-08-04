@@ -880,4 +880,9 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Asphodel feels a great connection with all of us
 		- sobbing
 - The Entanglement is another K-title, that's not AS dangerous as The Exchange, but it can be used to plot a course around the planes after The Exchange is used.
+- Ermine leads us back to the Archives, hands us a glass shard with Aravos' soul in it.
+	- "Monkey."
+	- He is enamored by the Beast
+	- Vasha likes the shiny
+- Dilys needs to come to terms with the fact that the Archive is gonna be destroyed
 - 
