@@ -893,4 +893,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - as we are walking away, we start seeing remnants of the Final Dance
 	- as we start to feel uncanny from all the death around us, we hear a loud boom and look around
 	- a giant smoky blue explosion cuts through the mountain, and it starts collapsing in on itself.
-	- 
+	- as we continue to leave, we hear distant hoofbeats
+- we are moving through ruins, we hear the hoofbeats very close by
+- 
