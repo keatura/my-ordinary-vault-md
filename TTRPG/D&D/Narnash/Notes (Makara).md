@@ -851,7 +851,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - 10d10 psychic damage holy christ
 - makara goes down
 
-# 8/4/25 The Exchange ()
+# 8/4/25 The Exchange (we are running away from the Assembly) (and they were roommates) ()
 - session start
 - Damian is floating down with Ermine, he pulls out this artifact from her head
 - Dilys is healing Makara, hops down into the cauldron of blood and gently embraces her and picks her up.
@@ -895,4 +895,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- a giant smoky blue explosion cuts through the mountain, and it starts collapsing in on itself.
 	- as we continue to leave, we hear distant hoofbeats
 - we are moving through ruins, we hear the hoofbeats very close by
+- we see 7 Assembly cavalry riding towards us very quickly, it's unsure if they see us
+- we hide away in this old building in the outpost were in
 - 
