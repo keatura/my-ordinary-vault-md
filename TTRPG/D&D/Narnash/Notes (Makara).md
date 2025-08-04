@@ -889,4 +889,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - we fly out through the skylight, in the distance we see people so far away they look like ants, with carriages and things moving in formation
 - Aravos wants to know more, Ermine still wont tell him anything
 	- Rip Bro
-- 
+- we start marching towards Aravos' Temple
+- as we are walking away, we start seeing remnants of the Final Dance
+	- as we start to feel uncanny from all the death around us, we hear a loud boom and look around
+	- a giant smoky blue explosion cuts through the mountain, and it starts collapsing in on itself.
+	- 
