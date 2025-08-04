@@ -851,5 +851,32 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - 10d10 psychic damage holy christ
 - makara goes down
 
-# 8/4/25
-- 
+# 8/4/25 The Exchange ()
+- session start
+- Damian is floating down with Ermine, he pulls out this artifact from her head
+- Dilys is healing Makara, hops down into the cauldron of blood and gently embraces her and picks her up.
+	- the healing roll is shit
+	- god dammit sob
+- Asphodel is having a mental breakdown from Ermine's brain blast last session
+	- this roleplay is awesome holy christ
+	- puppy saves the day (this dog is tuff)
+- Dilys is holding Makara tightly 
+	- they are roommates
+	- "sssshh" - Dilys to herself totally 10000%
+	- they just sit there for a while
+- Ermine lands next to Asphodel with Damian, her head lowered and back arched
+	- She sits up and smiles
+	- it is a method to open a portal to... anywhere?
+		- more like a sledgehammer, just ripping open a portal
+		- "it's like a child with a bow and arrow, firing them blindly and wedging them into trees.. and people."
+	- The Assembly wants it because they believe on the other side is pure bliss, they worship it
+- Damian flies up to Makara and DIlys, asks her for the compass.
+- Dilys shakes her head, Damian rolls insight
+	- she's upset that we killed the Sphinx and that it was such a gruesome death, she had never really seen what Damian Does up close before
+- Olivia goes over to Asphodel, heals her for 45hp
+	- "are you alright?"
+	- talking about what could have been, how you can still have that in a sense in the future
+	- Asphodel lost all of her family in an "incident", early in the war. only has one family member remaining
+	- Asphodel feels a great connection with all of us
+		- sobbing
+	- 
