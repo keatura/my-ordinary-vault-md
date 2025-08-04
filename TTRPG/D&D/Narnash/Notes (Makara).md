@@ -879,4 +879,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Asphodel lost all of her family in an "incident", early in the war. only has one family member remaining
 	- Asphodel feels a great connection with all of us
 		- sobbing
-	- 
+- The Entanglement is another K-title, that's not AS dangerous as The Exchange, but it can be used to plot a course around the planes after The Exchange is used.
+- 
