@@ -8,9 +8,9 @@ Speed: 30ft
 **STR: 10(0), DEX: 12(+1), CON: 15(+2), INT: 12(+1), WIS: 17(+3), CHA: 11(0)**  
 Skills: Stealth +7, Perception +6, Nature +4
 Senses: Darkvision 60ft, Passive perception 16
-CR 1/4 PB +3
+CR 2 PB +3
 
-**Spellcasting.** The Goblin Shaman is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following druid spells prepared:
+**Spellcasting.** The Goblin Shaman is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following druid spells prepared:
 
 Cantrips (at will): druidcraft, produce flame, shillelagh, frost bolt, mage armor
 
