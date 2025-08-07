@@ -14,7 +14,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Shotgun, break action        | 25gp  | 2d8 +dex              | 5lbs   | Reload (1), Range (100/300), Buckshot, Two Handed | Graze          |
 | Shotgun, double barrel       | 40gp  | 2d8 +dex              | 5lbs   | Reload (2), Range (100/300), Buckshot, Two Handed | Graze          |
 | Rifle, Breech loaded         | 20gp  | 2d6 +dex              | 6lbs   | Reload(1), Range (100/300), Two Handed, Bayonet   | Vex            |
-| Rifle, Lever Action (pistol) | 40gp  | 1d10 +dex             | 10lbs  | Reload(8), Range (80/240), Two Handed             | Vex            |
+| Rifle, Lever Action (pistol) | 40gp  | 1d10 +dex             | 10lbs  | Reload(10), Range (80/240), Two Handed            | Vex            |
 
 | **Martial Ranged Weapons**  | Price | Damage    | Weight | Properties                                                                            | Weapon Mastery |
 | --------------------------- | ----- | --------- | ------ | ------------------------------------------------------------------------------------- | -------------- |
@@ -24,7 +24,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Rifle, hunting              | 40gp  | 3d4 +dex  | 5lbs   | Reload (1), Range (300/1200), Two Handed                                              | Slow           |
 | Rifle, sniper               | 250gp | 4d6 +dex  | 6lbs   | Reload (3), Range (500/1500), Two Handed                                              | Graze          |
 | Musket                      | 50gp  | 3d8 +dex  | 6lbs   | Reload (1), Range (50/100), Two Handed, Slow Shooting                                 | Push           |
-| Rifle, Lever Action (rifle) | 80gp  | 2d8 +dex  | 9lbs   | Reload (5), Range (200/600), Two Handed                                               | Slow           |
+| Rifle, Lever Action (rifle) | 80gp  | 2d8 +dex  | 9lbs   | Reload (8), Range (200/600), Two Handed                                               | Slow           |
 | Rifle, bolt action          | 75gp  | 2d8 +dex  | 8lbs   | Reload (4), Range (200/600), Two Handed, Bayonet                                      | Vex            |
 | Rifle, military             | 100gp | 2d8 +dex  | 8lbs   | Reload (6), Range (200/600), Two Handed, Bayonet                                      | Vex            |
 | Shotgun, tube fed           | 150gp | 2d8 +dex  | 7lbs   | Reload (4), Range (100/300). Buckshot, Two Handed, Bayonet                            | Graze          |
