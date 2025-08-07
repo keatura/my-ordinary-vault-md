@@ -13,12 +13,12 @@ Example
 
 ## The Goblin Camp pt.2
 Hearsay, Blue Bamba, and Ezaren have snuck through camp into the cave at the center.
-Mizuki is talking to 
+Mizuki is talking to [[Chantmaster Zekka]].
 
-#### Scene
+#### The Chamber
 Scene description.
 
-#### Scene
+#### The Tent
 Scene description.
 
 #### Scene
