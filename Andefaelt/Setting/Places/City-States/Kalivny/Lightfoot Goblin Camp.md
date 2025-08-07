@@ -1,0 +1,1 @@
+This camp is the main settlement of the Lightfoot Goblin Tribe, who inhabit the same island as Kalivny.
