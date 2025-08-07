@@ -6,27 +6,29 @@ Ranged weapons use DEX, and larger weapons will require minimum strength scores 
 
 Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That ammo only works for that weapon, or other weapons that are the exact same. (common revolver ammo works with other common revolver ammo, etc)
 
-| **Simple Ranged Weapons** | Price | Damage (all piercing) | Weight | Properties                                        | Weapon Mastery |
-| ------------------------- | ----- | --------------------- | ------ | ------------------------------------------------- | -------------- |
-| Revolver, common          | 15gp  | 1d8 +dex              | 3lbs   | Reload (5), Range (50/150), Light                 | Vex            |
-| Revolver, military        | 25gp  | 2d4 +dex              | 2lbs   | Reload (6), Range (50/150), Light                 | Vex            |
-| Pistol, black powder      | N/A   | 2d8 +dex              | 3lbs   | Reload (1), Range (30/60), Slow Shooting          | Push           |
-| Shotgun, break action     | 25gp  | 2d8 +dex              | 5lbs   | Reload (1), Range (100/300), Buckshot, Two Handed | Graze          |
-| Shotgun, double barrel    | 40gp  | 2d8 +dex              | 5lbs   | Reload (2), Range (100/300), Buckshot, Two Handed | Graze          |
-| Rifle, Breech loaded      | 20gp  | 2d6 +dex              | 5lbs   | Reload(1), Range (100/300), Two Handed, Bayonet   | Vex            |
+| **Simple Ranged Weapons**    | Price | Damage (all piercing) | Weight | Properties                                        | Weapon Mastery |
+| ---------------------------- | ----- | --------------------- | ------ | ------------------------------------------------- | -------------- |
+| Revolver, common             | 15gp  | 1d8 +dex              | 3lbs   | Reload (5), Range (50/150), Light                 | Vex            |
+| Revolver, military           | 25gp  | 2d4 +dex              | 2lbs   | Reload (6), Range (50/150), Light                 | Vex            |
+| Pistol, black powder         | N/A   | 2d8 +dex              | 3lbs   | Reload (1), Range (30/60), Slow Shooting          | Push           |
+| Shotgun, break action        | 25gp  | 2d8 +dex              | 5lbs   | Reload (1), Range (100/300), Buckshot, Two Handed | Graze          |
+| Shotgun, double barrel       | 40gp  | 2d8 +dex              | 5lbs   | Reload (2), Range (100/300), Buckshot, Two Handed | Graze          |
+| Rifle, Breech loaded         | 20gp  | 2d6 +dex              | 6lbs   | Reload(1), Range (100/300), Two Handed, Bayonet   | Vex            |
+| Rifle, Lever Action (pistol) | 40gp  | 1d10 +dex             | 10lbs  | Reload(8), Range (80/240), Two Handed             | Vex            |
 
-| **Martial Ranged Weapons** | Price | Damage    | Weight | Properties                                                                            | Weapon Mastery |
-| -------------------------- | ----- | --------- | ------ | ------------------------------------------------------------------------------------- | -------------- |
-| Revolver, heavy            | 30gp  | 2d6 +dex  | 5lbs   | Reload (3), Range (60/180)                                                            | Vex            |
-| Pistol, automatic          | 150gp | 1d8 +dex  | 3lbs   | Reload (8), Range (30/90), Versatile (Rapid Fire)                                     | Graze          |
-| Submachine Gun             | 70gp  | 1d8 +dex  | 6lbs   | Reload (24), Range (60/180), Two Handed, Rapid Fire                                   | Graze          |
-| Rifle, hunting             | 40gp  | 3d4 +dex  | 5lbs   | Reload (1), Range (300/1200), Two Handed                                              | Slow           |
-| Rifle, sniper              | 250gp | 4d6 +dex  | 6lbs   | Reload (3), Range (500/1500), Two Handed                                              | Graze          |
-| Musket                     | 50gp  | 3d8 +dex  | 6lbs   | Reload (1), Range (50/100), Two Handed, Slow Shooting                                 | Push           |
-| Rifle, bolt action         | 75gp  | 2d8 +dex  | 7lbs   | Reload (4), Range (200/600), Two Handed, Bayonet                                      | Vex            |
-| Rifle, military            | 100gp | 2d8 +dex  | 6lbs   | Reload (6), Range (200/600), Two Handed, Bayonet                                      | Vex            |
-| Shotgun, tube fed          | 150gp | 2d8 +dex  | 5lbs   | Reload (4), Range (100/300). Buckshot, Two Handed, Bayonet                            | Graze          |
-| Rifle, anti-materiel       | 500gp | 4d10 +dex | 20lbs  | Str 13, Reload (1), Range (500/1500), Two Handed, Heavy, Anti-Materiel, Slow Shooting | Topple         |
+| **Martial Ranged Weapons**  | Price | Damage    | Weight | Properties                                                                            | Weapon Mastery |
+| --------------------------- | ----- | --------- | ------ | ------------------------------------------------------------------------------------- | -------------- |
+| Revolver, heavy             | 30gp  | 2d6 +dex  | 5lbs   | Reload (3), Range (60/180)                                                            | Vex            |
+| Pistol, automatic           | 150gp | 1d8 +dex  | 3lbs   | Reload (8), Range (30/90), Versatile (Rapid Fire)                                     | Graze          |
+| Submachine Gun              | 70gp  | 1d8 +dex  | 6lbs   | Reload (24), Range (60/180), Two Handed, Rapid Fire                                   | Graze          |
+| Rifle, hunting              | 40gp  | 3d4 +dex  | 5lbs   | Reload (1), Range (300/1200), Two Handed                                              | Slow           |
+| Rifle, sniper               | 250gp | 4d6 +dex  | 6lbs   | Reload (3), Range (500/1500), Two Handed                                              | Graze          |
+| Musket                      | 50gp  | 3d8 +dex  | 6lbs   | Reload (1), Range (50/100), Two Handed, Slow Shooting                                 | Push           |
+| Rifle, Lever Action (rifle) | 80gp  | 2d8 +dex  | 9lbs   | Reload (5), Range (200/600), Two Handed                                               | Slow           |
+| Rifle, bolt action          | 75gp  | 2d8 +dex  | 8lbs   | Reload (4), Range (200/600), Two Handed, Bayonet                                      | Vex            |
+| Rifle, military             | 100gp | 2d8 +dex  | 8lbs   | Reload (6), Range (200/600), Two Handed, Bayonet                                      | Vex            |
+| Shotgun, tube fed           | 150gp | 2d8 +dex  | 7lbs   | Reload (4), Range (100/300). Buckshot, Two Handed, Bayonet                            | Graze          |
+| Rifle, anti-materiel        | 500gp | 4d10 +dex | 20lbs  | Str 13, Reload (1), Range (500/1500), Two Handed, Heavy, Anti-Materiel, Slow Shooting | Topple         |
 
 | **Exotic Ranged Weapons** | Price | Damage                    | Weight | Properties                                          | Weapon Mastery |
 | ------------------------- | ----- | ------------------------- | ------ | --------------------------------------------------- | -------------- |
