@@ -1,2 +1,0 @@
-aasimar, kensei monk
-
