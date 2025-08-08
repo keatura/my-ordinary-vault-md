@@ -1,18 +1,27 @@
 aasimar, kensei monk
 
 Medium Humanoid  
-AC: 18 (Unarmored Defense)
+AC: 17 (Unarmored Defense)
 HP: 60 (7d8+14)
 Speed: 45ft, 60ft fly
-**STR: 13(+1), DEX: 19(+4), CON: 15(+2), INT: 12(+1), WIS: 18(+4), CHA: 11(0)**
+**STR: 13(+1), DEX: 20(+5), CON: 15(+2), INT: 12(+1), WIS: 17(+3), CHA: 11(0)**
 Saving Throws: [Dexterity] +7, [Wisdom] +7
-Skills: [Stealth] +7, [Perception] +7, [Acrobatics] +7, [Insight] +7
+Skills: [Stealth] +8, [Perception] +6, [Acrobatics] +8, [Insight] +6
+Damage Resistances: Radiant, Necrotic
 Senses: Darkvision 60ft, Passive perception 16
 PB +3
 
 **Unarmored Defense.** While the monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
-
+**Agile Parry.** When the monk makes an attack as a part of their multiattack, they gain a +2 bonus to their AC until the beginning of their next turn.
 
 **Actions.**
 
-**Multiattack.**
+***Multiattack.***
+
+***Draw Strike.*** (1/encounter) 
+
+***Healing Hands.*** (2/day) As an action, the monk can touch a creature and roll 3d8. The creature regains a number of hit points equal to the total rolled. 
+
+**Bonus Actions.**
+
+***Flurry of Strikes.*** (Recharge 5-6)
