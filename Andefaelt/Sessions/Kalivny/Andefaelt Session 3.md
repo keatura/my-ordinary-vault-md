@@ -96,7 +96,7 @@ Mizuki is talking to [[Chantmaster Zekka]].
 #### The Chamber
 
 ```
-The cave's entrance is fairly steep, 
+The cave's entrance is fairly steep, leading down, deeper underground. The walls look excavated by hand, supported by beams 
 ```
 
 #### The Tent
