@@ -96,7 +96,7 @@ Mizuki is talking to [[Chantmaster Zekka]].
 #### The Chamber
 
 ```
-The cave's entrance is fairly steep, leading down, deeper underground. The walls look excavated by hand, supported by beams 
+The cave's entrance is fairly steep, leading down, deeper underground. The walls look excavated by hand, supported by rough cut beams. the cave grows very dark very quickly, dim light surrounds you, only illuminated by small Moxite crystals that are letting off a faint teal glow. (Moxite crystals react )
 ```
 
 #### The Tent
