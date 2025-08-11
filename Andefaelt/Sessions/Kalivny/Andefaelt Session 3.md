@@ -96,7 +96,7 @@ Mizuki is talking to [[Chantmaster Zekka]].
 #### The Chamber
 
 ```
-The cavern's entrance is fairly steed
+The cave's entrance is fairly steep, 
 ```
 
 #### The Tent
