@@ -13,15 +13,25 @@ PB +3
 
 **Unarmored Defense.** While Aiwin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 **Agile Parry.** When Aiwin makes an attack as a part of their multiattack, they gain a +2 bonus to their AC until the beginning of their next turn.
+**Mobile Flourish.** When Aiwin makes an attack against a creature, they do not provoke opportunity attacks for the rest of the turn
 
-**Actions.**
+###### **Actions.**
 
-***Multiattack.***
+***Multiattack.*** Aiwin makes two attacks with either his cane sword or sacred toll.
 
-***Draw Strike.*** (1/encounter) 
+***Cane Sword.*** (2 charges) *Melee Weapon Attack:* +8 to hit, reach 5ft. Hit: (1d8 + 5) slashing damage. Additionally, he may spend the charges of his weapon to use the Runesteel effects listed below.
+
+| Cost. | Effect.                                                                                                                                                                |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | **Smite.** Aiwin expends 1 charge and deals an extra 2d8 radiant damage on his next attack.                                                                            |
+| 2     | **Draw Strike.** As a reaction, when Aiwin enters combat, he expends 2 charges and teleports up to 30 feet, then makes a weapon attack that deals an extra 1d8 damage. |
+
+***Sacred Toll.*** *Ranged Spell Attack:* DC 14 dexterity saving throw. 2d8 radiant damage on a failed save, and none of a successful one. 
 
 ***Healing Hands.*** (2/day) As an action, Aiwin can touch a creature and roll 3d8. The creature regains a number of hit points equal to the total rolled. 
 
-**Bonus Actions.**
+###### **Bonus Actions.**
 
-***Flurry of Strikes.*** (Recharge 5-6)
+***Flurry of Strikes.*** (Recharge 5-6) After Aiwin successfully lands an attack, he may make 2 more attacks with his Cane Sword.
+
+***Capacitor Swap.*** Aiwin refills the charges on his Cane Sword.
