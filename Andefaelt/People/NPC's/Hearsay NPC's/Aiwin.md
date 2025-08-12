@@ -12,7 +12,6 @@ Senses: Darkvision 60ft, Passive perception 16
 PB +3
 
 **Unarmored Defense.** While Aiwin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
-**Agile Parry.** When Aiwin makes an attack as a part of their multiattack, they gain a +2 bonus to their AC until the beginning of their next turn.
 **Mobile Flourish.** When Aiwin makes an attack against a creature, they do not provoke opportunity attacks for the rest of the turn
 
 ###### **Actions.**
@@ -24,7 +23,7 @@ PB +3
 | Cost. | Effect.                                                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | **Smite.** Aiwin expends 1 charge and deals an extra 2d8 radiant damage on his next attack.                                                                            |
-|       | **Boost.** Aiwin expends 1 charge to move up to 30 feet as a bonus action.                                                                                             |
+| 1     | **Boost.** Aiwin expends 1 charge to move up to 30 feet as a bonus action.                                                                                             |
 | 2     | **Draw Strike.** As a reaction, when Aiwin enters combat, he expends 2 charges and teleports up to 30 feet, then makes a weapon attack that deals an extra 1d8 damage. |
 
 ***Sacred Toll.*** *Ranged Spell Attack:* DC 14 dexterity saving throw. 2d8 radiant damage on a failed save, and none of a successful one. 
