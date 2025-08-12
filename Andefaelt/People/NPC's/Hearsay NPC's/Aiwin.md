@@ -23,7 +23,7 @@ PB +3
 | Cost. | Effect.                                                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | **Smite.** Aiwin expends 1 charge and deals an extra 2d8 radiant damage on his next attack.                                                                            |
-| 1     | **Boost.** Aiwin expends 1 charge to move up to 30 feet as a bonus action.                                                                                             |
+| 1     | **Boost.** Aiwin expends 1 charge to move up to 30 feet in any direction as a bonus action.                                                                            |
 | 2     | **Draw Strike.** As a reaction, when Aiwin enters combat, he expends 2 charges and teleports up to 30 feet, then makes a weapon attack that deals an extra 1d8 damage. |
 
 ***Sacred Toll.*** *Ranged Spell Attack:* DC 14 dexterity saving throw. 2d8 radiant damage on a failed save, and none of a successful one. 
