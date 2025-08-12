@@ -14,7 +14,8 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Shotgun, break action        | 25gp  | 2d8 +dex              | 5lbs   | Reload (1), Range (100/300), Buckshot, Two Handed | Graze          |
 | Shotgun, double barrel       | 40gp  | 2d8 +dex              | 5lbs   | Reload (2), Range (100/300), Buckshot, Two Handed | Graze          |
 | Rifle, Breech loaded         | 20gp  | 2d6 +dex              | 6lbs   | Reload(1), Range (100/300), Two Handed, Bayonet   | Vex            |
-| Rifle, Lever Action (pistol) | 40gp  | 1d10 +dex             | 10lbs  | Reload(10), Range (80/240), Two Handed            | Vex            |
+| Revolver, carbine            | 30gp  | 2d4 +dex              | 5lbs   | Reload(6), Range (100/300), Two Handed            | Vex            |
+| Rifle, Lever Action (pistol) | 40gp  | 1d10 +dex             | 10lbs  | Reload(10), Range (100/300), Two Handed           | Vex            |
 
 | **Martial Ranged Weapons**  | Price | Damage    | Weight | Properties                                                                            | Weapon Mastery |
 | --------------------------- | ----- | --------- | ------ | ------------------------------------------------------------------------------------- | -------------- |
@@ -25,7 +26,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Rifle, sniper               | 250gp | 4d6 +dex  | 6lbs   | Reload (3), Range (500/1500), Two Handed                                              | Graze          |
 | Musket                      | 50gp  | 3d8 +dex  | 6lbs   | Reload (1), Range (50/100), Two Handed, Slow Shooting                                 | Push           |
 | Rifle, Lever Action (rifle) | 80gp  | 2d8 +dex  | 9lbs   | Reload (8), Range (200/600), Two Handed                                               | Slow           |
-| Rifle, bolt action          | 75gp  | 2d8 +dex  | 8lbs   | Reload (4), Range (200/600), Two Handed, Bayonet                                      | Vex            |
+| Rifle, bolt action          | 75gp  | 2d8 +dex  | 8lbs   | Reload (5), Range (200/600), Two Handed, Bayonet                                      | Vex            |
 | Rifle, military             | 100gp | 2d8 +dex  | 8lbs   | Reload (6), Range (200/600), Two Handed, Bayonet                                      | Vex            |
 | Shotgun, tube fed           | 150gp | 2d8 +dex  | 7lbs   | Reload (4), Range (100/300). Buckshot, Two Handed, Bayonet                            | Graze          |
 | Rifle, anti-materiel        | 500gp | 4d10 +dex | 20lbs  | Str 13, Reload (1), Range (500/1500), Two Handed, Heavy, Anti-Materiel, Slow Shooting | Topple         |
@@ -38,7 +39,8 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Military Automatic Rifle  | 670gp | 2d6 +dex                  | 20lbs  | Reload(16), Range (200/600), Two Handed, Rapid Fire | Slow           |
 | Pistol, Suppressed        | 75gp  | 2d4 +dex                  | 4lbs   | Reload (8), Range (20/60), Suppressed               | Vex            |
 | Rifle, Suppressed         | 180gp | 2d8 +dex                  | 9lbs   | Reload (6), Range (50/150), Suppressed, Bayonet     | Vex            |
-| Rifle, Multicaliber       | 60gp  | 2d8 +dex                  | 7lbs   | Reload(2/2) Range (200/600), Special                | Vex            |
+| Revolver, Multicaliber    | 60gp  | 1d8 +dex                  | 4lbs   | Reload (9/1), Range (50/150), Multicaliber          | Vex            |
+| Rifle, Multicaliber       | 60gp  | 2d8 +dex                  | 7lbs   | Reload(2/2), Range (200/600), Multicaliber          | Vex            |
 | Grenade Launcher          | 80gp  | ----                      | 7lbs   | Reload (1), Special                                 | ----           |
 | Runesteel Revolver        | -     | 1d8 +dex                  | 4lbs   | Reload (4), Range (50/150), Runesteel               | Vex            |
 | Runesteel Shotgun         | -     | 2d8 +dex                  | 6lbs   | Reload (4), Buckshot, Range (100/300), Runesteel    | Graze          |
@@ -77,6 +79,8 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 
 **Bayonet.** When this weapon is mounted on the end of a two-handed rifle, the user may forfeit their ranged attack to make a melee weapon attack against a creature, that deals 1d6 piercing damage. This damage is increased by 1d6 for every 10 feet the creature has moved this turn, up to a maximum 5d6.
 
+**Multicaliber.** This weapon has two different calibers: a shotgun and brass cartridge barrels. This weapon can only be loaded with buckshot, meaning the shotgun barrels can only be used to make the **Buckshot** special attack. In the weapons **Reload** property, the ammo for the brass rounds are listed first, and shotgun shells are listed second.
+
 ### Exotic Weapons
 Exotic Weapons are very unique weaponry that are very rare. These weapons require Martial Weapon Proficiency, and cannot be chosen as starting equipment.
 
@@ -87,8 +91,6 @@ Exotic Weapons are very unique weaponry that are very rare. These weapons requir
 **Suppressed.** This weapon is integrally suppressed, firing subsonic ammunition. Due to this, it's ammo is rare and costs twice as much as regular ammo. As well, when this weapon is fired, it is near silent, meaning it cannot be heard outside of 15ft.
 
 **Grenade Launcher.** This weapon fires large, low velocity explosive projectiles. Due to this, it's ammo is rare and costs 3x as much as normal. When this weapon can be aimed at a specific square, instead of a targeted Creature. It's range is a flat 60 feet, and every creature within 20 feet of the point of impact must make a DC 15 Dexterity saving throw, taking 2d6 damage, or half as much on a failed save.
-
-**Multicaliber Rifle.** This weapon has two different calibers: a double barrel shotgun and then underslung those barrels, are two rifle-caliber barrels. This weapon can only be loaded with buckshot, meaning the shotgun barrels can only be used to make the **Buckshot** special attack.
 
 ### Heavy Weapons
 These weapons are intended for use in emplacements, people in power armor and small warjacks. Due to their large size and huge weight, they are completely impractical for use by those not in powered armor. Someone may equip one of these weapons, but every weapon counts as having the Two-Handed property, and they may not use it to make an attack without receiving the Help action from someone else under the specific purpose of using the weapon. This Help action does not provide Advantage.

@@ -11,8 +11,8 @@ Damage Resistances: Radiant, Necrotic
 Senses: Darkvision 60ft, Passive perception 16
 PB +3
 
-**Unarmored Defense.** While the monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
-**Agile Parry.** When the monk makes an attack as a part of their multiattack, they gain a +2 bonus to their AC until the beginning of their next turn.
+**Unarmored Defense.** While Aiwin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+**Agile Parry.** When Aiwin makes an attack as a part of their multiattack, they gain a +2 bonus to their AC until the beginning of their next turn.
 
 **Actions.**
 
@@ -20,7 +20,7 @@ PB +3
 
 ***Draw Strike.*** (1/encounter) 
 
-***Healing Hands.*** (2/day) As an action, the monk can touch a creature and roll 3d8. The creature regains a number of hit points equal to the total rolled. 
+***Healing Hands.*** (2/day) As an action, Aiwin can touch a creature and roll 3d8. The creature regains a number of hit points equal to the total rolled. 
 
 **Bonus Actions.**
 
