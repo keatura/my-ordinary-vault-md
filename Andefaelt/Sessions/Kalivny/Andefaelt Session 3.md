@@ -103,7 +103,7 @@ Senses: Darkvision 60ft, Passive perception 18
 PB +4
 
 ***Restrictive Armor.*** The armor this creature is wearing restricts it's movement, but not it's ability to aim. This creature's Dexterity score counts as 17(+3) when determining ranged weapon attacks.
-***Powered Armor.*** The armor this creature is wearing boosts it's Strength Score from 17 to 25, it's size from Medium to Large, and gives it resistance to bludgeoning, piercing, and slashing damage. If this creatures armor is removed, it loses these traits.
+***Powered Armor.*** The armor this creature is wearing boosts it's Strength Score from 17 to 25, it's size from Medium to Large, gives it resistance to bludgeoning, piercing, and slashing damage, and makes it immune to effects of poison gas and other chemical weapons. If this creatures armor is removed, it loses these traits.
 ***Kadis' Chosen.*** (1/day) When the Templar fails a roll, it may choose to succeed instead.
 
 ***Innate Spellcasting.*** The Templar is a 3rd-level spellcaster. It's spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks.) It has the following Paladin Spells Prepared.
@@ -126,6 +126,8 @@ Cantrips (at will): Light, Sacred Flame
 ***The Pointy End.*** The Templar makes an attack with the Spear profile of it's Halberd-Rifle.
 
 ***Reload.*** The Templar reloads any firearms it is wielding.
+
+
 
 ## The Goblin Camp pt.2
 Hearsay, Blue Bamba, and Ezaren have snuck through camp into the cave at the center.
