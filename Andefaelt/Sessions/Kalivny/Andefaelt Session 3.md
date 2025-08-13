@@ -134,6 +134,8 @@ Hearsay, Blue Bamba, and Ezaren have snuck through camp into the cave at the cen
 Mizuki is talking to [[Chantmaster Zekka]].
 
 #### The Chamber
+- The cave leads into a small crypt
+- its just a few rooms
 
 ```
 The cave's entrance is fairly steep, leading down, deeper underground. The walls look excavated by hand, supported by rough cut beams. the cave grows very dark very quickly, dim light surrounds you, only illuminated by small Moxite crystals that are letting off a faint teal glow. (Moxite crystals reacting to air.) As Hearsay walks by, you all notice as these crystals seem to thrum brighter as the exhaust from her armor syncs with the thrum of the crystals. Eventually, after a few minutes of slowly making your way down this cave, you come to a break in the path. In front of you is what looks to be a broken stone brick wall, acient in construction. the stone is decayed and eroded, covered in dirt.
