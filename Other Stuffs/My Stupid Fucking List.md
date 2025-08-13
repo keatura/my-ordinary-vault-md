@@ -10,7 +10,7 @@
 - [ ] John Wick 3
 - [ ] John Wick 4
 - [x] Inglorious Bastards
-- [ ] V is for Vendetta
+- [x] V is for Vendetta
 - [ ] The Gentle Men
 - [x] Mad Max: Furiosa
 - [x] Mad Max: Fury Road
@@ -22,7 +22,7 @@
 - [ ] Hot Shots
 - [ ] Apocalypse Now
 - [ ] Good Morning Vietnam
-- [ ] Zoolander
+- [x] Zoolander
 - [ ] Forest Gump
 - [x] Tropic Thunder
 - [ ] Saving Private Ryan
