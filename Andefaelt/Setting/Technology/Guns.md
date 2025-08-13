@@ -47,7 +47,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 
 | Heavy Weapons           | Price  | Damage                                  | Weight | Properties                                                   |                     |
 | ----------------------- | ------ | --------------------------------------- | ------ | ------------------------------------------------------------ | ------------------- |
-| Templar's Halberd-rifle | 500gp  | 3d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (3), Range (60/180), Two Handed, Reach (15ft)         | Cleave/<br><br>Push |
+| Templar's Halberd-rifle | 500gp  | 2d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (2), Range (60/180), Two Handed, Reach (15ft)         | Cleave/<br><br>Push |
 | Machine Gun             | 750gp  | 2d6 +dex                                | 80lbs  | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Vex                 |
 | Hand Cannon             | 30gp   | 4d6 +dex                                | 8lbs   | Reload (3), Range (100/300), Large Caliber                   | Topple              |
 | Anti-Armor Rifle        | 1200gp | 4d10 +dex                               | 100lbs | Reload (6), Range (500/1500), Two Handed, Large Caliber      | Topple              |
@@ -93,7 +93,7 @@ Exotic Weapons are very unique weaponry that are very rare. These weapons requir
 **Grenade Launcher.** This weapon fires large, low velocity explosive projectiles. Due to this, it's ammo is rare and costs 3x as much as normal. When this weapon can be aimed at a specific square, instead of a targeted Creature. It's range is a flat 60 feet, and every creature within 20 feet of the point of impact must make a DC 15 Dexterity saving throw, taking 2d6 damage, or half as much on a failed save.
 
 ### Heavy Weapons
-These weapons are intended for use in emplacements, people in power armor and small warjacks. Due to their large size and huge weight, they are completely impractical for use by those not in powered armor. Someone may equip one of these weapons, but every weapon counts as having the Two-Handed property, and they may not use it to make an attack without receiving the Help action from someone else under the specific purpose of using the weapon. This Help action does not provide Advantage.
+These weapons are intended for use in emplacements, people in power armor and small warjacks. Due to their large size and huge weight, they are completely impractical for use by those not in powered armor. Someone may equip one of these weapons, but every weapon counts as having the Two-Handed property, and they may not use it to make an attack without receiving the Help action from someone else under the specific purpose of using the weapon. This Help action does not provide Advantage. These weapons may use the targets un-modified Dexterity Score if it was affecting by donning a suit of Powered Armor.
 
 The Ammo costs for all Heavy Weapons are doubled.
 

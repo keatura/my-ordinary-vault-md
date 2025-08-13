@@ -12,8 +12,8 @@ AC: 13 (Mechanics' Clothes)
 HP: 39 (5d10+5)
 Speed: 30ft  
 **STR: 15(+2), DEX: 16(+3), CON: 13(+1), INT: 16(+3), WIS: 13(+1), CHA: 11(0)**  
-Skills: 
-Senses: 
+Skills: [Stealth] +6, [Sleight of Hand] +6, [Insight] +4, [Investigation] +6
+Senses: Darkvision 60ft
 CR: Nah PB +3
 
 
@@ -38,7 +38,7 @@ CR: Nah PB +3
 | 4   | **Caltrops.** Bolt loads caltrops in with the scrap. Any creature that fails the saving throw has their speed reduced by 10ft for 1 minute. This effect cannot stack on the same creature multiple times.     |
 | 5   | **Kaboom.** Bolt loads in home-made grenades with the scrap. After the attack is resolved, any creatures who fail the saving throw take an extra 1d10 fire damage in a 10ft cone around them.                 |
 | 6   | **Smoke Grenades.** Bolt loads in home-made smoke grenades with the scrap. After the next attack is resolved, the DM places up to 1d3 Fog Clouds within the cone, that are non-magical and last for 1 minute. |
-
+***Stormsurge.*** Bolt can dash as a bonus action. (2/day)
 
 **Reactions.**
 

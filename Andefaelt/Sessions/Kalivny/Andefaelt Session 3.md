@@ -89,6 +89,44 @@ Once per turn, while the Hobgoblin is within 5ft of a friendly creature that isn
 ***Reload.***
 *The hobgoblin reloads any firearms it is wielding.*
 
+##### Templar
+
+Large Humanoid
+AC: 21
+HP: 93 (8d12+32)
+Speed: 40ft
+**STR: 25(+7), DEX: 12(+1), CON: 18(+4), INT: 14(+2), WIS: 18(+4), CHA: 21(+5)**
+Saving Throws: Strength: +11, Wisdom: +8, Charisma +9
+Damage Resistances: Bludgeoning, Piercing, Slashing, Radiant.
+Skills: Medicine +8, Persuasion +9, Intimidation +9, Religion +6, Perception +8
+Senses: Darkvision 60ft, Passive perception 18
+PB +4
+
+***Restrictive Armor.*** The armor this creature is wearing restricts it's movement, but not it's ability to aim. This creature's Dexterity score counts as 17(+3) when determining ranged weapon attacks.
+***Powered Armor.*** The armor this creature is wearing boosts it's Strength Score from 17 to 25, it's size from Medium to Large, and gives it resistance to bludgeoning, piercing, and slashing damage. If this creatures armor is removed, it loses these traits.
+***Kadis' Chosen.*** (1/day) When the Templar fails a roll, it may choose to succeed instead.
+
+***Innate Spellcasting.*** The Templar is a 3rd-level spellcaster. It's spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks.) It has the following Paladin Spells Prepared.
+
+Cantrips (at will): Light, Sacred Flame
+1st Level (4 slots): Detect Evil and Good, Cure Wounds, Command, Compelled Duel
+2nd Level (2 slots): Zone of Truth, Lesser Restoration
+
+**Actions.**
+***Multiattack.*** The Templar can make up to two weapon attacks with either it's melee or ranged weapon profiles, or it's dagger.
+
+***Templar's Halberd-Rifle. (Axe)*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., One Target. Hit: (2d10 + 7) Slashing damage, plus (3d8) Radiant damage.
+***Templars Halberd-Rifle. (Spear)*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., One Target. Hit: (2d4 + 7) Slashing damage.
+***Templar's Halberd-Rifle. (Ranged)*** *Ranged Weapon Attack:* +7 to hit, reach (60/180) ft., One Target. Hit: (4d6 + 3) Piercing damage. Reload (2).
+
+***Templar's Dagger.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., One Target. Hit: (1d8+7) Slashing Damage
+
+**Bonus Actions.**
+
+***The Pointy End.*** The Templar makes an attack with the Spear profile of it's Halberd-Rifle.
+
+***Reload.*** The Templar reloads any firearms it is wielding.
+
 ## The Goblin Camp pt.2
 Hearsay, Blue Bamba, and Ezaren have snuck through camp into the cave at the center.
 Mizuki is talking to [[Chantmaster Zekka]].
