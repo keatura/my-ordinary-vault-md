@@ -4,7 +4,7 @@ she/her
 - no last name
 - was sent to Kalivny to basically go through a coming of age journey
 - Has an old Steamjack named "Bones"
-- 19
+- 20
 
 - Friends, family, allies, relationships, enemies you have made? even if you spent most of your life so far on in the fleet but even then is there someone who is just your Opp
 	- maybe a childhood rival or smth, maybe someone who's also in the same situation as you but sees things differently
@@ -17,12 +17,3 @@ she/her
 
 - the proving can happen for various reasons
 	- different prodigies can get into fights and altercations. but generally wont kill each other
-
-## Friends
-
-##### Ukuchan Mechanic - Bolt-That-Sits-On-Desk "Bolt"
-- Roommate
-- helps Hearsay work on Bones, letting her borrow tools and learn how to work on Jacks
-- Literally just walked into Bolt's shop and dropped off Bones, they had a short talk and now Hearsay pays rent and they are roommates
-- understands that Hearsay has a bit more going on than she lets on - doesnt really care and doesnt ask
-- wants to hunt and kill the King of Rats
