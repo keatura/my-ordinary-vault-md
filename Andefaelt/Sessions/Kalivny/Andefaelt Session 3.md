@@ -145,7 +145,9 @@ The cave's entrance is fairly steep, leading down, deeper underground. The walls
 - the entrance area is barren except for a few bookshelves with dusty, rotted tomes
 - the second area has a rotted away oil paint mural on the wall, with the fragments remaining displaying what can be assumed to be a armored hand holding this yellow or maybe gold dagger
 - the third area has a heavy stone door, dc10 str to open (if they fail one of the guards on the inside opens it for them, assuming that it's Zekka coming to take the kid and the weapon)
-- inside the center of the room rests a tomb in the center, and there is two goblins inside of the room guarding Marckus.
+- inside the center of the room rests a tomb in the center, and there is two goblins inside of the room guarding [[Marckus Westmeister]]. At this point he still has commoner stats, but with -1 str -1 dex.
+- There is a makeshift cage in the back right corner with Marckus in it
+- if they try to grab Marckus or open the tomb, the door slams shut and 
 
 #### The Tent
 Scene description.

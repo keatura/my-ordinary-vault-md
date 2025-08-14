@@ -10,14 +10,15 @@ HP: 44 (8d8+5)
 Speed 30ft
 **Saving Throws** Str +1 Dex +3 Con +2 Int 0 Wis +2 Cha +4
 **STR: 11(0), DEX: 14(+2), CON: 12(+1), INT: 10(0), WIS: 8(-1), CHA: 17(+3)**
-**Skills**
-Persuasion +5, Deception +5, Stealth +4
+**Skills:** Persuasion +5, Deception +5, Stealth +4
 **Senses:** Passive Perception 13
 PB +2
 
 **Dark Devotion.** The Feyblood dagger gives Marckus advantage of saving throws against being charmed or frightened. 
 
 **Feyblood Pocket Dimension.** Marckus can summon and banish the Dagger to a pocket dimension.
+
+**Incorporeal.** This creature can move through enemies and fit through spaces as narrow as one inch. It also takes half damage from nonmagical Bludgeoning, Piercing, and Slashing damage.
 
 ### Actions
 **Multiattack.** Marckus makes two attacks with his Feyblood dagger. He can substitute one of his attacks to cast either *Booming Blade* or *Green-Flame Blade.* 
@@ -40,4 +41,4 @@ Marckus has one Legendary Action.
 
 **Swipe.** Marckus may make one attack with either of the profiles on his Feyblood Dagger.
 
-**Desperate Healing.** Marckus uses a spell slot to cast Vampiric Touch on one creature within range of the spell.
+**Desperate Healing.** Marckus uses a spell slot to cast Vampiric Touch on one creature within range of the spell. This spell only lasts for the reaction, and does not require concentration. If he is already concentrating on this spell, then he makes another attack with it using this.
