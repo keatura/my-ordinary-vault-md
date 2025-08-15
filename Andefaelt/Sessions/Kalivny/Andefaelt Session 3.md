@@ -168,11 +168,27 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 - she thinks that it with the runes in it and the power from The Blade, they were going to push back against both Kalivny and Helena's expansion into the woods.
 	- they have already tried asking and it was no avail
 - after a short time of talking, theres a soft rumble, the sounds of ground breaking and the tell-tale distorted scream of a magic surge
-	- outside, there is a giant beam of golden light shooting up into the sky. the entire camp is being showered in specs of dirt and rock and the other three party members fly out of the golden beam back, ~~ 20ft in front of mizuki
-- this cataclysm seems like it has shaken most of the camp, and the Shamans immediately go to tend to 
+	- outside, there is a giant beam, about 20 foot diameter of golden light shooting up into the sky 15 feet behind the cave entrance. the entire camp is being showered in specs of dirt and rock and the other three party members fly out of the golden beam back, ~~ 20ft in front of Mizuki
+- this cataclysm seems like it has shaken most of the camp, and the Shamans are standing shocked near Mizuki
+- the beam begins to die down after a few more seconds, and floating through it is Marckus Westmeister, dirty and matted black hair rustling quickly from the energy rising out of the pit
+- in a controlled manner he lands down facing towards the party and holds out his dagger, he is going to kill them for ruining the ritual
+- "YOU! YOU THREE RUINED THE RITUAL. THESE FOREST DWELLERS ARE GOING TO SUFFER FOR YOUR ACTIONS. SURRENDER OR DIE."
+- at the same time the goblins from the outside quickly file inside 
+- If they go to fight, all 8 shamans, Zekka, and 2d4 hobgoblins plus 2d8 goblins show up to fight. they try to non-lethal as much as possible
+- if they run, the shamans cast 
+- if they surrender, they are arrested and stripped of their weapons, and hearsays armor is removed (she's forcibly covered up as well to hide her horns, a large cloth is thrown over her head.)
 
-#### Scene
-Scene description.
+#### DEUS VULT
+- they are arrested, but dont have to wait very long
+- they can see the goblins setting up a spot for an execution and there is 4 hobgoblins and the 8 shamans standing outside their tent. as well as the entire camp on high alert
+	- the cage could be broken through though.
+- after some time waiting, they hear the faint sounds of rushing air.
+	- it grows louder very quickly and turns into screeching as aircraft appears overhead
+	- dc 12 history check - its an Asyrian fast attack craft, used for dropping off troops remote areas
+	- its similar to a vertiberd but with jet engines spewing teal blue flame
+- four Templars just from the sides, landing about 100 feet below. They are carrying what Blue Bamba recognizes as standard carry - Halberd-Rifles
+	- he can make a dc15 history check if he wants to recall what they are capable of - very skilled combatants wielding insanely powerful weapons and minor magical ability.
+- the VTOL leaves shortly after dropping off the troops, and the Templars get to work massacring goblins and aiming to capture Marckus
 
 #### Scene
 Scene description.
