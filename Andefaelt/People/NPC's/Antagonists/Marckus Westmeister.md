@@ -6,11 +6,11 @@ The Dagger and even Marckus himself drip Holy Blight, a sickeningly yellow radia
 
 Medium Humanoid
 AC: 14 (Leather, Cloak of Protection)
-HP: 44 (8d8+5)
+HP: 55 (8d10+5)
 Speed 30ft
 **Saving Throws** Str +1 Dex +3 Con +2 Int 0 Wis +2 Cha +4
 **STR: 11(0), DEX: 14(+2), CON: 12(+1), INT: 10(0), WIS: 8(-1), CHA: 17(+3)**
-**Skills:** Persuasion +5, Deception +5, Stealth +4
+**Skills:** Persuasion +5, Deception +5, Stealth +6
 **Senses:** Passive Perception 13
 PB +2
 
@@ -26,7 +26,7 @@ PB +2
 **Feyblood Dagger** *Melee or Ranged Attack:* +6 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d8+4) slashing damage or 8 (1d6+4) piercing damage, plus 7 (2d6) Radiant damage.
 
 **Spellcasting.**
-Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Marckus has the following Warlock spells prepared:
+Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Marckus has the following Warlock spells prepared:
 
 Cantrips (at will): Booming Blade (range 60ft), Green-Flame Blade (range 60ft), Minor Illusion.
 
