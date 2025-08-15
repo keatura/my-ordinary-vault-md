@@ -154,7 +154,7 @@ The cave's entrance is fairly steep, leading down, deeper underground. The walls
 - after it grabs him smash cut to Mizuki
 
 #### The Tent
-- Mizuki is still in the tent 
+- Mizuki is still in the tent with [[Chantmaster Zekka]] and the other Shamans
 
 #### Scene
 Scene description.
