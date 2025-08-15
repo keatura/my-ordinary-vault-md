@@ -196,19 +196,12 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 ## The Aftermath
 - an Asyrian warship has begun closing in on the island after seeing the beam of light. their claim for the action is "the protection of Helena." It is anchored nearby Helena floating above it, visible from Kalivny.
 - free roam to do whatever until the end of the session
-- 
 
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
+#### encounter ig 
+- at the end of the session, if theres is still some more time, Marckus finds them with a group of 4 Hobgoblins
+- this is also a good place to end 
+- if they are in Kalivny or Helena he ambushes them after a long rest.
+- he managed to kill the four Templars with heavy losses on the goblins' side, Zekka is severly injured and most of the goblins in the camp are dead or injured.
 
 ## Scratch Notes
 - Example
