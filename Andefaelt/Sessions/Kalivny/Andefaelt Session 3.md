@@ -139,11 +139,11 @@ Mizuki is talking to [[Chantmaster Zekka]].
 - Marckus is in the altar room, 
 
 ```
-The cave's entrance is fairly steep, leading down, deeper underground. The walls look excavated by hand, supported by rough cut beams. the cave grows very dark very quickly, dim light surrounds you, only illuminated by small Moxite crystals that are letting off a faint teal glow. (Moxite crystals reacting to air.) As Hearsay walks by, you all notice as these crystals seem to thrum brighter as the exhaust from her armor syncs with the thrum of the crystals. Eventually, after a few minutes of slowly making your way down this cave, you come to a break in the path. In front of you is what looks to be a broken stone brick wall, acient in construction. the outside of the stone is decayed and eroded, covered in dirt. Inside, though seems to be stable and the wall seems as if it had been broken through recently.
+The cave's entrance is fairly steep, twisting down, deeper underground. The walls look excavated by hand, supported by rough cut beams. the cave grows very dark very quickly, dim light surrounds you, only illuminated by small Moxite crystals that are letting off a faint teal glow. (Moxite crystals reacting to air.) As Hearsay walks by, you all notice as these crystals seem to thrum brighter as the exhaust from her armor syncs with the thrum of the crystals. Eventually, after a few minutes of slowly making your way down this cave, you come to a break in the path. In front of you is what looks to be a broken stone brick wall, acient in construction. the outside of the stone is decayed and eroded, covered in dirt. Inside, though seems to be stable and the wall seems as if it had been broken through recently.
 ```
 - the entire dungeon is just formatted in a straight line
 - the entrance area is barren except for a few bookshelves with dusty, rotted tomes
-- the second area has a rotted away oil paint mural on the wall, with the fragments remaining displaying what can be assumed to be a armored hand holding this yellow or maybe gold dagger
+- the second area has a rotted away oil paint mural on the wall, with the fragments remaining displaying what can be assumed to be a armored hand holding this yellow or maybe gold dagger in a reverse grip, looks like its stabbing down
 - the third area has a heavy stone door, dc10 str to open (if they fail one of the guards on the inside opens it for them, assuming that it's Zekka coming to take the kid and the weapon)
 - inside the center of the room rests a tomb in the center, and there is two goblins inside of the room guarding [[Marckus Westmeister]]. At this point he still has commoner stats, but with -1 str -1 dex.
 - There is a makeshift cage in the back right corner with Marckus in it
@@ -154,7 +154,8 @@ The cave's entrance is fairly steep, leading down, deeper underground. The walls
 - after it grabs him smash cut to Mizuki
 
 #### The Tent
-- Mizuki is still in the tent with [[Chantmaster Zekka]] and the other Shamans
+- Mizuki is still in the tent with [[Chantmaster Zekka]] and the other Shamans, though a few Hobgoblins have moved inside the tent silently.
+- she offers tea - says to stick around for the ritual later 
 
 #### Scene
 Scene description.
