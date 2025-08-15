@@ -1,7 +1,11 @@
+[Mizuki Kotova](https://docs.google.com/document/d/1Oikd89fGU7T00rWWaWLT19Nso57PAbQDarz4r-o64E8/edit?usp=sharing)
+[Sascha King](https://docs.google.com/document/d/1YRq8hfhHdB6ZylcPvlW80G39SPa8ycdb-BgVQJyk2YU/edit?usp=sharing)
+[[Hearsay]]
+[[Ezaren Reed]]
 
 ## Session Description
 
-Example
+Big Things Coming
 
 # Important Places This Session
 
@@ -105,6 +109,7 @@ PB +4
 ***Restrictive Armor.*** The armor this creature is wearing restricts it's movement, but not it's ability to aim. This creature's Dexterity score counts as 17(+3) when determining ranged weapon attacks.
 ***Powered Armor.*** The armor this creature is wearing boosts it's Strength Score from 17 to 25, it's size from Medium to Large, gives it resistance to bludgeoning, piercing, and slashing damage, and makes it immune to effects of poison gas and other chemical weapons. If this creatures armor is removed, it loses these traits.
 ***Kadis' Chosen.*** (1/day) When the Templar fails a roll, it may choose to succeed instead.
+***Shock Absorbers.*** The Templar is immune to fall damage.
 
 ***Innate Spellcasting.*** The Templar is a 3rd-level spellcaster. It's spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks.) It has the following Paladin Spells Prepared.
 
@@ -119,7 +124,9 @@ Cantrips (at will): Light, Sacred Flame
 ***Templars Halberd-Rifle. (Spear)*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., One Target. Hit: (2d4 + 7) Slashing damage.
 ***Templar's Halberd-Rifle. (Ranged)*** *Ranged Weapon Attack:* +7 to hit, reach (60/180) ft., One Target. Hit: (4d6 + 3) Piercing damage. Reload (2).
 
-***Templar's Dagger.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., One Target. Hit: (1d8+7) Slashing Damage
+***Templar's Dagger.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., One Target. Hit: (2d6+7) Slashing Damage
+
+***Unarmed Strike.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., One Target. Hit: (2d6+7) Bludgeoning Damage
 
 **Bonus Actions.**
 
