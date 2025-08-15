@@ -192,8 +192,8 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 - Marckus is fighting back, they see sigils appearing in the sky around the templars, and bolts of light shooting out of them
 - if they help the goblins fight the Templars, enter initiative with 8 Hobgoblins, 20 goblins (2 units of 10, with 70hp each), 6 shamans that are left, and Zekka
 
-## Chapter
-Scene description.
+## The Aftermath
+- an Asyrian warship has begun closing in on the island after seeing the beam of light. their claim for the action is "the protection of Helena."
 
 #### Scene
 Scene description.
