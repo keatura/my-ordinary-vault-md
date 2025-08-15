@@ -151,9 +151,10 @@ The cave's entrance is fairly steep, leading down, deeper underground. The walls
 
 - "I awaken to these pitiful guards dead and some rats taking my prize. I guess I have to do this the hard way."
 - The Blade wants Marckus and if it grabs him will start the ritual itself by shattering the dagger against the floor and unleashing its trapped energy.
+- after it grabs him smash cut to Mizuki
 
 #### The Tent
-Scene description.
+- Mizuki is still in the tent 
 
 #### Scene
 Scene description.
