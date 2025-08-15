@@ -147,10 +147,10 @@ The cave's entrance is fairly steep, leading down, deeper underground. The walls
 - the third area has a heavy stone door, dc10 str to open (if they fail one of the guards on the inside opens it for them, assuming that it's Zekka coming to take the kid and the weapon)
 - inside the center of the room rests a tomb in the center, and there is two goblins inside of the room guarding [[Marckus Westmeister]]. At this point he still has commoner stats, but with -1 str -1 dex.
 - There is a makeshift cage in the back right corner with Marckus in it
-- if they try to grab Marckus or open the tomb, the door slams shut and mist pours out of the coffin, consuming the two goblins and forming into a shadowy nearly shapeless humanoid with a distinct black cloak of mist, holding a bright glowing roundel dagger, glowing a sickly gold and dripping off this golden liquid that evaporates quickly as it falls to the floor.
+- if they try to grab Marckus or open the tomb, the door slams shut and mist pours out of the coffin, consuming the two goblins and forming into a shadowy nearly shapeless humanoid with a distinct black cloak of mist, holding a bright golden roundel dagger, with a bronze handle and engraved bronze runes in the blade. glowing a sickly gold and dripping off this golden liquid that evaporates quickly as it falls to the floor.
 
-- "I awaken to these pitiful guards dead and some rats taking my prize. I guess I'll have to do this the hard way."
-- The Blade wants 
+- "I awaken to these pitiful guards dead and some rats taking my prize. I guess I have to do this the hard way."
+- The Blade wants Marckus and if it grabs him will start the ritual itself by shattering the dagger against the floor and unleashing its trapped energy.
 
 #### The Tent
 Scene description.
