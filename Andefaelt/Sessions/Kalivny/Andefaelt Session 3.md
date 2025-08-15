@@ -189,9 +189,8 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 - four Templars just from the sides, landing about 100 feet below. They are carrying what Blue Bamba recognizes as standard carry - Halberd-Rifles
 	- he can make a dc15 history check if he wants to recall what they are capable of - very skilled combatants wielding insanely powerful weapons and minor magical ability.
 - the VTOL leaves shortly after dropping off the troops, and the Templars get to work massacring goblins and aiming to capture Marckus
-
-#### Scene
-Scene description.
+- Marckus is fighting back, they see sigils appearing in the sky around the templars, and bolts of light shooting out of them
+- if they help the goblins fight the Templars, enter initiative with 8 Hobgoblins, 20 goblins (2 units of 10, with 70hp each), 6 shamans that are left, and Zekka
 
 ## Chapter
 Scene description.
