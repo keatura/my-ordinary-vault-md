@@ -193,7 +193,8 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 - if they help the goblins fight the Templars, enter initiative with 8 Hobgoblins, 20 goblins (2 units of 10, with 70hp each), 6 shamans that are left, and Zekka
 
 ## The Aftermath
-- an Asyrian warship has begun closing in on the island after seeing the beam of light. their claim for the action is "the protection of Helena."
+- an Asyrian warship has begun closing in on the island after seeing the beam of light. their claim for the action is "the protection of Helena." It is anchored nearby Helena floating above it, visible from Kalivny.
+- 
 
 #### Scene
 Scene description.
