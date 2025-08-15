@@ -156,13 +156,20 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 - There is a makeshift cage in the back right corner with Marckus in it
 - if they try to grab Marckus or open the tomb, the door slams shut and mist pours out of the coffin, consuming the two goblins and forming into a shadowy nearly shapeless humanoid with a distinct black cloak of mist, holding a bright golden roundel dagger, with a bronze handle and engraved bronze runes in the blade. glowing a sickly gold and dripping off this golden liquid that evaporates quickly as it falls to the floor.
 
-- "I awaken to these pitiful guards dead and some rats taking my prize. I guess I have to do this the hard way."
+- "I awaken to these pitiful guards dead and some rats taking my prize. I guess I have to do this the hard way." but as it approaches them they can see it's still tied to the tomb by the mist.
 - The Blade wants Marckus and if it grabs him will start the ritual itself by shattering the dagger against the floor and unleashing its trapped energy.
 - after it grabs him smash cut to Mizuki
 
 #### The Tent
 - Mizuki is still in the tent with [[Chantmaster Zekka]] and the other Shamans, though a few Hobgoblins have moved inside the tent silently.
-- she offers tea - says to stick around for the ritual later 
+- she offers tea - says to stick around for the ritual later
+	- the tea tastes like very fresh green tea, because it was harvested recently from their crops
+	- peak lawn clippings
+- she thinks that it with the runes in it and the power from The Blade, they were going to push back against both Kalivny and Helena's expansion into the woods.
+	- they have already tried asking and it was no avail
+- after a short time of talking, theres a soft rumble, the sounds of ground breaking and the tell-tale distorted scream of a magic surge
+	- outside, there is a giant beam of golden light shooting up into the sky. the entire camp is being showered in specs of dirt and rock and the other three party members fly out of the golden beam back, ~~ 20ft in front of mizuki
+- this cataclysm seems like it has shaken most of the camp, and the Shamans immediately go to tend to 
 
 #### Scene
 Scene description.
