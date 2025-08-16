@@ -899,5 +899,12 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - we hide away in this old building in the outpost were in
 - they run right by, and same with the larger group, though a few stay behind looking for something or someone
 
-# 8/16/25
+# 8/16/25 Tragic Aftermath (RIP Damian, we will miss you)
+- recap
+	- the archive exploded :(
+	- got chased by Assembly Goons
+	- fought our way through an army with Ermines help
+	- A RED DRAGON SHOWS UP!!!!!!!
+	- Damian tries to solo the red dragon and tragically dies :(
+	- we are heading towards Aravos' temple
 - 
