@@ -898,4 +898,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - we see 7 Assembly cavalry riding towards us very quickly, it's unsure if they see us
 - we hide away in this old building in the outpost were in
 - they run right by, and same with the larger group, though a few stay behind looking for something or someone
+
+# 8/16/25
 - 
