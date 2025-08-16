@@ -925,4 +925,14 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- doesnt work
 	- does it louder
 	- works
+- we head down this hallway that looks less put together, like it was under construction
+- we see a man
+	- .......
+	- i wonder who this may be
+	- hes mining
+	- is he crafting ?
+	-  ITS FUCKING ZOOLANDER
+	- IM GONNA LOSE IT
+	- HIS NAME IS FUCKING DERELICT
+	- SLKDGHKJSDGHKJSDGHGKJSDHSDKGHSDL;JFSLDJG
 - 
