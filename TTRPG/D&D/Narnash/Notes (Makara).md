@@ -935,4 +935,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- IM GONNA LOSE IT
 	- HIS NAME IS FUCKING DERELICT
 	- SLKDGHKJSDGHKJSDGHGKJSDHSDKGHSDL;JFSLDJG
+- Makara walks past him because shes lame and also scared and wants to Not Be Near Here
+- she continues forth and finds the Strig with a puzzle on the wall, with a riddle
+	- "Burning Fire or Gentle Breeze,
+	- Warming Heart and Fated Grief,
+	- Shared by two, felt by one,
+	- Separated by cuts and pools of blood"
 - 
