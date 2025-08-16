@@ -975,4 +975,16 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- ok Makara is no longer sus
 - Asphodel runs to a bar before we leave, and grabs a filet mignon, and bread with cheese and olive oil
 	- ;)
-- Makara methodically takes off all of her armor 
+- Makara methodically takes off all of her armor and cleans it
+- fucking asks Dilys out on a date
+	- Sigh
+	- she "doesn't want Asphodel to think of her house colors as her first impression"
+	- buys an orange and dark teal fencing coats
+	- buys Dilys two light teal dresses
+	- its not obvious its not obvious
+- Olivia is doing things in her quarters
+	- The two ladies Damian had come up to her
+	- asking where Damian is
+	- :(
+	- they shrink away, seemingly very sad at his death
+- 
