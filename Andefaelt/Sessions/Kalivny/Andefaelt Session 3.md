@@ -163,7 +163,7 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 Initiative:
 blue bamba - 18
 ezaren - 16
-the blade - 14
+the blade - 14 - 47hp
 hearsay - 7
 
 #### The Tent
