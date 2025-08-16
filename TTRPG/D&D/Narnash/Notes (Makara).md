@@ -969,4 +969,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - "I get emotional when I think about world peace."
 	- Oh My God
 - we are discussing the next course of action
+- Olivia suddenly decides that going to Sarphan is a good idea
+	- Suspicious....
+	- "You make a good point"
+	- ok Makara is no longer sus
+- Asphodel runs to a bar before we leave, and grabs a filet mignon, and bread with cheese and olive oil
+	- ;)
 - 
