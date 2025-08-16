@@ -913,4 +913,9 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- its a temple alright
 - it seems as if we have a bit of time to find the portal, but Zuul is UPSET, roaring very loudly outside
 - Asphodel unhitches the horses
-- we head through 
+- we head through a small tunnel in the main room of the temple
+- Aravos mentions Strig-Arcanum, basically redstone but for magic
+- we need to activate the generator for it to power the portal
+- it is activated by a riddle that changes every 50 days, and we only have 1 attempt
+	- oh boy oh boy
+- 
