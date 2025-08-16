@@ -950,4 +950,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Derelict finds the answer because im overthinking the shit out of this
 	- Sigh
 - Makara presses Birth+Betrayal
-- 
+- it works
+- fucking yippee
+- Aspodel does not hear a nything outside
+	- Concerning
+	- 
