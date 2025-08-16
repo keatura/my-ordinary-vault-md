@@ -30,7 +30,7 @@ Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell 
 
 Cantrips (at will): Booming Blade (range 60ft), Green-Flame Blade (range 60ft), Minor Illusion.
 
-3rd level (2 slots): Command, Vampiric Touch, Shield. Misty Step
+3rd level (2 slots): Command, Vampiric Touch, Shield. Misty Step 
 
 ### Bonus Actions
 
