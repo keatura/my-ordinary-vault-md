@@ -960,4 +960,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Makara is sad
 	- Nahamaj is sad because Makara is sad
 	- it almost feels like a conversation
-	- 
+	- it wants to eat The Exchange
+	- Why?
+	- guilty feeling
+	- selfish, feels guilty because it feels selfish
+- 
