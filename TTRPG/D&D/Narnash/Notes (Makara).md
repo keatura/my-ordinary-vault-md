@@ -907,4 +907,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- A RED DRAGON SHOWS UP!!!!!!!
 	- Damian tries to solo the red dragon and tragically dies :(
 	- we are heading towards Aravos' temple
-- 
+- we get into the temple
+- Makara is looking for the exist
+	- rolls like garbage
+	- its a temple alright
+- it seems as if we have a bit of time to find the portal, but Zuul is UPSET, roaring very loudly outside
+- Asphodel unhitches the horses
+-  
