@@ -918,4 +918,11 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - we need to activate the generator for it to power the portal
 - it is activated by a riddle that changes every 50 days, and we only have 1 attempt
 	- oh boy oh boy
+- Aravos leads us to his Study, inside is hundreds of feet of bookshelves
+- at the very top is an array of crystals that turn the room into a sort of kaleidoscope
+- Aravos asks Olivia to clap twice to turn the lights on
+	- she does it
+	- doesnt work
+	- does it louder
+	- works
 - 
