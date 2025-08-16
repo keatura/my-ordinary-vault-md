@@ -946,4 +946,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- birth, love
 	- war, death
 - definitely overthinking the hell out of this poem
+- 30 investigation
+- Derelict finds the answer because im overthinking the shit out of this
+	- Sigh
+- Makara presses Birth+Betrayal
 - 
