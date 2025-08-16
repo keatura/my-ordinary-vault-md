@@ -913,4 +913,4 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- its a temple alright
 - it seems as if we have a bit of time to find the portal, but Zuul is UPSET, roaring very loudly outside
 - Asphodel unhitches the horses
--  
+- we head through 
