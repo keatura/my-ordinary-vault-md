@@ -975,4 +975,4 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- ok Makara is no longer sus
 - Asphodel runs to a bar before we leave, and grabs a filet mignon, and bread with cheese and olive oil
 	- ;)
-- 
+- Makara methodically takes off all of her armor 
