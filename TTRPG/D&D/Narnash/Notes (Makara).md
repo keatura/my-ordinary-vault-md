@@ -941,4 +941,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Warming Heart and Fated Grief,
 	- Shared by two, felt by one,
 	- Separated by cuts and pools of blood"
+- we have 6 sigils, meaning:
+	- betrayal, protection
+	- birth, love
+	- war, death
 - 
