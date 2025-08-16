@@ -210,4 +210,5 @@ hearsay - 7
 - he managed to kill the four Templars with heavy losses on the goblins' side, Zekka is severly injured and most of the goblins in the camp are dead or injured.
 
 ## Scratch Notes
-- Example
+- Ezaren pressed le button
+- his co workers showed up at the end
