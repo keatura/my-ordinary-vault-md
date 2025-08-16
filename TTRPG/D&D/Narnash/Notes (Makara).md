@@ -952,6 +952,12 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Makara presses Birth+Betrayal
 - it works
 - fucking yippee
-- Aspodel does not hear a nything outside
+- Aspodel does not hear anything outside
 	- Concerning
+- Makara drops back to ask Olivia where Damian is
+	- He's dead
+	- oh.
+	- Makara is sad
+	- Nahamaj is sad because Makara is sad
+	- it almost feels like a conversation
 	- 
