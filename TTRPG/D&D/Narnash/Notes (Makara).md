@@ -964,4 +964,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Why?
 	- guilty feeling
 	- selfish, feels guilty because it feels selfish
+- WE TELEPORT
+- Dairelict recites his tragic backstory again for Makara
 - 
