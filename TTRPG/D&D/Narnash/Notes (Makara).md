@@ -945,4 +945,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- betrayal, protection
 	- birth, love
 	- war, death
+- definitely overthinking the hell out of this poem
 - 
