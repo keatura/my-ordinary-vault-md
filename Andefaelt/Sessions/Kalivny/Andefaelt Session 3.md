@@ -160,6 +160,12 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 - The Blade wants Marckus and if it grabs him will start the ritual itself by shattering the dagger against the floor and unleashing its trapped energy.
 - after it grabs him smash cut to Mizuki
 
+Initiative:
+blue bamba - 18
+ezaren - 16
+the blade - 14
+hearsay - 7
+
 #### The Tent
 - Mizuki is still in the tent with [[Chantmaster Zekka]] and the other Shamans, though a few Hobgoblins have moved inside the tent silently.
 - she offers tea - says to stick around for the ritual later
