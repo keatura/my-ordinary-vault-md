@@ -966,4 +966,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- selfish, feels guilty because it feels selfish
 - WE TELEPORT
 - Dairelict recites his tragic backstory again for Makara
+- "I get emotional when I think about world peace."
+	- Oh My God
+- we are discussing the next course of action
 - 
