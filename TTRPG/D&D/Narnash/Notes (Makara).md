@@ -1011,4 +1011,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - DAMIAN LEFT A LETTER FOR ASPHODEL
 	- IM GONNA CRY
 	- THIS SESSION IS INSANE
-	- 
+	- HE LEFT A LETTER
+	- I DID FUCKING CRY
+	- LIKE A LOT
+	- this is the best session probably Ever
+- 
