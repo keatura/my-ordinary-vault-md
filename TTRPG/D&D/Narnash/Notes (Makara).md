@@ -1054,4 +1054,16 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - we tell him to talk to his siblings like Right Now and get them of board
 - he does that
 	- Yippee!
+- Olivia is heading into the palace
+- she sees a chimney swift aarackokra clinging to the wall in some shadows, nearly invisible
+	- Sinister
+- she makes it to the throne room.
+- everyone is the palace looks like they are always on edge to not look suspicious
+- loads of guards
+	- paranoia much
+- Shoga is a very lean and thin person, seems like he doesnt eat enough
+	- long sharp jaw and intense eyes
+	- short black hair and a nose ring
+		- the emperor is an alt kid
+	- wearing red robes
 - 
