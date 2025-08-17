@@ -160,6 +160,12 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 - The Blade wants Marckus and if it grabs him will start the ritual itself by shattering the dagger against the floor and unleashing its trapped energy.
 - after it grabs him smash cut to Mizuki
 
+Initiative:
+blue bamba - 18
+ezaren - 16
+the blade - 14 - 60hp
+hearsay - 7
+
 #### The Tent
 - Mizuki is still in the tent with [[Chantmaster Zekka]] and the other Shamans, though a few Hobgoblins have moved inside the tent silently.
 - she offers tea - says to stick around for the ritual later
@@ -168,7 +174,7 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 - she thinks that it with the runes in it and the power from The Blade, they were going to push back against both Kalivny and Helena's expansion into the woods.
 	- they have already tried asking and it was no avail
 - after a short time of talking, theres a soft rumble, the sounds of ground breaking and the tell-tale distorted scream of a magic surge
-	- the other three need to make DC 15 constitution saving throws or take 2d8 necrotic damage
+	- the other three need to make DC 10 constitution saving throws or take 2d8 necrotic damage
 	- outside, there is a giant beam, about 20 foot diameter of golden light shooting up into the sky 15 feet behind the cave entrance. the entire camp is being showered in specs of dirt and rock and the other three party members fly out of the golden beam back, ~~ 20ft in front of Mizuki
 - this cataclysm seems like it has shaken most of the camp, and the Shamans are standing shocked near Mizuki
 - the beam begins to die down after a few more seconds, and floating through it is Marckus Westmeister, dirty and matted black hair rustling quickly from the energy rising out of the pit
@@ -204,4 +210,5 @@ The cave's entrance is fairly steep, twisting down, deeper underground. The wall
 - he managed to kill the four Templars with heavy losses on the goblins' side, Zekka is severly injured and most of the goblins in the camp are dead or injured.
 
 ## Scratch Notes
-- Example
+- Ezaren pressed le button
+- his co workers showed up at the end

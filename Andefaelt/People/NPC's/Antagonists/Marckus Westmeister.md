@@ -6,7 +6,7 @@ The Dagger and even Marckus himself drip Holy Blight, a sickeningly yellow radia
 
 Medium Humanoid
 AC: 14 (Leather, Cloak of Protection)
-HP: 55 (8d10+5)
+HP: 60 (8d10+5)
 Speed 30ft
 **Saving Throws** Str +1 Dex +3 Con +2 Int 0 Wis +2 Cha +4
 **STR: 11(0), DEX: 14(+2), CON: 12(+1), INT: 10(0), WIS: 8(-1), CHA: 17(+3)**
@@ -23,14 +23,14 @@ PB +2
 ### Actions
 **Multiattack.** Marckus makes two attacks with his Feyblood dagger. He can substitute one of his attacks to cast either *Booming Blade* or *Green-Flame Blade.* 
 
-**Feyblood Dagger** *Melee or Ranged Attack:* +6 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d8+4) slashing damage or 8 (1d6+4) piercing damage, plus 4 (1d6) Radiant damage.
+**Feyblood Dagger** *Melee or Ranged Attack:* +6 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d8+4) slashing damage or 8 (1d6+4) piercing damage, plus 4 (2d6) Radiant damage.
 
 **Spellcasting.**
 Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Marckus has the following Warlock spells prepared:
 
 Cantrips (at will): Booming Blade (range 60ft), Green-Flame Blade (range 60ft), Minor Illusion.
 
-3rd level (2 slots): Command, Vampiric Touch, Shield.
+3rd level (2 slots): Command, Vampiric Touch, Shield. Misty Step 
 
 ### Bonus Actions
 
