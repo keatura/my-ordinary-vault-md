@@ -1072,4 +1072,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Shoga DOESN'T crash out
 - he actually takes it pretty well
 	- good good
+- Olivia tells Kelric she would "Be willing to take Shoga's place"
+	- Oh Boy
+	- Here We Go
+		- Big Things Coming!
 - 
