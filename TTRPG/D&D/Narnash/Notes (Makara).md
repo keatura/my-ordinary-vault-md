@@ -1050,4 +1050,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- they put on some armor and head to Shoga
 - we are traveling through the woods
 - Makara gives Dairalict the rundown of the situation
+- CHANTICOOOO!!!
+- we tell him to talk to his siblings like Right Now and get them of board
+- he does that
+	- Yippee!
 - 
