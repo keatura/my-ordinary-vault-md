@@ -1027,4 +1027,9 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - END SESSION!!!11!!1
 
 # 8/17/25 Doomsday Double Session (the end of Act 1) (Makara and Dilys are a thing now) (we are back in Sarphan)
+- recap
+	- dont need to write this out
+	- Big Things Coming
+- THE END OF ACT 1 BEGINS.
+- Makara has already rented a Uhaul
 - 
