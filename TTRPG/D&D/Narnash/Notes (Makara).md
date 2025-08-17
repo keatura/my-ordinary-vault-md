@@ -1032,4 +1032,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Big Things Coming
 - THE END OF ACT 1 BEGINS.
 - Makara has already rented a Uhaul
+- There Is No Bomb
+	- it could be the Red Dragon Zuul, who is currently under control via "Shock" Collar
 - 
