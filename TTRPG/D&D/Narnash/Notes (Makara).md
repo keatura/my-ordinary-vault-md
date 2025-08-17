@@ -1043,4 +1043,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Makara picks up her helmet
 - Olivia sneaks into Kelrics' house
 - She tells him everything about the Assembly, inside a zone of truth
-- 
+- this is a very long conversation telling Kelric about pretty much everything 
+	- Olivia wants to speak to Shoga today
+	- Kelric doesnt know if that can happen
+	- His fate is damn close to being sealed
+	- 
