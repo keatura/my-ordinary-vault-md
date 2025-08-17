@@ -1035,4 +1035,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - There Is No Bomb
 	- it could be the Red Dragon Zuul, who is currently under control via "Shock" Collar
 - We organize a letter to Chantico, telling him what's going on and that he needs to come back to Sarphan
+- figuring out a landmark to meet him at, by Olivia's house
 - 
