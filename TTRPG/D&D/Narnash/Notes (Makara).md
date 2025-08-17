@@ -1068,4 +1068,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- wearing red robes
 - this guy is a turbo paranoid tweaker
 - Olivia is about to have "Fun"
+- they go to the dining room
 - 
