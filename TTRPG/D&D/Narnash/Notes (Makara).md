@@ -1089,4 +1089,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Asphodel is warning Cedar Patch, I didn't catch most of the conversation (sorry!) but type shit indeed
 - a crazy dude tells her to count the crows
 	- Good Omens!
+- Olivia is sleeping Kelric's house
+	- he doesn't come home that night, but comes home in the morning
 - 
