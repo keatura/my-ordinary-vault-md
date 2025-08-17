@@ -1040,4 +1040,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Asphodel makeup montage
 - we put our hands together
 	- FRIENDSHIP UNLOCKED !
+- Makara picks up her helmet
+- Olivia sneaks into Kelrics' house
 - 
