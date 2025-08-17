@@ -997,4 +997,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- leaves
 - ASPHODEL SEES FOR THE FIRST TIME IN DECADES!!!!!!!!!!!!!!!!!
 	- HOLY PEAK
+- Olivia wakes up first
+- Asphodel excitedly flies over to her
+- actually pretty close to what she though
 - 
