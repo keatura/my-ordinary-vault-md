@@ -1026,3 +1026,4 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- SINCE LAST I'VE SEEN MY SON
 - END SESSION!!!11!!1
 
+# 8/17/25 Doomsday Double Session (the end of Act 1) (Makara and Dilys are a thing now) (we are back in Sarphan)
