@@ -1069,4 +1069,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - this guy is a turbo paranoid tweaker
 - Olivia is about to have "Fun"
 - they go to the dining room
+- Shoga DOESN'T crash out
+- he actually takes it pretty well
+	- good good
 - 
