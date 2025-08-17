@@ -1093,4 +1093,11 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- he doesn't come home that night, but comes home in the morning
 -  Down Alley is fucked up and evil
 - Makara researches missing persons with Dilys
+- Chantico talked to
+	- Tekluki (blue youngest), currently talking to
+	- Yewl (copper eldest)
+	- Freuzenphara, no response
+	- Tiha (copper 3rd eldest), said she would look into it
+	- hes working on it
+- Chantico and Tekluki are going to be there, Tiha may
 - 
