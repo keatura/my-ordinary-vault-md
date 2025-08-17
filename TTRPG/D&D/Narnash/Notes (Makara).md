@@ -987,4 +987,14 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- asking where Damian is
 	- :(
 	- they shrink away, seemingly very sad at his death
+- Dairelict goes around introducing himself
+	- everyone loves him
+	- people recognize him
+	- holy peak
+- Asphodel comes back
+	- Makara reminds her of their dueling tomorrow
+	- gives her a big hug and offers bread and cheese afterwards if she's hungry
+	- leaves
+- ASPHODEL SEES FOR THE FIRST TIME IN DECADES!!!!!!!!!!!!!!!!!
+	- HOLY PEAK
 - 
