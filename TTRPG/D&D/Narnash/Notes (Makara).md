@@ -982,6 +982,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- buys an orange and dark teal fencing coats
 	- buys Dilys two light teal dresses
 	- its not obvious its not obvious
+	- (makara is a pillow princess)
 - Olivia is doing things in her quarters
 	- The two ladies Damian had come up to her
 	- asking where Damian is
@@ -1004,7 +1005,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- FUCKING. SOBBING OH MY GOD.
 	- LSKDGHSKJGHSDKJGHSKDJGHSDKJGHSDKJGHLKGZHDKLHZSDFJKG
 	- -/////-
-	- (makara is a pillow princess)
 - i GUESS the confession is happening
 - ok
 - yeah
