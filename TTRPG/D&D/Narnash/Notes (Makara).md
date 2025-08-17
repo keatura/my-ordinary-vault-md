@@ -1000,4 +1000,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Olivia wakes up first
 - Asphodel excitedly flies over to her
 - actually pretty close to what she though
+- "Oh, so you're in love with a cat?"
+	- FUCKING. SOBBING OH MY GOD.
+	- LSKDGHSKJGHSDKJGHSKDJGHSDKJGHSDKJGHLKGZHDKLHZSDFJKG
+	- -/////-
 - 
