@@ -1066,4 +1066,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- short black hair and a nose ring
 		- the emperor is an alt kid
 	- wearing red robes
+- this guy is a turbo paranoid tweaker
+- Olivia is about to have "Fun"
 - 
