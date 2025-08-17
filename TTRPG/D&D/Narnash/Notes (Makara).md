@@ -1004,4 +1004,11 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- FUCKING. SOBBING OH MY GOD.
 	- LSKDGHSKJGHSDKJGHSKDJGHSDKJGHSDKJGHLKGZHDKLHZSDFJKG
 	- -/////-
-- 
+- i GUESS the confession is happening
+- ok
+- yeah
+- SMASH CUT TO SAD
+- DAMIAN LEFT A LETTER FOR ASPHODEL
+	- IM GONNA CRY
+	- THIS SESSION IS INSANE
+	- 
