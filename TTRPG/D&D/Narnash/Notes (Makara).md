@@ -1076,4 +1076,17 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Oh Boy
 	- Here We Go
 		- Big Things Coming!
+- Makara goes to speak to Chantou
+- the house is almost completely empty
+	- climb over the gate!
+- knocks on the door
+	- Brian answers
+	- convince him to get Chantou
+	- he orders me to remove my helmet
+	- while I can safely assume he thinks I am Makara, answering esoterically and with non answers has confused him enough to hopefully work
+	- give him the location of the boat, and tell him Makara is alive and well, along with his parents
+	- he gives me a key to the house
+- Asphodel is warning Cedar Patch, I didn't catch most of the conversation (sorry!) but type shit indeed
+- a crazy dude tells her to count the crows
+	- Good Omens!
 - 
