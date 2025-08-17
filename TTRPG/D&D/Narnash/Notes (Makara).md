@@ -1048,4 +1048,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Kelric doesnt know if that can happen
 	- His fate is damn close to being sealed
 	- they put on some armor and head to Shoga
+- we are traveling through the woods
+- Makara gives Dairalict the rundown of the situation
 - 
