@@ -1042,4 +1042,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- FRIENDSHIP UNLOCKED !
 - Makara picks up her helmet
 - Olivia sneaks into Kelrics' house
+- She tells him everything about the Assembly, inside a zone of truth
 - 
