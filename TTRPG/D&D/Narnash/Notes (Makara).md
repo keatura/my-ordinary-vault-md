@@ -1018,4 +1018,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Asphodel and Makara start their duel
 	- "Is turning around and looking cool a part of it?"
 	- sidghsjdghsd
-- 
+- Makara gets CRUSHED like HOLY SHIT
+- 12 hits to 2+crit
+- we make it to Sarphan
+- ITS BEEN SO LONG
+	- SINCE LAST I'VE SEEN MY SON
+- END SESSION!!!11!!1
+
