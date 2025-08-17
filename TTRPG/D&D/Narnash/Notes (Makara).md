@@ -1015,4 +1015,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- I DID FUCKING CRY
 	- LIKE A LOT
 	- this is the best session probably Ever
+- Asphodel and Makara start their duel
+	- "Is turning around and looking cool a part of it?"
+	- sidghsjdghsd
 - 
