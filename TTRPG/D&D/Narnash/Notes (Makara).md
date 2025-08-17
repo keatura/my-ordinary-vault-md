@@ -1047,4 +1047,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Olivia wants to speak to Shoga today
 	- Kelric doesnt know if that can happen
 	- His fate is damn close to being sealed
-	- 
+	- they put on some armor and head to Shoga
+- 
