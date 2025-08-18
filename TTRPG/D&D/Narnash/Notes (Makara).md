@@ -1212,4 +1212,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- on the verge of tears
 - Damian leads us down into the basement
 - he wants to Kill Karios Sherwin
+- we get to the lowest floor of the basement
+- Sherwin is there with ~~ 30 assembly members and 4 Very Important People
+	- Makara and Olivias parents.
+	- I Am Going To Cry
 - 
