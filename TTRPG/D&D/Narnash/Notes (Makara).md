@@ -1216,4 +1216,6 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Sherwin is there with ~~ 30 assembly members and 4 Very Important People
 	- Makara and Olivias parents.
 	- I Am Going To Cry
+- The Assembly worships this thing called The Ha
+- giant arch covered in these same runes as the weird room
 - 
