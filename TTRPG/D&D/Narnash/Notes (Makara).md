@@ -1135,4 +1135,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - HE IS DEFEATED!!!
 - Olivia sees the lady with the spiral crown from the party at the Ivory Palace
 - as soon as they see each other, she leaves as casually and quickly as possible
-- 
+- Olivia follows her
+- Asphodel asks to use the powder room
