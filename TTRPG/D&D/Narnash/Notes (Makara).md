@@ -1100,4 +1100,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- Tiha (copper 3rd eldest), said she would look into it
 	- hes working on it
 - Chantico and Tekluki are going to be there, Tiha may
+- We finish up the plan at Kelrics house
+- Makara steals from her own family
+	- gives Dilys a ring (of protection)
+	- steals a cloak of protection and an amulet of health, my ass in NOT dying to this dragon I must LIVE
 - 
