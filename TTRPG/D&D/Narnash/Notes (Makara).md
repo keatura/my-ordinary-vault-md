@@ -1104,4 +1104,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Makara steals from her own family
 	- gives Dilys a ring (of protection)
 	- steals a cloak of protection and an amulet of health, my ass in NOT dying to this dragon I must LIVE
+- WE FINISH SHOPPING
+- WE GET TO THE FUCKING PARTY AT 8PM
+	- FINALLYYYYYY
 - 
