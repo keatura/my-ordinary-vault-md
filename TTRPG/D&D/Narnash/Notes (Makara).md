@@ -1186,4 +1186,11 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - The Druid splinter faction is working with the Assembly
 - Maelyrra is Olivia's elven name
 	- we dont know that though
-- 
+- we continue forth
+- the extremely loud banging and crushing noises get louder
+	- the torch holders turn into bird shapes, and then the beaks on these beaks open 
+	- Relax (from the Zoolander OST) starts playing
+		- Oh No
+	- DAIRALICT IS KILLING EX WAR COMMANDER OLIVIAAAAAAAAAAA
+- I'm Gonna Cry
+- THE BEAST IS COMING
