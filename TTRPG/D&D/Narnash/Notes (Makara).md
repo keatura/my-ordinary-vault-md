@@ -1194,3 +1194,10 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- DAIRALICT IS KILLING EX WAR COMMANDER OLIVIAAAAAAAAAAA
 - I'm Gonna Cry
 - THE BEAST IS COMING
+- Initiative starts
+- Dairalict hits Olivia for 52 damage
+	- Holy Shit
+- Makara misses both of her attacks and tosses Asphodel's dagger to her
+- Asphodel hits Dairalict and stuns him
+- Dilys misses Dairalict (sob)
+- 
