@@ -1218,4 +1218,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- I Am Going To Cry
 - The Assembly worships this thing called The Ha
 - giant arch covered in these same runes as the weird room
+- its 2 am
+- Dilys chooses to submit.
+- I'm shaking
+- this is the best worst session of all time
 - 
