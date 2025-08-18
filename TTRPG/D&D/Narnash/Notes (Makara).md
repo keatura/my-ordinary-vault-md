@@ -1222,4 +1222,3 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Dilys chooses to submit.
 - I'm shaking
 - this is the best worst session of all time
-- 
