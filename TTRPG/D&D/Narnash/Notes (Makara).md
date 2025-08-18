@@ -1159,4 +1159,31 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- his guts are spilled, slashed horizontally across his stomach
 - she is trying to communicate with him nonverbally
 	- its sorta working?
+- she bandages him up
+- most likely killed by Tensa
+- they have hostages
+- the rest of the gang is heading down this secret hallway
+- we head down this staircase to what we can assume is around the 4th floor
+- we enter this room covered in these symbols that are almost like the language on my sword but more.. round?
+- Makara casts comprehend languages because funny
+	- no more stealth
+	- this is a bad idea but holy fuck she is curious
+	- she gets nothing as the language begins to glow and fill her head with darkness, a cacophony of screams and laughter and singing
+	- sword pulls her out of his
+	- freak out mode  timeee 
+- she sprints through the door on the opposite side of the room and trips
+- Dairalict hears some footsteps and whispering far away
+	- it's Olivia but we don't know that
+- Asphodel and Dairalict go ahead while Dilys comforts Makara
+- Asphodel sees a silhouette of Ian on the stairs through the darkness
+- she doesnt recognize him :(
+- THEY RECOGNIZE EACH OTHER
+	- she gives him a healing potion
+	- Dairalict heals him
+- The Assembly members seem to have created some kind of beast or mutation of a person
+	- Oh Boy! I Am So Excited!
+- They are planning/building something
+- The Druid splinter faction is working with the Assembly
+- Maelyrra is Olivia's elven name
+	- we dont know that though
 - 
