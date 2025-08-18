@@ -1111,4 +1111,14 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- we win those though
 - Asphodel meets a mf named Kyle
 	- im gonna cry i Strongly Dislike Him
-- Dairalict is 
+- Dairalict is aurafarming his way in
+	- it works
+	- holy sigma
+	- he mogged the guards so hard they let him in
+- "I sure hope my rival, Gretel, doesn't show up"
+	- he does
+	- oh my god
+	- they do a walk-off
+	- the King of Saze is showing up and more people care about the walk-off
+	- this is..... so peak......
+- 
