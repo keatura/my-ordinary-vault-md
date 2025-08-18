@@ -1200,4 +1200,5 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Makara misses both of her attacks and tosses Asphodel's dagger to her
 - Asphodel hits Dairalict and stuns him
 - Dilys misses Dairalict (sob)
+- this combat is insane
 - 
