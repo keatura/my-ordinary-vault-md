@@ -1209,4 +1209,7 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - AND THE BEAST IS
 - FUCKING DAMIAN
 	- i'm going to cry you Cannot do this to me :(
+	- on the verge of tears
+- Damian leads us down into the basement
+- he wants to Kill Karios Sherwin
 - 
