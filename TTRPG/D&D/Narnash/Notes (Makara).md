@@ -1140,4 +1140,16 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Olivia is still following the old woman
 	- shes gone
 	- oh no
+- we are all on the 3rd floor, full of just completely empty dark offices
+- ominously quiet
+- we follow the 3 individuals to a large office with boxes
+- one of them pulls out an emblem with the circle and spiral, with 6 spokes coming from the circle
+- they go through a secret door using that symbol as a key for the door
+- Makara is searching through files
+	- lots of economics and stuff
+	- i find a Very Interesting Letter
+	- to Isaac Idra
+		- "You will be happy to know that we have increased productivity by 250% on all objectives thanks to your gracious funding. And if that wasn't cause for celebration enough, Project Daybreak is a huge success! The patient reacted favorably to 100% of the trials and is ready for action! As for your passion project, we have begun work on the Globe. Everything in progressing on schedule and I predict she will be ready for pre-testing in the coming weeks (side note: your equations were most helpful! Thanks to you our chemists are no longer losing fingers!) I will keep you informed on our advancements, till next we meet old friend!
+		  -Dr. Abtu"
+	- Suspicious....
 - 
