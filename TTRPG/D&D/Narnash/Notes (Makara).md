@@ -1107,4 +1107,8 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - WE FINISH SHOPPING
 - WE GET TO THE FUCKING PARTY AT 8PM
 	- FINALLYYYYYY
+- Dilys Almost fumbles getting into the party
+	- we win those though
+- Asphodel meets a mf named Kyle
+	- im gonna cry i Strongly Dislike Him
 - 
