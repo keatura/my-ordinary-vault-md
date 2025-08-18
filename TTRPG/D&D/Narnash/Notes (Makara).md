@@ -1152,4 +1152,11 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 		- "You will be happy to know that we have increased productivity by 250% on all objectives thanks to your gracious funding. And if that wasn't cause for celebration enough, Project Daybreak is a huge success! The patient reacted favorably to 100% of the trials and is ready for action! As for your passion project, we have begun work on the Globe. Everything in progressing on schedule and I predict she will be ready for pre-testing in the coming weeks (side note: your equations were most helpful! Thanks to you our chemists are no longer losing fingers!) I will keep you informed on our advancements, till next we meet old friend!
 		  -Dr. Abtu"
 	- Suspicious....
+- Dilys and Olivia hear a guy scream for a few seconds
+- Olivia is walking down the stairs to the 4th floor (upper basement)
+- sees a guy bleeding out on the stairs
+	- It's Ian, the guy who gave Asphodel the maps of the black palace on session one
+	- his guts are spilled, slashed horizontally across his stomach
+- she is trying to communicate with him nonverbally
+	- its sorta working?
 - 
