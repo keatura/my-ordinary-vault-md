@@ -1201,4 +1201,12 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 - Asphodel hits Dairalict and stuns him
 - Dilys misses Dairalict (sob)
 - this combat is insane
+- the bird speakers are making Dairalict go crazy
+- the Beast Approaches
+- my notes are locked out we reached the 10 hr session mark
+- THE BEAST SHOWS UP!!!!!
+- AND DAIRALICT FUCKING DIESSSSSS
+- AND THE BEAST IS
+- FUCKING DAMIAN
+	- i'm going to cry you Cannot do this to me :(
 - 
