@@ -1121,4 +1121,16 @@ In ancient days by Emperor and Clown: perhaps the self-same song that found a pa
 	- they do a walk-off
 	- the King of Saze is showing up and more people care about the walk-off
 	- this is..... so peak......
+- GO WHITE BOY GO!!!!
+- hes winning my goat is winning
+- "it's not a mermaid, it's a mer-MAN"
+- Gretel is beginning to crack, his spirit is breaking
+- he pulls out his pickaxe sob
+	- Dairalict canonically has hammerspace
+- GRETEL BREAKS
+- HE DOES THE FINISHER
+- rolls a 21
+- GRETEL ROLLS A NAT ONEEEEEEE
+	- GRETEL FUCKING DIES!!!!!!!!!
+- HE IS DEFEATED!!!
 - 
