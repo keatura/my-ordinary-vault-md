@@ -124,7 +124,7 @@ Cantrips (at will): Light, Sacred Flame
 ***Templars Halberd-Rifle. (Spear)*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., One Target. Hit: (2d4 + 7) Slashing damage.
 ***Templar's Halberd-Rifle. (Ranged)*** *Ranged Weapon Attack:* +7 to hit, reach (60/180) ft., One Target. Hit: (4d6 + 3) Piercing damage. Reload (2).
 
-***Templar's Dagger.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., One Target. Hit: (2d6+7) Slashing Damage
+***Templar's Dagger.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., One Target. Hit: (2d6+7) Slashing Damage
 
 ***Unarmed Strike.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., One Target. Hit: (2d6+7) Bludgeoning Damage
 
