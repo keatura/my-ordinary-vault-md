@@ -13,6 +13,7 @@ HP: 39 (5d10+5)
 Speed: 30ft  
 **STR: 15(+2), DEX: 16(+3), CON: 13(+1), INT: 16(+3), WIS: 13(+1), CHA: 11(0)**  
 Skills: [Stealth] +6, [Sleight of Hand] +6, [Insight] +4, [Investigation] +6
+Damage Resistances: Fire
 Senses: Darkvision 60ft
 CR: Nah PB +3
 
