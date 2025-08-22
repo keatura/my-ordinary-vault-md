@@ -26,7 +26,7 @@ The goblins have recently uncovered the [[Feyblood Dagger]], and it has been man
 [[Andefaelt Session 1]]
 [[Andefaelt Session 2]]
 [[Andefaelt Session 3]]
-
+[[Andefaelt Session 4]]
 
 ### random encounter ideas
 
