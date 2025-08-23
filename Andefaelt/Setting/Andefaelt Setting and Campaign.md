@@ -6,7 +6,7 @@
 
 ## To-do list
 
-- [ ] Create an overview for the plot
+- [x] Create an overview for the plot
 - [ ] make a list of all of the feyblood weapons
 - [x] session 1
 - [x] Helena's relation to Asyria
@@ -15,8 +15,8 @@
 - [ ] Flesh out the fore-runners and give them a name
 - [ ] figure out how the afterlife works
 - [ ] write a prophecy for Hearsay
-- [ ] https://www.youtube.com/watch?v=qMfpai7lHaI
-- [ ] 
+- [x] https://www.youtube.com/watch?v=qMfpai7lHaI
+- [ ] the fallout between Iyamari and Asyria
 
 # Overview
 
