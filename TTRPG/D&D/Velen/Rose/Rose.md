@@ -1,7 +1,7 @@
 # Character Concept
 
 ###### Out of Character Inspirations
-- Ruby Rose, That One Vampire From Mia's Campaign, Grimhollow Tweakers, 
+- Ruby Rose, That One Vampire From Mia's Campaign, Grimhollow Tweakers, Jester Lavorre, 
 
 ###### General Ideas
 
