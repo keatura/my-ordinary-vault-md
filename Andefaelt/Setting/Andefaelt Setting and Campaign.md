@@ -17,7 +17,7 @@
 - [ ] write a prophecy for Hearsay
 - [x] https://www.youtube.com/watch?v=qMfpai7lHaI
 - [ ] the fallout between Iyamari and Asyria
-- [ ] Rewrite the Runeforged to be more interesting, 
+- [ ] Rewrite the Runeforged to make their oppression less glossed over and more interesting
 
 # Overview
 
@@ -51,7 +51,8 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 ### [[Voxis]]
 ##### [[Undercity]]
 
-### [[Thanatos]]
+### [[Is'ohenna]]
+
 
 --- 
 

@@ -39,8 +39,6 @@ Asyria is a very civilized, modern country and is constructing a new, modern cap
 Main Species:
 Humans, Ukucha, and Dragonborn
 
-
-
 # Iyamari
 Colors I think of: grassy earth tones and smoky colors, the neon's of magic 
 Things that give off tradition, strict training and muscle memory, and loyalty
