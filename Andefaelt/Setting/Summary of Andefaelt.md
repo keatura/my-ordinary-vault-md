@@ -49,7 +49,7 @@ Iyamari resides mostly within the eastern plains of Andefaelt, spreading slightl
 
 Because of their large surplus of the crystal, Iyamari freely uses lots of fuel to run transport aircraft for their military, and their infamous shock troops, the Aerial Cavalry Corps, is known for strike fast and deep behind enemy lines. Iyamari is also notable for their recognizable airship design. Their airships look like giant flying wings and aircraft, using their lifting surfaces to fly higher than just the lifting devices would allow.
 
-Iyamari as a whole is generally, cool, calculated and relaxed. They only act on emotion in extreme circumstance. They are very defensive of their territory, and will surgically strike anyone who encroaches on it. This had lead to many conflicts with Asyria and very heavy tensions between the two countries. While a war hasn't broken out in a while, They are still arguing for who will occupy the  
+Iyamari as a whole is generally, cool, calculated and relaxed. They only act on emotion in extreme circumstance. They are very defensive of their territory, and will surgically strike anyone who encroaches on it. This had lead to many conflicts with Asyria and very heavy tensions between the two countries. While a war hasn't broken out in a while, They are still arguing for who will occupy Island Cynthia, a land still uninhabited and rich with Moxite and megafauna.
 
 Main Species:
 Elves, Humans, and Orcs
