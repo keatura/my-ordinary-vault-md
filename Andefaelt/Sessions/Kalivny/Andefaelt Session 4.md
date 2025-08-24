@@ -9,10 +9,12 @@ Example
 
 # Important Places This Session
 
-- Place One
+- **[[Kalivny]]**
 
-## Chapter
-Scene description.
+- **[[Helena]]**
+
+## Work Troubles
+Ezaren's Coworkers :3
 
 #### Scene
 Scene description.
