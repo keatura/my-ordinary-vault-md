@@ -17,6 +17,7 @@
 - [ ] write a prophecy for Hearsay
 - [x] https://www.youtube.com/watch?v=qMfpai7lHaI
 - [ ] the fallout between Iyamari and Asyria
+- [ ] Rewrite the Runeforged to be more interesting, 
 
 # Overview
 
