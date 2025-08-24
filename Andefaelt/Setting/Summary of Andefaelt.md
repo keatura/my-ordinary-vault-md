@@ -34,9 +34,9 @@ Things that give off dominance, authority, and outward appearance
 
 The Asyrian Empire resides in the western rainforest, and is a highly religious theocratic empire, ruled by a God-king - a bloodline said to be directly descended from Kadis. They have an incredibly strong military and navy, and their Church conducts it's own militarized wing of Clerics and Templars. Formerly consisting of several city states before they were unified by King Fariah Camillus, the serving king of the period.
 
-Asyria Follows Kadis and Kadis' Children, as their leader is descended from Kadis. So while everyone does give prayers to Kadis, there are smaller churches and sub-chapters of religious organizations dedicated to Kadis' Children as well. 
+Asyria Follows Kadis and Kadis' Children, as their leader is descended from Kadis. So while everyone does give prayers to Kadis, there are smaller churches and sub-chapters of religious organizations dedicated to Kadis' Children as well. Their religion is a very large part of their society, every single person you meet in Asyria at least worships one of the gods in some way, if not going to churches regularly and having shrines in their home. While the zealotry is extreme, the people do tend to give to give to the poor and feed the homeless. If you need a hot meal or a place to sleep, a local church will almost always help you. While this is partially funded by local tithes, a very large portion of the Asyrian Governments spending is dedicated to churches and this practice. Asyria will welcome outsiders as long as they don't follow Morana.
 
-Asyria is a very civilized, modern country and is constructing a new, modern capital city around the Western Pillar. It has been completed enough to be a completely functioning city, but still has heavy construction work to expand. 
+Asyria is a very civilized, modern country and is constructing a new, modern capital city, Solata, around the Western Pillar. It has been completed enough to be a completely functioning city, but still has heavy construction work to expand. The city itself is a technological wonder with state-of-the-art transportation systems and quality of living.
 
 Main Species:
 Humans, Ukucha, and Dragonborn
