@@ -1,1 +1,1 @@
-Koran 
+**Koran Sangsorn** is the Squad lead of Glass One, 
