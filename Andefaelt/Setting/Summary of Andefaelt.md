@@ -2,6 +2,8 @@
 
 The Geography of Andefaelt is split into four major regions.
 
+![[Andefaelt Territories.jpg]]
+
 #### The Highlands
 
 Located at a much higher elevation than the rest of the islands, the northern area of Andefaelt is comprised of lots of tundra surrounded by hills and evergreen forests. The summer months are short and wet, then everything freezes over from fall to spring. The Highlands are also much deeper islands than other places, which contributes to the altitude. Most islands have extremely noticeable sidewall, making them look almost like floating pillars. The Northern Pillar quite contrarily billows flame out from it's sides, like a second sun.
@@ -47,7 +49,7 @@ Iyamari resides mostly within the eastern plains of Andefaelt, spreading slightl
 
 Because of their large surplus of the crystal, Iyamari freely uses lots of fuel to run transport aircraft for their military, and their infamous shock troops, the Aerial Cavalry Corps, is known for strike fast and deep behind enemy lines. Iyamari is also notable for their recognizable airship design. Their airships look like giant flying wings and aircraft, using their lifting surfaces to fly higher than just the lifting devices would allow.
 
-Iyamari as a whole is generally, cool, calculated and relaxed. They only act on emotion in extreme circumstance.
+Iyamari as a whole is generally, cool, calculated and relaxed. They only act on emotion in extreme circumstance. They are very defensive of their territory, and will surgically strike anyone who encroaches on it. This had lead to many conflicts with Asyria and very heavy tensions between the two countries. While a war hasn't broken out in a while, They are still arguing for who will occupy the  
 
 Main Species:
 Elves, Humans, and Orcs
@@ -58,14 +60,16 @@ Things that give off advanced technology, sophistication, and education
 
 Onyxia resides within the Southern Mountains scattered about, cities and towns built at the bases of mountains or along cliff faces. Ruled by a Meritocracy of the top professors in Noraveas, their hybrid university and capital city build around the Southern Pillar. Onyxia is famous for their metallurgy and engineering, producing the finest goods from legendary crafts-masters. While small in number and inhabitable territory, Onyxia has the most advanced, efficient technology and high-end prosthetics and augments. Their Navy is infamous for their nigh-impenetrable floating fortresses, heavily armed and armored airships. Though in the end, Onyxia cares more about engineering and trade than their military.
 
-Onyxia, to go along with their love of metallurgy, has huge deposits of iron and other important metals in the mountains they live in. The largest industry in Onyxia is mining, because for a lot of the population it is one of the few available jobs. Though they lack land for farming and are balanced on a trade relationship with the other three nations for other resources 
+Onyxia, to go along with their love of metallurgy, has huge deposits of iron and other important metals in the mountains they live in. The largest industry in Onyxia is mining, because for a lot of the population it is one of the few available jobs. Though they lack land for farming and are balanced on a trade relationship with the other three nations for other resources in exchange for metals and fine goods.
+
+Opinions on Onyxia are generally mixed, as they protect their trade convoys to a bordering on obsessive degree, full fleets escorting them around the world. Runeforged in Onyxia also have not achieved the same level of social standing as other places, as their invention originally came from Onyxia and they are still seen as servants and even slaves in certain places.
 
 Main Species:
 Dwarves, Runeforged
 
 # Voxis
 Colors I think of: Grunge,, Yeah no colours just Dirt
-Things that give: gang violence and LSPD!! STOP RESISTING!!
+Things that give: street violence, police state, industrial 
 
 Voxis is a large port city, and the largest city on Andefaelt, period. Ruled by Julia Umberlain, a former Elven Asyrian noble, now Queen of Voxis. She established it on the ruins of Thrysta, the former Zevkan capital before the 30-Years-War. Now, Voxis is a major port city due to it's location. It has massive ports on each side of the island, and several massive shipyards producing mostly civilian ships, but occasionally commissioned military vessels. Being a massive city, Voxis also has an in-depth train network spanning the whole city, the only city like it in the plane. 
 
