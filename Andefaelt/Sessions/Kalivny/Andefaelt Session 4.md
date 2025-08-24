@@ -16,8 +16,11 @@ Example
 ## Work Troubles
 Ezaren's Coworkers :3
 
-#### Scene
-Scene description.
+#### Scene One
+Ezaren has led the party into a direct confrontation with his "Coworkers", 3 agents of Iyamari.
+- Taegen Gennorin
+- Koran Sangsorn
+- Mako Sanada
 
 #### Scene
 Scene description.
