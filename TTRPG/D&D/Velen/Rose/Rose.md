@@ -14,6 +14,8 @@
 # Character Traits
 
 ###### Loves
+- the taste and texture blood
+	- Unspeakable mfs are nasty and icky thugh
 - 
 
 ###### Likes
@@ -26,9 +28,12 @@
 - 
 
 ###### Motivation
-- 
+- Gain power, at minimum lead the Sanguine Creed
+	- maybe more...
 
 ###### Personality Traits
+- Confident, Egotistical, 
+- Kleptomaniac
 - 
 
 ###### Ideals
