@@ -33,6 +33,7 @@ complete an enneagram
 - Motivate the people of the Democratic Alliance to reform the policy and laws into a fairer society that helps those who need and dont allow the free reign of megacorporations.
 
 ###### Personality Traits
+- Direct, gets straight to the point
 - 
 
 ###### Ideals
