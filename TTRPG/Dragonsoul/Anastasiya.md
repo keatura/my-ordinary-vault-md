@@ -82,7 +82,7 @@ complete an enneagram
 	- 
 	- description:
 		- ~~ 5'7"
-		- very andro, appears masculine but wears skirts and dressed that are patched together by hand
+		- very andro, appears masculine but wears skirts and dresses that are patched together by hand
 		- lots of their clothes are handmade
 		- 
 
