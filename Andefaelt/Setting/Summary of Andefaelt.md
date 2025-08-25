@@ -38,6 +38,8 @@ Asyria Follows Kadis and Kadis' Children, as their leader is descended from Kadi
 
 Asyria is a very civilized, modern country and is constructing a new, modern capital city, Solata, around the Western Pillar. It has been completed enough to be a completely functioning city, but still has heavy construction work to expand. The city itself is a technological wonder with state-of-the-art transportation systems and quality of living.
 
+Because of the rainforest Asyria resides in, and now almost completely controls, they have a unique set of food, as well as the stuff they trade with the other nations for. Lots of fruits, nuts, and berries are farmed inside of Asyria, as well as spices like vanilla and various peppers. Asyria also has one very specific thing the others do not: Chocolate. Asyrian Chocolate is a specialty internationally, and also gets mixed a lot with berries and fruits. Asyrian food generally consists of a lot of salads with nuts and berries, mixed with roasted meat of small game like chickens and birds, as well as larger red meat.
+
 Main Species:
 Humans, Ukucha, and Dragonborn
 
@@ -50,6 +52,8 @@ Iyamari resides mostly within the eastern plains of Andefaelt, spreading slightl
 Because of their large surplus of the crystal, Iyamari freely uses lots of fuel to run transport aircraft for their military, and their infamous shock troops, the Aerial Cavalry Corps, is known for strike fast and deep behind enemy lines. Iyamari is also notable for their recognizable airship design. Their airships look like giant flying wings and aircraft, using their lifting surfaces to fly higher than just the lifting devices would allow.
 
 Iyamari as a whole is generally, cool, calculated and relaxed. They only act on emotion in extreme circumstance. They are very defensive of their territory, and will surgically strike anyone who encroaches on it. This had lead to many conflicts with Asyria and very heavy tensions between the two countries. While a war hasn't broken out in a while, They are still arguing for who will occupy Island Cynthia, a land still uninhabited and rich with Moxite and megafauna.
+
+Iyamari has lots of free land to use, and therefore grow lots of crops. Corn, potatoes, radishes and rice are all over Iyamari, and the areas inbetween cities known for being large flatlands of crops and Not Much Else. This also has lead to the domestication of animals like bison, elk, and other large animals that raised and slaughtered for meat. Their large space has also lead to one thing other nations don't have - fish! Fish is a rare food in Andefaelt, and is generally saved more as a delicacy, eaten raw or cooked and prepared in all sorts of ways. Fish is a extremely important of an Elf's Final Meal, and is always a price that is paid during the ritual.
 
 Main Species:
 Elves, Humans, and Orcs
@@ -64,6 +68,8 @@ Onyxia, to go along with their love of metallurgy, has huge deposits of iron and
 
 Opinions on Onyxia are generally mixed, as they protect their trade convoys to a bordering on obsessive degree, full fleets escorting them around the world. Runeforged in Onyxia also have not achieved the same level of social standing as other places, as their invention originally came from Onyxia and they are still seen as servants and even slaves in certain places.
 
+Onyxian food contains lots of smaller but high-protein foods like beans and seeds, sometimes roasting insects as well. They eat lots of goat and sheep, as mountain goats were extremely common in the south, and sheep were used for their meat and wool. While their food has only recently started incorporating more spices, their deserts are famous for incorporating cinnamon, as its the only place it naturally grows, and lots of naturally occurring cane sugar surrounding the lakes led to sweets being a large part of the culture.
+
 Main Species:
 Dwarves, Runeforged
 
@@ -75,6 +81,8 @@ Voxis is a large port city, and the largest city on Andefaelt, period. Ruled by 
 
 Julia is a poor, absent leader though. Voxis is in a state of perpetual gang warfare due to her complete lack of care over the populous, and said gangs fight for control over territory in the city and control of the ports. The only thing keeping Voxis from falling into complete disarray are the City Enforcers, a near-militant police force wielding military-grade equipment and chemical weapons to flush out gang hideouts and shut them down. These Enforcers are known for being brutal and unforgiving, even to those not affiliated.
 
+Voxis is a mashed-up society of different foods and traditions, and you can find almost everything you could want in Voxis. there are different areas where certain species are more grouped up, and their specific cultural foods have had an opportunity to mix with others, and Voxis often puts out new styles of foods and new dishes.
+
 Main Species:
 Literally Anyone
 
@@ -84,7 +92,11 @@ Things that give off tradition, community, and resilience
 
 A place of community and loyalty, Zevka is located in the Highlands, a land of ice and freezing cold. Currently ruled by King Ruslan, who replaced his father, King Symus in 1694 during the Voxis War for Independence. Though they are human, Zevkan royalty have a pension for living extremely long periods of time, due to a secret held deep within, most likely only known to the King themself and their court wizard.
 
+Zevkan society is mostly localized within the main island, with 3 major cities sort of connected along the coast facing towards the Fire Pillar. Zevkans generally have a stereotype of being judgmental, but fair. The people will always go out of their way to help their community members, under the assumption and truth that the same will done for them. Community is an incredibly important aspect of Zevkan life, and even the smallest villages are united and think more selflessly and akin to a unit instead of individuals. They generally are stern to outsiders, partially out of a desire to make sure they do not freeze to death, and partially because the other nations more individualistic personalities clash with Zevkans. 
 
+Because of this sternness, Zevka does not tolerate "Scrapers", people who come and attempt to steal Moxite off the island walls of their land, and take it back to their respective countries. This has sparked a lot of conflict with especially Iyamari, Where lots of Scrapers flock to the High Cliffs and surrounding area, and Zevka uses military force to swat them away.
+
+Zevkans are experts in farming the hardy and uncooperative plant life that manages to survive Zevka's hard winters. Most Zevkan cuisine tends to be rich and hearty, lots of savory foods and soul food. lots of their food incorporates earthy flavors from mushrooms, roots, and lichens and floral notes of herbal teas, mixed with lots of red meat and organs like liver is a staple, and also helps Zevkans get proper nutrients from their foods.
 
 Main Species:
 Humans, Goliaths, anyone else who wants to survive the cold
@@ -97,7 +109,7 @@ For species differences specific to Andefaelt
 - all dwarves have beards regardless of gender
 - goliaths have hair like a polar bear or yeti
 - ukuchans are rat-like humanoids
-- dragonborn descend directly from dragons, and are the only living reminder that they existed. 
+- dragonborn descend directly from dragons, and are the only living reminder that they existed. Dragonborn have tails, similar to that of a crocodile, generally very wide and flat. Most dragonborn tend to be tall, 6-7ft tall and ~~ 300lbs. 
 	- also they have feathers on the back of their heads, behind their crests (kind of like hair) and on their tails - especially towards the ends. also sometimes there can be feathers on places like their elbows and necks.
 - tieflings are similar to aasimar, created by the goddess of the underworld, Morana, and her offspring. It's unknown how many Tieflings exist in Andefaelt, though they are a very rare sight most often.
 
