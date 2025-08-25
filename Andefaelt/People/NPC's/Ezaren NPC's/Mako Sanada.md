@@ -1,0 +1,1 @@
+**Mako Sanada** is the pilot and a cqb expert in Glass One.
