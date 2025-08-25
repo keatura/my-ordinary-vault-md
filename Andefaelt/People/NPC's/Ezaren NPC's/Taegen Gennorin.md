@@ -1,1 +1,1 @@
-**Taegen Gennorin** is 
+**Taegen Gennorin** is the intelligence officer and 
