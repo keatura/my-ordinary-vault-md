@@ -1,5 +1,7 @@
 **Koran Sangsorn** is the Squad lead of Glass One. He is a high-elf and psychic prodigy.
 
+Koran is a very serious man, clean shaven but but experienced face, wrinkled with stress. He is in his 400's. Koran is the most senior of the group, and has served in every major Iyamarian conflict since he was 118.
+
 Medium Humanoid  
 AC: 17 (Medium Warcaster Armor)
 HP: 75 (8d8+24)  
