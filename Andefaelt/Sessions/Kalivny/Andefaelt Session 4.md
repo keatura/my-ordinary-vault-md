@@ -5,7 +5,7 @@
 
 ## Session Description
 
-Example
+SIDE CHARACTERS!!!!
 
 # Important Places This Session
 
