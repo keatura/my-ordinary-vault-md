@@ -15,7 +15,7 @@ PB +3
 
 ***Focus Casting.*** Koran is a 5th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). he has the following Wizard spells prepared:
 
-Cantrips (at will): Mind Sliver, Prestidigitation, True Strike(force)
+Cantrips (at will): Mind Sliver, Prestidigitation, True Strike(force), Mage Hand
 
 1st level (1 focus point): Longstrider, Shield, Sleep
 
@@ -48,3 +48,5 @@ Cantrips (at will): Mind Sliver, Prestidigitation, True Strike(force)
 ###### Bonus Action.
 
 ***Commander's Prescence.*** As a Bonus Action, Koran can give an ally within 60ft advantage on their next attack roll or saving throw.
+
+***Psychic Shove.*** Koran attempts to shove a creature within 30ft as a Bonus Action. the target must succeed on a DC 16 Strength Saving Throw. If they fail they are pushed 10 feet in any direction Koran chooses.
