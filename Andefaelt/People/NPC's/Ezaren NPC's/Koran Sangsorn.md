@@ -50,3 +50,7 @@ Cantrips (at will): Mind Sliver, Prestidigitation, True Strike(force), Mage Hand
 ***Commander's Prescence.*** As a Bonus Action, Koran can give an ally within 60ft advantage on their next attack roll or saving throw.
 
 ***Psychic Shove.*** Koran attempts to shove a creature within 30ft as a Bonus Action. the target must succeed on a DC 16 Strength Saving Throw. If they fail they are pushed 10 feet in any direction Koran chooses.
+
+###### Reactions.
+
+***Arcane Shield.*** (Recharge 5-6) Korans' Warcaster Armor allows him to use energy from it's Arcane turbine to defend himself. As a reaction, Koran can give himself 2d4+4 temporary Hit Points when he is hit with an attack.
