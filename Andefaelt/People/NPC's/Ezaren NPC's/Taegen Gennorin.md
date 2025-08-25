@@ -10,7 +10,7 @@ Skills: [Athletics]+6, [Intimidation]+6, [Persuasion]+6, [Acrobatics]+8, [Stealt
 Senses: Darkvision 60ft, Passive perception 17
 PB +3
 
-***Predictive Defense.*** Taegen may substitute 
+***Predictive Defense.*** Taegen may substitute his Intelligence for his Dexterity when determining his Armor Class.
 
 ###### Actions.
 
