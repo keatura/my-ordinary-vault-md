@@ -1,1 +1,1 @@
-**Taegen Gennorin** is the intelligence officer and 
+**Taegen Gennorin** is the intelligence officer and resident NERD of Glass One.
