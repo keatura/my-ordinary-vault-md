@@ -17,6 +17,7 @@ complete an enneagram
 
 ###### Loves
 - Valentyna, otherwise known as Silvershift.
+- Unconditionally loves her bandmates
 
 ###### Likes
 - 
@@ -81,6 +82,9 @@ complete an enneagram
 	- 
 	- description:
 		- ~~ 5'7"
+		- very andro, appears masculine but wears skirts and dressed that are patched together by hand
+		- lots of their clothes are handmade
+		- 
 
 - Luka Kowalski, the drummer (she/her)
 	- borderline conspiracy theorist
