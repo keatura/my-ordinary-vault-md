@@ -29,7 +29,8 @@ complete an enneagram
 - 
 
 ###### Motivation
-- 
+- Rescue Valentyna from her golden cage and disease, and return her to a physical body.
+- Motivate the people of the Democratic Alliance to reform the policy and laws into a fairer society that helps those who need and dont allow the free reign of megacorporations.
 
 ###### Personality Traits
 - 
