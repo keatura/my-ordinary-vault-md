@@ -39,3 +39,4 @@ Cantrips (at will): Mind Sliver, Prestidigitation, True Strike(force)
 
 ###### Bonus Action.
 
+***Commander's Prescence.*** As a Bonus Action, Koran 
