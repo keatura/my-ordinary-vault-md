@@ -1,7 +1,7 @@
 **Koran Sangsorn** is the Squad lead of Glass One. He is a high-elf and psychic prodigy.
 
 Medium Humanoid  
-AC: 15 (Light Warcaster Armor)
+AC: 17 (Medium Warcaster Armor)
 HP: 75 (8d8+24)  
 Speed: 30ft
 **STR: 15(+2), DEX: 15(+2), CON: 16(+3), INT: 21(+5), WIS: 16(+3), CHA: 17(+3)**  
