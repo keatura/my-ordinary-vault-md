@@ -11,11 +11,11 @@ Damage Resistances: Psychic
 Senses: Darkvision 60ft, Passive perception 16
 PB +3
 
-***Focus Points.*** Koran has four focus points, which he can use to cast spells and use psionic features. He regains one Focus Point every 10 minutes. (4/4)
+***Focus Points.*** Koran has five focus points, which he can use to cast spells and use psionic features. He regains one Focus Point every 10 minutes. (5/5)
 
 ***Focus Casting.*** Koran is a 5th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). he has the following Wizard spells prepared:
 
-Cantrips (at will): Mind Sliver, Prestidigitation, True Strike(psychic)
+Cantrips (at will): Mind Sliver, Prestidigitation, True Strike(force)
 
 1st level (1 focus point): Longstrider, Shield, Sleep
 
@@ -25,7 +25,7 @@ Cantrips (at will): Mind Sliver, Prestidigitation, True Strike(psychic)
 
 ***Focus Manipulation.*** Koran can expend his focus points to augment his physical fighting.
 
-**Damage Bonus.** Koran can spend up to 3 focus points, adding an extra 1d8 to the rolled damage per focus point spent.
+**Damage Bonus.** Koran can spend up to 3 focus points, adding an extra 1d8 force to the rolled damage per focus point spent.
 
 **Damage Reduction.** If Koran is wearing his Warcaster Armor, he can spend 1 focus point to reduce the damage by 5.
 
@@ -33,7 +33,9 @@ Cantrips (at will): Mind Sliver, Prestidigitation, True Strike(psychic)
 
 ###### Actions.
 
+**Runesteel Greatsword.** *Melee Weapon Attack.* +5 to hit, reach 5ft., one target. Hit: 9 (2d6 + 2) slashing damage.
 
+**True Strike.** *Melee Spell Attack.* +8 to hit, reach 5ft., one target. Hit: 12 (2d6 + 5) slashing damage, plus 4 (1d6) force damage
 
 ###### Bonus Action.
 
