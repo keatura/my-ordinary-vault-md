@@ -37,7 +37,7 @@ Andefaelt is a Post-apocalyptic Dieselpunk setting, where various species live o
 ## [[Nations]]
 
 ### [[Zevka]]
-##### [[Zevkan Capital]]
+##### [[Zevkan Capital,]]
 
 ### [[The Asyrian Empire]]
 ##### [[The Asyrian Capital, Solata]]
