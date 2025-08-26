@@ -36,8 +36,9 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 3 age
 	- as she goes to meditate, she feels the darkness of her eyelids start to darken into sleep.
 	- If she accepts it, she meets Hemepha in a dream
 		- and its Dire
-		- Mizuki shoots awake in her dream, on a bed on thorns. She feels no pain but pricks and blood is starting to form all over her skin
+		- Mizuki shoots awake in her dream, on a bed on thorns. She feels no pain but covered in pricks and blood is starting to form all over her skin
 		- as she looks around she finds herself surrounded inside of this sort of dimly lit room surrounded by brush and tree canopy overhead
+		- she sees the figure of Hemepha 
 
 #### Scene
 Scene description.
