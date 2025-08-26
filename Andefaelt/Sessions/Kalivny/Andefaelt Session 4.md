@@ -42,7 +42,7 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 3 age
 		- after a moment, she notices Mizuki has "woken up" inside her place, and turns around with a kind but turning to worried look, slowly turning to stand up
 		- suddenly, as she goes to speak, her head shoots back and these dark vines shoot out, made of a deep, black void emanating glowing white specs
 		- Mizuki recognizes these vines suddenly through foggy memory, visions of a giant flowering plant and these same vines wrapping around her throat as she starts to feel like she cant breath, everything feels heavy
-		- 
+	- If she refuses to sleep, she looks up and sees Ryuji in her room
 
 #### Scene
 Scene description.
