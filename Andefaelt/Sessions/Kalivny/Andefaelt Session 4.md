@@ -27,10 +27,10 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 3 age
 - 
 
 #### Kalivny, Part Three
-- everyone can return to 
+- everyone can return to Kalivny
 
-#### Scene
-Scene description.
+#### Fun Times
+- Mizuki goes to bed, if she tried to meditate make a DC 15
 
 #### Scene
 Scene description.
