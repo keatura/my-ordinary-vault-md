@@ -47,7 +47,7 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 3 age
 	- "Greetings and well met, Devilkin. What do you fancy you're doing so close to Asyrian territory?"
 	- If she talks back too much he rings this bell in his off hand, that distinctly looks of Asyrian craftsmanship. As the jingle resonates in Hearsay's ears she gets a splitting migraine and almost reflexively keels over in pain.
 	- "Oh stop overreacting, I didn't ring it hard enough to deal *real* damage. Stand and meet your end."
-	- initiative, if Hearsay starts losing she can bring 
+	- initiative, if Hearsay starts losing the Jack stands over her body and protects her and drives Aiwin off
 
 - Mizuki goes to bed,  she begins to have a bad hallucination
 	- as she goes to meditate, she feels the darkness of her eyelids start to darken into sleep.
