@@ -38,10 +38,16 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 3 age
 - the fact that Markus now seems to be possessed will be an issue with their relations to Helena
 - as everyone goes to leave he clears Blue Bamba off record, and asks Hearsay to stay behind
 	- needs her to perform patrols on the outskirts of town, is worried about a possible goblin attack from one of the smaller settlements that have been spotted recently.
+	- when she goes to pick up her 'Jack, Peter is there touching it up
+	- he looks over at her, "Just finished tunin' this ol' girl up. You owe me two bagels, thief."
+	- the AC of the 'Jack is increased by 1. it looks like it has some "armor" plates strapped to it.
 
-- During Hearsay's patrol, she finds herself in a large muddy field, old farmland on a small abandoned cabin
+- During Hearsay's patrol, she finds herself in a large muddy field, old farmland on a small abandoned cabin next to a cliff overlooking Kalivny
 	- Aiwin walks out from the door of the cabin, greeting her
-	- "Greetings and well met, Devilkin."
+	- "Greetings and well met, Devilkin. What do you fancy you're doing so close to Asyrian territory?"
+	- If she talks back too much he rings this bell in his off hand, that distinctly looks of Asyrian craftsmanship. As the jingle resonates in Hearsay's ears she gets a splitting migraine and almost reflexively keels over in pain.
+	- "Oh stop overreacting, I didn't ring it hard enough to deal *real* damage. Stand and meet your end."
+	- initiative, if Hearsay starts losing she can bring 
 
 - Mizuki goes to bed,  she begins to have a bad hallucination
 	- as she goes to meditate, she feels the darkness of her eyelids start to darken into sleep.

@@ -12,18 +12,18 @@
 aasimar, kensei monk
 
 Medium Humanoid  
-AC: 17 (Unarmored Defense)
+AC: 15 (Unarmored Defense)
 HP: 42 (5d8+14)
 Speed: 40ft
-**STR: 13(+1), DEX: 19(+4), CON: 15(+2), INT: 12(+1), WIS: 17(+3), CHA: 11(0)**
-Saving Throws: [Dexterity] +7, [Wisdom] +6
-Skills: [Stealth] +7, [Perception] +6, [Acrobatics] +7, [Insight] +6
+**STR: 13(+1), DEX: 16(+3), CON: 14(+2), INT: 12(+1), WIS: 15(+2), CHA: 11(0)**
+Saving Throws: [Dexterity] +6, [Wisdom] +5
+Skills: [Stealth] +6, [Perception] +5, [Acrobatics] +6, [Insight] +5
 Damage Resistances: Radiant, Necrotic
-Senses: Darkvision 60ft, Passive perception 16
+Senses: Darkvision 60ft, Passive perception 15
 PB +3
 
-**Unarmored Defense.** While Aiwin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
-**Mobile Flourish.** When Aiwin makes an attack against a creature, they do not provoke opportunity attacks for the rest of the turn
+**Unarmored Defense.** While Aiwin is wearing no armor and wielding no shield, his AC includes its Wisdom modifier.
+**Mobile Flourish.** When Aiwin makes an attack against a creature, he does not provoke opportunity attacks for the rest of the turn
 
 ###### **Actions.**
 
