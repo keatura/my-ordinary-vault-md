@@ -5,6 +5,8 @@ https://docs.google.com/document/d/1Oikd89fGU7T00rWWaWLT19Nso57PAbQDarz4r-o64E8/
 - eco terrorist for hemepha????
 - nightlights as an eco terrorist
 - plant horror
+	- plant horror is caused due to Hemepha being diseased from sickness of the Feyblood artifacts
+	- When it killed Mizuki and she was reborn, she was left with this same kind of infection, and Hemepha is trying to help her
 
 - What i need:
 		- mentor's name
