@@ -45,11 +45,14 @@ Cantrips (at will): Mind Sliver, Prestidigitation, True Strike(force), Mage Hand
 
 **True Strike.** *Melee Spell Attack.* +8 to hit, reach 5ft., one target. Hit: 12 (2d6 + 5) slashing damage, plus 4 (1d6) force damage
 
+***Psychic Chain.*** *Ranged Spell Attack.* +5 to hit, reach 30ft., one target. Hit: 9 (2d6 + 2) slashing damage.
+Koran extends out his greatsword on the end of a psychic tether, before reeling it back in. 
+
 ***Psychic Recharge.*** Once per day, Koran can spend an action focusing to regain all of his expended Focus Points.
 
 ###### Bonus Action.
 
-***Commander's Prescence.*** As a Bonus Action, Koran can give an ally within 60ft advantage on their next attack roll or saving throw.
+***Commander's Prescence.*** As a Bonus Action, Koran can make an ally within 60ft immediately use their reaction to make one attack against their closest target, or move up to their speed.
 
 ***Psychic Shove.*** Koran attempts to shove a creature within 30ft as a Bonus Action. the target must succeed on a DC 16 Strength Saving Throw. If they fail they are pushed 10 feet in any direction Koran chooses.
 

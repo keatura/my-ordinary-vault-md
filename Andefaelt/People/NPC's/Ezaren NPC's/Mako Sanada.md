@@ -1,5 +1,7 @@
 **Mako Sanada** is the pilot and a cqb expert in Glass One. She is a human and ace pilot, turned special operative in the IAR.
 
+While less serious than her superior, Mako is a very focused person and accomplished agent of the IAR. She got through flight school top of her class and has a natural talent in close quarters combat, preferring dual pistols. 
+
 Medium Humanoid  
 AC: 16 (Leather Armor)
 HP: 83 (8d10+24)  
@@ -7,7 +9,7 @@ Speed: 40ft
 **STR: 16(+3), DEX: 20(+5), CON: 17(+3), INT: 14(+2), WIS: 13(+1), CHA: 17(+3)**  
 Saving Throws: [Dexterity] +8, [Strength] +6
 Skills: [Athletics]+6, [Intimidation]+6, [Persuasion]+6, [Acrobatics]+8, [Stealth]+11, [Perception]+7
-Senses: Darkvision 60ft, Passive perception 17
+Senses: Passive perception 17
 PB +3
 
 ***Pilot.*** Mako is considered to have proficiency in any checks related to flying Iyamarian Military Aircraft.
