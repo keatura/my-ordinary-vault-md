@@ -16,7 +16,7 @@ SIDE CHARACTERS!!!!
 ## Work Troubles
 Ezaren's Coworkers :3
 
-#### Scene One
+#### Coworkers
 Ezaren has led the party into a direct confrontation with his "Coworkers", 3 agents of Iyamari.
 - Taegen Gennorin
 - Koran Sangsorn
@@ -26,7 +26,7 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 3 age
 - While there was most likely no way he could have know that the Templars were going to be there, it is still an issue and he may be punished to prevent a major conflict from breaking out
 - 
 
-#### Payment 
+#### Kalivny, Part Three
 Scene description.
 
 #### Scene

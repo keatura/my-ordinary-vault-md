@@ -17,3 +17,8 @@ she/her
 
 - the proving can happen for various reasons
 	- different prodigies can get into fights and altercations. but generally wont kill each other
+
+- Was born during a seemingly average day Is'ohenna was flying just above the Blanket, and people were attending morning service at the churches aboard the ship. The clouds around the ship started to swirl and darken and storm. all of the priests of Is'ohenna simultaneously were granted the same message from Morana, and soon after a baby Tiefling was found on the deck of the ship.
+
+- PROPHECY
+	- something like, "Big Things Coming, My Child is Important For Them, Change Coming."
