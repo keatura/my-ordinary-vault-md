@@ -49,7 +49,7 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 3 age
 	- "Oh stop overreacting, I didn't ring it hard enough to deal *real* damage. Stand and meet your end."
 	- initiative, if Hearsay starts losing the Jack stands over her body and protects her and drives Aiwin off
 
-- Mizuki goes to bed,  she begins to have a bad hallucination
+- Mizuki goes to bed, she begins to have a bad hallucination
 	- as she goes to meditate, she feels the darkness of her eyelids start to darken into sleep.
 	- If she accepts it, she meets Hemepha in a dream
 		- and its Dire
