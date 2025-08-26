@@ -1,8 +1,13 @@
+## Backstory
+- born in Iyamari
+- Aasimar of Kadis
+- taken away from his family at a young age by a group of Templars, 
+
 ## Personality
-- has a limp, but good posture
+- good posture
 - big wide brimmed hat and a grin
 - is Actually Just Better Than You
-- 
+- bright silver pearlescent skin with black marbling
 
 aasimar, kensei monk
 
