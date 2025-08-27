@@ -29,14 +29,14 @@ PB +3
 
 ***Multiattack.*** Aiwin makes two attacks with either his cane sword or sacred toll.
 
-***Cane Sword.*** (2 charges) *Melee Weapon Attack:* +8 to hit, reach 5ft. Hit: 9 (1d6 + 4) slashing damage. Additionally, he may spend the charges of his weapon to use the Runesteel effects listed below.
+***Cane Sword.*** (2 charges) *Melee Weapon Attack:* +6 to hit, reach 5ft. Hit: 9 (1d6 + 3) slashing damage. Additionally, he may spend the charges of his weapon to use the Runesteel effects listed below.
 
 | Cost. | Effect.                                                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | **Boost.** Aiwin expends 1 charge to fly up to 30 feet in any direction as a bonus action.                                                                             |
 | 2     | **Draw Strike.** As a reaction, when Aiwin enters combat, he expends 2 charges and teleports up to 30 feet, then makes a weapon attack that deals an extra 1d8 damage. |
 
-***Sacred Toll.*** *Ranged Spell Attack:* DC 14 Wisdom saving throw. 2d8 radiant damage on a failed save, and none of a successful one. 
+***Sacred Toll.*** *Ranged Spell Attack:* DC 13 Wisdom saving throw. 2d8 radiant damage on a failed save, and none of a successful one. 
 
 ***Healing Hands.*** (2/day) As an action, Aiwin can touch a creature and roll 3d8. The creature regains a number of hit points equal to the total rolled. 
 
