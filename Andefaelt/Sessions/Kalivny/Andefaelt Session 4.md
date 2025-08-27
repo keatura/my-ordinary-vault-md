@@ -30,6 +30,7 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 3 age
 
 #### Kalivny, Part Three
 - everyone can return to Kalivny
+- as they walk into town, everything seems normal but a Asyrian Cruiser 
 
 #### Fun Times
 - as they head back into town the skies begin to darken and it begins to rain
