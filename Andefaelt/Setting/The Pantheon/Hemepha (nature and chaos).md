@@ -1,4 +1,5 @@
 she/her
+a woman with a cloak of leaves and a flat square mask of sticks.
 # Tenets
 - Life outlasts all.
 - Preserve life and the natural order at all costs.

@@ -68,8 +68,6 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 2 age
 		- he is standing at her door staring at her
 		- he walks over to her bed
 
-#### Scene
-Scene description.
 
 ## Chapter
 Scene description.
