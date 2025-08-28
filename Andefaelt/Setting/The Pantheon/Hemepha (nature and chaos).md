@@ -1,5 +1,5 @@
 she/her
-a woman with a cloak of leaves and a flat square mask of sticks.
+A woman with a cloak of leaves and a flat square mask of bundled sticks and deer antlers splitting out from the top. her form resembles that of a woman wearing a ancient wool dress, that goes up tightly to the base of her neck and long sleeves down to her hands, touching down and draping on the floor. her nails are long but not unkempt. her hands are purple.
 
 # Tenets
 - Life outlasts all.
