@@ -35,6 +35,13 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 2 age
 - everyone can return to Kalivny
 - as they walk into town, everything seems normal but a Asyrian Cruiser is hovering distantly but visibly outside town, and stormclouds are beginning to build from the east
 
+Just in case - 
+The City Guard Headquarters is a large brick buildings with windows on the second floor and higher, and garages on the right side.
+
+First floor - Garages, Main Office, Armory, Briefing Room, and Holding Cells
+Second floor - Offices, Kitchen and break room, Interview and interrogation rooms
+Third floor - Guard Captains' office, Evidence Processing, storage
+
 #### Fun Times
 - as they head back into town the skies begin to darken and it begins to rain
 - When they go back to Marek to report, he seems VERY concerned with the matters at hand and rewards them all 150gp
