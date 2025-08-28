@@ -65,6 +65,8 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 2 age
 		- after a moment, she notices Mizuki has "woken up" inside her place, and turns around with a kind but turning to worried look, slowly turning to stand up
 		- she slowly strides over to Mizuki, her hood coming down to reveal her face beneath
 	- If she refuses to sleep, she looks up and sees Ryuji in her room
+		- he is standing at her door staring at her
+		- he walks over to her bed
 
 #### Scene
 Scene description.
