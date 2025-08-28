@@ -19,14 +19,17 @@ Ezaren's Coworkers :3
 - the island is currently unable to run transport aircraft out of the fear of them being intercepted or destroyed as military tensions are on edge right now. 
 
 #### Coworkers
-Ezaren has led the party into a direct confrontation with his "Coworkers", 3 agents of Iyamari.
+Ezaren has led the party into a direct confrontation with his "Coworkers", 2 agents of Iyamari.
 - [[Koran Sangsorn]]
 - [[Mako Sanada]]
-- [[Taegen Gennorin]]
+- [[Taegen Gennorin]] is not currently there
 
 - Ezaren activated his emergency beacon, which directly lead to a firefight with Asyrian Templars.
 - While there was most likely no way he could have know that the Templars were going to be there, it is still an issue and he may be punished to prevent a major conflict from breaking out
+- why did he leave his position and run away from the support instead of assisting them
+- why is he travelling with a Devilkin, "You have found most interesting company, Ezaren."
 - The other three will probably need to be taken in for questioning
+- he asks Ezaren to approach, realizes that Blue Bamba, their target, is standing right in front of them
 
 #### Kalivny, Part Three
 - everyone can return to Kalivny
