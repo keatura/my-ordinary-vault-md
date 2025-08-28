@@ -257,9 +257,10 @@ total stats ~~ 46pts
 Effects: [Removable]
 Anastasiya has a 6-foot-tall enchanted battle-axe she uses to fight. It can be taken from her when she is not resisting [Removable].
 
-**Silver Skin.** Enhanced Ability (Stamina)7 (12pts), Enhanced Ability (Strength)5 (8pts), Immunity(Toughness)80 [Halved Effect] (32pts), [Removable] (requires the axe) = 52pts | 98pts
+**Silver Skin.** Enhanced Ability (Stamina)7 (12pts), Enhanced Ability (Strength)5 (8pts), Immunity(Toughness)80 [Halved Effect] (32pts), [Feature]1 (Draconic Visage), [Removable] (requires the axe) = 52pts | 99pts
+When Anastasiya is in possession of The Axe, she may allow Valentyna to morph her appearance with silver and create a thick metallic hide. This form grows Anastasiya from 4'8", to 6', and she gains a tail and horns as well as a more draconic face. Anastasiya gains a +2 to Intimidation.
 
-**Mental Link.** [Communication3] (Mental), [Dimensional], [Subtle2], [Limited] (Silvershift) = 12pts | 110pts
+**Mental Link.** [Communication3] (Mental), [Dimensional], [Subtle2], [Limited] (Silvershift) = 12pts | 111pts
 
 **Silver Projection.** Summon (2 ranks): [Flaws] Fades1  \ Limited1  (Requires the axe) \  Reduced Range1 \ Tiring8 [Requires a full nights rest to recover] = 0pp cost
 Summoned Minion 30pp (2 ranks of growth (4pp), 8 intelligence 8 awareness [20 point total])
@@ -268,24 +269,23 @@ Anastasia projects a silver body for Valentina to "posses" that last for about 1
 
 **Pocket Dimension.** Headquarters, [Miniscule -4] , [Dimensional Portal], [Concealed], [Sealed], [Secret] 0 pts
 
-**Silver Manipulation.** [Array4] (19pts) | 129pts
+**Silver Manipulation.** [Array4] (19pts) | 130pts
 - [Flight15 Wings] (12,000mph)
 - [Speed15] (12,000mph)
 - [Create5], [Precise], [Permanent]
 - [Senses15], [Danger sense], [Extended], [Acute] (visual and auditory), [Awareness], [Accurate] (visual), [Infravision], [Darkvision], [Distance sense], [Counters illusion], [Rapid]
 
-**Skills:** 5pts | 134pts
+**Skills:** 5pts | 135pts
 Technology +1
 Driving +1
 Intimidation +5
 Insight +3
 
-**Advantages:** 16pts | 150pts
+**Advantages:** 15pts | 150pts
 Interpose 1pts
 Improved Initiative 3 (+12) 3pts
 Move-By-Action 1pts
 All-Out Attack 1pts
-Defensive Attack 1pts
 Quick Draw 1pts
 Improved Critical4 4pts
 Diehard 1pts
