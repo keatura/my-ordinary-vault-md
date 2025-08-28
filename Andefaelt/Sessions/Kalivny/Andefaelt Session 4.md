@@ -26,11 +26,11 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 3 age
 
 - Ezaren activated his emergency beacon, which directly lead to a firefight with Asyrian Templars.
 - While there was most likely no way he could have know that the Templars were going to be there, it is still an issue and he may be punished to prevent a major conflict from breaking out
-- 
+- The other three will probably need to be taken in for questioning
 
 #### Kalivny, Part Three
 - everyone can return to Kalivny
-- as they walk into town, everything seems normal but a Asyrian Cruiser 
+- as they walk into town, everything seems normal but a Asyrian Cruiser is hovering distantly but visibly outside town, and stormclouds are beginning to build from the east
 
 #### Fun Times
 - as they head back into town the skies begin to darken and it begins to rain
