@@ -8,12 +8,18 @@ The first occurrence of people splitting out onto other islands happened only 11
 
 - The formation of Cyrah, the first city-state and the beginning of the city-state era. (year 89)
 
+- The founding of the Hegemony (year 922)
+The Hegemony is a scholarly organization, who operated outside of the boundaries of the City-states. They would fund exploratory trips out into the wilderness of various islands and even entire unexplored islands, funding full expeditions that could last years. They stayed in business by taking the new technologies they discovered and developed and selling them to the city-states on leases, requiring them to keep paying for access to the blueprints. Quickly becoming one of the richest independent forces in Andefaelt, they owned a full island in the south, around Gudsfjell, and form the basis of what nowadays is known as Noraveas, the capital of Onyxia.
+
+- The Industrial Revolution. (year 1103)
+In the year 1097, a expedition led by a Dragonborn by the name of Philo Osgood, was exploring an island nearby Ederna on a sponsored trip from the Hegemony, he came across what could only be described as a "ancient rusted machine of brass and steel" which was brought back from their expedition. This discovery directly led to the development of the first steam engines. By 1103, these steam engines saw widespread service in newly created factories, drastically increasing the rate of production of many goods and leading to an explosion in the abundance of important resources like steel and even the invention of Runesteel.
+
 - The Death of the Last Dragon (year 1122)
 While dragons inhabited Andefaelt since it's creation, they would often attack settlements for food to feed their young, which lead to dragons being put on bounty. Dragons were hunted for their scales and horns and feathers, whether for fashion, art or armor. This lead to a massive decrease in the draconic population, with armies hunting them and poachers stealing their young. Eventually, in 1122 after about 100 years of this "war" with the dragons, what is currently known as the last dragon, an ancient red dragon that was dated to be alive since the beginning of the world was slain by a combination of a few different city-states militaries allied together, and his bones are now kept in a museum inside of the Iyamarian Capital, Naili.
 
 - The first God-King is born (Year 1140)
 
-- Asyria is formed and begins it's conquest, the era of nations begins (1154)
+- Asyria is formed and begins it's conquest, the era of nations begins (1160)
 
 - The start of the Thirty-years War (Year 1326)
 The Thirty-years War was a war between Iyamari and Zevka, over land disputes on their borders. This led to a long, drawn out war tiring both sides and causing the complete destruction of Thrysta. The war did lead to the Zevkan invention of modern armored warships, but at that point in the war Zevka had already basically lost.
