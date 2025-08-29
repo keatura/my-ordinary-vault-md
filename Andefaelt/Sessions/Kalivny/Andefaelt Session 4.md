@@ -27,13 +27,13 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 2 age
 - Ezaren activated his emergency beacon, which directly lead to a firefight with Asyrian Templars.
 - While there was most likely no way he could have know that the Templars were going to be there, it is still an issue and he may be punished to prevent a major conflict from breaking out
 - why did he leave his position and run away from the support instead of assisting them
-- why is he travelling with a Devilkin, "You have found most interesting company, Ezaren."
+- why is he travelling with a Devilkin, **"You have found most interesting company, Ezaren."**
 - The other three will probably need to be taken in for questioning
-- he asks Ezaren to approach, realizes that Blue Bamba, their target, is standing right in front of them
+- he asks Ezaren to approach, realizes that Blue Bamba (Black Mamba), their target, is standing right in front of them
 
 #### Kalivny, Part Three
 - everyone can return to Kalivny
-- as they walk into town, everything seems normal but a Asyrian Cruiser is hovering distantly but visibly outside town, and stormclouds are beginning to build from the east
+- as they walk into town, everything seems normal but a Asyrian Cruiser is hovering distantly but visibly outside town, and storm clouds are beginning to build from the east
 
 Just in case - 
 The City Guard Headquarters is a large brick buildings with windows on the second floor and higher, and garages on the right side.
@@ -50,14 +50,14 @@ Third floor - Guard Captains' office, Evidence Processing, storage
 - as everyone goes to leave he clears Blue Bamba off record, and asks Hearsay to stay behind
 	- needs her to perform patrols on the outskirts of town, is worried about a possible goblin attack from one of the smaller settlements that have been spotted recently.
 	- when she goes to pick up her 'Jack, Peter is there touching it up
-	- he looks over at her, "Just finished tunin' this ol' girl up. You owe me a bagel, thief."
+	- he looks over at her, **"Just finished tunin' this ol' girl up. You owe me a bagel, thief."**
 	- the AC of the 'Jack is increased by 2, it looks like it has some "armor" plates strapped to it, and a shield.
 
 - During Hearsay's patrol, she finds herself in a large muddy field, old farmland on a small abandoned cabin next to a cliff overlooking Kalivny
 	- Aiwin walks out from the door of the cabin, greeting her
-	- "Greetings and well met, Devilkin. What do you fancy you're doing so close to Asyrian territory?"
+	- **"Greetings and well met, Devilkin. What do you fancy you're doing so close to Asyrian territory?"**
 	- If she talks back too much he rings this bell in his off hand, that distinctly looks of Asyrian craftsmanship. As the jingle resonates in Hearsay's ears she gets a splitting migraine and almost reflexively keels over in pain.
-	- "Oh stop overreacting, I didn't ring it hard enough to deal *real* damage. Stand and meet your end."
+	- **"Oh stop overreacting, I didn't ring it hard enough to cause you harm. Stand and meet your end."**
 	- initiative, if Hearsay starts losing the Jack stands over her body and protects her and drives Aiwin off
 
 - Mizuki goes to bed, she begins to have a bad hallucination
@@ -73,8 +73,7 @@ Third floor - Guard Captains' office, Evidence Processing, storage
 		- she slowly strides over to Mizuki, her hood coming down to reveal her face beneath
 	- If she refuses to sleep, she looks up and sees Ryuji in her room
 		- he is standing at her door staring at her
-		- he walks over to her bed
-
+		- the second she blinks he's gone
 
 ## Chapter
 Scene description.
