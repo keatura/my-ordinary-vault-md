@@ -72,8 +72,9 @@ Third floor - Guard Captains' office, Evidence Processing, storage
 			- if she goes to speak she chokes, feels like she can't breath, like something is wrapping around her throat
 			- Hemepha goes to grab at something, and these vines made of what seems like the absence of light, almost void-like speckled with tiny white dots start quickly wrapping up her arms
 			- She quickly recoils and shakes them off and begins to cast a spell as Mizuki feels the last gasps of air leave her body and she wakes up in the morning in a cold sweat.
+		- if she doesn't, she sees Ryuji standing at her door
 		- he is standing at her door staring at her
-		- the second she blinks he's gone
+		- the second she blinks he's gone, and her head starts to swim with weariness and nausea. Her limbs feel weak and the blanket feels weighty.
 
 ## Chapter
 Scene description.
