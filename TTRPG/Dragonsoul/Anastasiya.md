@@ -77,7 +77,8 @@ complete an enneagram
 
 #### Friends
 - Her lover, Valentyna (met 12.19.516). She is a titled drake of the Earth, Spirit, and Chaos elements who was raised in The Crawling Hunt in the Eye. She managed to defect on a mission down to earth, and ran away to the Democratic Alliance
-- August Kuznetsova, the lead guitarist (they/them)
+
+- **August Kuznetsova**, the lead guitarist (they/them)
 	- Ana's stoner buddy, and the reason she smokes
 	- band's composer
 	- taught Ana about maintaining her clothes, and how to hand sew
@@ -88,7 +89,7 @@ complete an enneagram
 		- lots of their clothes are handmade
 		- 
 
-- Luka Kowalski, the drummer (she/her)
+- **Luka Kowalski**, the drummer (she/her)
 	- borderline conspiracy theorist
 		- believes in them in a way of like
 		  "realistically, I know it's not true. But What If?"
@@ -102,7 +103,7 @@ complete an enneagram
 		- has a leather battle jacket with studs that she LOVES and has had for like 8 years, wears it every day
 		- 
 
-- Dima Novak, the rhythm guitarist who also helped with writing lyrics. (he/him)
+- **Dima Novak**, the rhythm guitarist who also helped with writing lyrics. (he/him)
 	- dead
 	- Luka's boyfriend
 	- Dima was the gentlest of all of the band members, the most empathetic.
@@ -122,6 +123,13 @@ complete an enneagram
 		- lanky and fairly skinny
 		- pale as shit, like vampire level of white
 		- not really into fashion, wore mostly cheap utilitarian clothes
+
+- **Wolfie** (Camila Diaz Medina)
+	- Has a bigass chimera dog
+	- Canidae Wildling
+	- 
+	- Overall:
+	- Description:
 
 #### Enemies
 - 
