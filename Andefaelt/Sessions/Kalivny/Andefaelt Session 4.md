@@ -67,11 +67,10 @@ Third floor - Guard Captains' office, Evidence Processing, storage
 		- Mizuki shoots awake in her dream, on a bed on thorns. She feels no pain and doesn't seem to be harmed by it.
 		- as she looks around she finds herself surrounded inside of this sort of dimly lit room surrounded by brush and tree canopy overhead, and one side opens out into a field, dark with clouds of the storm and lightning in the distance
 		- she sees the figure of Hemepha, at first turned around, her cloak of leaves draped over her and spreading across the ground below, meditating with a faint teal-green magic circle surrounding her
-		- if she tries to move, all of her limbs feel heavy and limp, like her brain is crying out and her body isn't responding, she can still talk but its not very easy
-			- every time she speaks to ask a question, she makes a constitution saving throw, starting at 10 and escalating by 3 per time she talks. if she fails she blacks out and wakes up in her bed
-		- after a moment, she notices Mizuki has "woken up" inside her place, and turns around with a kind but turning to worried look, slowly turning to stand up
-		- she slowly strides over to Mizuki, her hood coming down to reveal her face beneath
-	- If she refuses to sleep, she looks up and sees Ryuji in her room
+		- if she tries to move, all of her limbs feel heavy and limp, like her brain is crying out and her body isn't responding, like she cant even speak
+		- Hemepha strides over to her looking at her, body language seems worried or frantic, she slowly caresses Mizuki's face
+			- if she goes to speak she chokes, feels like she can't breath, like something is wrapping around her throat
+			- 
 		- he is standing at her door staring at her
 		- the second she blinks he's gone
 
