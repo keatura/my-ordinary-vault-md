@@ -31,6 +31,8 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 2 age
 - The other three will probably need to be taken in for questioning
 - he asks Ezaren to approach, realizes that Blue Bamba (Black Mamba), their target, is standing right in front of them
 
+- They recognize Black Mamba, 
+
 #### Kalivny, Part Three
 - everyone can return to Kalivny
 - as they walk into town, everything seems normal but a Asyrian Cruiser is hovering distantly but visibly outside town, and storm clouds are beginning to build from the east
