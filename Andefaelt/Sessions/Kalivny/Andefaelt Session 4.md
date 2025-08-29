@@ -31,7 +31,8 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 2 age
 - The other three will probably need to be taken in for questioning
 - he asks Ezaren to approach, realizes that Blue Bamba (Black Mamba), their target, is standing right in front of them
 
-- They recognize Black Mamba, 
+- They recognize Black Mamba, they move in to arrest him
+- 
 
 #### Kalivny, Part Three
 - everyone can return to Kalivny
