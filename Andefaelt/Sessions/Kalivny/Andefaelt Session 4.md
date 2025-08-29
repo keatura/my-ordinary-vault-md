@@ -70,7 +70,8 @@ Third floor - Guard Captains' office, Evidence Processing, storage
 		- if she tries to move, all of her limbs feel heavy and limp, like her brain is crying out and her body isn't responding, like she cant even speak
 		- Hemepha strides over to her looking at her, body language seems worried or frantic, she slowly caresses Mizuki's face
 			- if she goes to speak she chokes, feels like she can't breath, like something is wrapping around her throat
-			- 
+			- Hemepha goes to grab at something, and these vines made of what seems like the absence of light, almost void-like speckled with tiny white dots start quickly wrapping up her arms
+			- She quickly recoils and shakes them off and begins to cast a spell as Mizuki feels the last gasps of air leave her body and she wakes up in the morning in a cold sweat.
 		- he is standing at her door staring at her
 		- the second she blinks he's gone
 
