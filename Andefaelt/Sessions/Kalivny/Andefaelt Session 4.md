@@ -37,10 +37,23 @@ Ezaren has led the party into a direct confrontation with his "Coworkers", 2 age
 - GOBLINS!!!!
 - 6 goblins riding wolves and 2 hobgoblins appear from their right flank, screaming obscenities and claiming revenge for the Chantmaster
 
+INITIATIVE:
+Players
+IAR
+Goblins
+
+Hobgoblin2 11
+Goblin1 7 / 11
+Goblin2 7 / 11
+Goblin3 7 / 11
+Goblin4 7 / 11
+Goblin5 7 / 11
+Goblin6 7 / 11
+
 ##### Goblin Wolf-rider
 http://dndroll.wikidot.com/creatures:wolf
 Medium/Small humanoid  
-AC: 13  
+AC: 13 (Leather)
 HP: 7 / 11
 Speed: 40ft / 30ft  
 **STR: 8(-1), DEX: 14(+2), CON: 10(0), INT: 10(0), WIS: 8(-1), CHA: 8(-1)**  
@@ -70,7 +83,7 @@ The wolf has advantage on attack rolls against a creature if at least one of the
 
 ##### *Hobgoblin*
 Medium Humanoid
-AC: 16
+AC: 16 (Chainmail)
 HP: 11 (2d8+2)
 Speed: 30ft
 **STR: 14(+2), DEX: 14(+2), CON: 12(+1), INT: 10(0), WIS: 10(0), CHA: 9(-1)**
