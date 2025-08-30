@@ -141,20 +141,5 @@ Third floor - Guard Captains' office, Evidence Processing, storage
 	- He is super excited to meet Mamba, literally #1 fan
 	- He wants to be like him, his black headband 
 
-## Chapter
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
-#### Scene
-Scene description.
-
 ## Scratch Notes
 - Example
