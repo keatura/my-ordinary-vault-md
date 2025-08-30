@@ -149,4 +149,5 @@ Third floor - Guard Captains' office, Evidence Processing, storage
 	- He wants to be like him, his black headband 
 
 ## Scratch Notes
-- Example
+- Red Rage supposedly is supposed to meet Mamba at the Mammoth Arm Inn every night at dinner time
+- 
