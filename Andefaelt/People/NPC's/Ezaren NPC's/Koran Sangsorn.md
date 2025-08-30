@@ -4,7 +4,7 @@ Koran is a very serious man, clean shaven but but experienced face, wrinkled wit
 
 Medium Humanoid  
 AC: 17 (Medium Warcaster Armor)
-HP: 75 (8d8+24)  
+HP: 75 (8d8+24) 54
 Speed: 30ft
 **STR: 15(+2), DEX: 15(+2), CON: 16(+3), INT: 19(+4), WIS: 16(+3), CHA: 17(+3)**  
 Saving Throws: [Constitution] +6, [Intelligence] +8
@@ -13,7 +13,7 @@ Damage Resistances: Psychic
 Senses: Darkvision 60ft, Passive perception 16
 PB +4
 
-***Focus Points.*** Koran has five focus points, which he can use to cast spells and use psionic features. He regains one Focus Point every 10 minutes. (5/5)
+***Focus Points.*** Koran has five focus points, which he can use to cast spells and use psionic features. He regains one Focus Point every 10 minutes. (2/5)
 
 ***Focus Casting.*** Koran is a 5th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). he has the following Wizard spells prepared:
 
