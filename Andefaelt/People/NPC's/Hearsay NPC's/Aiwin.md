@@ -15,9 +15,9 @@ Medium Humanoid
 AC: 15 (Unarmored Defense)
 HP: 42 (5d8+14)
 Speed: 40ft
-**STR: 13(+1), DEX: 16(+3), CON: 14(+2), INT: 12(+1), WIS: 15(+2), CHA: 11(0)**
+**STR: 13(+1), DEX: 16(+3), CON: 14(+2), INT: 12(+1), WIS: 16(+3), CHA: 11(0)**
 Saving Throws: [Dexterity] +6, [Wisdom] +5
-Skills: [Stealth] +6, [Perception] +5, [Acrobatics] +6, [Insight] +5
+Skills: [Stealth] +6, [Perception] +6, [Acrobatics] +6, [Insight] +6
 Damage Resistances: Radiant, Necrotic
 Senses: Darkvision 60ft, Passive perception 15
 PB +3
@@ -36,7 +36,7 @@ PB +3
 | 1     | **Boost.** Aiwin expends 1 charge to fly up to 30 feet in any direction as a bonus action.                                                                             |
 | 2     | **Draw Strike.** As a reaction, when Aiwin enters combat, he expends 2 charges and teleports up to 30 feet, then makes a weapon attack that deals an extra 1d8 damage. |
 
-***Sacred Toll.*** *Ranged Spell Attack:* DC 13 Wisdom saving throw. 2d8 radiant damage on a failed save, and none of a successful one. 
+***Sacred Toll.*** *Ranged Spell Attack:* DC 14 Wisdom saving throw. 2d8 radiant damage on a failed save, and none of a successful one. 
 
 ***Healing Hands.*** (2/day) As an action, Aiwin can touch a creature and roll 3d8. The creature regains a number of hit points equal to the total rolled. 
 
