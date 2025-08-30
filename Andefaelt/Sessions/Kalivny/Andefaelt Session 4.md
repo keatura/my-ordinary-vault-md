@@ -43,11 +43,10 @@ IAR
 Goblins
 
 Hobgoblin2 11
-Goblin1 7 / 11
-Goblin2 7 / 11
+Goblin1 11
 Goblin3 7 / 11
 Goblin4 7 / 11
-Goblin5 7 / 11
+Goblin5 11
 Goblin6 7 / 11
 
 ##### Goblin Wolf-rider

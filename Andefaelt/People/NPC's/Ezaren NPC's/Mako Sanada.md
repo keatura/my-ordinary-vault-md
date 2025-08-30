@@ -4,7 +4,7 @@ While less serious than her superior, Mako is a very focused person and accompli
 
 Medium Humanoid  
 AC: 16 (Leather Armor)
-HP: 83 (8d10+24)  
+HP: 83 (8d10+24) 65
 Speed: 40ft
 **STR: 16(+3), DEX: 20(+5), CON: 17(+3), INT: 14(+2), WIS: 13(+1), CHA: 17(+3)**  
 Saving Throws: [Dexterity] +8, [Strength] +6
