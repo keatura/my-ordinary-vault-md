@@ -136,6 +136,11 @@ Third floor - Guard Captains' office, Evidence Processing, storage
 		- he is standing at her door staring at her
 		- the second she blinks he's gone, and her head starts to swim with weariness and nausea. Her limbs feel weak and the blanket feels weighty.
 
+- At some point Blue Bamba meets his favorite person ever!!!! - Red Rage.
+	- "As you are walking down this street you see a familiar young-looking elf leaning against a wall, black headband, and red shirt with a leather jacket. He is holding a pipe and leans his back to take a long drag, holds it in, then starts coughing violently. Mamba, this is Red Rage."
+	- He is super excited to meet Mamba, literally #1 fan
+	- He wants to be like him, his black headband 
+
 ## Chapter
 Scene description.
 
