@@ -13,7 +13,7 @@ aasimar, kensei monk
 
 Medium Humanoid  
 AC: 15 (Unarmored Defense)
-HP: 42 (5d8+14)
+HP: 42 (5d8+14) 23
 Speed: 40ft
 **STR: 13(+1), DEX: 16(+3), CON: 14(+2), INT: 12(+1), WIS: 16(+3), CHA: 11(0)**
 Saving Throws: [Dexterity] +6, [Wisdom] +5
