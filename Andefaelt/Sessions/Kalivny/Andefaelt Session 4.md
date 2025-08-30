@@ -118,7 +118,7 @@ Third floor - Guard Captains' office, Evidence Processing, storage
 	- needs her to perform patrols on the outskirts of town, is worried about a possible goblin attack from one of the smaller settlements that have been spotted recently.
 	- when she goes to pick up her 'Jack, Peter is there touching it up
 	- he looks over at her, **"Just finished tunin' this ol' girl up. You owe me a bagel, thief."**
-	- the AC of the 'Jack is increased by 2, it looks like it has some "armor" plates strapped to it, and a shield.
+	- the AC of the 'Jack is increased by 2, it looks like it has some "armor" plates strapped to it.
 
 - During Hearsay's patrol, she finds herself in a large muddy field, old farmland on a small abandoned cabin next to a cliff overlooking Kalivny
 	- Aiwin walks out from the door of the cabin, greeting her
