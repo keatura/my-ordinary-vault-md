@@ -13,7 +13,7 @@ aasimar, kensei monk
 
 Medium Humanoid  
 AC: 15 (Unarmored Defense)
-HP: 42 (5d8+14) 23
+HP: 42 (5d8+14) 15
 Speed: 40ft
 **STR: 13(+1), DEX: 16(+3), CON: 14(+2), INT: 12(+1), WIS: 16(+3), CHA: 11(0)**
 Saving Throws: [Dexterity] +6, [Wisdom] +5
@@ -24,6 +24,7 @@ PB +3
 
 **Unarmored Defense.** While Aiwin is wearing no armor and wielding no shield, his AC includes its Wisdom modifier.
 **Mobile Flourish.** When Aiwin makes an attack against a creature, he does not provoke opportunity attacks for the rest of the turn
+**Ki Points.** Aiwin has a number of Ki Points to draw from for certain abilities. (1/5)
 
 ###### **Actions.**
 
@@ -42,11 +43,11 @@ PB +3
 
 ###### **Bonus Actions.**
 
-***Flurry of Strikes.*** (Recharge 5-6) After Aiwin successfully lands an attack, he may make 2 more attacks with his Cane Sword.
+***Flurry of Strikes.*** (1 Ki Point) After Aiwin successfully lands an attack, he may make 2 more attacks with his Cane Sword.
 
 ***Divine Smite.*** As a bonus action, Aiwin charges his sword with divine power and deals an extra 2d8 radiant damage on his next attack. (1/day)
 
 ***Capacitor Swap.*** Aiwin refills the charges on his Cane Sword.
 
 ###### Reactions.
-***Parry.*** When Aiwin is hit by a Melee Attack, he may parry the attack, decreasing the damage 1d10+9. (1/day)
+***Parry.*** When Aiwin is hit by a Melee Attack, he may parry the attack, decreasing the damage 1d10+9. (Recharge 5-6)
