@@ -4,6 +4,7 @@
 - Literally just walked into Bolt's shop and dropped off Bones, they had a short talk and now Hearsay pays rent and they are roommates
 - understands that Hearsay has a bit more going on than she lets on - doesnt really care and doesnt ask
 - wants to hunt and kill the King of Rats
+- hasn't paid his taxes in 8 years
 
 # Stats
 
