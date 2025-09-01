@@ -281,7 +281,7 @@ Anastasia projects a silver body for Valentina to "posses" that last for about 1
 - [Flight15 Wings] (12,000mph)
 - [Speed15] (12,000mph)
 - [Create5], [Precise], [Permanent]
-- [Senses15], [Danger sense], [Extended], [Acute] (visual and auditory), [Awareness], [Accurate] (visual), [Infravision], [Darkvision], [Distance sense], [Counters illusion], [Rapid]
+- [Senses15], [Danger sense], [Extended], [Acute] (visual and auditory), [Awareness], [Accurate] (visual), [Infravision], [Darkvision], [Distance sense], [Counters illusion], [Aura Sense]
 
 **Skills:** 5pts | 135pts
 Technology +1
