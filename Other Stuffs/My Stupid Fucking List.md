@@ -11,12 +11,14 @@
 - [ ] John Wick 4
 - [x] Inglorious Bastards
 - [x] V is for Vendetta
-- [ ] The Gentle Men
+- [x] The Gentle Men
+- [x] The Man From U.N.C.L.E
 - [x] Mad Max: Furiosa
 - [x] Mad Max: Fury Road
 - [x] Godzilla (2014)
 - [x] Godzilla: King of the Monsters
 - [ ] Godzilla: Minus One
+- [ ] Edge of Tomorrow
 - [ ] Puss in Boots (the good one)
 - [ ] Princess Bride
 - [ ] Hot Shots
