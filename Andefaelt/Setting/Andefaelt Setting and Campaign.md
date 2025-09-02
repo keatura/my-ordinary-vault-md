@@ -35,13 +35,22 @@ Cadriel wants to recreate the sci-fantasy utopia of his life, and erase the fey 
 Shoma wants to recreate the perfect fey realm, and all it's whimsical life, and eradicate the mortals.
 
 Cadriel wants:
-- To collect the Feyblood weapons
-- to assemble them into The Structures, channeling 
+- To collect the Feyblood weapons.
+- To assemble them into The World Pillars, channeling their energy and boosting his, starting with the Western Pillar.
+- 
 
 Shoma wants:
-- to collect his fallen ancestors
-- to release them from their shells and restart the World Pillars
-- and reinstate the era of Fey Rule on the realm
+- To collect his fallen ancestors.
+- To release them from their shells and restart the World Pillars.
+- And reinstate the era of Fey Rule on the realm.
+Shoma has:
+- a seat as a high-elf on the Iyamarian High Council
+- Fey Plant Magic
+- Manipulation of Void energy
+Shoma is against:
+- Kadis and the manipulation of fates
+- 
+
 
 # Andefaelt
 

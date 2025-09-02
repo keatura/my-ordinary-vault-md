@@ -1,8 +1,4 @@
-lich is the high priest of the church of Iodrosni
-
 his phylactery is handed out through a ritual to the entirety of the church - therefore almost all of the population of Asyria
-
-Aspect of Gutur, is the first Lich
 
 high ranking officers hold the biggest share of his soul, and therefore his power
 
