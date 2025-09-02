@@ -38,6 +38,10 @@ Cadriel wants:
 - To collect the Feyblood weapons.
 - To assemble them into The World Pillars, channeling their energy and boosting his, starting with the Western Pillar.
 - 
+Cadriel has:
+- 
+Cadriel is against:
+- 
 
 Shoma wants:
 - To collect his fallen ancestors.
@@ -50,7 +54,6 @@ Shoma has:
 Shoma is against:
 - Kadis and the manipulation of fates
 - 
-
 
 # Andefaelt
 
