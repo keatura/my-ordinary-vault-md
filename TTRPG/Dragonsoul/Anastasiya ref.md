@@ -5,4 +5,6 @@ Free the Food
 End Watershed
 Kill Facists
 Free Rehala
+various band patches
+
 has painted fangs onto the outside of the hood of her jacket
