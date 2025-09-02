@@ -34,6 +34,15 @@ Two men who survived the Fracture, two extremely powerful beings who want to rev
 Cadriel wants to recreate the sci-fantasy utopia of his life, and erase the fey from existence.
 Shoma wants to recreate the perfect fey realm, and all it's whimsical life, and eradicate the mortals.
 
+Cadriel wants:
+- To collect the Feyblood weapons
+- to assemble them into The Structures, channeling 
+
+Shoma wants:
+- to collect his fallen ancestors
+- to release them from their shells and restart the World Pillars
+- and reinstate the era of Fey Rule on the realm
+
 # Andefaelt
 
 ## [[Geography]]
