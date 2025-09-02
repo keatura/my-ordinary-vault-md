@@ -14,8 +14,8 @@
 - [ ] The Gentle Men
 - [x] Mad Max: Furiosa
 - [x] Mad Max: Fury Road
-- [ ] Godzilla (2014)
-- [ ] Godzilla: King of the Monsters
+- [x] Godzilla (2014)
+- [x] Godzilla: King of the Monsters
 - [ ] Godzilla: Minus One
 - [ ] Puss in Boots (the good one)
 - [ ] Princess Bride
