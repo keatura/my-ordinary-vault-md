@@ -17,8 +17,10 @@ PL10 170pts
 
 ### Powers
 
-**Size.** Growth 12 : Permanent Extra : Cost 24 Power Points. 
+**Size.** Growth 12 : Permanent Extra : Cost 24 Pts. 
 
 - Size Rank 1 : 30ft : -6 Active Defense : -12 Stealth : +6 Intimidation : +12 Strength : +12 Stamina : +1 Speed
 
-**Wings.** 
+**Wings.** Flight 8 : Wings : Cost 8 Pts.
+
+- Flight Speed 600mph
