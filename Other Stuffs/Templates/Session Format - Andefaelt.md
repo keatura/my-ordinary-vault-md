@@ -1,6 +1,6 @@
 ## Characters
 
-[Mizuki Kotova](https://docs.google.com/document/d/1Oikd89fGU7T00rWWaWLT19Nso57PAbQDarz4r-o64E8/edit?usp=sharing)
+[Mizuki Kotova](https://docs.google.com/document/d/1Oikd89fGU7T00rWWaWLT19Nso57PAbQDarz4r-o64E8/edit?usp=sharing) - An adopted Iyamarian Noble
 
 [Sascha King](https://docs.google.com/document/d/1YRq8hfhHdB6ZylcPvlW80G39SPa8ycdb-BgVQJyk2YU/edit?usp=sharing)
 
