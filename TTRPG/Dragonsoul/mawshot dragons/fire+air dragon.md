@@ -25,4 +25,4 @@ PL10 170pts
 
 - Flight Speed 600mph
 
-**Auric Heat.** 
+**Auric Heat.** Affliction 1 : Area Burst 3 (120ft) : 
