@@ -47,8 +47,6 @@ dont need em
 
 ### Advantages
 
-18 Pts.
-
 Accurate Attack 1 Pts.
 Assessment 1 Pts.
 All-Out Attack 1 Pts.
@@ -61,3 +59,6 @@ Favored Foe (Dragons) 1 Pts.
 Great Endurance 1 Pts.
 Power Attack 1 Pts.
 Startle 1 Pts.
+Improved Initiative 2 (+8) 2 Pts.
+
+Cost 18 Pts. | 170 Pts.
