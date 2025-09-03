@@ -33,11 +33,13 @@ Cost 50 Pts.
 - Failure (Three Degrees): The target is incapacitated
 This dragon
 
-**Fire-Blooded.** Damage 5 : Triggered 10 : Cost 15 Pts. | 115 Pts.
+**Fire-Blooded.** Damage 5 : Triggered 10 | Linked | Immunity 1 (fire) : Cost 16 Pts. | 116 Pts.
 
 - Triggered upon creature laying physical touch against the dragon that is intended to deal damage. Lasts for 10 hits, then needs time recharge.
 
-**Fire Breath.** Damage 12 : Area Cone 4 : Activation 1 : Cost 36 Pts. | 141 Pts.
+**Fire Breath.** Damage 12 : Area Cone 4 : Activation 1 : Cost 36 Pts. | 142 Pts.
+
+**Self-Mending.** Regeneration 10 : Cost 10 Pts. | 152 Pts.
 
 ### Skills
 
@@ -45,7 +47,7 @@ dont need em
 
 ### Advantages
 
-29 Pts.
+18 Pts.
 
 Accurate Attack
 Assessment
