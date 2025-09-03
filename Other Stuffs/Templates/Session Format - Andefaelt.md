@@ -2,9 +2,9 @@
 
 [Mizuki Kotova](https://docs.google.com/document/d/1Oikd89fGU7T00rWWaWLT19Nso57PAbQDarz4r-o64E8/edit?usp=sharing) - An adopted child of the high-class Iyamarian family, the Hayashi's. After a venture into the woods gone wrong, she lost everything and moved to Zevka, searching for purpose and security.
 
-[Sascha King](https://docs.google.com/document/d/1YRq8hfhHdB6ZylcPvlW80G39SPa8ycdb-BgVQJyk2YU/edit?usp=sharing) - Is a experienced Iyamarian Hammer agent, born to 
+[Sascha King](https://docs.google.com/document/d/1YRq8hfhHdB6ZylcPvlW80G39SPa8ycdb-BgVQJyk2YU/edit?usp=sharing) - Is a experienced Iyamarian Hammer agent, born to a high-ranking and accomplished father. Though, after he was sent on a mission regarding a very dangerous prototype weapon made by Asyria, he has started questioning his loyalty.
 
-[[Hearsay]]
+[[Hearsay]] - A Tiefling on her proving from Is'Ohenna, 
 
 [[Ezaren Reed]]
 
