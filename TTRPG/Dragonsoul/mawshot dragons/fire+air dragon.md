@@ -30,3 +30,5 @@ PL10 170pts
 - Failure (One Degree): The target is Fatigued
 - Failure (Two Degrees): The target is Exhausted
 - Failure (Three Degrees): The target is incapacitated
+
+**Fire-Blooded.** 
