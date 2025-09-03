@@ -31,4 +31,6 @@ PL10 170pts
 - Failure (Two Degrees): The target is Exhausted
 - Failure (Three Degrees): The target is incapacitated
 
-**Fire-Blooded.** 
+**Fire-Blooded.** Damage 5 : Triggered 10 : Cost 15 Pts.
+
+- Triggered upon creature laying physical touch against the dragon that is intended to deal damage. Lasts for 10 hits, then needs time 
