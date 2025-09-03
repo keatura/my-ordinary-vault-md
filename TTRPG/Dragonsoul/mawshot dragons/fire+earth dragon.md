@@ -7,10 +7,10 @@ PL10 170pts
 | ----- | ----- | --- | ----- | ----- |
 | STR   | 0     | 0   | 12    | 12    |
 | STA   | 0     | 0   | 12    | 12    |
-| AGL   | 3     | 6   |       |       |
-| DEX   | 2     | 4   |       |       |
+| AGL   | 3     | 6   | 0     | 3     |
+| DEX   | 2     | 4   | 0     | 2     |
 | FGT   | 8     | 16  | 0     | 8     |
-| INT   | 0     |     |       | 0     |
+| INT   | 0     | 0   | 0     | 0     |
 | AWE   | 4     | 8   | 0     | 4     |
 | PRE   | 8     | 16  | 0     | 8     |
 | total |       | 50  |       |       |
@@ -49,7 +49,15 @@ dont need em
 
 18 Pts.
 
-Accurate Attack
-Assessment
-Improved Critical 4 (Claws)
-Daze (Intimidation) Pts
+Accurate Attack 1 Pts.
+Assessment 1 Pts.
+All-Out Attack 1 Pts.
+Improved Critical 4 (Claws) 4 Pts.
+Daze (Intimidation) 2 Pts
+Defensive Attack 1 Pts.
+Extraordinary Effort 1 Pts.
+Fearless 1 Pts.
+Favored Foe (Dragons) 1 Pts.
+Great Endurance 1 Pts.
+Power Attack 1 Pts.
+Startle 1 Pts.
