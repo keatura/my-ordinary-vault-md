@@ -21,3 +21,4 @@ PL10 170pts
 
 - Size Rank 1 : 30ft : -6 Active Defense : -12 Stealth : +6 Intimidation : +12 Strength : +12 Stamina : +1 Speed
 
+**Wings.** 
