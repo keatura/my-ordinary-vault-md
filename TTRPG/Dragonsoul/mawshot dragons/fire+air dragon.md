@@ -24,3 +24,5 @@ PL10 170pts
 **Wings.** Flight 8 : Wings : Cost 8 Pts.
 
 - Flight Speed 600mph
+
+**Auric Heat.** 
