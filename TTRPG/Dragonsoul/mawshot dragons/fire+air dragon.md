@@ -5,8 +5,8 @@ PL10 170pts
 
 | Stat  | Ranks | Pts | Bonus | Total |
 | ----- | ----- | --- | ----- | ----- |
-| STR   | 0     |     | 12    | 12    |
-| STA   |       |     | 12    |       |
+| STR   | 0     | 0   | 12    | 12    |
+| STA   | 0     | 0   | 12    | 12    |
 | AGL   | 3     | 6   |       |       |
 | DEX   | 2     | 4   |       |       |
 | FGT   |       |     |       |       |
@@ -25,7 +25,7 @@ PL10 170pts
 
 - Flight Speed 600mph
 
-**Auric Heat.** Affliction 8 (DC 23) : Area Burst 1 (30ft) : 16 Pts | Linked | Environment (Extreme Heat) 1 : 2 Pts : Cost 18 Pts.
+**Molten Aura.** Affliction 8 (DC 23) : Area Burst 1 (30ft) : 16 Pts | Linked | Environment (Extreme Heat) 1 : 2 Pts : Cost 18 Pts.
 
 - Failure (One Degree): The target is Fatigued
 - Failure (Two Degrees): The target is Exhausted
