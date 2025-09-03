@@ -9,11 +9,12 @@ PL10 170pts
 | STA   | 0     | 0   | 12    | 12    |
 | AGL   | 3     | 6   |       |       |
 | DEX   | 2     | 4   |       |       |
-| FGT   |       |     |       |       |
-| INT   | 0     |     |       |       |
-| AWE   |       |     |       |       |
-| PRE   |       |     |       |       |
-| total |       |     |       |       |
+| FGT   | 8     | 16  | 0     | 8     |
+| INT   | 0     |     |       | 0     |
+| AWE   | 4     | 8   | 0     | 4     |
+| PRE   | 8     | 16  | 0     | 8     |
+| total |       | 50  |       |       |
+Cost 50 Pts.
 
 ### Powers
 
@@ -30,6 +31,7 @@ PL10 170pts
 - Failure (One Degree): The target is Fatigued
 - Failure (Two Degrees): The target is Exhausted
 - Failure (Three Degrees): The target is incapacitated
+This dragon
 
 **Fire-Blooded.** Damage 5 : Triggered 10 : Cost 15 Pts.
 
