@@ -26,7 +26,7 @@ Cost 50 Pts.
 
 - Flight Speed 600mph
 
-**Molten Aura.** Affliction 8 (DC 23) : Area Burst 1 (30ft) : 16 Pts | Linked | Environment (Extreme Heat) 1 : 2 Pts : Cost 18 Pts. | 100 Pts.
+**Molten Aura.** Affliction 9 (DC 24) : Area Burst 1 (30ft) : Cost 18 Pts. | 100 Pts.
 
 - Failure (One Degree): The target is Fatigued
 - Failure (Two Degrees): The target is Exhausted
