@@ -18,30 +18,30 @@ Cost 50 Pts.
 
 ### Powers
 
-**Size.** Growth 12 : Permanent : Cost 24 Pts. 
+**Size.** Growth 12 : Permanent : Cost 24 Pts. | 74 Pts.
 
 - Size Rank 1 : 60ft : -6 Active Defense : -12 Stealth : +6 Intimidation : +12 Strength : +12 Stamina : +1 Speed
 
-**Wings.** Flight 8 : Wings : Cost 8 Pts.
+**Wings.** Flight 8 : Wings : Cost 8 Pts. | 82 Pts.
 
 - Flight Speed 600mph
 
-**Molten Aura.** Affliction 8 (DC 23) : Area Burst 1 (30ft) : 16 Pts | Linked | Environment (Extreme Heat) 1 : 2 Pts : Cost 18 Pts.
+**Molten Aura.** Affliction 8 (DC 23) : Area Burst 1 (30ft) : 16 Pts | Linked | Environment (Extreme Heat) 1 : 2 Pts : Cost 18 Pts. | 100 Pts.
 
 - Failure (One Degree): The target is Fatigued
 - Failure (Two Degrees): The target is Exhausted
 - Failure (Three Degrees): The target is incapacitated
 This dragon
 
-**Fire-Blooded.** Damage 5 : Triggered 10 : Cost 15 Pts.
+**Fire-Blooded.** Damage 5 : Triggered 10 : Cost 15 Pts. | 115 Pts.
 
 - Triggered upon creature laying physical touch against the dragon that is intended to deal damage. Lasts for 10 hits, then needs time recharge.
 
-**Fire Breath.** Damage 12 : Area Cone 3 
+**Fire Breath.** Damage 12 : Area Cone 4 : Activation 1 : Cost 36 Pts. | 141 Pts.
 
 ### Skills
 
-
+dont need em
 
 ### Advantages
 
