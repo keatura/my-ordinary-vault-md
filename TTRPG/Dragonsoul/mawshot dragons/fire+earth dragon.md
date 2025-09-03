@@ -1,4 +1,4 @@
-SKYWING
+PERIL FROM WINGS OF FIRE!!!!!
 PL10 170pts
 
 ### Stats
@@ -33,4 +33,13 @@ PL10 170pts
 
 **Fire-Blooded.** Damage 5 : Triggered 10 : Cost 15 Pts.
 
-- Triggered upon creature laying physical touch against the dragon that is intended to deal damage. Lasts for 10 hits, then needs time 
+- Triggered upon creature laying physical touch against the dragon that is intended to deal damage. Lasts for 10 hits, then needs time recharge.
+
+**Fire Breath.** Damage 12 : Area Cone 3 
+
+### Skills
+
+
+
+### Advantages
+
