@@ -8,14 +8,36 @@
 
 [[Ezaren Reed]]
 
+#### Recap:
 
-## Session Description
+## Intro
 
 Example
 
-# Important Places This Session
+## Potential Scenes
 
-- Place One
+### Place 1
+
+##### Scene
+
+
+### Place 2
+
+##### Scene
+
+
+### Other Scenes
+
+##### Scene
+
+
+## Important NPC's
+
+
+
+## Relevant Creatures
+
+
 
 ## Notes
 - Example
