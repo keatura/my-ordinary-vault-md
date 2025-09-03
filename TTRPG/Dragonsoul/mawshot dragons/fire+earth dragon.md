@@ -45,4 +45,9 @@ dont need em
 
 ### Advantages
 
+29 Pts.
+
 Accurate Attack
+Assessment
+Improved Critical 4 (Claws)
+Daze (Intimidation) Pts
