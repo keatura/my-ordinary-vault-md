@@ -175,6 +175,8 @@ Shoma is against:
 --- 
 # Gods
 
+[[Religion Notes]]
+
 ## [[Kadis (The God of Endings)]]
 
 ### [[Diorythis (creation)]]
