@@ -8,6 +8,22 @@ The Asyrian Empire is the most military power of the four nations. They control 
 
 - Fariah Camillus 
 
+# The Asyrian Church
+
+## The Archbishop
+
+### High Priest of the Templars
+
+#### Knights of Asyria
+
+## High Priest of the Clerics
+
+#### Deacons of Kaine
+
+#### Deacon of Hemepha
+
+#### Deacon of Yorinth
+
 # The Asyrian Armed Forces
 
 ### The Asyrian Military
