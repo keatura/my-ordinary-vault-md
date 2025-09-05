@@ -1,22 +1,24 @@
 ## Backstory
-- born in Iyamari
+- Created by Kadis to keep Hearsay in check, as Kadis was unaware of what the goals of creating Hearsay was. Aiwin was born in Iyamari specifically to avoid being taken by the Church but it was unavoidable.
+- born in Iyamari.
 - Aasimar of Kadis
-- taken away from his family at a young age by a group of Templars, 
-- 
+- taken away from his family at a young age by a group of Templars, assimilated into the Asyrian Church.
+- Was immediately put into training as a Paladin, but soon proved to be inadequate due to a 
 
 ## Personality
-- good posture
-- big wide brimmed hat and a grin
+- in his 20's, same age as Hearsay.
+- Good posture, carries himself very elegantly (at least tries to with the limp now).
+- big wide brimmed hat and a smug grin.
 - is Actually Just Better Than You
 - bright silver pearlescent skin with black marbling
-- has a scarred leg and a permanent limp. Was given to him by Hearsay and he currently keeps it as a committment to his faith to do better in the future (though maybe in the future its a )
+- has a scarred leg and a permanent limp. Was given to him by Hearsay and he currently keeps it as a committment to his faith to do better in the future (though maybe in the future its a commitment to remembering what the Church took from him)
 
 aasimar, kensei monk
 
 Medium Humanoid  
 AC: 17 (Unarmored Defense)
 HP: 63 (8d8+14)
-Speed: 25ft Fly: 60ft
+Speed: 25ft Fly: 50ft
 **STR: 13(+1), DEX: 19(+4), CON: 14(+2), INT: 12(+1), WIS: 17(+3), CHA: 11(0)**
 Saving Throws: [Dexterity] +7, [Wisdom] +5
 Skills: [Stealth] +7, [Perception] +6, [Acrobatics] +7, [Insight] +6, [Intimidation] +6,
@@ -35,14 +37,15 @@ PB +3
 
 ###### **Actions.**
 
-***Multiattack.*** Aiwin makes three attacks with either his cane sword or sacred toll.
+***Multiattack.*** Aiwin makes two attacks with either his cane sword or sacred toll.
 
-***Cane Sword.*** (2 charges) *Melee Weapon Attack:* +7 to hit, reach 5ft. Hit: 10 (1d6 + 4) slashing damage. Plus 4 (1d6) radiant damage. Additionally, he may spend the charges of his weapon to use the Runesteel effects listed below, and his sword counts as Magical for the purpose of overcoming resistances to physical damage.
+***Cane Sword. (+1)*** (3 charges) *Melee Weapon Attack:* +8 to hit, reach 5ft. Hit: 10 (1d6 + 5) slashing damage. Plus 4 (1d6) radiant damage. Additionally, he may spend the charges of his weapon to use the Runesteel effects listed below, and his sword counts as Magical for the purpose of overcoming resistances to physical damage.
 
-| Cost. | Effect.                                                                                                                                                                |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | **Boost.** Aiwin expends 1 charge to fly up to 30 feet in any direction as a bonus action.                                                                             |
-| 2     | **Draw Strike.** As a reaction, when Aiwin enters combat, he expends 2 charges and teleports up to 30 feet, then makes a weapon attack that deals an extra 1d8 damage. |
+| Cost. | Effect.                                                                                                                                                                                                                  |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1     | **Boost.** Aiwin expends 1 charge to fly up to 30 feet in any direction as a bonus action.                                                                                                                               |
+| 2     | **Draw Strike.** As a reaction, when Aiwin enters combat, he expends 2 charges and teleports up to 30 feet, then makes a weapon attack that deals an extra 1d8 damage.                                                   |
+| 1     | **Lightning Strike.** After successfully hitting a target with the weapon, Aiwin causes the closest enemy within 30ft to make a Dexterity Saving Throw or take 1xd8 lightning damage, half as much on a successful save. |
 
 ***Sacred Toll.*** *Ranged Spell Attack:* DC 14 Wisdom saving throw. 10 (2d8) radiant damage on a failed save, and none of a successful one. 
 

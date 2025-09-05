@@ -34,3 +34,4 @@ The goblins have recently uncovered the [[Feyblood Dagger]], and it has been man
 
 - at the beginning, if they are sent to Helena, they find a man from there who got caught in whatever recent thunderstorm and is about to die of hypothermia. He is in a shoddy improvised shelter that was destroyed by the weather. allow the players to try and heal him but it's very difficult. 
 - encounter Possessed Marckus a few times before they actual fight him, he is very elusive
+- one more Aiwin encounter towards the end of the arc
