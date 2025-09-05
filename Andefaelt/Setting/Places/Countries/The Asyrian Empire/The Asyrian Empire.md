@@ -4,11 +4,14 @@ The Asyrian Empire is the most military power of the four nations. They control 
 
 # Asyrian Politics
 
-## The God-Kings, the Camillus Family
+# The God-Kings, the Camillus Family
+
+- Fariah Camillus was the first God-King, and unified Asyria. 
+	- Tragically, towards the end of the conflict he died of a curse placed on him during a major battle, and was succeeded by his 8-year-old daughter, Turathil Camillus. Therefore the rest of the war was overseen by the then-Archbishop, Myron.
 
 ## The Current God-King, 
 
-- Fariah Camillus 
+
 
 # The Asyrian Church
 
