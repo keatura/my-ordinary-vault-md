@@ -19,27 +19,32 @@ HP: 63 (8d8+14)
 Speed: 25ft Fly: 60ft
 **STR: 13(+1), DEX: 19(+4), CON: 14(+2), INT: 12(+1), WIS: 17(+3), CHA: 11(0)**
 Saving Throws: [Dexterity] +7, [Wisdom] +5
-Skills: [Stealth] +7, [Perception] +6, [Acrobatics] +7, [Insight] +6
+Skills: [Stealth] +7, [Perception] +6, [Acrobatics] +7, [Insight] +6, [Intimidation] +6,
 Damage Resistances: Radiant, Necrotic
-Senses: Darkvision 60ft, Passive perception 15
+Senses: Darkvision 60ft, Passive perception 16
 PB +3
 
 **Unarmored Defense.** While Aiwin is wearing no armor and wielding no shield, his AC includes its Wisdom modifier.
 **Mobile Flourish.** When Aiwin makes an attack against a creature, he does not provoke opportunity attacks for the rest of the turn
 **Ki Points.** Aiwin has a number of Ki Points to draw from for certain abilities. (8/8)
+**Stern Gaze.** Aiwin may make an Intimidation Check with Wis instead of Cha.
+
+Aiwin is a 3rd-level Inquisitor. Wisdom is his Spellcasting Modifier (*Spell Save DC 14, Spell Attack +6*).
+
+1st Level (3 slots): Bless, Inflict Wounds, Shield of Faith, Sanctuary
 
 ###### **Actions.**
 
-***Multiattack.*** Aiwin makes two attacks with either his cane sword or sacred toll.
+***Multiattack.*** Aiwin makes three attacks with either his cane sword or sacred toll.
 
-***Cane Sword.*** (2 charges) *Melee Weapon Attack:* +7 to hit, reach 5ft. Hit: 9 (1d6 + 3) slashing damage. Additionally, he may spend the charges of his weapon to use the Runesteel effects listed below, and his sword counts as Magical for the purpose of overcoming resistances to physical damage.
+***Cane Sword.*** (2 charges) *Melee Weapon Attack:* +7 to hit, reach 5ft. Hit: 10 (1d6 + 4) slashing damage. Additionally, he may spend the charges of his weapon to use the Runesteel effects listed below, and his sword counts as Magical for the purpose of overcoming resistances to physical damage.
 
 | Cost. | Effect.                                                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | **Boost.** Aiwin expends 1 charge to fly up to 30 feet in any direction as a bonus action.                                                                             |
 | 2     | **Draw Strike.** As a reaction, when Aiwin enters combat, he expends 2 charges and teleports up to 30 feet, then makes a weapon attack that deals an extra 1d8 damage. |
 
-***Sacred Toll.*** *Ranged Spell Attack:* DC 14 Wisdom saving throw. 2d8 radiant damage on a failed save, and none of a successful one. 
+***Sacred Toll.*** *Ranged Spell Attack:* DC 14 Wisdom saving throw. 10 (2d8) radiant damage on a failed save, and none of a successful one. 
 
 ***Healing Hands.*** (2/day) As an action, Aiwin can touch a creature and roll 3d8. The creature regains a number of hit points equal to the total rolled. 
 
@@ -51,7 +56,7 @@ PB +3
 
 ***Divine Smite.*** As a bonus action, Aiwin charges his sword with divine power and deals an extra 2d8 radiant damage on his next attack. (2/day)
 
-***Capacitor Swap.*** Aiwin refills the charges on his Cane Sword.
+***Capacitor Swap.*** Aiwin replaces the capacitor on his cane sword. Aiwin refills the charges on his Cane Sword.
 
 ###### Reactions.
 ***Deflect/Parry.*** When Aiwin is hit by a Melee or Ranged Attack, he may Deflect the attack, decreasing the damage 1d10+12. (Recharge 5-6)

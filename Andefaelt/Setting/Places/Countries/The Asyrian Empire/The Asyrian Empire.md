@@ -15,21 +15,24 @@ The Asyrian Empire is the most military power of the four nations. They control 
 **Current Instated Member: [[Archbishop Cadriel]].**
 
 ### High Priest of the Templars
-**Current Instated Member: **
+**Current Instated Member: [[High Priest Nicholas]]**
 
-#### Knights of Asyria
-**Current Instated Member: **
+#### Paladins of Asyria
+**Current Instated Member: [[Templar Oscar]]**
 
 ## High Priest of the Clerics
+**Current Instated Member: [[High Priest Isidoria]]**
+
+###### Knights Chapter
 **Current Instated Member: **
 
-###### Priest Sect:
+###### Hospitaller Chapter
+**Current Instated Member: **
 
-###### Priest Sect:
+###### Chaplains Chapter
+**Current Instated Member: **
 
-###### Priest Sect:
-
-#### Deacons of Kaine
+#### Deacon of Kaine
 **Current Instated Member: **
 
 #### Deacon of Hemepha
