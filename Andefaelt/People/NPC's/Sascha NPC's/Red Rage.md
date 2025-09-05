@@ -7,6 +7,7 @@ Speed: 25ft Fly: 50ft
 **STR: 10(0), DEX: 14(+2), CON: 10(0), INT: 12(+1), WIS: 12(+1), CHA: 10(0)**
 Saving Throws: [Dexterity] +4, [Intelligence] +3
 Skills: [Stealth] +6, [Perception] +3, [Acrobatics] +4
+Languages: Common, Iyamarian, Thieves' Cant
 Senses: Darkvision 60ft, Passive perception 13
 PB +2
 
