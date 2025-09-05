@@ -3,7 +3,9 @@
 - born in Iyamari.
 - Aasimar of Kadis
 - taken away from his family at a young age by a group of Templars, assimilated into the Asyrian Church.
-- Was immediately put into training as a Paladin, but soon proved to be inadequate due to a 
+- Was immediately put into training as a Paladin, but soon proved to be inadequate due to a "wasting disease that occurs in Aasimar that had taken root in him earlier because he was raised in Iyamari and not at home."
+- was told that this disease can be offput with proper worship and loyalty
+- 
 
 ## Personality
 - in his 20's, same age as Hearsay.
