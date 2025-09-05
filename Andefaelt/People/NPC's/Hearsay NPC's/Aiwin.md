@@ -30,12 +30,12 @@ PB +3
 
 **Unarmored Defense.** While Aiwin is wearing no armor and wielding no shield, his AC includes its Wisdom modifier.
 **Mobile Flourish.** When Aiwin makes an attack against a creature, he does not provoke opportunity attacks for the rest of the turn
-**Ki Points.** Aiwin has a number of Ki Points to draw from for certain abilities. (8/8)
+**Ki Points.** Aiwin has a number of Ki Points to draw from for certain abilities. (10/10)
 **Stern Gaze.** Aiwin may make an Intimidation Check with Wis instead of Cha.
 
 **Spellcasting.** Aiwin is a 3rd-level Inquisitor. Wisdom is his Spellcasting Modifier (*Spell Save DC 14, Spell Attack +6*). He has the following spells prepared:
 
-1st Level (3 slots): Bless, Inflict Wounds, Shield of Faith, Sanctuary
+1st Level (2 Ki Points): Bless, Shield of Faith, Sanctuary
 
 ###### **Actions.**
 
@@ -51,7 +51,7 @@ PB +3
 
 ***Sacred Toll.*** *Ranged Spell Attack:* DC 14 Wisdom saving throw. 10 (2d8) radiant damage on a failed save, and none of a successful one. 
 
-***Healing Hands.*** (2/day) As an action, Aiwin can touch a creature and roll 3d8. The creature regains a number of hit points equal to the total rolled. 
+***Healing Hands.*** (2 Ki Points) As an action, Aiwin can touch a creature and roll 3d8. The creature regains a number of hit points equal to the total rolled. 
 
 ***Test of Faith.*** Aiwin can use his action to end one effect on himself that is causing him to be charmed or frightened.
 
