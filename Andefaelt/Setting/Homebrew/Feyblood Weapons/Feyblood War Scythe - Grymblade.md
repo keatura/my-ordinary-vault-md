@@ -6,7 +6,7 @@ The Grymblade is a 6 foot tall scythe with a massive curved blade on the top. de
 
 While attuned to the Grymblade, you gain the following features:
 
-You are proficient with this weapon and you gain +2 to attack and damage rolls with this weapon.
+You are proficient with this weapon and you gain +3 to attack and damage rolls with this weapon.
 
 Your Strength becomes 20 if it is not already.
 

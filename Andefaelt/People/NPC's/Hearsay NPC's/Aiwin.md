@@ -37,7 +37,7 @@ PB +3
 
 ***Multiattack.*** Aiwin makes three attacks with either his cane sword or sacred toll.
 
-***Cane Sword.*** (2 charges) *Melee Weapon Attack:* +7 to hit, reach 5ft. Hit: 10 (1d6 + 4) slashing damage. Additionally, he may spend the charges of his weapon to use the Runesteel effects listed below, and his sword counts as Magical for the purpose of overcoming resistances to physical damage.
+***Cane Sword.*** (2 charges) *Melee Weapon Attack:* +7 to hit, reach 5ft. Hit: 10 (1d6 + 4) slashing damage. Plus 4 (1d6) radiant damage. Additionally, he may spend the charges of his weapon to use the Runesteel effects listed below, and his sword counts as Magical for the purpose of overcoming resistances to physical damage.
 
 | Cost. | Effect.                                                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
