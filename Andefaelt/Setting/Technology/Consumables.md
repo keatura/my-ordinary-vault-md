@@ -4,4 +4,4 @@ Most grenades will be found inside of hunting stores, gun stores as a secondary 
 
 There are two ways to use a grenade, and they correspond with each grenades two range profiles;
 
-Firstly you may **Underhand Toss** a grenade. This involves a light toss, or even just rolling it along the floor. 
+Firstly you may **Underhand Toss** a grenade. This involves a light toss, or even just rolling it along the floor.  
