@@ -1,3 +1,5 @@
+![[Pasted image 20250905070634.png]]
+
 Medium Humanoid  
 AC: 13 (Leather)
 HP: 10 (2d8)
