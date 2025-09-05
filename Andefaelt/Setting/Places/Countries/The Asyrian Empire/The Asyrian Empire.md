@@ -6,6 +6,8 @@ The Asyrian Empire is the most military power of the four nations. They control 
 
 ## The God-Kings, the Camillus Family
 
+## The Current God-King, 
+
 - Fariah Camillus 
 
 # The Asyrian Church
@@ -23,14 +25,16 @@ The Asyrian Empire is the most military power of the four nations. They control 
 ## High Priest of the Clerics
 **Current Instated Member: [[High Priest Isidoria]]**
 
-###### Knights Chapter
+###### Knights of the High Priest
 **Current Instated Member: **
 
-###### Hospitaller Chapter
+###### Knights Hospitaller
 **Current Instated Member: **
 
-###### Chaplains Chapter
+###### Knights Chaplain
 **Current Instated Member: **
+
+### Bishop of Diorythis
 
 #### Deacon of Kaine
 **Current Instated Member: **
