@@ -29,7 +29,7 @@ PB +3
 **Ki Points.** Aiwin has a number of Ki Points to draw from for certain abilities. (8/8)
 **Stern Gaze.** Aiwin may make an Intimidation Check with Wis instead of Cha.
 
-Aiwin is a 3rd-level Inquisitor. Wisdom is his Spellcasting Modifier (*Spell Save DC 14, Spell Attack +6*).
+**Spellcasting.** Aiwin is a 3rd-level Inquisitor. Wisdom is his Spellcasting Modifier (*Spell Save DC 14, Spell Attack +6*). He has the following spells prepared:
 
 1st Level (3 slots): Bless, Inflict Wounds, Shield of Faith, Sanctuary
 
@@ -54,7 +54,7 @@ Aiwin is a 3rd-level Inquisitor. Wisdom is his Spellcasting Modifier (*Spell Sav
 
 ***Flurry of Strikes.*** (1 Ki Point) After Aiwin makes his Multiattack, he may make 2 more attacks with his Cane Sword.
 
-***Divine Smite.*** As a bonus action, Aiwin charges his sword with divine power and deals an extra 2d8 radiant damage on his next attack. (2/day)
+***Divine Smite.*** As a bonus action, Aiwin charges his sword with divine power, expending a spell slot and dealing an extra 2d8 radiant damage on his next attack. If the attack misses, the Spell Slot is refunded.
 
 ***Capacitor Swap.*** Aiwin replaces the capacitor on his cane sword. Aiwin refills the charges on his Cane Sword.
 
