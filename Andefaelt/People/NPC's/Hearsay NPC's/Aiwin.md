@@ -35,7 +35,7 @@ PB +3
 
 **Spellcasting.** Aiwin is a 3rd-level Inquisitor. Wisdom is his Spellcasting Modifier (*Spell Save DC 14, Spell Attack +6*). He has the following spells prepared:
 
-1st Level (2 Ki Points): Bless, Shield of Faith, Sanctuary
+*1st Level* (2 Ki Points): Bless, Shield of Faith, Sanctuary
 
 ###### **Actions.**
 
