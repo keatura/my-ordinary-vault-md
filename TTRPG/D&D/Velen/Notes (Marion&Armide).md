@@ -836,4 +836,8 @@
 	- we love Tramsa
 	- and we love the Ultrakill OST
 		- good taste Alex :)
+- Tramsa lowk cooking in this fight
+	- he has aura
+- we get to phase 2 :3
+- he prematurely sets off the explosives, and planted some himself beforehand
 - 
