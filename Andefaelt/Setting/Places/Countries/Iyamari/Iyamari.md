@@ -4,7 +4,9 @@ Iyamari's council is run by 13 elected members who serve for 13 years. Every yea
 - This has lead to accusations of corruption before by small groups of upset parties, but nothing has ever been proven after intense investigations and surveillance. 
 - As well, Iyamarian Councilors are only allowed to serve one term in their life, even Elves don't get multiple.
 
-The Iyamarian Revolution Occurred 
+The Iyamarian Revolution occurred in the late 1700's (1785-88 to be exact.) This war occurred after decades of brewing tension between the old Iyamarian King and his high court began to become even less and less dedicated to providing for the people, eventually spurring into a climax where the poor and hungry peasant populace of Iyamari banded together, and pulled the might of the military and and the manpower of the nation out from under the King's feet. In reaction, Iyamari called on their treaty with Zevka and pulled the Zevkan military into the country, and used them to substitute as a military while they tried to regain control of the populace. Even with this, though, the Iyamarian people were dedicated and marched their way into the capital demanding death for the king and a new government body to be instated.
+
+After 2 years of conflict, the Zevkan Military withdrew, as they saw that protecting the old government was no longer worth it and would allow better relations with the newly formed country. So they completely pulled out of Iyamari and allowed the King to be executed on what is now called "Victory Day." Victory day is a national holiday in Iyamari, celebrating their new governmental system and progress into the future as the first country with democratically elected leaders.
 
 Cultural Universals 
 Finding Food:
