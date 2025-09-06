@@ -828,4 +828,7 @@
 - we are setting the charges
 	- no one is in the building it's really sus
 - talk to Morsus, debate how this could be used in a counterproductive manner to work against us.
+- Tramsa shows up
+- RIP
+- he throws a stun grenade :Frown:
 - 
