@@ -23,6 +23,6 @@ Naming conventions for ships in Andefaelt is very dependent on the nation it is 
 - Onyxian Airship design is more about experimentation that a cohesive navy. They build new vessels that always contain the newest tech invented in Noraveas and are always expensive and go over budget. While this isn't to say that the Onyxian Navy isn't competent, it has lead to a stigma within the people and a joke to those outside Onyxia. Onyxian Airships are in theory the best of all worlds: Heavy armor, long range and accurate artillery, and advanced systems for aiming the guns and defenses all topped off with powerful engines for every era, because Noraveas is the home of the turbine engine. Though these advanced ships referred to as "Flying Castles" (Darazgund) in Onyxia are of course, Very Expensive. Onyxian ship design takes the name very literally. In many instances featuring very boxy and geometric outwards design, and often incorporating motifs of actual castles such as casemated secondary guns protected by heavy armor, superstructure shaped like a castle keep with towers and battlements on the railings. Ships that are not classified as Darazgund are not given prefixes.
 	- Onyxian Airship Prefix is: Onyxian Darazgund (OD)
 
-- Zevka
+- Zevka 
 	- 
 
