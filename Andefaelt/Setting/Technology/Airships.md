@@ -1,1 +1,3 @@
-Airships in Andefaelt are used for almost everything related to inter-island travel. Whether it be shipping, 
+Airships in Andefaelt are used for almost everything related to inter-island travel. Whether it be shipping, warfare, transport or anything else under the sun of large scale movement.
+
+Naming conventions for ships in Andefaelt is very dependent on the nation it is from. First of all, civilian ships generally do not have prefixes. So names may consist of simple names like "Constellation" and "Beaver", though all ships are required to fly large flags of their origin on their mast. Meanwhile, ships owned by a country or flying under a military are given a prefix for identification. 
