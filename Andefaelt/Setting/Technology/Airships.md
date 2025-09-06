@@ -1,4 +1,4 @@
-Airships in Andefaelt are used for almost everything related to inter-island travel. Whether it be shipping, warfare, transport or anything else under the sun of large scale movement.
+Airships in Andefaelt are used for almost everything related to inter-island travel. Whether it be shipping, warfare, transport or anything else under the sun of large scale movement. Airship design varies heavily between different nations and manufacturers, and doctrine heavily influences the different nations navies. Large scale civilian cargo ships 
 
 Airship propulsion has undergone much development in Andefaelt, but there are three distinct eras.
 
