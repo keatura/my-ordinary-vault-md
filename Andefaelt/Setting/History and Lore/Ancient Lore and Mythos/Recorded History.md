@@ -39,7 +39,9 @@ The Iyamarian Revolution occurred in the late 1700's (1785-88 to be exact.) This
 After 2 years of conflict, the Zevkan Military withdrew, as they saw that protecting the old government was no longer worth it and would allow better relations with the newly formed country. So they completely pulled out of Iyamari and allowed the King to be executed on what is now called "Victory Day." Victory day is a national holiday in Iyamari, celebrating their new governmental system and progress into the future as the first country with democratically elected leaders.
 
 - Zevkan Assistance in Post-Revolutionary Iyamari (Year 1788-1800)
-After the revolution ended
+After the revolution ended Zevka immediately offered non-military aid and funding to Iyamari in an attempt to reset relations between the countries - of course this was all tied to a Mutual Defense Treaty. This allowed Iyamari to bypass their early rough stages of transition into their new society and brushed off most peoples bad memories of Zevka during the revolution. The Treaty still stands to this day, though not without troubles.
+
+The 
 
 - The Runeforged Revolutions (Year 1863-1882)
 After the increased levels of sentience were achieved in Runeforged in the early 1800's, The Runeforged began to see themselves as a people deserving of the same freedoms of other humanoids. In 1863, a group of Runeforged in Onyxia decided to band together and start protesting their enslavement, wishing for the ability to gain freedom and a wage equivalent to that of any other worker. This quickly spread to other nations and continued on for 19 years, resulting is several violent riots and deaths among city guard, civilians, and Runeforged. In the summer of 1882, all four governments in Andefaelt held a conference in Noraveas, where it was declared that Runeforged were equal to that of any other sentient being and that they deserved equivalent rights. Though, even though the council was held in Noraveas, many Dwarves still see Runeforged as servants and their creations.
