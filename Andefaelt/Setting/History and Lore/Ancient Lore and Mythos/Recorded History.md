@@ -18,8 +18,10 @@ In the year 1097, a expedition led by a Dragonborn by the name of Philo Osgood, 
 While dragons inhabited Andefaelt since it's creation, they would often attack settlements for food to feed their young, which lead to dragons being put on bounty. Dragons were hunted for their scales and horns and feathers, whether for fashion, art or armor. This lead to a massive decrease in the draconic population, with armies hunting them and poachers stealing their young. Eventually, in 1122 after about 100 years of this "war" with the dragons, what is currently known as the last dragon, an ancient red dragon that was dated to be alive since the beginning of the world was slain by a combination of a few different city-states militaries allied together, and his bones are now kept in a museum inside of the Iyamarian Capital, Naili.
 
 - The first God-King is born (Year 1140)
+Fariah Camillus is born near the Western Pillar, in what would then become the Asyrian Capital until the construction of Solata.
 
-- Asyria is formed and begins it's conquest, the era of nations begins (1160)
+- Asyria is formed and begins it's conquest, the era of nations begins (1165)
+Under the leadership of Fariah after his instatement as King of Asyria (the city-state), he began to attempt to use his religious power to force nearby nations to submit and join the Empire, or be taken over with military might. This begun Asyria's Age of Conquest, and what would then what would become the first Nation in Andefaelt.
 
 - The start of the Thirty-years War (Year 1326)
 The Thirty-years War was a war between Iyamari and Zevka, over land disputes on their borders. This led to a long, drawn out war tiring both sides and causing the complete destruction of Thrysta. The war did lead to the Zevkan invention of modern armored warships, but at that point in the war Zevka had already basically lost.
