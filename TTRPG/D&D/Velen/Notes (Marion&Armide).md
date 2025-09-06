@@ -796,4 +796,10 @@
 - Morsus talks to Jeeves and Nhilryna
 	- "There's a lot of Vrazdas."
 		- "What."
+- dumping VrazdaClones bodies in a dumpster in the alley
+- go to a nearby convenience store to find lighter fluid or lamp oil
+- the guy at the register recognizes me through the shroud
+	- Oh
+	- I'm Scared
+- He tells me to kill myself like lowtiergod
 - 
