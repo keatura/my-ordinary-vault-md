@@ -756,4 +756,38 @@
 - got second place, Matthew and Sylvia got first
 	- Evil Inspiration!
 - session start, the DOOM soundtrack starts playing. We Are So Cooked
+- Combat is going pretty good
+- Vrazda's clones are getting cleared easily by Artix magic and two grizzly bears
+- Anesidora just 
+	- Leaves
+	- were gonna
+		- miss
+		- her
+- Anesidora is running
+	- "they have found you"
+- she ducks into a familiar alleyway, one she has escaped to in before
+- she is confronted by this guy in light armor, asks "whats your name?"
+	- "you look familiar"
+- Anesidora doesn't know him
+- "I'm sure the *bounty* has plenty of recollection"
+- ITS FUCKING WHITE MAMBA. GOD DAMMIT
+	- "Business is Business"
+	- Sigh
+- "The Mission is clear. Vrazda has big plans in Lightkeep. He must return to the Chosen of the Revolution. --- Production has slowed since the destruction of the power plant. Fortunately, a majority of the cities power remains. That being said, --"
+	- missed the rest :(
+- "IMPORTANT: Meet with Morogast, Resume production of ---"
+- Artix's funny worm is speaking to him, saying his head will split open like an omelet if he doesn't find a cure.
+- "You are missing an arm, are you not?"
+	- Oh No
+	- Do not Artix
+- He goes to take his meds like a responsible adult
+	- "DONT TAKE THOSE!"
+	- 3 Thunder damage
+	- SMH dude what a Peon
+- He offers to replace Artix' metal arm with a tentacle arm
+	- he accepts
+- SINISTER MUSIC starts playing
+	- he hears the sound of a really large egg cracking, and a giant tentacle starts piercing out from his arm
+	- bro has the tentacle arm of freakdom
+		- ~~i have seen this in one of my japanese animes....~~
 - 
