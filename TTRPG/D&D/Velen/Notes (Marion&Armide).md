@@ -790,4 +790,10 @@
 	- he hears the sound of a really large egg cracking, and a giant tentacle starts piercing out from his arm
 	- bro has the tentacle arm of freakdom
 		- ~~i have seen this in one of my japanese animes....~~
+- +2 int -1 dex
+	- can cast a tentacle grapple spell and has a unarmed weapon
+- Nhilryna has read the Death Note???
+- Morsus talks to Jeeves and Nhilryna
+	- "There's a lot of Vrazdas."
+		- "What."
 - 
