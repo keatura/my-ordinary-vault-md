@@ -805,4 +805,8 @@
 - Nhilryna and Jeeves want to do the ritual for "Science"
 - they come to grab a body but i put them all in the dumpster
 - they put out the fire and take a body
+- the VrazaClones are becoming connected by Gaze of Two Minds to act as a surveillance system
+	- Fucking VrazdaCam
+- we are against the VrazaSecretPolice
+- insane shit
 - 
