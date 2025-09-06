@@ -813,4 +813,7 @@
 - Armide infodumps Morsus about her condition and is trying to figure out leads
 	- theres a Cleric that will be visiting Silochasm, Morsus is going to talk to him
 	- Morsus wants me to bring the blood rocks back so we can maybe reassemble the sword
+- Nhilryna shows us her bag of Lil Guys
+	- Spiders making spidersilk
+- the party has a nice coversation on the way to the cathedral :)
 - 
