@@ -755,4 +755,5 @@
 	- RIP
 - got second place, Matthew and Sylvia got first
 	- Evil Inspiration!
+- session start, the DOOM soundtrack starts playing. We Are So Cooked
 - 
