@@ -38,6 +38,7 @@ The Asyrian Empire is the most military power of the four nations. They control 
 **Current Instated Member: **
 
 ### Bishop of Diorythis
+**Current Instated Member: **
 
 #### Deacon of Kaine
 **Current Instated Member: **
