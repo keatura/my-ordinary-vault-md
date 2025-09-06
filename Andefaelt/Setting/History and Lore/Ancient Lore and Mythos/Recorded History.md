@@ -33,5 +33,8 @@ After hundreds of years, settlers came and built the start of a city on top of t
 - The Voxis War for Independence (Year 1693 - 1699)
 After they declare their sovereignty in 1693, Zevka objects as Thrysta is on their land, and Voxis fights for their independence with support from Asyria, causing a Zevkan withdrawal in 1699, and later recognition in 1701
 
+- The Iyamarian Civil War (Year 1787-1793)
+The Iyamarian Revolution occurred in the late 1700's (1787-93 to be exact.) 
+
 - The Runeforged Revolutions (Year 1863-1882)
 After the increased levels of sentience were achieved in Runeforged in the early 1800's, The Runeforged began to see themselves as a people deserving of the same freedoms of other humanoids. In 1863, a group of Runeforged in Onyxia decided to band together and start protesting their enslavement, wishing for the ability to gain freedom and a wage equivalent to that of any other worker. This quickly spread to other nations and continued on for 19 years, resulting is several violent riots and deaths among city guard, civilians, and Runeforged. In the summer of 1882, all four governments in Andefaelt held a conference in Noraveas, where it was declared that Runeforged were equal to that of any other sentient being and that they deserved equivalent rights. Though, even though the council was held in Noraveas, many Dwarves still see Runeforged as servants and their creations.
