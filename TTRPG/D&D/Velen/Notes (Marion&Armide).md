@@ -810,4 +810,7 @@
 - we are against the VrazaSecretPolice
 - insane shit
 - Morsus group chat time
+- Armide infodumps Morsus about her condition and is trying to figure out leads
+	- theres a Cleric that will be visiting Silochasm, Morsus is going to talk to him
+	- Morsus wants me to bring the blood rocks back so we can maybe reassemble the sword
 - 
