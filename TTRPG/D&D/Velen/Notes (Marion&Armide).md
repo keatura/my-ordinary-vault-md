@@ -831,4 +831,9 @@
 - Tramsa shows up
 - RIP
 - he throws a stun grenade :Frown:
+- this fight is rough but we are winning I think
+	- not locked in on notes for it but is fun
+	- we love Tramsa
+	- and we love the Ultrakill OST
+		- good taste Alex :)
 - 
