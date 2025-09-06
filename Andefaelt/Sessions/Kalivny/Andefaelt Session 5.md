@@ -33,6 +33,7 @@ Example
 		- This island has several Iyamarian settlements on it, but progress is slow due to it being a relatively untouched island previously and a high presence of dangerous wildlife
 	- Policies for pushing nationalization within Iyamari, improved inter-city transportation and the Mail network, with trains and highways
 	- Wants Iyamari to back off their trade with Onyxia and build better relations with Zevka now that they are mostly recovered from their civil war ~~ 100 years ago.
+	- Is not a big fan of Asyrian expansion, and the recent attack quickly boosted his popularity.
 	- Has been known on his come-up for being a very charismatic politician and someone who often manages to make his policies happen
 
 

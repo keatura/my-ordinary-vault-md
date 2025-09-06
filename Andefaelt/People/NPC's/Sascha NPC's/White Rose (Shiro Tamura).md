@@ -1,3 +1,10 @@
+- Black Mamba's closest fellow agent
+- potential love interest
+	- if not, she has a wife named Pula Tamura who has red hair
+	- the joke is whiterose like RWBY like ruby like jhahahahahshfahshhas h (im going insane)
+- 
+
+
 Medium Humanoid  
 AC: 13 (Leather)
 HP: 10 (2d8)
@@ -14,7 +21,7 @@ PB +2
 
 ###### Actions.
 
-***Dagger.*** (2 charges) *Melee Weapon Attack:* +4 to hit, reach 5ft. Hit: 4 (1d4 + 2) piercing damage.
+***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5ft. Hit: 4 (1d4 + 2) piercing damage.
 
 ***Heavy Revolver.*** Reload (3) *Ranged Weapon Attack:* +4 to hit, reach (60/180)., Hit: 9 (2d6+2) piercing damage.
 
