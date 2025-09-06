@@ -816,4 +816,13 @@
 - Nhilryna shows us her bag of Lil Guys
 	- Spiders making spidersilk
 - the party has a nice coversation on the way to the cathedral :)
+- we enter, meet Vikki
+	- what happened to Rikki?
+	- transgener robot
+- so far everything seems fine
+- we sense nothing out of the ordinary
+- Nhilryna tries to scratch up the face of Vrazda's statue
+	- nat 1
+	- makes him mog harder
+	- oops
 - 
