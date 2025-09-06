@@ -16,7 +16,7 @@ Eventually the Age of War was brought to an end by a dwarven trade group known a
 - The founding of the Hegemony (year 922)
 The Hegemony is a scholarly organization and a subsidiary to the Onyx-Pillar Merchants who operated outside of the boundaries of the City-states. They would fund exploratory trips out into the wilderness of various islands and even entire unexplored islands, funding full expeditions that could last years. They stayed in business by taking the new technologies they discovered and developed and selling them to the city-states on leases, requiring them to keep paying for access to the blueprints. Quickly becoming one of the richest independent forces in Andefaelt, they owned a full island in the south, around Gudsfjell, and form the basis of what nowadays is known as Noraveas, the capital of Onyxia.
 
-- The Golden Age (Year 940)
+- The Golden Age (Year 940-82)
 The Golden Age was appropriately named for its explosion of research and exploration across the place. Excavations of ruins from the past and even finding ancient relics from what can only be described as a previous time allowed for a massive jump in the advancement of technology and society. 
 
 - The Industrial Revolution. (year 1103)
