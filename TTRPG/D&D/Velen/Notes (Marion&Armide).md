@@ -734,3 +734,23 @@
 - discussing the possibility of quantum time distortion
 - VOID ARC!!!!
 - we are in the fucking lego movie lord business tower
+
+# 9/6/25 
+- RECAPE IS JEOPARDY
+	- YIPPEEEE
+- 100 points for me
+- Anesidora eats babies
+	- just like Hearsay hohoohohohoo
+- *Jetpack.... Missiles!*
+	- 300 points for me yohoohohohoho
+- minus 100 for me 
+	- frowning
+- 200 for me because of the Black Wind Blade
+	- Marion my goat
+	- i miss her
+- -400 SOBBING
+- Faridoon is at the Moonlight Academy
+- -500 FUCK
+	- it was the Lightkeep Revolution
+	- RIP
+- 
