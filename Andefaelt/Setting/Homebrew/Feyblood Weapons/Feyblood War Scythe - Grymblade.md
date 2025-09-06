@@ -1,4 +1,4 @@
-- original owner was very weak due to a disease, and the weapon was made to heal him.
+Legends of the Grymblade give it many different descriptions, but the most common way it is depicted is a 6-foot-tall Brass and Golden scythe claimed to have been crafted from the blood and scales of the Last Dragon. It's capabilities are unknown, and it was lost after the Battle of Thrysta, unrecovered by even Iyamari.
 
 ###### Weapon (Halberd), Legendary (Requires attunement)
 
