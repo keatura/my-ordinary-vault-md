@@ -854,4 +854,7 @@
 	- oh noonononono
 	- yohohohohohoho
 - oh Great Heavens!
-- oh he's bipedal and 
+- oh he's bipedal and sinister as hell
+- hits really fuckin hard too ouchie
+- People begin climbing platforms to attack his head
+- he uses his Volcanic Breath
