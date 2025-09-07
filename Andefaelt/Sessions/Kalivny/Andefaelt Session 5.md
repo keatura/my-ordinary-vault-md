@@ -26,7 +26,7 @@ Example
 
 ##### Bolt brings in the morning paper
 - Everyone is waking up in the morning, Bolts an early morning person and just snuck through the living room to not wake the others
-- as people are waking up he comes up with the morning paper and something along the lines of "Those slowpokes in Iyamari finally elected a new council member. Took 'em long enough."
+- as people are waking up he comes up with the morning paper and something along the lines of "Iyamari finally elected a new council member."
 - this council member goes by the name Shoma Inouye
 	- His major policies:
 	- Advocating for the mobilization of the Iymarian Military to better defend and lay their rightful claim the Island Cynthia. This is a opinion held very popularly among most Iyamarians.
