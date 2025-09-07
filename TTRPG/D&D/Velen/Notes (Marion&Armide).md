@@ -903,4 +903,7 @@
 - WE CALL FARIDOON AND HE SHOWS UPPPPPP
 - Faridoon is a demigod
 - and he gets fucking dissolved by the Dream Engine
-- 
+- sobbing
+- we get transported to the Feywild
+- the Dream Engine is narrating 
+- Uh Oh
