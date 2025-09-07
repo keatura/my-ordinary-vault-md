@@ -858,3 +858,29 @@
 - hits really fuckin hard too ouchie
 - People begin climbing platforms to attack his head
 - he uses his Volcanic Breath
+- almost get party wiped, Artix manages to save us all but its VERY close
+	- Armide failed 2 death saves
+- we live those though
+- something suspicious is below Vikki's helmet.... I wonder what it is
+- we find a note from Psycho Rodney
+- the revolutionaries are already acting 
+- Pyscho Rodney is the chosen of the Divinity
+	- i love this guy
+	- he wants to burn down Lightkeep
+- we go to talk to Psycho Rodney.....
+- we enter a large stone room with a balcony
+	- theres a figure in the shadows
+	- is it Psycho Rodney?
+- a giant spotlight points down on us
+	- "I'm Psycho Rodney"
+		- well that solves it
+	- "What do you think you're doing here?"
+		- "We would like to have a friendly conversation"
+	- yeah okay 
+- He apparently witnessed The Divinity
+- we talk our way out of the Psycho Rodney fight, and he gives us an elevator to leave the base
+- the elevator reaches the bottom and opens up to a hallway that seems like it goes on forever
+	- the ceiling and walls and floors are made out of copper tubing
+- KOTOS IS BACK AGAIN
+- HOW WE THREW HIM INTO AN ACTUAL PIT OF LAVA
+- 
