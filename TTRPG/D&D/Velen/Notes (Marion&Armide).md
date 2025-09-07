@@ -844,4 +844,9 @@
 	- it was self-defense lol, they just attacked him without talking or anything
 	- why is he mad
 	- I mean I guess dude but
+- "Tramsa, I'm sorry for killing your mother, I'm sorry for killing your father, I'm sorry for killing your brother, but I'm not sorry for killing you. You are a danger to my family. "
+- Tuff Quote
+- The organ starts playing
+	- oh were so cooked
+- we killed Tramsa though
 - 
