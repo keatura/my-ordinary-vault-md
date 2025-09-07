@@ -849,4 +849,9 @@
 - The organ starts playing
 	- oh were so cooked
 - we killed Tramsa though
-- 
+- we get sent down into a sewer after being warned to "beware the Crocadillian"
+	- oh no
+	- oh noonononono
+	- yohohohohohoho
+- oh Great Heavens!
+- oh he's bipedal and 
