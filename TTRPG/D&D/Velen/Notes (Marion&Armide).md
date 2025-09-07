@@ -840,4 +840,8 @@
 	- he has aura
 - we get to phase 2 :3
 - he prematurely sets off the explosives, and planted some himself beforehand
+- Artix killed Tramsa's family
+	- it was self-defense lol, they just attacked him without talking or anything
+	- why is he mad
+	- I mean I guess dude but
 - 
