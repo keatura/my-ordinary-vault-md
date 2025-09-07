@@ -30,7 +30,7 @@ PB +3
 
 **Unarmored Defense.** While Aiwin is wearing no armor and wielding no shield, his AC includes its Wisdom modifier.
 **Mobile Flourish.** When Aiwin makes an attack against a creature, he does not provoke opportunity attacks for the rest of the turn
-**Ki Points.** Aiwin has a number of Ki Points to draw from for certain abilities. (10/10)
+**Ki Points.** Aiwin has a number of Ki Points to draw from for certain abilities. (8/8)
 **Stern Gaze.** Aiwin may make an Intimidation Check with Wis instead of Cha.
 
 **Spellcasting.** Aiwin is a 3rd-level Inquisitor. Wisdom is his Spellcasting Modifier (*Spell Save DC 14, Spell Attack +6*). He has the following spells prepared:
