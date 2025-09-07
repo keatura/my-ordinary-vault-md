@@ -883,4 +883,21 @@
 	- the ceiling and walls and floors are made out of copper tubing
 - KOTOS IS BACK AGAIN
 - HOW WE THREW HIM INTO AN ACTUAL PIT OF LAVA
+- "Kotos, I managed to get you out of the Feywild, but there ---. I had to inject you with a substance, but your constitution is unrivalled. I would like to appoint you as the head of a clubhouse called the Gilded House. ---"
+- "Molgast, it was very difficult but I managed to get you out of the Feywild. --- I have been researching various technologies, and I believe with your study is biological parasite, I would like you to help --- I need your genius to help finish the design."
+- "Apharia, It was difficult, and I know you were in torment during ---"
+	- I got distracted by how much this guy is just lying
+	- claiming Armide is the one who killed him
+- we find a giant monolithic mess of wires with a head that is a TV
+- he is called the Dream Engine
+- behind him opens up a giant glass pane
+- behind him is what looks like a giant squid with 100's of wires hooked up to it.
+	- it's face looks frozen and it's continually bleeding
+- He can wish for anything and it's given
+- claims to be stronger than Selestis and Galvis
+- bro is unsatisfied
+	- lul
+- doesn't feel human, cant feel love, only builds weapons and fortresses and hate
+- Me and Vrazda are the only real escapees from the Feywild, the rest were created by the Dream Engine from memory
+- Armide managed to marry the biggest egotistical megalomaniac in history
 - 
