@@ -22,7 +22,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Revolver, heavy             | 30gp  | 2d6 +dex  | 5lbs   | Reload (3), Range (60/180)                                                            | Vex            |
 | Pistol, automatic           | 150gp | 1d8 +dex  | 3lbs   | Reload (8), Range (30/90), Versatile (Rapid Fire)                                     | Graze          |
 | Submachine Gun              | 70gp  | 1d8 +dex  | 6lbs   | Reload (24), Range (60/180), Two Handed, Rapid Fire                                   | Graze          |
-| Rifle, hunting              | 40gp  | 3d4 +dex  | 5lbs   | Reload (1), Range (300/1200), Two Handed                                              | Slow           |
+| Rifle, hunting              | 40gp  | 4d4 +dex  | 5lbs   | Reload (1), Range (300/1200), Two Handed                                              | Slow           |
 | Rifle, sniper               | 250gp | 4d6 +dex  | 6lbs   | Reload (3), Range (500/1500), Two Handed                                              | Graze          |
 | Musket                      | 50gp  | 3d8 +dex  | 6lbs   | Reload (1), Range (50/100), Two Handed, Slow Shooting                                 | Push           |
 | Rifle, Lever Action (rifle) | 80gp  | 2d8 +dex  | 9lbs   | Reload (8), Range (200/600), Two Handed                                               | Slow           |
@@ -49,10 +49,11 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | ----------------------- | ------ | --------------------------------------- | ------ | ------------------------------------------------------------ | ------------------- |
 | Templar's Halberd-rifle | 500gp  | 2d10+str Slashing/<br>4d6 +dex Piercing | 50lbs  | Reload (2), Range (60/180), Two Handed, Reach (15ft)         | Cleave/<br><br>Push |
 | Machine Gun             | 750gp  | 2d6 +dex                                | 80lbs  | Reload(40), Range (200/600), Two Handed, Rapid Fire, Special | Graze               |
-| Hand Cannon             | 30gp   | 4d6 +dex                                | 8lbs   | Reload (3), Range (100/300), Large Caliber                   | Topple              |
+| Hand Cannon             | 150gp  | 4d6 +dex                                | 8lbs   | Reload (3), Range (100/300), Large Caliber                   | Topple              |
 | Anti-Armor Rifle        | 1200gp | 4d10 +dex                               | 100lbs | Reload (6), Range (500/1500), Two Handed, Large Caliber      | Topple              |
 | Autorifle               | 1000gp | 2d8 +dex                                | 30lbs  | Reload (15), Range (300/900), Rapid Fire, Bayonet            | Vex                 |
 | Submachine Gun          | 75gp   | 1d8 +dex                                | 6lbs   | Reload (24), Range (60/180), Light, Rapid Fire               | Vex                 |
+| 2-Guage Shotgun         | 230gp  | 4d12 +dex                               | 130lbs | Reload (5), Range (100/300), Buckshot, Two Handed            | Graze               |
 
 | **Special Ammo**       |                  |           |      |                                                                                            |
 | ---------------------- | ---------------- | --------- | ---- | ------------------------------------------------------------------------------------------ |
