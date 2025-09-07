@@ -900,4 +900,7 @@
 - doesn't feel human, cant feel love, only builds weapons and fortresses and hate
 - Me and Vrazda are the only real escapees from the Feywild, the rest were created by the Dream Engine from memory
 - Armide managed to marry the biggest egotistical megalomaniac in history
+- WE CALL FARIDOON AND HE SHOWS UPPPPPP
+- Faridoon is a demigod
+- and he gets fucking dissolved by the Dream Engine
 - 
