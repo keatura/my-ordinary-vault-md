@@ -6,7 +6,7 @@ The Dagger and even Marckus himself drip Holy Blight, a sickeningly yellow radia
 
 Medium Humanoid
 AC: 14 (Leather, Cloak of Protection)
-HP: 60 (8d10+5)
+HP: 75 (10d10+20)
 Speed 30ft
 **Saving Throws** Str +1 Dex +3 Con +2 Int 0 Wis +2 Cha +4
 **STR: 11(0), DEX: 14(+2), CON: 12(+1), INT: 10(0), WIS: 8(-1), CHA: 17(+3)**

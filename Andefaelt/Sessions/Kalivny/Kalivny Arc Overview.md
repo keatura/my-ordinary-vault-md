@@ -11,7 +11,9 @@ This mini-campaign takes place on a small island in southern Zevka, close to the
 
 ## Current Events
 
-- The Blade is on the run, hiding in the forest and regrouping/manipulating the Goblins now that their Chantmaster and the 
+- The Blade is on the run, hiding in the forest and regrouping/manipulating the Goblins now that their Chantmaster and the Shamans are dead/injured
+- both Iyamari and Asyria are looking for The Blade, but trying to not start a war at the same time.
+- 
 
 # Kalivny Arc
 
@@ -38,4 +40,6 @@ The goblins have recently uncovered the [[Feyblood Dagger]], and it has been man
 
 - at the beginning, if they are sent to Helena, they find a man from there who got caught in whatever recent thunderstorm and is about to die of hypothermia. He is in a shoddy improvised shelter that was destroyed by the weather. allow the players to try and heal him but it's very difficult. 
 - encounter Possessed Marckus a few times before they actual fight him, he is very elusive
-- one more Aiwin encounter towards the end of the arc
+- one more Aiwin encounter towards the end of the arc, maybe with other Clerics or Asyrian infantry
+- The Expanse style ending where they get a boat from Iyamari
+- 
