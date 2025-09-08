@@ -168,6 +168,12 @@ Cantrips (at will): Light, Sacred Flame
 1st Level (4 slots): Detect Evil and Good, Cure Wounds, Command, Compelled Duel
 2nd Level (2 slots): Zone of Truth, Lesser Restoration
 
+Due to their mechanical nature, Powered Armor can be Critically Damaged in a similar way to 'Jacks and 'Mechs. A Powered Armor suit takes Critical Damage when it:
+- Is Critically Hit with an attack.
+- Suffers an amount of damage equal to double it's armor class in one attack.
+- Is subject to an effect or situation that could cause critical damage or warrant a malfunction, as determined by the DM.
+When Powered Armor suffers a critical hit, roll on the Critical Damage Chart to see the effect.
+
 **Actions.**
 ***Multiattack.*** The Templar can make up to two weapon attacks with either it's melee or ranged weapon profiles, or it's dagger.
 
