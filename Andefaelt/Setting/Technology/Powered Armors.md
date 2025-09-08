@@ -67,7 +67,7 @@ Exotic powered armor follows the general rules for its class of Powered Armor (e
 ### Modules and Engine Power
 
 **Engines.**
-While all power armor requires an engine, not all engines are created equal or for the same purpose. The engines in these armors have generators in the same manner as 'Jacks that accumulate magical energy to power Runesteel "Modules". If an engine has 0 charges, it's power reserve is completely spent and the wearer suffers -2 AC until it regenerates.
+While all power armor requires an engine, not all engines are created equal or for the same purpose. The engines in these armors have generators in the same manner as 'Jacks that accumulate magical energy to power Runesteel "Modules". If an engine has 0 charges, it's power reserve is completely spent and the wearer suffers -2 AC until it regenerates. A wearer can only expend a number of charges equal to their Rune Point Maximum per turn.
 
 
 | Engine Type        | Rune Point Max | Charges | Recharge Rate | Other Effects                                                                                                                                                                                                                                             | Price |
@@ -81,7 +81,7 @@ While all power armor requires an engine, not all engines are created equal or f
 | Unique Engine Types | Power Output  | Charges | Recharge Rate | Other Effects                                                                |
 | ------------------- | ------------- | ------- | ------------- | ---------------------------------------------------------------------------- |
 | Shocktrooper Engine | 2 Rune Points | 5       | 5 per minute  | Can power the Shocktroopers' repulsor gear. Fuel costs 2x as much as normal. |
-| Arcane Turbine      | 8 Rune Points | 20      | 5 per minute  | N/A                                                                          |
+| Arcane Turbine      | 8 Rune Points | 20      | 5 per turn    | N/A                                                                          |
 | Templar Engine      | 6 Rune Points | 10      | 5 per minute  | Can power the Templar's shock absorbers and air filters.                     |
 **Modules.**
 Powered by accumulated magical energy, Modules function as additional "powers" that a set of Powered Armor can use to it's effect. While magically powered, they are modifications to the armor that do affect the physical appearance. when you pay for the Module, decide how it fits into your armor and causes the effect. Engines can only support a limited amount of modules, and therefore can only equip a number of modules equal to or under its Rune Point max.
