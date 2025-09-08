@@ -33,4 +33,4 @@ and cast upon you - the answers of your pleas."
 >
 >Farewell, Mizuki Kotova.
 
-- Olesya was created by 
+- Olesya was created by a powerful worshipper of Hemepha, and is heavily tied to her.
