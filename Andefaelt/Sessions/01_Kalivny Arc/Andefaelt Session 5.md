@@ -41,7 +41,7 @@ Example
 	- Has been known on his come-up for being a very charismatic politician and someone who often manages to make his policies happen
 
 ##### Ezaren shows back up
-
+- When Hearsay goes into work Ezaren is there. 
 
 ### Other Scenes
 
