@@ -40,7 +40,6 @@ Example
 	- Is not a big fan of Asyrian expansion, and the recent attack quickly boosted his popularity.
 	- Has been known on his come-up for being a very charismatic politician and someone who often manages to make his policies happen
 
-
 ##### Ezaren shows back up
 
 
