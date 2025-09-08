@@ -20,7 +20,11 @@ Example
 ### The Everwinds
 
 ##### Ezaren is debriefed
-
+- due to current situations and Black Mamba's status in Kalivny, he can't be taken without legal repercussions.
+- While Kalivny does not have the influence to block Iyamari from taking him, it could create problems and cause a scene, potentially leading to other nations using it to their advantage or revealing that he is an Iyamarian agent.
+- for now, just observe them and Iyamari will be keeping an aircraft on QRF for extraction of Glass 1 and Black Mamba if need be. There is 2 docked Frigates mounted in the belly for transport back to Naili afterwards.
+- given a blue flare gun
+- For now, he has been given a blue flare gun to signal for extraction under any needs, Koran and Mako are assigned to other responsibilities that aren't related to Black Mamba
 
 ### Kalivny
 
