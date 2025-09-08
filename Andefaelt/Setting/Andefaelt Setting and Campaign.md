@@ -47,6 +47,7 @@ Shoma wants:
 - To collect his fallen ancestors.
 - To release them from their shells and restart the World Pillars.
 - And reinstate the era of Fey Rule on the realm.
+- Believes Hemepha is a "fake" nature goddess. She is a copy of 
 Shoma has:
 - a seat as a high-elf on the Iyamarian High Council
 - Fey Plant Magic
