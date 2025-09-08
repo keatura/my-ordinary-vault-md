@@ -4,7 +4,7 @@
 
 [Sascha King](https://docs.google.com/document/d/1YRq8hfhHdB6ZylcPvlW80G39SPa8ycdb-BgVQJyk2YU/edit?usp=sharing) - Is a experienced Iyamarian Hammer agent, born to a high-ranking and accomplished father. Though, after he was sent on a mission regarding a very dangerous prototype weapon made by Asyria, he has started questioning his loyalty.
 
-[[Hearsay]] - A Tiefling on her proving from Is'Ohenna, who has a great amount of expectations to live up to. 
+[[Hearsay]] - The Chosen One on her proving from Is'Ohenna, who has a great amount of expectations to live up to. 
 
 [[Ezaren Reed]] - A very green Iyamarian Glass Agent, who is hoping to eventually find his long-lost mother.
 
