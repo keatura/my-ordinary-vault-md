@@ -53,7 +53,7 @@ Ammo is 1gp/5 rounds, and when you buy it you decide what weapon it is for. That
 | Anti-Armor Rifle        | 1200gp | 4d10 +dex                               | 100lbs | Reload (6), Range (500/1500), Two Handed, Large Caliber      | Topple              |
 | Autorifle               | 1000gp | 2d8 +dex                                | 30lbs  | Reload (15), Range (300/900), Rapid Fire, Bayonet            | Vex                 |
 | Submachine Gun          | 75gp   | 1d8 +dex                                | 6lbs   | Reload (24), Range (60/180), Light, Rapid Fire               | Vex                 |
-| 2-Guage Shotgun         | 230gp  | 4d12 +dex                               | 130lbs | Reload (5), Range (100/300), Buckshot, Two Handed            | Graze               |
+| Heavy Shotgun           | 230gp  | 3d12 +dex                               | 130lbs | Reload (2), Range (100/300), Buckshot, Two Handed            | Graze               |
 
 | **Special Ammo**       |                  |           |      |                                                                                            |
 | ---------------------- | ---------------- | --------- | ---- | ------------------------------------------------------------------------------------------ |

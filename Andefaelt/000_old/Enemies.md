@@ -156,7 +156,9 @@ Senses: Darkvision 60ft, Passive perception 18
 PB +4
 
 ***Restrictive Armor.*** The armor this creature is wearing restricts it's movement, but not it's ability to aim. This creature's Dexterity score counts as 17(+3) when determining ranged weapon attacks.
-***Powered Armor.*** The armor this creature is wearing boosts it's Strength Score from 17 to 25, it's size from Medium to Large, gives it resistance to bludgeoning, piercing, and slashing damage, and makes it immune to effects of poison gas and other chemical weapons. If this creatures armor is removed, it loses these traits.
+***Powered Armor.*** The armor this creature is wearing boosts it's Strength Score from 17 to 25, it's size from Medium to Large, gives it resistance to bludgeoning, piercing, and slashing damage, and makes it's wearer immune to effects of poison gas and other chemical weapons, and magical effects such as Cloudkill. If this creatures armor is removed, it loses these traits.
+***Charge Generation.*** The Templar's armor generates charges that can be used to create effects provided by the modules on the armor.
+
 ***Kadis' Chosen.*** (1/day) When the Templar fails a roll, it may choose to succeed instead.
 ***Shock Absorbers.*** The Templar is immune to fall damage.
 
@@ -169,7 +171,7 @@ Cantrips (at will): Light, Sacred Flame
 **Actions.**
 ***Multiattack.*** The Templar can make up to two weapon attacks with either it's melee or ranged weapon profiles, or it's dagger.
 
-***Templar's Halberd-Rifle. (Axe)*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., One Target. Hit: (2d10 + 7) Slashing damage, plus (3d8) Radiant damage.
+***Templar's Halberd-Rifle. (Axe)*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., One Target. Hit: (2d10 + 7) Slashing damage.
 ***Templars Halberd-Rifle. (Spear)*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., One Target. Hit: (2d4 + 7) Slashing damage.
 ***Templar's Halberd-Rifle. (Ranged)*** *Ranged Weapon Attack:* +7 to hit, reach (60/180) ft., One Target. Hit: (4d6 + 3) Piercing damage. Reload (2).
 
