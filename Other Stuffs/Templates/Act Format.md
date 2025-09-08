@@ -1,5 +1,7 @@
 > Example
 
+## Current Events
+
 ## Session Notes
 Example
 

@@ -9,6 +9,10 @@ This mini-campaign takes place on a small island in southern Zevka, close to the
 
 # [[Helena]]
 
+## Current Events
+
+- The Blade is on the run, hiding in the forest and regrouping/manipulating the Goblins now that their Chantmaster and the 
+
 # Kalivny Arc
 
 goblins have been roped into worshipping the "Hooded One", firstly referred to as "The Blade". Causing trouble around, and most notably kidnapping someones kid.
@@ -23,9 +27,9 @@ In the beginning, the group is sent to look for a lost kid - Marckus. His mother
 The goblins have recently uncovered the [[Feyblood Dagger]], and it has been manipulating them to bring them a human for it to bond to. The dagger is very egotistical and wants to conquer the island just for it's own sense of status. 
 
 ##### Sessions
-[[Andefaelt Session 1]]
-[[Andefaelt Session 2]]
-[[Andefaelt Session 3]]
+[[Andefaelt Session 1]] (level 1)
+[[Andefaelt Session 2]] (level 2)
+[[Andefaelt Session 3]] (level 3)
 [[Andefaelt Session 4]]
 [[Andefaelt Session 5]]
 
