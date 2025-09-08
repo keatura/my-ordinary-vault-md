@@ -1,5 +1,5 @@
 ## Participants:
 Iyamarian Empire
 Zevka
-Mercenary
+Hegemony
 Democratic People's Revolutionary Army
