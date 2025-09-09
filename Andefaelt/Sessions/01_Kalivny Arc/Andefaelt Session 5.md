@@ -27,7 +27,9 @@ Example
 - For now, he has been given a blue flare gun to signal for extraction under any needs, Koran and Mako are assigned to other responsibilities that aren't related to Black Mamba
 
 ##### The party is extracted
-- If there is a situation 
+- If there is a situation where an extraction is executed by Ezaren, the party gets on an Iyamarian dropship and escorted to The Everwinds.
+- they are brought to holding cells and awaiting questioning
+- after waiting, 
 
 ### Kalivny
 
