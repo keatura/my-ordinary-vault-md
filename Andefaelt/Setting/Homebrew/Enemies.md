@@ -130,17 +130,38 @@ Cantrips (at will): druidcraft, produce flame, shillelagh, ray of frost
 ##### Asyrian Soldier
 Medium Humanoid
 AC: 16 (Breastplate)
-HP: 18 (2d10 +2)
+HP: 18 (2d10 +2) 
 Speed: 30ft
 **STR: 14(+2), DEX: 15(+2), CON: 12(+1), INT: 10(0), WIS: 12(+1), CHA: 10(0)**
 Skills: [Religion] +4, [Athletics] +4
 Senses: passive Perception 11
 PB +2
 
-
+***Loyalty.*** Asyrian soldiers have advantage on checks made against being charmed or frightened.
 ###### Actions
 
 ***Military Rifle.*** *Ranged Weapon Attack:* +4 to hit, reach 200/600 ft, One Target., Hit: (2d8 + 2) Piercing damage. Reload(5)
+
+***Bayonet.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., Hit 6 (1d6 + 2) piercing damage. This damage is increased by every 10ft Maya has moved before making her attack, up to a maximum damage of 5d6.
+
+##### Asyrian Sergeant
+Medium Humanoid
+AC: 16 (Breastplate)
+HP: 18 (2d10 +2) 
+Speed: 30ft
+**STR: 14(+2), DEX: 15(+2), CON: 12(+1), INT: 10(0), WIS: 12(+1), CHA: 10(0)**
+Skills: [Religion] +4, [Athletics] +4
+Senses: passive Perception 11
+PB +2
+
+***Loyalty.*** Asyrian soldiers have advantage on checks made against being charmed or frightened.
+###### Actions
+
+***Military Rifle.*** *Ranged Weapon Attack:* +4 to hit, reach 200/600 ft, One Target., Hit: (2d8 + 2) Piercing damage. Reload(5)
+
+***Bayonet.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., Hit 6 (1d6 + 2) piercing damage. This damage is increased by every 10ft Maya has moved before making her attack, up to a maximum damage of 5d6.
+
+***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is Incapacitated.
 
 ##### Cleric Initiate
 Medium Humanoid
@@ -249,6 +270,89 @@ Cantrips (at will): Light, Sacred Flame
 
 # Iyamari
 
+##### Iyamarian Soldier
+Medium Humanoid
+AC: 16 (Breastplate)
+HP: 18 (2d10 +2) 
+Speed: 35ft
+**STR: 14(+2), DEX: 15(+2), CON: 12(+1), INT: 10(0), WIS: 12(+1), CHA: 10(0)**
+Skills: [History] +3, [Athletics] +5
+Senses: passive Perception 11
+PB +3
+###### Actions
+
+***Military Rifle.*** *Ranged Weapon Attack:* +5 to hit, reach 200/600 ft, One Target., Hit: (2d8 + 2) Piercing damage. Reload(5)
+
+***Bayonet.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., Hit 6 (1d6 + 2) piercing damage. This damage is increased by every 10ft Maya has moved before making her attack, up to a maximum damage of 5d6.
+
+##### Iyamarian Sergeant
+Medium Humanoid
+AC: 16 (Breastplate)
+HP: 18 (2d10 +2) 
+Speed: 35ft
+**STR: 14(+2), DEX: 15(+2), CON: 12(+1), INT: 10(0), WIS: 12(+1), CHA: 10(0)**
+Skills: [History] +3, [Athletics] +5
+Senses: passive Perception 11
+PB +3
+
+***Bravery.*** Iyamarian Sergeants have advantage on checks made against being frightened.
+###### Actions
+
+***Military Rifle.*** *Ranged Weapon Attack:* +5 to hit, reach 200/600 ft, One Target., Hit: (2d8 + 2) Piercing damage. Reload(5)
+
+***Bayonet.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., Hit 6 (1d6 + 2) piercing damage. This damage is increased by every 10ft Maya has moved before making her attack, up to a maximum damage of 5d6.
+
+***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is Incapacitated.
+
+##### Shocktrooper.
+Medium Humanoid
+AC: 18 (Shocktrooper Armor)
+HP: 76 (8d10 +24) 
+Speed: 50ft Fly: 30ft
+**STR: 17(+3), DEX: 19(+4), CON: 16(+3), INT: 12(+1), WIS: 14(+2), CHA: 10(0)**
+Skills: [History] +5, [Athletics] +7, [Acrobatics] +8, [Stealth] +8, [Perception] +6
+Senses: passive Perception 16
+PB +4
+
+***Powered Armor.*** The armor this creature is wearing boosts it's Strength Score from 15 to 17, and makes it's wearer immune to effects of poison gas and other chemical weapons, and magical effects such as Cloudkill. If this creatures armor is removed, it loses these traits.
+***Shocktroops' Exo.*** The Iyamarian Aerial Cavalry Corps utilizes light, fast exo-skeleton armors to facilitate quick and powerful assaults and execute flanking maneuvers efficiently. This Armor has a built-in Gasmask in the helmet, and come with a deployable knife built into the arms for quick reaction and CQB. They also have power-regulation systems that allow them to enter a state of "silent running", **allowing the suit to move nearly silently apart from the noise of the mechanics, for up to an hour. After this hour, the suit must be given at least 2 hours of rest to purge itself before it is safe to do so again.** Additionally, **it comes with hover shoes and a maneuvering thruster pack for the armor, meaning the armor does not have footsteps, it's speed is increased by 20ft, the wearer is immune to fall damage, and can dodge, dash and disengage as a bonus action. It can also fly and hover with a speed of 30ft.**
+###### Actions
+***Multiattack.*** The Shocktrooper makes four attacks with it's Machine Gun.
+
+***Machine Gun.*** *Ranged Weapon Attack:* +8 to hit, reach 200/600 ft, One Target., Hit: (2d6 + 4) Piercing damage. Reload(40)
+
+ ***Sweeping Fire.*** When the attack action is made with a Machine Gun by this creature they may forfeit that turn to make an attack roll with advantage. This attack roll is then applied against every creature of their choosing in a 60-foot cone. The amount of creatures targeted may not exceed the current remaining ammo in the Machine Guns magazine.
+
+***Deployable Knife.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., Hit 6 (1d10 + 3) slashing damage.
+
+***Reload.*** This creature reloads it's machine gun.
+###### Bonus Actions
+
+***Quick Slash.*** The Shocktrooper may make one attack with its Deployable Knife as a Bonus Action.
+
+***Maneuver.*** This creature may dodge, dash and disengage as a Bonus Action.
+
+##### IAR Hammer Agent.
+Medium Humanoid
+AC: 12
+HP: 27 (6d8) 
+Speed: 30ft
+**STR: 10(0), DEX: 15(+2), CON: 10(0), INT: 12(+1), WIS: 14(+2), CHA: 16(+3)**
+Skills: [Deception] +5, [Insight] +4, [Investigation] +5, [Perception] +6, [Persuasion] +5, [Sleight of Hand] +4, [Stealth] +4
+Senses: passive Perception 16
+PB +2
+
+***Sneak Attack (1/Turn).*** The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't Incapacitated and the spy doesn't have disadvantage on the attack roll.
+###### Actions
+
+***Multiattack.*** The Agent makes two melee attacks.
+
+***Shortsword.*** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+
+_**Military Revolver.** Ranged Weapon Attack:_ +4 to hit, range 50/150 ft., one target. _Hit:_ 6 (2d4 + 2) piercing damage.
+###### Bonus Actions
+
+***Cunning Action.*** On each of its turns, this creature can use a bonus action to take the Dash, Disengage, or Hide action.
 
 # Onyxia
 

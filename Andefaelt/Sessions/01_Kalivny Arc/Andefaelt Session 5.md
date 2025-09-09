@@ -49,17 +49,18 @@ Example
 ##### Kalivny is attacked!
 - if things are starting to go nowhere, The Blade finishes rallying troops and attacks Kalivny on Saturday.
 
-#####
+##### Scene
 
 ## Important NPC's
 
 [[Bolt (the bestest rat)]]
 [[Marek Callaway]]
 [[Red Rage]]
+[[Aiwin]]
 
 ## Relevant Creatures
 
-
+[[Enemies]]
 
 ## Notes
 - Example
