@@ -47,37 +47,101 @@ CR 1 PB +2
 Runesteel Rapier: (Reload 2)
 When an attack is successfully made with this weapon, the user may choose to cause a flash of energy to deepen the wound, dealing an additional 1d8 Force damage.
 
-##### Goblin or Kobold
-Small humanoid
-AC: 13
-HP: 7
-Speed: 30ft
-**STR: 8(-1), DEX: 14(+2), CON: 10(0), INT: 10(0), WIS: 8(-1), CHA: 8(-1)**
-Skills: Stealth +6
-Senses: Darkvision 60ft, Passive perception 9
+##### Goblin
+Small humanoid  
+AC: 13  
+HP: 7  
+Speed: 30ft  
+**STR: 8(-1), DEX: 14(+2), CON: 10(0), INT: 10(0), WIS: 8(-1), CHA: 8(-1)**  
+Skills: Stealth +6  
+Senses: Darkvision 60ft, Passive perception 9  
 CR 1/4 PB +2
 
-**Nimble Escape (goblin)**
+**Actions.**
+
+**Scimitar.** Melee Weapon Attack: +4 to hit, reach 5 ft., One Target. Hit: (1d6 + 2) Slashing damage.
+**Crude Rifle.** Ranged Weapon Attack: +4 to hit, reach 30/60 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(1)
+
+**Reload.**
+The goblin reloads it's Crude Rifle.
+
+**Bonus Actions.**
+
+**Nimble Escape.**
 *The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
 
-**Pack Tactics (kobold):**
-*This creature has advantage on melee attack rolls if at least one of its allies is within 5ft of a hostile creature and not incapacitated.*
+##### Hobgoblin
+Medium Humanoid
+AC: 16
+HP: 11 (2d8+2)
+Speed: 30ft
+**STR: 14(+2), DEX: 14(+2), CON: 12(+1), INT: 10(0), WIS: 10(0), CHA: 9(-1)**
+Senses: Darkvision 60ft, Passive perception 10
+CR 1/2 PB +2
 
-**Actions**
+***Regimented.***
+Once per turn, while the Hobgoblin is within 5ft of a friendly creature that isn't incapacitated, it deals an extra 4 (1d6) damage on an attack.
 
-| scimitar or shortsword | +4  | 5ft    | 1d6+2 |
-| ---------------------- | --- | ------ | ----- |
-| Light Crossbow         | +4  | 80/320 | 1d8+2 |
+**Actions.**
 
-Or
+***Longsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., One Target. Hit: (1d10 + 2) Slashing damage.
+***Crude Longrifle.*** Ranged Weapon Attack: +4 to hit, reach 60/180 ft., One Target. Hit: (1d10 + 2) Piercing damage. Reload(1)
 
-| Dagger   | +4  | 5ft   | 1d4+2 |
-| -------- | --- | ----- | ----- |
-| Revolver | +4  | 30/90 | 2d4+2 |
+**Bonus Actions.**
 
+***Reload.***
+*The hobgoblin reloads any firearms it is wielding.*
+
+##### Goblin Shaman
+Small Humanoid  
+AC: 11
+HP: 24 (4d8+4)
+Speed: 30ft  
+**STR: 10(0), DEX: 12(+1), CON: 13(+1), INT: 12(+1), WIS: 15(+2), CHA: 11(0)**  
+Skills: Stealth +6, Nature +3, Medicine +4
+Senses: Darkvision 60ft, Passive perception 12
+CR 1/4 PB +2
+
+**Spellcasting.** The Goblin Shaman is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
+
+Cantrips (at will): druidcraft, produce flame, shillelagh, ray of frost
+
+1st level (4 slots): entangle, longstrider, speak with animals, thunderwave
+
+2nd level (3 slots): animal messenger, enlarge/reduce
+
+**Actions.**
+
+***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with *shillelagh*.
+
+***Ray of Frost.*** *Ranged Spell Attack:* +4 to hit, reach 60ft., one target. Hit: 4 (1d8) cold damage, and the targets speed is reduced until the start of the Goblins next turn.
+
+**Bonus Actions.**
+
+**Nimble Escape.**
+*The Goblin can take the disengage or hide action as a bonus action on each of its turns.*
+
+**Reactions.**
+
+***Vine Shield.*** When any creature is targeted with an attack within 30ft of the Goblin Shaman, this creature may use it's reaction to give the target +2 AC until the start of their next turn. The effected creature may not move under any circumstance until the start of their next turn.
 
 
 # Asyria
+##### Asyrian Soldier
+Medium Humanoid
+AC: 16 (Breastplate)
+HP: 18 (2d10 +2)
+Speed: 30ft
+**STR: 14(+2), DEX: 15(+2), CON: 12(+1), INT: 10(0), WIS: 12(+1), CHA: 10(0)**
+Skills: [Religion] +4, [Athletics] +4
+Senses: passive Perception 11
+PB +2
+
+
+###### Actions
+
+***Military Rifle.*** *Ranged Weapon Attack:* +4 to hit, reach 200/600 ft, One Target., Hit: (2d8 + 2) Piercing damage. Reload(5)
+
 ##### Cleric Initiate
 Medium Humanoid
 AC: 15 - 17 (Scale Mail + Shield)
@@ -184,6 +248,7 @@ Cantrips (at will): Light, Sacred Flame
 ***Reload.*** The Templar reloads any firearms it is wielding.
 
 # Iyamari
+
 
 # Onyxia
 
