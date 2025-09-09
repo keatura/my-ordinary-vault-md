@@ -29,8 +29,9 @@ Example
 ##### The party is extracted
 - If there is a situation where an extraction is executed by Ezaren, the party gets on an Iyamarian dropship and escorted to The Everwinds.
 - they are brought to holding cells and awaiting questioning
-- after a short while, sirens start blaring and then 
-- after waiting, Mako and Koran bust through the door to their holding area 
+- after a short while, sirens start blaring and emergency lights come on
+	- a few seconds later, a shell hits the hull, rattling the whole vessel
+- after about a minute, Mako and Koran bust through the door to their holding area, they need to escort them to a 
 
 ### Kalivny
 
