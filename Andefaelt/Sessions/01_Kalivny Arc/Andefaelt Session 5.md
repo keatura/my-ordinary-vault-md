@@ -42,6 +42,7 @@ Example
 
 ##### Ezaren shows back up
 - When Hearsay goes into work Ezaren is there.
+- 
 
 ### Other Scenes
 
