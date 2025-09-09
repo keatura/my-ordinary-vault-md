@@ -39,7 +39,7 @@ Example
 - as people are waking up he comes up with the morning paper and something along the lines of "Iyamari finally elected a new council member."
 - this council member goes by the name Shoma Inouye
 	- His major policies:
-	- Advocating for the mobilization of the Iymarian Military to better defend and lay their rightful claim the Island Cynthia. This is a opinion held very popularly among most Iyamarians.
+	- Advocating for the mobilization of the Iymarian Military to better defend and lay their rightful claim the Island Cynthia. (This is a opinion held very popularly among most Iyamarians.)
 		- This island has several Iyamarian settlements on it, but progress is slow due to it being a relatively untouched island previously and a high presence of dangerous wildlife
 	- Policies for pushing nationalization within Iyamari, improved inter-city transportation and the Mail network, with trains and highways
 	- Wants Iyamari to back off their trade with Onyxia and build better relations with Zevka now that they are mostly recovered from their civil war ~~ 100 years ago.
