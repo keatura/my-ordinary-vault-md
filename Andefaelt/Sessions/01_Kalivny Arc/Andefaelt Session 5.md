@@ -48,8 +48,12 @@ Example
 
 ##### Kalivny is attacked!
 - if things are starting to go nowhere, The Blade finishes rallying troops and attacks Kalivny on Saturday.
+- 2x units of 5x Wolf Riders
+- unit of Hobgoblins
+- 3x units of Goblins
 
 ##### Scene
+
 
 ## Important NPC's
 
