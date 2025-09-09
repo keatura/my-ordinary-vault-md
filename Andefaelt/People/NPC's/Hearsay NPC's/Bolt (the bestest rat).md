@@ -1,4 +1,4 @@
-##### Ukuchan Mechanic - Bolt-That-Sits-On-Desk "Bolt"
+s##### Ukuchan Mechanic - Bolt-That-Sits-On-Desk "Bolt"
 - Roommate
 - helps Hearsay work on Bones, letting her borrow tools and learn how to work on Jacks
 - Literally just walked into Bolt's shop and dropped off Bones, they had a short talk and now Hearsay pays rent and they are roommates
