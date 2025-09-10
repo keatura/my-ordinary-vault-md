@@ -38,7 +38,7 @@ CR: Nah PB +3
 
 ###### Actions.
 
-***Multiattack.*** Mako can make up to two attacks with her Bayonet or Shotgun.
+***Multiattack.*** Mako can make up to two attacks with her Bayonet, Shotgun, or an Improvised Weapon.
 
 ***Pump Shotgun.*** *Ranged Weapon Attack:* DC15 dexterity saving throw, 30-foot-cone., Hit: 13 (2d8 + 3) piercing damage on a failed save, half as much of a successful save. Reload (4)
 
