@@ -1,3 +1,11 @@
+
+###### good/bad sensations
+- tapping
+- gives death grip hugs
+- loves squeezing, hates being squeezed
+- light pressure and loose contact like holding hands
+- mizuki resting her head on maya's
+
 Medium Humanoid  
 AC: 16 (Mage Armor)
 HP: 39 (5d10+5)
