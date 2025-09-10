@@ -22,7 +22,7 @@ AC: 13
 HP: 39 (5d10+5)
 Speed: 30ft 
 **STR: 18(+4), DEX: 16(+3), CON: 13(+1), INT: 14(+2), WIS: 12(+1), CHA: 7(-2)** 
-Skills: [Perception] +4, [Athletics] +7, [Deception(int)] +8, [Nature] +5
+Skills: [Perception] +4, [Athletics] +7, [Deception] +4, [Nature] +5
 Tool Proficiencies: Mechanic's Tools
 Damage Resistances: Lightning
 Senses: Darkvision 60ft, Passive Perception 14
