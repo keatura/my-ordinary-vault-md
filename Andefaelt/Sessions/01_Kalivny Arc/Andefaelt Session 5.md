@@ -31,7 +31,8 @@ Example
 - they are brought to holding cells and awaiting questioning
 - after a short while, sirens start blaring and emergency lights come on
 	- a few seconds later, a shell hits the hull, rattling the whole vessel
-- after about a minute, Mako and Koran bust through the door to their holding area, they need to escort them to a 
+- after about a minute, Mako and Koran bust through the door to their holding area, they need to escort them to a docked ship - the PCA Tariaga
+- Koran gets separated from the party and Mako gets locked in a gunfight as they are almost at the ship, she tells Ezaren 
 
 ### Kalivny
 
