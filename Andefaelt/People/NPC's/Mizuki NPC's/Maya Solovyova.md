@@ -19,7 +19,7 @@ Medium Humanoid
 AC: 16 (Mage Armor)
 HP: 39 (5d10+5)
 Speed: 30ft  
-**STR: 18(+4), DEX: 16(+3), CON: 13(+1), INT: 14(+2), WIS: 9(-1), CHA: 15(+2)**  
+**STR: 18(+4), DEX: 15(+2), CON: 13(+1), INT: 14(+2), WIS: 9(-1), CHA: 15(+2)**  
 Skills: [Perception] +2, [Athletics] +7, [Intimidation] +5, [Deception] +8
 Tool Proficiencies: Mechanic's Tools
 Damage Resistances: Lightning
@@ -40,9 +40,12 @@ CR: Nah PB +3
 
 ***Multiattack.*** Mako can make up to two attacks with her Bayonet or Shotgun.
 
-***Pump Shotgun.*** *Ranged Weapon Attack:* +6 to hit, reach (100/300)., Hit: 13 (2d8 + 3) piercing damage. Reload (4)
+***Pump Shotgun.*** *Ranged Weapon Attack:* DC15 dexterity saving throw, 30-foot-cone., Hit: 13 (2d8 + 3) piercing damage on a failed save, half as much of a successful save. Reload (4)
 
-***Bayonet.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., Hit 6 (1d6 + 2) piercing damage. This damage is increased by every 10ft Maya has moved before making her attack, up to a maximum damage of 5d6.
+***Bayonet.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., Hit 6 (1d6 + 4) piercing damage. This damage is increased by every 10ft Maya has moved before making her attack, up to a maximum damage of 5d6.
+
+***Improvised Weapon.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., Hit 6 (1d6 + 4) bludgeoning damage.
+Maya picks up a blunt weapon (wrenches, hammers, etc) nearby her, and uses it as a club.
 
 ***Reload.*** Maya reloads her Shotgun.
 
