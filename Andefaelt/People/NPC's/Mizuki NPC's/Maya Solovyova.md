@@ -1,4 +1,11 @@
 
+- Amos Pilled
+>[!note] 
+>im imagining some lenovo street rat had to have a bite on her poor ass family struggles socially and expressively and kinda has to put on a 'real person' mask excelled in the military,
+>maybe a little too well but tended to be reckless, pair her with the squad medic goes a little too far, pretty calulcating smart and strategic take care of people but in order to help them stand on their own, stricter Zevkan mindset
+- Mizuki cut her arm off after it got infected
+- 
+
 ###### good/bad sensations
 - tapping
 - gives death grip hugs
@@ -11,13 +18,14 @@ Medium Humanoid
 AC: 16 (Mage Armor)
 HP: 39 (5d10+5)
 Speed: 30ft  
-**STR: 15(+2), DEX: 16(+3), CON: 13(+1), INT: 10(0), WIS: 13(+1), CHA: 15(+2)**  
-Skills: [Perception] +4, [Athletics] +5, [Intimidation] +5
+**STR: 18(+4), DEX: 16(+3), CON: 13(+1), INT: 14(+2), WIS: 9(-1), CHA: 15(+2)**  
+Skills: [Perception] +2, [Athletics] +7, [Intimidation] +5, [Deception] +8
+Tool Proficiencies: Mechanic's Tools
 Damage Resistances: Lightning
-Senses: Darkvision 60ft
+Senses: Darkvision 60ft, Passive Perception 12
 CR: Nah PB +3
 
-***Fey Ancestry.*** You have Advantage on saving throws you make to avoid or end the Charmed condition.
+***Fey Ancestry.*** Maya has Advantage on saving throws she makes to avoid or end the Charmed condition.
 
 ***Trance.*** Maya doesn't need to sleep, and magic can't put her to sleep. She can finish a Long Rest in 4 hours if she spends those hours in a trancelike meditation, during which she retains consciousness.
 
