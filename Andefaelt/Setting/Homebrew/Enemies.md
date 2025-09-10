@@ -125,7 +125,36 @@ Cantrips (at will): druidcraft, produce flame, shillelagh, ray of frost
 
 ***Vine Shield.*** When any creature is targeted with an attack within 30ft of the Goblin Shaman, this creature may use it's reaction to give the target +2 AC until the start of their next turn. The effected creature may not move under any circumstance until the start of their next turn.
 
+##### Goblin Wolf-rider
+http://dndroll.wikidot.com/creatures:wolf
+Medium/Small humanoid  
+AC: 13 (Leather)
+HP: 14
+Speed: 40ft / 30ft  
+**STR: 8(-1), DEX: 14(+2), CON: 10(0), INT: 10(0), WIS: 8(-1), CHA: 8(-1)**  
+Skills: Stealth +6  
+Senses: Darkvision 60ft, Passive perception 9  
+CR 1/2 PB +2
 
+_**Keen Hearing and Smell.**_ (Wolf)
+The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+_**Pack Tactics.**_ 
+The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+**Actions.**
+
+**Spear.** Melee Weapon Attack: +4 to hit, reach 10 ft., One Target. Hit: (1d6 + 2) Piercing damage.  
+**Crude Rifle.** Ranged Weapon Attack: +4 to hit, reach 30/60 ft., One Target. Hit: (1d8 + 2) Piercing damage. Reload(1)
+**Bite.** (Wolf) Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+
+**Reload.** The goblin attempts to reload, roll d6. 5-6 successful
+
+**Bonus Actions.**
+
+**Nimble Escape.** The Goblin can take the disengage or hide action as a bonus action on each of its turns.
+
+***Bite.*** If the Goblin is still mounted, the wolf may make one Bite attack as a bonus action.
 # Asyria
 ##### Asyrian Soldier
 Medium Humanoid
