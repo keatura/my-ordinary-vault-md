@@ -21,7 +21,7 @@ Medium Humanoid
 AC: 16 (Mage Armor)
 HP: 39 (5d10+5)
 Speed: 30ft  
-**STR: 18(+4), DEX: 15(+2), CON: 13(+1), INT: 14(+2), WIS: 14(+2), CHA: 9(-1)**  
+**STR: 18(+4), DEX: 15(+2), CON: 13(+1), INT: 14(+2), WIS: 14(+2), CHA: 9(-1)** 
 Skills: [Perception] +5, [Athletics] +7, [Intimidation] +5, [Deception] +8, [Nature] +5
 Tool Proficiencies: Mechanic's Tools
 Damage Resistances: Lightning
