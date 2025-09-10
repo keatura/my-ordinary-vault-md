@@ -20,8 +20,8 @@ Medium Humanoid
 AC: 16 (Mage Armor)
 HP: 39 (5d10+5)
 Speed: 30ft  
-**STR: 18(+4), DEX: 15(+2), CON: 13(+1), INT: 14(+2), WIS: 9(-1), CHA: 15(+2)**  
-Skills: [Perception] +2, [Athletics] +7, [Intimidation] +5, [Deception] +8
+**STR: 18(+4), DEX: 15(+2), CON: 13(+1), INT: 14(+2), WIS: 14(+2), CHA: 9(-1)**  
+Skills: [Perception] +5, [Athletics] +7, [Intimidation] +5, [Deception] +8, [Nature] +5
 Tool Proficiencies: Mechanic's Tools
 Damage Resistances: Lightning
 Senses: Darkvision 60ft, Passive Perception 12
@@ -31,7 +31,7 @@ CR: Nah PB +3
 
 ***Trance.*** Maya doesn't need to sleep, and magic can't put her to sleep. She can finish a Long Rest in 4 hours if she spends those hours in a trancelike meditation, during which she retains consciousness.
 
-***Spellcasting.*** Maya is a 5th level Eldritch Knight. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). she has the following Sorcerer spells prepared:
+***Spellcasting.*** Maya is a 5th level Eldritch Knight. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). she has the following Sorcerer spells prepared:
 
 ***Cantrips*** (at will): Green Flame Blade, Prestidigitation
 
