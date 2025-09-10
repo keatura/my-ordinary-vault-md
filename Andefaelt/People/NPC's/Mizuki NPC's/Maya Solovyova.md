@@ -1,5 +1,6 @@
 
 - Amos Pilled
+- Nicknames "Pipsqueak", "Left Hand Man" (Mizuki only), 
 >[!note] 
 >im imagining some lenovo street rat had to have a bite on her poor ass family struggles socially and expressively and kinda has to put on a 'real person' mask excelled in the military,
 >maybe a little too well but tended to be reckless, pair her with the squad medic goes a little too far, pretty calulcating smart and strategic take care of people but in order to help them stand on their own, stricter Zevkan mindset
