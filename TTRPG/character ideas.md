@@ -5,3 +5,4 @@
 - dragonborn barbarian beast subclass whos literally just like a Normal Dragonborn
 - fire based or phoenix themed sorcadin, takes inspo from karlach
 - someone who thinks that they are some great hero and that there is a great evil they must defeat, town obsessive insane level, also very delusional 
+- 20cha 8wis warlock who made their pact while getting random tattoos and blackout drunk in the military
