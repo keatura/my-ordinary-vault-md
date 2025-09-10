@@ -1,11 +1,11 @@
-s##### Ukuchan Mechanic - Bolt-That-Sits-On-Desk "Bolt"
+##### Ukuchan Mechanic - Bolt-That-Sits-On-Desk "Bolt"
 - Roommate
 - helps Hearsay work on Bones, letting her borrow tools and learn how to work on Jacks
 - Literally just walked into Bolt's shop and dropped off Bones, they had a short talk and now Hearsay pays rent and they are roommates
 - understands that Hearsay has a bit more going on than she lets on - doesnt really care and doesnt ask
 - wants to hunt and kill the King of Rats
 - hasn't paid his taxes in 8 years
-
+- all the food he cooks for other people (not himself) comes to him in a dream of premonition the night before.
 # Stats
 
 Small Humanoid  
@@ -14,6 +14,7 @@ HP: 39 (5d10+5)
 Speed: 30ft  
 **STR: 15(+2), DEX: 16(+3), CON: 13(+1), INT: 16(+3), WIS: 13(+1), CHA: 11(0)**  
 Skills: [Stealth] +6, [Sleight of Hand] +6, [Insight] +4, [Investigation] +6
+Tool Proficiencies: Mechanic's Tools
 Damage Resistances: Fire
 Senses: Darkvision 60ft
 CR: Nah PB +3

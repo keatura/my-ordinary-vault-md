@@ -21,11 +21,11 @@ Medium Humanoid
 AC: 13
 HP: 39 (5d10+5)
 Speed: 30ft 
-**STR: 18(+4), DEX: 16(+3), CON: 13(+1), INT: 14(+2), WIS: 14(+2), CHA: 7(-2)** 
-Skills: [Perception] +5, [Athletics] +7, [Deception(int)] +8, [Nature] +5
+**STR: 18(+4), DEX: 16(+3), CON: 13(+1), INT: 14(+2), WIS: 12(+1), CHA: 7(-2)** 
+Skills: [Perception] +4, [Athletics] +7, [Deception(int)] +8, [Nature] +5
 Tool Proficiencies: Mechanic's Tools
 Damage Resistances: Lightning
-Senses: Darkvision 60ft, Passive Perception 15
+Senses: Darkvision 60ft, Passive Perception 14
 CR: Nah PB +3
 
 ***Fey Ancestry.*** Maya has Advantage on saving throws she makes to avoid or end the Charmed condition.
