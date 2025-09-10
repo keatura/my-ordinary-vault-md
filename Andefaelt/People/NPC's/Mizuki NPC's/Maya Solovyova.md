@@ -1,5 +1,6 @@
 
 - Amos Pilled
+- Problem Solver
 - Nicknames "Pipsqueak", "Left Hand Man" (Mizuki only), 
 >[!note] 
 >im imagining some lenovo street rat had to have a bite on her poor ass family struggles socially and expressively and kinda has to put on a 'real person' mask excelled in the military,
