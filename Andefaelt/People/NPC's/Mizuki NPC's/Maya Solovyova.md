@@ -4,7 +4,8 @@
 - gives death grip hugs
 - loves squeezing, hates being squeezed
 - light pressure and loose contact like holding hands
-- mizuki resting her head on maya's
+- Mizuki resting her head on Maya's
+- always will stand to Mizuki's left side
 
 Medium Humanoid  
 AC: 16 (Mage Armor)
