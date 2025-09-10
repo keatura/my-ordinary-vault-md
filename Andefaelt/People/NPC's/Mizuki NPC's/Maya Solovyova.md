@@ -32,12 +32,6 @@ CR: Nah PB +3
 
 ***Trance.*** Maya doesn't need to sleep, and magic can't put her to sleep. She can finish a Long Rest in 4 hours if she spends those hours in a trancelike meditation, during which she retains consciousness.
 
-***Spellcasting.*** Maya is a 5th level Eldritch Knight. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). she has the following Sorcerer spells prepared:
-
-***Cantrips*** (at will): Green Flame Blade, Prestidigitation
-
-***1st Level*** (3 slots): Shield, Feather Fall, Color Spray, Mage Armor
-
 ###### Actions.
 
 ***Multiattack.*** Mako can make up to two attacks with her Bayonet, Shotgun, or an Improvised Weapon.
