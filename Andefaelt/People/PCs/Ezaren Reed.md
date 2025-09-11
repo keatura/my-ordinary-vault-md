@@ -53,7 +53,7 @@ _After meeting his soon to be wife Xilnoa, he married and immigrated to Iyamari 
 - Alignment: Neutral Evil,
 - Class: Cleric,
 - Occupation: Pirate,
-- Race: Human Age: 28,
+- Race: Elf Age: 28,
 - Relationship: Friendly (Older Sister),
 - Status: Missing or Unknown,
 
