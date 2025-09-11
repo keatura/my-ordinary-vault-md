@@ -2,7 +2,7 @@
 - Amos Pilled
 - Problem Solver
 - Nicknames "Pipsqueak" (preferred), "Scarface" (only Mizuki), "Big Blue"
-- Jaw scar she got from flipping a knife around while bored during bootcamp. Whether she was trying to look cool or just completely bored out of her mind is unclear (she was trying to scare Mizuki), but it left a pretty nasty scar. The scar extends down her lower jaw a bit, and is ~~ 2". She hides this scar with bandage that she meticulously replaces every day, after she was bullied for the embarrassing story. She is extremely self-conscious about it, and WILL punch people if they bring it up.
+- Jaw scar she got from flipping a knife around while bored during bootcamp. Whether she was trying to look cool or just completely bored out of her mind is unclear (she was trying to scare Mizuki), but it left a pretty nasty scar. The scar extends down her lower jaw a bit, and is ~~ 2". She hides this scar with a bandage that she meticulously replaces every day, after she was bullied for the embarrassing story. She is extremely self-conscious about it, and WILL punch people if they bring it up.
 >[!note] 
 >im imagining some lenovo street rat had to have a bite on her poor ass family struggles socially and expressively and kinda has to put on a 'real person' mask excelled in the military,
 >maybe a little too well but tended to be reckless, pair her with the squad medic goes a little too far, pretty calulcating smart and strategic take care of people but in order to help them stand on their own, stricter Zevkan mindset
