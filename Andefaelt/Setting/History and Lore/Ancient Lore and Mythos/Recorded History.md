@@ -37,6 +37,9 @@ The Thirty-years War was a war between Iyamari and Zevka, over land disputes on 
 - The Battle of Thrysta (Year 1342)
 Thrysta is the ancient residence of what is now the city-state, Voxis. During this battle, forces of Iyamari attacked the former city of Zevka during their war of the time period, and resulted in the complete destruction and razing of Thrysta, leaving ruined remains and an ashen wasteland, near uninhabitable. 50 years after this battle, the ruined island was returned to by settlers and found to be almost completely rehabilitated by some means, and also found the entire city of Thrysta almost fully buried underneath the land of the island. The battles victory on the side of the Iyamari sparked a downfall in the moral and power of Zevka, and ultimately lead to the loss on the side of Zevka. During this battle, the Grymblade, a weapon treasured by Zevkan Royalty, was lost.
 
+- Asyria ends their age of conquest after surrounding Ederna. (Year 1366)
+After fully routing Iyamarian forces from 
+
 - The establishment of Voxis (Year 1692)
 After hundreds of years, settlers came and built the start of a city on top of the ruins of Thrysta, sponsored by the noblewoman of Asyria, Julia Umberlain. Voxis' central keep and first few districts and port were created, and Voxis as a city-state declared its sovereignty and started trade.
 
