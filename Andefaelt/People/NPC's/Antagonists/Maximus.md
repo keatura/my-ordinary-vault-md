@@ -46,4 +46,4 @@ At Will: *Light*, *Detect Thoughts*, *Zone of Truth*, *Heroism (3rd level)*
 
 ## Maximus earns his blessings.
 ---
-Maximus
+The rumbling of the dropship interior was soothing to Maximus, the gentle swaying calming his mind before the coming ordeal. His brothers sat solemnly with him, one next to him and 2 across. The only sounds being the roar of the rotors of aircraft and the assault of turbulent wind swishing by. A red light illuminated on the roof, drop in 1 minute. Each armored soldier stood up inside the vehicle, positioning themselves on the 
