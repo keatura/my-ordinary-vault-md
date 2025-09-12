@@ -46,6 +46,6 @@ At Will: *Light*, *Detect Thoughts*, *Zone of Truth*, *Heroism (3rd level)*
 
 ## Maximus earns his blessings.
 ---
-##### 
+##### 4.17.1366
 The rumbling of the dropship interior was soothing to Maximus, the gentle swaying calming his mind before the coming ordeal. His brothers sat solemnly with him, one next to him and 2 across. The only sounds being the roar of the rotors of aircraft and the assault of turbulent wind swishing by. A red light illuminated on the roof, drop in 1 minute. Each armored soldier stood up inside the vehicle, positioning themselves on the trapdoors, Maximus taking his decorated helm and gently sliding it over his head. Checking his seals, then checking the brother to the right, they returned to a neutral position, locked their armor, and were dropped into a heavily forested island, Beautiful Ederna in full view till he crashed through the forest canopy, smashing through branches without being affected. Landing with a loud ***Thoom!***, and a massive spray of dirt and rubble, the shock absorbers  in their suits slowly resetting, the Templars unlocked their armor and prepared for the coming fight.
 
