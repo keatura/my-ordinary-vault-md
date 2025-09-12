@@ -1,4 +1,7 @@
-
+- Ancient Aasimar of Yorinth, lives with the sole duty of "preserving the law and order in the plane."
+- 
+## Statblock
+---
 Large Humanoid
 AC: 24
 HP: 450
@@ -40,3 +43,7 @@ At Will: *Light*, *Detect Thoughts*, *Zone of Truth*, *Heroism (3rd level)*
 **Bonus Actions.**
 
 ***Lay on Hands.*** (150hp, recharges on a Long Rest) Maximus' blessings allow him to heal those by channeling healing magic from a reserved pool through his palms. As a bonus action, He may touch a willing creature (including himself) and heal them, drawing the health given from the pool.
+
+## Maximus earns his blessings.
+---
+Maximus
