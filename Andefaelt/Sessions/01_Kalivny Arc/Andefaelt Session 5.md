@@ -13,7 +13,7 @@ Last Session, after running away from a large engagement in a very small Goblin 
 
 ## Intro
 
-Waking up on Friday morning, three of you find yourselves in Bolt's apartment, Mizuki and Black Mamba upstairs and Hearsay on her couch. Bolt is already up and currently making a quick breakfast of toasted bread, eggs and bacon with fruit. One of you arrives back in Kalivny via a small civilian ship. 
+Waking up on Friday morning, three of you find yourselves in Bolt's apartment, Mizuki and Black Mamba upstairs and Hearsay on her couch. Bolt is already up and currently making a quick breakfast of toasted bread, eggs and bacon with fruit. One of you arrives back in Kalivny via a small civilian ship. Ezaren, you find yourself at the Kalivny Port, about an hour before where you have to be.
 
 ## Potential Scenes
 
@@ -54,7 +54,7 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 ### Other Scenes
 
 ##### Kalivny is attacked!
-- if things are starting to go nowhere, The Blade finishes rallying troops and attacks Kalivny on Saturday.
+- if things are starting to go nowhere, The Blade finishes rallying troops and attacks Kalivny on Sunday.
 - 2x units of 5x Wolf Riders (70hp)
 - unit of x5 Hobgoblins (55hp)
 - 3x units of x10 Goblins (70hp)
