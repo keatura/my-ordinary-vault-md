@@ -49,7 +49,8 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 
 ##### Ezaren shows back up
 - When Hearsay goes into work Ezaren is there.
-- Marek cant really do much beyond enforcing that they cant directly take 
+- Marek cant really do much beyond enforcing that they cant directly take the other 3 party members without backlash, (mostly begging the Zevkan government for support as they are closest to them.)
+- In the meantime, he can't stop him from being a mercenary as that would be against the cities' laws and he isn't the Mayor.
 
 ### Other Scenes
 
@@ -62,7 +63,27 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 ##### Destroyed Goblin Camp
 - large sections of the wall have been destroyed
 - most of the camp seemed like it was destroyed by force or fire, then put out by the thunderstorm.
-- 
+- there's a large wreckage of an Asyrian heavy transport aircraft, almost completely destroyed by the crash and fire and the strafing run from the Iyamarian fighter
+	- there's one important thing inside the wreckage that is mostly undamaged. DC 14 Investigation
+	- a secure box that seems like it could fit a large dagger, covered in religious symbology and on a DC 10 Arcana check its obviously extremely magical, DC 15 it's Enchantment and Abjuration
+- As they go to leave, a scouting party of 4 Asyrian soldiers shows up.
+
+##### Asyrian Soldier
+Medium Humanoid
+AC: 16 (Breastplate)
+HP: 12 (1d10 +2) 
+Speed: 30ft
+**STR: 14(+2), DEX: 15(+2), CON: 12(+1), INT: 10(0), WIS: 12(+1), CHA: 10(0)**
+Skills: [Religion] +4, [Athletics] +4
+Senses: passive Perception 11
+PB +2
+
+***Loyalty.*** Asyrian soldiers have advantage on checks made against being charmed or frightened.
+###### Actions
+
+***Military Rifle.*** *Ranged Weapon Attack:* +4 to hit, reach 200/600 ft, One Target., Hit: (2d8 + 2) Piercing damage. Reload(5)
+
+***Bayonet.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., Hit 6 (1d6 + 2) piercing damage. This damage is increased by every 10ft Maya has moved before making her attack, up to a maximum damage of 5d6.
 
 ## Important NPC's
 
