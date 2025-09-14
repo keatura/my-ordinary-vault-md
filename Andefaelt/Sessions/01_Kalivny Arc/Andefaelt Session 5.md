@@ -73,7 +73,7 @@ Goblin 6 incap
 - there's a large wreckage of an Asyrian heavy transport aircraft, almost completely destroyed by the crash and fire and the strafing run from the Iyamarian fighter
 	- there's one important thing inside the wreckage that is mostly undamaged. DC 14 Investigation
 	- a secure box that seems like it could fit a large dagger, covered in religious symbology and on a DC 10 Arcana check its obviously extremely magical, DC 15 it's Enchantment and Abjuration
-- As they go to leave, a scouting party of 4 Asyrian soldiers shows up.
+- As they go to leave, a scouting party of 8 Asyrian soldiers shows up.
 
 ##### Asyrian Soldier
 Medium Humanoid
