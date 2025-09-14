@@ -63,6 +63,7 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 ##### Destroyed Goblin Camp
 - large sections of the wall have been destroyed
 - most of the camp seemed like it was destroyed by force or fire, then put out by the thunderstorm.
+- theres 4 dead Templars and 4 dead Shocktroopers, plus many bodies of goblins and hobgoblins.
 - there's a large wreckage of an Asyrian heavy transport aircraft, almost completely destroyed by the crash and fire and the strafing run from the Iyamarian fighter
 	- there's one important thing inside the wreckage that is mostly undamaged. DC 14 Investigation
 	- a secure box that seems like it could fit a large dagger, covered in religious symbology and on a DC 10 Arcana check its obviously extremely magical, DC 15 it's Enchantment and Abjuration
