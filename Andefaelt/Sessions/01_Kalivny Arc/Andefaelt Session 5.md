@@ -13,7 +13,7 @@ Last Session, after running away from a large engagement in a very small Goblin 
 
 ## Intro
 
-Example
+Waking up on Friday morning, three of you find yourselves in Bolt's apartment, Mizuki and Black Mamba upstairs and Hearsay on her couch. Bolt is already up and currently making a quick breakfast of toasted bread, eggs and bacon with fruit. One of you arrives back in Kalivny via a small civilian ship. 
 
 ## Potential Scenes
 
@@ -23,8 +23,7 @@ Example
 - due to current situations and Black Mamba's status in Kalivny, he can't be taken without legal repercussions.
 - While Kalivny does not have the influence to block Iyamari from taking him, it could create problems and cause a scene, potentially leading to other nations using it to their advantage or revealing that he is an Iyamarian agent.
 - for now, just observe them and Iyamari will be keeping an aircraft on QRF for extraction of Glass 1 and Black Mamba if need be. There is 2 docked Frigates mounted in the belly for transport back to Naili afterwards.
-- given a blue flare gun
-- For now, he has been given a blue flare gun to signal for extraction under any needs, Koran and Mako are assigned to other responsibilities that aren't related to Black Mamba
+- For now, he has been given another button and a blue flare gun to signal for extraction under any needs, Koran and Mako are assigned to other responsibilities that aren't related to Black Mamba
 
 ##### The party is extracted
 - If there is a situation where an extraction is executed by Ezaren, the party gets on an Iyamarian dropship and escorted to The Everwinds.
