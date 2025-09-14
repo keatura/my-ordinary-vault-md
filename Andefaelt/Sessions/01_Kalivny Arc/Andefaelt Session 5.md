@@ -72,12 +72,6 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 	- a secure box that seems like it could fit a large dagger, covered in religious symbology and on a DC 10 Arcana check its obviously extremely magical, DC 15 it's Enchantment and Abjuration
 - As they go to leave, a scouting party of 8 Asyrian soldiers shows up.
 
-Intitiative
-Soldiers 1-4
-Ezaren
-Mizuki
-Hearsay
-Mamba
 ##### Asyrian Soldier
 Medium Humanoid
 AC: 16 (Breastplate)
