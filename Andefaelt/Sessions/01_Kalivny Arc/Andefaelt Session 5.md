@@ -63,12 +63,9 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 - unit of x5 Hobgoblins (55hp)
 - 3x units of x10 Goblins (70hp)
 
-Initiative:
-Hearsay 20
-Black Mamba 18
-Mizuki 13
-Ezaren 11
-Goblins 7
+Goblin 1 incap
+Goblin 2 incap
+Goblin 6 incap
 ##### Destroyed Goblin Camp
 - large sections of the wall have been destroyed
 - most of the camp seemed like it was destroyed by force or fire, then put out by the thunderstorm.
