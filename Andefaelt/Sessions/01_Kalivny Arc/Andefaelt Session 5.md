@@ -98,4 +98,5 @@ PB +2
 [[Enemies]]
 
 ## Notes
-- Example
+- theres like a Good Chance Marek becomes a lord
+- 
