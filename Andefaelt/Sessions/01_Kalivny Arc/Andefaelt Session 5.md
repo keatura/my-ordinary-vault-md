@@ -34,7 +34,14 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 - after a short while, sirens start blaring and emergency lights come on
 	- a few seconds later, a shell hits the hull, rattling the whole vessel
 - after about a minute, Mako and Koran bust through the door to their holding area, they need to escort them to a docked ship - the PCA Tariaga
-- Koran gets separated from the party and Mako gets locked in a gunfight as they are almost at the ship, she tells Ezaren 
+- Koran gets separated from the party and Mako gets locked in a gunfight as they are almost at the ship, she tells Ezaren to take Mamba and leave
+
+##### Ezaren brings Mamba back to the boat
+- They want him for questioning, he will be interrogated for deserting
+	- Why did he desert
+	- 
+- after he is done the questioning he is put in a cell till further notice
+- what happens above happens
 
 ### Kalivny
 
@@ -54,6 +61,12 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 - When Hearsay goes into work Ezaren is there.
 - Marek cant really do much beyond enforcing that they cant directly take the other 3 party members without backlash, (mostly begging the Zevkan government for support as they are closest to them.)
 - In the meantime, he can't stop him from being a mercenary as that would be against the cities' laws and he isn't the Mayor.
+
+##### Kalivny gets investigated by the Asyrian Military
+- 4 Templars show up along with some more occupying reinforcements
+- they question Marek and occupy the town guard building, waiting for the "group" to return
+- Bolt hides the Funny Box in his closet under a floorboard. (DC20 investigation)
+- 
 
 ### Other Scenes
 
