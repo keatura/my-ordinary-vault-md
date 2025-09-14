@@ -78,9 +78,6 @@ Ezaren
 Mizuki
 Hearsay
 Mamba
-
-Soldier 4 1
-Soldier 5 12
 ##### Asyrian Soldier
 Medium Humanoid
 AC: 16 (Breastplate)
