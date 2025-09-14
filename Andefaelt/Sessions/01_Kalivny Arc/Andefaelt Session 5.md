@@ -49,7 +49,7 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 
 ##### Ezaren shows back up
 - When Hearsay goes into work Ezaren is there.
-- 
+- Marek cant really do much beyond enforcing that they cant directly take 
 
 ### Other Scenes
 
