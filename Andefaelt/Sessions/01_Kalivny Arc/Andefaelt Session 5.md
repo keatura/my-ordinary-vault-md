@@ -63,9 +63,6 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 - unit of x5 Hobgoblins (55hp)
 - 3x units of x10 Goblins (70hp)
 
-Goblin 1 incap
-Goblin 2 incap
-Goblin 6 incap
 ##### Destroyed Goblin Camp
 - large sections of the wall have been destroyed
 - most of the camp seemed like it was destroyed by force or fire, then put out by the thunderstorm.
@@ -75,6 +72,21 @@ Goblin 6 incap
 	- a secure box that seems like it could fit a large dagger, covered in religious symbology and on a DC 10 Arcana check its obviously extremely magical, DC 15 it's Enchantment and Abjuration
 - As they go to leave, a scouting party of 8 Asyrian soldiers shows up.
 
+Intitiative
+Soldiers 1-4
+Ezaren
+Mizuki
+Hearsay
+Soldiers 5-8
+Mamba
+
+Soldier 2 12
+Soldier 3 12
+Soldier 4 12
+Soldier 5 12
+Soldier 6 12
+Soldier 7 12
+Soldier 8 12
 ##### Asyrian Soldier
 Medium Humanoid
 AC: 16 (Breastplate)
