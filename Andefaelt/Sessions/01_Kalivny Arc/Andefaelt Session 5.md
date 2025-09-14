@@ -59,8 +59,10 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 - unit of x5 Hobgoblins (55hp)
 - 3x units of x10 Goblins (70hp)
 
-##### Scene
-
+##### Destroyed Goblin Camp
+- large sections of the wall have been destroyed
+- most of the camp seemed like it was destroyed by force or fire, then put out by the thunderstorm.
+- 
 
 ## Important NPC's
 
