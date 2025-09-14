@@ -38,10 +38,12 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 
 ##### Ezaren brings Mamba back to the boat
 - They want him for questioning, he will be interrogated for deserting
-	- Why did he desert
-	- 
-- after he is done the questioning he is put in a cell till further notice
-- what happens above happens
+- He is escorted to his cell until further notice, they are currently attempting to leave
+- Koran and Mako enter to take the two onto a frigate to be transported ASAP back to Iyamari
+- as they are headed towards, sirens blare, gunshots are heard, and Koran runs ahead before a shell rips through the hull and separates him
+- Mako gets tied in a gunfight as they are extracting, Ezaren is instructed to escort them to the ship.
+- Ezaren gets shot in the stomach as he gets the other two to the Frigate.
+- By the time they get it started up the Everwinds has descended to the Blanket, slowly.
 
 ### Kalivny
 
@@ -65,8 +67,7 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 ##### Kalivny gets investigated by the Asyrian Military
 - 4 Templars show up along with some more occupying reinforcements
 - they question Marek and occupy the town guard building, waiting for the "group" to return
-- Bolt hides the Funny Box in his closet under a floorboard. (DC20 investigation)
-- 
+- Bolt hides the Funny Box in his closet under a floorboard. (DC20 investigation),
 
 ### Other Scenes
 
