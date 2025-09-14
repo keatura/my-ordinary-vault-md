@@ -84,9 +84,7 @@ Soldier 2 12
 Soldier 3 12
 Soldier 4 12
 Soldier 5 12
-Soldier 6 12
-Soldier 7 12
-Soldier 8 12
+Soldier 8 3
 ##### Asyrian Soldier
 Medium Humanoid
 AC: 16 (Breastplate)
