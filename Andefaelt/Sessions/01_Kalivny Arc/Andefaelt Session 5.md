@@ -67,15 +67,10 @@ Waking up on Friday morning, three of you find yourselves in Bolt's apartment, M
 ##### Kalivny gets investigated by the Asyrian Military
 - 4 Templars show up along with some more occupying reinforcements
 - they question Marek and occupy the town guard building, waiting for the "group" to return
-- Bolt hides the Funny Box in his closet under a floorboard. (DC20 investigation),
+- Bolt hides the Funny Box in his closet under a floorboard. (DC20 investigation)
+- Soldiers investigate the basement of the Mammoth Arm Inn, dont find Mizuki
 
 ### Other Scenes
-
-##### Kalivny is attacked!
-- if things are starting to go nowhere, The Blade finishes rallying troops and attacks Kalivny on Sunday.
-- 2x units of 5x Wolf Riders (70hp)
-- unit of x5 Hobgoblins (55hp)
-- 3x units of x10 Goblins (70hp)
 
 ##### Destroyed Goblin Camp
 - large sections of the wall have been destroyed
