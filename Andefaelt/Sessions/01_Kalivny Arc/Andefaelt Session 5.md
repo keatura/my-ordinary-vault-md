@@ -77,14 +77,10 @@ Soldiers 1-4
 Ezaren
 Mizuki
 Hearsay
-Soldiers 5-8
 Mamba
 
-Soldier 2 12
-Soldier 3 12
-Soldier 4 12
+Soldier 4 1
 Soldier 5 12
-Soldier 8 3
 ##### Asyrian Soldier
 Medium Humanoid
 AC: 16 (Breastplate)
