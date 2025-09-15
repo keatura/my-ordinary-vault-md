@@ -111,4 +111,5 @@ PB +2
 
 ## Notes
 - theres like a Good Chance Marek becomes a lord
-- 
+- Asyria and Iyamari are on the BRINK of fucking war
+- they got the boat
