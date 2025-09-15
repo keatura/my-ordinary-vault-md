@@ -15,7 +15,7 @@ Senses: Darkvision 120ft, Truesight 60ft, Passive Perception 29
 PB +6
 
 ***Restrictive Armor.*** The armor this creature is wearing restricts it's movement, but not it's ability to aim. This creature's Dexterity score counts as 18(+4) when determining ranged weapon attacks.
-***Powered Armor.*** The armor this creature is wearing boosts it's Strength Score from 22 to 30, gives it resistance to bludgeoning, piercing, and slashing damage, and makes it's wearer immune to effects of poison gas and other chemical weapons, and magical effects such as Cloudkill. If this creatures armor is removed, it loses these traits.
+***Powered Armor.*** The armor this creature is wearing boosts it's Strength Score from 22 to 27, gives it resistance to bludgeoning, piercing, and slashing damage, and makes it's wearer immune to effects of poison gas and other chemical weapons, and magical effects such as Cloudkill. If this creatures armor is removed, it loses these traits.
 ***Kadis' Chosen.*** (3/day) When the Templar fails a roll, it may choose to succeed instead.
 ***Shock Absorbers.*** The Templar is immune to fall damage.
 
@@ -30,9 +30,9 @@ At Will: *Light*, *Detect Thoughts*, *Zone of Truth*, *Heroism (3rd level)*
 1/day: *Summon Celestial*, *Destructive Wave*
 
 **Actions.**
-***Multiattack.*** Maximus makes two attacks with his *Shoulder-mounted Autocannon*, and three attacks with his sword or autorifle.
+***Multiattack.*** Maximus makes an attack with his *Shoulder-mounted Autocannon*, and two attacks with his sword or autorifle.
 
-***Shoulder-mounted Autocannon.*** *Ranged Weapon Attack:* +10 to hit, range (200/600)., Hit: 18 (4d6 + 4) piercing damage. Plus 1d10 piercing damage to the target creatures within 10ft.
+***Maximus' Shoulder-mounted Autocannon.*** *Ranged Weapon Attack:* +10 to hit, range (200/600)., Hit: 18 (4d6 + 4) piercing damage. Plus 1d10 piercing damage to the target creatures within 10ft.
 
 ***Sword of Maximus. (+3)*** *Melee Weapon Attack:* +17 to hit, reach 10ft., Hit: 21 (3d6 + 11) slashing damage. Plus 14 (3d8) radiant damage. If the target is a *Fiend or Undead*, they take an additional 14 (3d8) radiant damage.
 
@@ -44,8 +44,8 @@ At Will: *Light*, *Detect Thoughts*, *Zone of Truth*, *Heroism (3rd level)*
 
 ***Lay on Hands.*** (150hp, recharges on a Long Rest) Maximus' blessings allow him to heal those by channeling healing magic from a reserved pool through his palms. As a bonus action, He may touch a willing creature (including himself) and heal them, drawing the health given from the pool.
 
-## Maximus earns his blessings.
+## Lore of Maximus.
 ---
 ##### 4.17.1366
-The rumbling of the dropship interior was soothing to Maximus, the gentle swaying calming his mind before the coming ordeal. His brothers sat solemnly with him, one next to him and 2 across. The only sounds being the roar of the rotors of aircraft and the assault of turbulent wind swishing by. A red light illuminated on the roof, drop in 1 minute. Each armored soldier stood up inside the vehicle, positioning themselves on the trapdoors, Maximus taking his decorated helm and gently sliding it over his head. Checking his seals, then checking the brother to the right, they returned to a neutral position, locked their armor, and were dropped into a heavily forested island, Beautiful Ederna in full view till he crashed through the forest canopy, smashing through branches without being affected. Landing with a loud ***Thoom!***, and a massive spray of dirt and rubble, the shock absorbers  in their suits slowly resetting, the Templars unlocked their armor and prepared for the coming fight.
+The rumbling of the landing ship interior was soothing to Maximus, the gentle swaying calming his mind before the coming ordeal. His brothers sat solemnly with him, one next to him and 2 across. The only sounds being the roar of the ship's motor and the assault of turbulent wind swishing by. A red light illuminated on the roof, landing in 1 minute. Each armored soldier stood up inside the vehicle, positioning themselves in two lines of two, Maximus taking his decorated and plumed helm and gently sliding it over his head. Checking his seals, then checking the brother to the right, they returned to a neutral position, readied their weapons, and the door opened to a heavily forested island, Beautiful Ederna over the tree line. The steam engines of their powered suits spinning up, the turbine moving faster and faster.
 
