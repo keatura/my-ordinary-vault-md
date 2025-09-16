@@ -9,6 +9,7 @@
 [[Saelyra]] - A high-elf of Iyamarian royal blood, who found themselves born into a cult to bring back the monarchy. After escaping she found herself in deep shit (and debt) with pirates and was eventually abandoned in Asyria. 
 
 #### Recap:
+Last Session, 
 
 ## Intro
 
