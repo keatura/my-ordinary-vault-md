@@ -5,14 +5,15 @@ Marckus himself is about 17 years old, and 5'8". He has a fairly lean build and
 The Dagger and even Marckus himself drip Holy Blight, a sickeningly yellow radiant liquid that evaporates shortly after leaving contact. Casting spells and using his dagger to attack accentuates this, as he gets weaker, this same light stars to spill from his eyes and drip from his tear ducts. 
 
 Medium Humanoid
-AC: 14 (Leather, Cloak of Protection)
-HP: 75 (10d10+20)
+AC: 17 (Breastplate, Cloak of Protection)
+HP: 110 (10d10+30)
 Speed 30ft
-**Saving Throws** Str +1 Dex +3 Con +2 Int 0 Wis +2 Cha +4
-**STR: 11(0), DEX: 14(+2), CON: 12(+1), INT: 10(0), WIS: 8(-1), CHA: 17(+3)**
-**Skills:** Persuasion +5, Deception +5, Stealth +6
-**Senses:** Passive Perception 13
-PB +2
+**Saving Throws** Str +0 Dex +4 Con +3 Int 0 Wis +2 Cha +5
+**STR: 11(0), DEX: 14(+2), CON: 16(+3), INT: 10(0), WIS: 15(+2), CHA: 17(+3)**
+**Skills:** Persuasion +6, Deception +6, Stealth +8, Acrobatics +5, Perception +5
+**Resistances:** bludgeoning, piercing, slashing
+**Senses:** Passive Perception 15, Darkvision 60ft
+PB +3
 
 **Dark Devotion.** The Feyblood dagger gives Marckus advantage of saving throws against being charmed or frightened. 
 
@@ -23,14 +24,14 @@ PB +2
 ### Actions
 **Multiattack.** Marckus makes two attacks with his Feyblood dagger. He can substitute one of his attacks to cast either *Booming Blade* or *Green-Flame Blade.* 
 
-**Feyblood Dagger** *Melee or Ranged Attack:* +6 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d8+4) slashing damage or 8 (1d6+4) piercing damage, plus 4 (2d6) Radiant damage.
+**Feyblood Dagger** *Melee or Ranged Attack:* +6 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d8+4) piercing damage, plus 4 (2d6) acid damage.
 
 **Spellcasting.**
-Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Marckus has the following Warlock spells prepared:
+Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). Marckus has the following Warlock spells prepared:
 
 Cantrips (at will): Booming Blade (range 60ft), Green-Flame Blade (range 60ft), Minor Illusion.
 
-3rd level (2 slots): Command, Vampiric Touch, Shield. Misty Step 
+3rd level (3 slots): Command, Vampiric Touch, Shield. Misty Step 
 
 ### Bonus Actions
 
