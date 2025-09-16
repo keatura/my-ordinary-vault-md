@@ -18,6 +18,7 @@
 - [x] https://www.youtube.com/watch?v=qMfpai7lHaI
 - [ ] the fallout between Iyamari and Asyria
 - [ ] Rewrite the Runeforged to make their oppression less glossed over and more interesting
+- [ ] Voxis zombie apocalypse???? it would make sense
 
 # Overview
 
