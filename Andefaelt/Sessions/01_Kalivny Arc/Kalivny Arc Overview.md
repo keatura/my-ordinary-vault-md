@@ -13,6 +13,7 @@ This mini-campaign takes place on a small island in southern Zevka, close to the
 
 - The Blade is on the run, hiding in the forest and regrouping/manipulating the Goblins now that their Chantmaster and the Shamans are dead/injured
 - both Iyamari and Asyria are looking for The Blade, but trying to not start a war at the same time.
+- Asyria is now occupying Kalivny
 - 
 
 # Kalivny Arc
