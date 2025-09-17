@@ -49,4 +49,4 @@ At Will: *Light*, *Detect Thoughts*, *Zone of Truth*, *Heroism (3rd level)*
 ## Lore of Maximus.
 ---
 ##### 4.17.1368
-Maximus earned his notoriety during the Battle of Aurora's Keep
+Maximus earned his notoriety during the Battle of Aurora's Keep, a devastating battle for Asyria after 
