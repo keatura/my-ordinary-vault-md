@@ -1,5 +1,7 @@
 - Ancient Aasimar of Yorinth, lives with the sole duty of "preserving the law and order in the plane."
-- 
+
+Of all the Templars of the Asyrian Church, one stands above all. Maximus. An Aasimar of Yorinth who's life is dedicated to preserving law and order within the plane, he has one sole goal: crush any and all "evil-doers." While just being an Aasimar as old as he is an achievement in of itself, he is the most accomplished soldier, possibly in the history of Andefaelt. Fitting his name, Maximus always puts his full effort forward into any task he sets his mind to, and has always been a man of strong morals and a force of personality to match his immense strength. Currently, while acting with the Asyrian Church, he has a certain level of autonomy from the Archbishop, due to his Blessing of Kadis. This makes him a sort of "Hybrid" Aasimar, originally created as Yorinth's first aspect, then blessed by Kadis to fulfill his duty successfully. Maximus has fought in countless battles over the years, but the most important is the one upon which he received his blessing, in 1368. Doing battle with a cult using Iodrosni's image as a masquerade, He single-handedly fought off waves of cultists and their summoned devils and fiends. During the battle he was brough to his knees by a Greater Devil, and in that moment he gave a prayer to the gods. Upon this moment, a radiant light proceeded to burst out from his soul, causing him to simultaneously earn his wings and grow significantly in size. After he the light finished shining, Maximus stood several feet above his foes, and struck them down one-by-one with his bare hands.
+
 ## Statblock
 ---
 Large Humanoid
@@ -46,5 +48,5 @@ At Will: *Light*, *Detect Thoughts*, *Zone of Truth*, *Heroism (3rd level)*
 
 ## Lore of Maximus.
 ---
-##### 4.17.1366
-Maximus earned his notoriety during the Battle of 
+##### 4.17.1368
+Maximus earned his notoriety during the Battle of Aurora's Keep
