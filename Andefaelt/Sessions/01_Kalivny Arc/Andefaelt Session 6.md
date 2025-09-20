@@ -30,7 +30,7 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 
 ### Other Scenes
 
-##### Scene
+	##### Mizuki gains a familiar from Hemepha. 
 
 
 ## Important NPC's
