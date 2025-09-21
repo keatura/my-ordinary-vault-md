@@ -196,3 +196,10 @@ The Eye was built by The Architect, was supposed to be basically a retirement ho
 they came from a neighboring universe of dragon society
 was built to collect energy, was just meant to sit there and gain energy, then ascend into a star
 
+Dragons' standing on Aeos:
+- only like 2.5k left on the planet, mostly in the Democratic Alliance and with the Wildlings.
+- While opinions are still negative, most dragons on Aeos are aligned good
+- Huge explosion in draconic population on Aeos roughly 4000 years ago. The Hunting Period drastically reduced this population.
+- After the Warring Period, the number of Tyrants was whittled down to 7 on Aeos. This began the rule of the Tyrants.
+- The Tyrant Era lasted ~~ 3700 years. Lots of cultures became dependent on the rule of Tyrants because of the Era lasting for so long.
+- 
