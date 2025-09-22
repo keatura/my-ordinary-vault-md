@@ -65,7 +65,7 @@ Shoma is against:
 ## [[Nations]]
 
 ### [[Zevka]]
-##### [[Zevkan Capital,]]
+##### [[Zevkan Capital, Zhizni-Mayutsya]]
 
 ### [[The Asyrian Empire]]
 ##### [[The Asyrian Capital, Solata]]
