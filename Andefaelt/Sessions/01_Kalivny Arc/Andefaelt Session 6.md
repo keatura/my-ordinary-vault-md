@@ -32,7 +32,20 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 
 ##### Mizuki gains a familiar from Hemepha. 
 - As Mizuki begins her prayer, her vision fades, a force tugging her to *see*.
-- She is brought back to the 
+- She is brought back to the room of brush and trees she was in previously, now laid down on a mattress of vines, in the same spot along the wall with a blanket of leaves covering her body, with only her arms and upper body sticking out. Her voice feels slightly better but her body feels ill, aching, and like a thousand needles are pricking her skin. She feels like she is being restrained and cannot move.
+- enter private cutscene!!!! woooo
+	- Hemepha is tending to a small feather-winged creature outside, barely out of sight. It's a "friend that needs help."
+	- She either notices Mizuki waking up or Mizuki calls to her, she turns around silently glides over, seemingly hovering along the floor.
+	- Can answer questions to an extent, but if Mizuki asks for help then Hemepha retrieves this deer-like creature she was mending. "He is a newborn, yet to be named. I found him broken and dying and had to intervene. Perytons are fantastic creatures, My image is shaped after them."
+		- Perytons have their own language, and can speak
+		- They are extremely intelligent, even more so than many humans.
+		- Hemepha does go a little overboard yapping about her babies.
+		- Gods can change their form based on changes to their personality/responsibilities, Hemepha being fond of deer and growing deer horns, or Kadis adopting the "hands of fate" after that becoming the most popular depiction of Kadis.
+		- If she asks why she is restrained, or why she is in pain, Hemepha ensures her to not worry, and gently brushes her head allowing for a wave of calm and welcome numbness cloud over her body.
+		- Hemepha entrusts this Peryton to Mizuki, but cannot hand him over yet.
+		- "My beautiful child, you have... a Malady. I implore you to just hold on a while longer, I will work tirelessly to help all of my children."
+	- Prayer ends with Hemepha laying the Peryton on Mizuki's chest, before blacking out and shooting up on the ship covered in goosebumps and a *phantom pain....*, with this deer quietly napping near her.
+
 
 ## Important NPC's
 

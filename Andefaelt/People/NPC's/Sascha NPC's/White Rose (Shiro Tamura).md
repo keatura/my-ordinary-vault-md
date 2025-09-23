@@ -9,19 +9,19 @@ Medium Humanoid
 AC: 13 (Leather)
 HP: 10 (2d8)
 Speed: 25ft Fly: 50ft
-**STR: 10(0), DEX: 14(+2), CON: 10(0), INT: 12(+1), WIS: 12(+1), CHA: 10(0)**
+**STR: 16(+3), DEX: 18(+4), CON: 14(+2), INT: 17(+3), WIS: 10(0), CHA: 12(+1)**
 Saving Throws: [Dexterity] +4, [Intelligence] +3
-Skills: [Stealth] +6, [Perception] +3, [Acrobatics] +4
-Senses: Darkvision 60ft, Passive perception 13
-PB +2
+Skills: [Stealth] +10, [Perception] +6, [Acrobatics] +10, [Athletics] +6, [Insight] +3, [Investigation] +6
+Senses: Darkvision 60ft, Passive perception 16
+PB +3
 
-***Sneak Attack.*** When Red Rage has advantage on an attack against a target, his next attack deals an extra 4 (1d6) damage.
+***Sneak Attack.*** When Whiterose has advantage on an attack against a target, her next attack deals an extra 11 (3d6) damage.
 
 ***High-Elf Magic.*** Red Rage can cast the Minor Illusion cantrip at will. Intelligence is his casting modifier (Spell Save DC 13, +3 to hit with spell attacks.)
 
 ###### Actions.
 
-***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5ft. Hit: 4 (1d4 + 2) piercing damage.
+***.*** *Melee Weapon Attack:* +7 to hit, reach 5ft. Hit: 4 (1d4 + 2) piercing damage.
 
 ***Heavy Revolver.*** Reload (3) *Ranged Weapon Attack:* +4 to hit, reach (60/180)., Hit: 9 (2d6+2) piercing damage.
 
