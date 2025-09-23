@@ -31,7 +31,8 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 ### Other Scenes
 
 ##### Mizuki gains a familiar from Hemepha. 
-- 
+- As Mizuki begins her prayer, her vision fades, a force tugging her to *see*.
+- She is brought back to the 
 
 ## Important NPC's
 
