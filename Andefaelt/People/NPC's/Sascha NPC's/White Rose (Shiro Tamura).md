@@ -2,12 +2,12 @@
 - potential love interest
 	- if not, she has a wife named Pula Tamura who has red hair
 	- the joke is whiterose like RWBY like ruby like jhahahahahshfahshhas h (im going insane)
-- 
+- finesse longsword, very thin needle-like blade
 
 
 Medium Humanoid  
 AC: 13 (Leather)
-HP: 10 (2d8)
+HP: 45 (6d8)
 Speed: 25ft Fly: 50ft
 **STR: 16(+3), DEX: 18(+4), CON: 14(+2), INT: 17(+3), WIS: 10(0), CHA: 12(+1)**
 Saving Throws: [Dexterity] +4, [Intelligence] +3
@@ -21,10 +21,10 @@ PB +3
 
 ###### Actions.
 
-***.*** *Melee Weapon Attack:* +7 to hit, reach 5ft. Hit: 4 (1d4 + 2) piercing damage.
+***Longsword.*** *Melee Weapon Attack:* +7 to hit, reach 5ft. Hit: 9 (1d8 + 4) piercing damage when wielding the weapon with one hand. 10 (1d10 + 4) piercing damage when wielded two-handed.
 
-***Heavy Revolver.*** Reload (3) *Ranged Weapon Attack:* +4 to hit, reach (60/180)., Hit: 9 (2d6+2) piercing damage.
+***Dual Snub-Nose Revolvers.*** Reload (8) *Ranged Weapon Attack:* +7 to hit, reach (40/120)., Hit: 8 (1d8+4) piercing damage.
 
 ###### Bonus Actions.
 
-***Cunning Action.*** On each of his turns, Red Rage can use a bonus action to take the Dash, Disengage, Hide, or Use an Object action.
+***Cunning Action.*** On each of her turns, Whiterose can use a bonus action to take the Dash, Disengage, Hide, or Use an Object action.
