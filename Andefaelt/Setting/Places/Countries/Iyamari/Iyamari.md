@@ -8,7 +8,7 @@ The Iyamarian Revolution occurred in the late 1700's (1785-88 to be exact.) This
 
 After 2 years of conflict, the Zevkan Military withdrew, as they saw that protecting the old government was no longer worth it and would allow better relations with the newly formed country. So they completely pulled out of Iyamari and allowed the King to be executed on what is now called "Victory Day." Victory day is a national holiday in Iyamari, celebrating their new governmental system and progress into the future as the first country with democratically elected leaders.
 
-During and after the revolution, Iyamarians started destroyed the relics and history of the Iyamarian Monarchy
+During and after the revolution, Iyamarians started destroying the relics and history of the Iyamarian Monarchy. Due to several factors, most major cities in Iyamari were shelled to rubble 
 
 Cultural Universals 
 Finding Food:
