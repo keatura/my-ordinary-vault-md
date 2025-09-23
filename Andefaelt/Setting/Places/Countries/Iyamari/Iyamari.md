@@ -10,6 +10,14 @@ After 2 years of conflict, the Zevkan Military withdrew, as they saw that protec
 
 During and after the revolution, Iyamarians started destroying the relics and history of the Iyamarian Monarchy. Due to several factors, most major cities in Iyamari were shelled to rubble 
 
+> **so the minority group of people (Iyamarian peasants/revolutionaries) managed to gain the support of the working class (other peasants and workers) and even managing to branch into the cities, offering progressive ideals of democratic government and a constitution**
+> 
+> **after a series of protests and riots the revolution went hot, and turned into a full-blown war, where many nobles either capitulated their materials and agreed to aid the war effort or it was taken forcefully from them and they were executed. statues and paintings of families and history books about the royalty and other classic iyamarian culture were burned, removing the Matsukura bloodline from the books and crushing their monuments and castles.**
+> 
+> **after a while of a fairly back-and-forth between Zevkan battalions and fleets vs the revolutionaries stalemating, Zevka went and discussed terms with the revolutionaries to provide support and help them rebuild after the monarchy is crumbled, and the revolutionaries reluctantly agree.**
+> 
+> **The ruling class quickly was taken by the city-workers, because they were "more progressive" than their rural counterparts and instated themselves above them, especially those who managed to gain formal and higher education decided the new wave of culture in Iyamari. Taking some inspiration from the other modernizing nations and hiring fashion designers to "rebrand" the country as they rebuilt on Zevka's money** 
+
 Cultural Universals 
 Finding Food:
 Clothing: 
