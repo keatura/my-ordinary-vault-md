@@ -21,6 +21,10 @@ Zevka's territory encompasses all of the Highlands. This gives them quite a subs
 
 ### Cities
 
+- Zhizni-Mayutsya
+	- The capital of Zevka.
+	- 
+
 - Lenovo
 	- Where Mizuki met her sorcerer mentor, and where they were buried.
 	- Produces mainly 'Jack Cortexes
