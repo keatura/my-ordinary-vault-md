@@ -7,7 +7,7 @@ AC: 22 (Armor of the Archbishop)
 AC: 14 (Mage Armor)
 HP:  334 (30d10 + 150)
 Speed: 30ft
-**STR: 25(+7), DEX: 12(+1), CON: 20(+5), INT: 24(+7), WIS: 20(+5), CHA: 29(+9)**
+**STR: 20(+5), DEX: 12(+1), CON: 20(+5), INT: 24(+7), WIS: 20(+5), CHA: 29(+9)**
 Saves: Constitution +12 Intelligence +12, Wisdom +16
 Damage Resistances: Fire, Cold, Lightning, Thunder
 Damage Immunities: Bludgeoning, Slashing, and Piercing from nonmagical attacks, Radiant, Necrotic
