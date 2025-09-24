@@ -19,7 +19,7 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 
 ### Kalivny
 
-##### The Blade attacks!
+##### The Blade comes to.... negotiate?
 - Approaching the ship is The Blade!
 - He wants to leave the island, now that the goblins 
 
