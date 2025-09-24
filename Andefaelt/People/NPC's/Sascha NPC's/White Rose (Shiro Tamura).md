@@ -21,9 +21,9 @@ PB +3
 
 (at will) Minor Illusion, Ray of Frost, Blade Ward
 
-(3/day) Grease, Fog Cloud, 
+(3/day) Invisibility, Fog Cloud, Misty Step
 
-(1/day)
+(1/day) Mage Armor, 
 ###### Actions.
 
 ***Longsword.*** *Melee Weapon Attack:* +7 to hit, reach 5ft. Hit: 9 (1d8 + 4) piercing damage when wielding the weapon with one hand. 10 (1d10 + 4) piercing damage when wielded two-handed.
