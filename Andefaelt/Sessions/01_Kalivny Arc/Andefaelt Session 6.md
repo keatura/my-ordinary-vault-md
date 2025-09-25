@@ -25,17 +25,19 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 - Is willing to provide some help, but cannot deal with Asyria as he is their goal
 - If they go to kill him, he warns them:
 	- "If you want me, you have to kill the boy first."
+- If they ask where his power comes from:
+	- "It was a gift from a most powerful foe."
 - "Figure it out, I'll be back when you do."
 ##### The Asyrian take-over of Kalivny.
 - The town is being patrolled by Asyrian Soldiers
 - There on checkpoints on the roads out, just basic soldiers
 - They will attempt to kill Hearsay if they see her again, but only if they outnumber the group. They still value their lives.
 - While houses are no longer being actively searched, suspicious activity will result in another search
-- 
-### Place 2
-##### Scene
-- 
+- Everyone in town is on edge and wants the soldiers gone, people are going to be less helpful
 ### Other Scenes
+##### On the ship, other discussions
+- Bolt expects to be paid for his work, he cant just uproot his life for some people he just met, even if they are friends with Hearsay.
+- 15gp/month if they buy the parts he asks for, 
 ##### Mizuki gains a familiar from Hemepha. 
 - As Mizuki begins her prayer, her vision fades, a force tugging her to *see*.
 - She is brought back to the room of brush and trees she was in previously, now laid down on a mattress of vines, in the same spot along the wall with a blanket of leaves covering her body, with only her arms and upper body sticking out. Her voice feels slightly better but her body feels ill, aching, and like a thousand needles are pricking her skin. She feels like she is being restrained and cannot move.
