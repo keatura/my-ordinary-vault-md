@@ -28,13 +28,13 @@ Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell 
 
 (3/day): Command (3rd level), Vampiric Touch, Shield, Misty Step 
 
-(1/day): Major Illusion (4th level)
+(1/day): Project Image
 ### Actions
 **Multiattack.** Marckus makes two attacks with his Feyblood dagger. He can substitute one of his attacks to cast either *Booming Blade* or *Green-Flame Blade.* 
 
-**Feyblood Dagger** *Melee or Ranged Attack:* +8 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d6+5) piercing damage, plus 4 (1d8) acid damage, and 4 (1d6) radiant damage
+**Feyblood Dagger, "Armigera".** *Melee or Ranged Attack:* +8 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d6+5) piercing damage, plus 4 (1d8) acid damage, and 4 (1d6) radiant damage
 
-***Beam of Radiance.*** (1/day) The Blade channels it's energy into a focused beam. This manifests as a 60-foot cone as he sweeps it left and right for a few seconds. Creatures within this cone must make a Constitution Saving Throw, or take 3d6 radiant damage and 2d6 acid damage.
+***Beam of Radiance.*** (1/day) Cracking the confines of the dagger and releasing it's energy all at one, Armigera forces it's energy into a focused beam. This manifests as a 60-foot cone as he sweeps it left and right for a few seconds. Creatures within this cone must make a Constitution Saving Throw, or take 3d6 radiant damage and 3d6 acid damage and are blinded until the end of their next turn on a failed save, or half as much on a successful one. If this ability is used, Armigera loses the acid and radiant damage on their weapon, as it reforms in a dull gray, glass-like form. In the center of the blade there is a vial spanning the length of a golden liquid. 
 ### Bonus Actions
 
 **Cloaking.** Marckus can attempt to magically hide as a bonus action, even while not concealed. If it succeeds, he is Invisible to everyone who failed their Perception checks.

@@ -23,10 +23,14 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 - If they press him about who he is, the only answer he will give is his true name of "Armigera"
 	- "You *may* refer to me as ***Armigera***."
 - Is willing to provide some help, but cannot deal with Asyria as he is their goal
+- If they go to kill him, he warns them:
+	- "If you want me, you have to kill the boy first."
 - "Figure it out, I'll be back when you do."
 ##### The Asyrian take-over of Kalivny.
 - The town is being patrolled by Asyrian Soldiers
 - There on checkpoints on the roads out, just basic soldiers
+- They will attempt to kill Hearsay if they see her again, but only if they outnumber the group. They still value their lives.
+- While houses are no longer being actively searched, suspicious activity will result in another search
 - 
 ### Place 2
 ##### Scene
