@@ -20,7 +20,8 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 - Approaching the ship is The Blade!
 - He wants to leave the island, now that the goblins are extremely low in number.
 - Offers two options: they get him off the island, or they kill die.
-- If they press him about who he is, the only answer he will give is his title of "Armigera"
+- If they press him about who he is, the only answer he will give is his true name of "Armigera"
+	- "You *may* refer to me as ***Armigera***."
 - Is willing to provide some help, but cannot deal with Asyria as he is their goal
 - 
 ##### The Asyrian take-over of Kalivny.
