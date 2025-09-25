@@ -24,8 +24,11 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 - He wants to leave the island, now that the goblins are extremely low in number.
 - Offers two options: they get him off the island, or they kill die.
 - If they press him about who he is, the only answer he will give is his title of "Armigera"
-- Is willing to provide some help 
+- Is willing to provide some help, but cannot deal with Asyria as he is their goal
+- 
 ##### The Asyrian take-over of Kalivny.
+- The town is being patrolled by Asyrian Soldiers
+- There on checkpoints on the roads out, just basic soldiers
 - 
 
 ### Place 2
