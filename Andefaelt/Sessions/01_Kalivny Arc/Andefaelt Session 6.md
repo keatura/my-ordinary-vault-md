@@ -25,6 +25,7 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 - Offers two options: they get him off the island, or they kill him.
 - If they press him about who he is, the only answer he will give is his title of "Armigera"
 -  
+##### The Asyrian take-over of Kalivny.
 
 ### Place 2
 
