@@ -21,12 +21,12 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 
 ##### The Blade comes to.... negotiate?
 - Approaching the ship is The Blade!
-- He wants to leave the island, now that the goblins 
+- He wants to leave the island, now that the goblins are extremely low in number.
 
 ### Place 2
 
 ##### Scene
-
+- 
 
 ### Other Scenes
 
@@ -49,11 +49,14 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 
 ## Important NPC's
 
-
+[[Marckus Westmeister]]
+[[Bolt (the bestest rat)]]
+[[Red Rage]]
+[[Marek Callaway]]
 
 ## Relevant Creatures
 
-
+[[Enemies]]
 
 ## Notes
 - Example
