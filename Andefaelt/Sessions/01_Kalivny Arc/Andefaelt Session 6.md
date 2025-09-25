@@ -10,11 +10,8 @@
 
 #### Recap:
 Last Session, the party was tasked with making their way to the goblin camp to investigate. After absolutely grilling one of their accompanying members for not being fully truthful (and honestly a silly accent, too,) and encountering some goblins, they made it to their destination. Finding it completely destroyed by what seems to have been a gunfight and several fires, they investigate the crash-site of the Asyrian drop-ship, where Black Mamba and Hearsay find a suspicious lock-box with religious insignia. Promptly after, encounter a scouting party of Asyrian soldiers, they ambush them, resulting in the death of all eight. Unfortunately, this action led to a near-complete lockdown of the already blockaded island and a search of the city. Black Mamba surrendered himself to the Iyamarian government, but his imprisonment did not last long as the ship he was taken to was attacked and sank, Mamba escaping in the nick of time with a new seemingly friendly face, Saelyra, a high elf seemingly with ties to Asyria. Managing to just barely evade detection by Asyrian soldiers searching the city, Mizuki and Hearsay successfully escape with the help of Mamba back to this now-commandeered Iyamarian Frigate. It is late evening, Friday, August 29th
-
 ## Intro
-
 We resume this session with Hearsay face-to-face with an Asyrian inquisitor on the ship.
-
 ## Potential Scenes
 
 ### Kalivny
@@ -30,14 +27,10 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 - The town is being patrolled by Asyrian Soldiers
 - There on checkpoints on the roads out, just basic soldiers
 - 
-
 ### Place 2
-
 ##### Scene
 - 
-
 ### Other Scenes
-
 ##### Mizuki gains a familiar from Hemepha. 
 - As Mizuki begins her prayer, her vision fades, a force tugging her to *see*.
 - She is brought back to the room of brush and trees she was in previously, now laid down on a mattress of vines, in the same spot along the wall with a blanket of leaves covering her body, with only her arms and upper body sticking out. Her voice feels slightly better but her body feels ill, aching, and like a thousand needles are pricking her skin. She feels like she is being restrained and cannot move.
@@ -53,18 +46,12 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 		- Hemepha entrusts this Peryton to Mizuki, but cannot hand him over yet.
 		- "My beautiful child, you have... a Malady. I implore you to just hold on a while longer, I will work tirelessly to help all of my children."
 	- Prayer ends with Hemepha laying the Peryton on Mizuki's chest, before blacking out and shooting up on the ship covered in goosebumps and a *phantom pain....*, with this deer quietly napping near her.
-
-
 ## Important NPC's
-
 [[Marckus Westmeister]]
 [[Bolt (the bestest rat)]]
 [[Red Rage]]
 [[Marek Callaway]]
-
 ## Relevant Creatures
-
 [[Enemies]]
-
 ## Notes
 - Example
