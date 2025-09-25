@@ -22,7 +22,8 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 ##### The Blade comes to.... negotiate?
 - Approaching the ship is The Blade!
 - He wants to leave the island, now that the goblins are extremely low in number.
-- 
+- Offers two options: they get him off the island, or they kill him.
+- The 
 
 ### Place 2
 

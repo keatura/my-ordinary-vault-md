@@ -3,7 +3,7 @@ This mini-campaign takes place on a small island in southern Zevka, close to the
 - alex's character is introduced in a 2 part encounter, first he attacks the party after 1 or 2 traps and then in the middle of that they are attacked by cultists, where he helps the party.
 	- nah he is in prison now
 	- now hes getting told to work with the party
-- **[[Feyblood Dagger]]**
+- **[[Feyblood Dagger - Armiger.]]**
 
 # [[Kalivny]]
 
@@ -27,7 +27,7 @@ His name is **[[Marckus Westmeister]]**, a teenager from Helena that was explori
 
 In the beginning, the group is sent to look for a lost kid - Marckus. His mother bursts into the Mammoths Arm Inn, begging for someone to find her child, as he was captured by goblins. She had already tried to find someone in Helena but no one could, and she hurried over the Kalivny as fast as she could. She notes that Helena was aware of a goblin camp somewhere close to the outskirts of the woods.
 
-The goblins have recently uncovered the [[Feyblood Dagger]], and it has been manipulating them to bring them a human for it to bond to. The dagger is very egotistical and wants to conquer the island just for it's own sense of status. 
+The goblins have recently uncovered the [[Feyblood Dagger - Armiger.]], and it has been manipulating them to bring them a human for it to bond to. The dagger is very egotistical and wants to conquer the island just for it's own sense of status. 
 
 ##### Sessions
 [[Andefaelt Session 1]] (level 1)
