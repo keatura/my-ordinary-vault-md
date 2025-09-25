@@ -19,7 +19,7 @@ If you shunt it to it's pocket dimension, it's influence becomes lesser, only be
 
 - This weapon's damage die is a d8 instead of a d4.
 
-- Instead of the normal ranged attack you make with this weapons Thrown property, you point the dagger at a creature within 60 feet of you, summoning a spectral version of the weapon from somewhere near you. Make a Ranged Weapon Attack against the target, dealing 1d6 plus your dexterity on a hit.
+- Instead of the normal ranged attack you make with this weapons Thrown property, you point the dagger at a creature within 60 feet of you, summoning a spectral version of the weapon from somewhere near you. Make a Ranged Weapon Attack against the target, dealing the same damage as a melee attack.
 
 *If you listen to the weapon and give partial control of yourself to it, you gain the following features:*
 
