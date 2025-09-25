@@ -24,7 +24,7 @@ PB +3
 **Innate Spellcasting.**
 Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). Marckus has the following Warlock spells prepared:
 
-(at will): Booming Blade (range 60ft), Green-Flame Blade (range 60ft), Minor Illusion.
+(at will): Booming Blade (range 60ft), Green-Flame Blade (range 60ft), Minor Illusion, Thaumaturgy.
 
 (3/day): Command (3rd level), Vampiric Touch, Shield, Misty Step 
 
@@ -34,7 +34,7 @@ Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell 
 
 **Feyblood Dagger** *Melee or Ranged Attack:* +8 to hit, reach 5ft. or range 60 feet. one creature. *Hit:* 9 (1d6+5) piercing damage, plus 4 (1d8) acid damage, and 4 (1d6) radiant damage
 
-***Beam of Radiance.*** (1/day) The Blade channels it's energy into a focused beam. This 
+***Beam of Radiance.*** (1/day) The Blade channels it's energy into a focused beam. This manifests as a 60-foot cone as he sweeps it left and right for a few seconds. Creatures within this cone must make a Constitution Saving Throw, or take 3d6 radiant damage and 2d6 acid damage.
 ### Bonus Actions
 
 **Cloaking.** Marckus can attempt to magically hide as a bonus action, even while not concealed. If it succeeds, he is Invisible to everyone who failed their Perception checks.
