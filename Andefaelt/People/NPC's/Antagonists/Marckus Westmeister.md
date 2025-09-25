@@ -39,6 +39,7 @@ Marckus is a 5th-level spellcaster. His spellcasting ability is Charisma (spell 
 
 **Cloaking.** Marckus can attempt to magically hide as a bonus action, even while not concealed. If it succeeds, he is Invisible to everyone who failed their Perception checks.
 
+
 ### Legendary Actions
 Marckus has two Legendary Actions.
 
