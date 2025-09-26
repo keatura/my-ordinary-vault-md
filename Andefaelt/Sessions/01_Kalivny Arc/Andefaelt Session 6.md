@@ -37,7 +37,7 @@ We resume this session with Hearsay face-to-face with an Asyrian inquisitor on t
 ### Other Scenes
 ##### On the ship, other discussions
 - Bolt expects to be paid for his work, he cant just uproot his life for some people he just met, even if they are friends with Hearsay.
-- 15gp/month if they buy the parts he asks for, 
+- 30gp/month if they buy the parts he asks for, 
 ##### Mizuki gains a familiar from Hemepha. 
 - As Mizuki begins her prayer, her vision fades, a force tugging her to *see*.
 - She is brought back to the room of brush and trees she was in previously, now laid down on a mattress of vines, in the same spot along the wall with a blanket of leaves covering her body, with only her arms and upper body sticking out. Her voice feels slightly better but her body feels ill, aching, and like a thousand needles are pricking her skin. She feels like she is being restrained and cannot move.
